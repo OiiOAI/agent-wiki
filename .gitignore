@@ -18,3 +18,6 @@ __pycache__/
 wiki/.search_index.json
 wiki/.embeddings/
 wiki/.cache/
+
+# 大体积原始资料（~2.0G，跨机同步靠外部手段；manifest 仍是台账）
+raw/books/

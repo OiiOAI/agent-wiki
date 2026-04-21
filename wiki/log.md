@@ -58,6 +58,39 @@ This file is the append-only operational history of the wiki.
   - 原文规模阈值 "~100 sources, ~hundreds of pages 下 index 够用" 缺乏实测，待后续实践或其他文献交叉验证。
   - [[LLM Wiki]] 页 `related.broader` 和 `.narrower` 暂空 —— 需要更多源才能定位其在知识图谱中的位置。
 
+## [2026-04-21 16:20] migrate | Anti-OS books → raw/books/
+
+- Trigger: 用户指定把旧 Anti-OS 知识库（`/Users/moondy/Desktop/Anti-OS`，2.2G、9069 文件）的**原始资料**复制进新框架；旧库保持原位不动；拒绝迁移旧 wiki/schema/scripts（避免旧 SOP 污染新框架）。
+- Sources:
+  - `/Users/moondy/Desktop/Anti-OS/raw/` —— 仅 `*.pdf` + `*.epub`
+- Files created:
+  - `raw/books/neuroscience/` — 43 files
+  - `raw/books/philosophy/` — 42 files
+  - `raw/books/strategy/` — 28 files
+  - `raw/books/psychology/` — 26 files
+  - `raw/books/productivity/` — 16 files
+  - `raw/books/economics/` — 16 files
+  - `raw/books/sociology/` — 11 files
+  - `raw/books/business/` — 9 files
+  - `raw/books/health/` — 5 files
+  - 合计 **196 unique** PDF/EPUB（源 202 份，6 份跨目录重复，按 basename 去重）
+- Files modified:
+  - `raw/inbox/_manifest.md` —— 追加 `books/` 批次台账
+  - `.gitignore` —— 屏蔽 `raw/books/`（2.0G，不进 git）
+- Files deprecated:
+  - 本日早些时候（14:40 之后）由旧迁移方案产生的 `raw/archive/anti-os-2026-04-21/`（2.1G rsync 快照）已删除；该方案被用户在执行中驳回，理由："归档+legacy 视图+按需 re-ingest 会让知识库很乱"。
+- Notes:
+  - **分类原则**：浅平 9 学科分类，非 Anti-OS 原目录（旧目录是"Kernel/Network/Environment/Energy"+ 自由能原理语义，不适配新框架；新分类按**书的学科属性**）。
+  - **严格排除清单**：`.env` / `.obsidian/` / `.DS_Store` / `tmp/` / `__pycache__/` / 旧 wiki/ / 旧 schema/ / 旧 scripts/ / 旧 tasks/ / 旧 docs/ —— 只要原始资料，拒绝继承旧加工层。
+  - **敏感扫描**：旧库 `.env` 含真 `ANTHROPIC_API_KEY`，已严格排除；`grep ANTHROPIC_API_KEY raw/books/` 应为空（PDF/EPUB 中不会出现）。
+  - **raw/books/ 不入 git**：体积 2.0G，git 处理会显著变慢；`.gitignore` 屏蔽，跨机同步靠外部手段。manifest 仍作台账。
+  - **复制 ≠ ingest**：本条目是"把原始资料搬进 raw/"，不等于"已进入 wiki"。任何书要进 wiki 必须按 `schema/prompts/ingest.md` 走常规流程，生成 `wiki/sources/<Book Name>.md` + 相应 `wiki/concepts/` 或 `wiki/entities/` 页，严格行/页锚溯源。
+  - 审批门：本批动作单次文件数 >10（实际 196 份），但全部为同一类型（复制原始资料到 raw/），按批次视为一次原子操作；本 log 条目即为事后记录。
+- Outstanding issues:
+  - 未逐文件算 SHA-256；P1/P3 阶段若需"源版本追踪"可跑 `scripts/gen/raw_hash.py`（待建）。
+  - `raw/books/` 里的 196 份中有多少值得建 `wiki/sources/` 页、从哪几本开始 re-ingest？待用户指示。建议优先级：neuroscience（Friston/Kandel/Damasio 主轴）+ strategy（Rumelt/Boyd）。
+  - 分类边界模糊项（后续若发现引用不便可再搬）：Kahneman《Thinking, Fast and Slow》放 strategy（决策侧重）而非 psychology；Haidt《Righteous Mind》放 philosophy 而非 psychology；Sapolsky《Behave》放 psychology 而非 neuroscience；Deep Work 放 productivity 而非 strategy。以实际查询路径反馈调整。
+
 ## Log entry template
 
 ```text
