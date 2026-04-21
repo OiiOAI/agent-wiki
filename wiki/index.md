@@ -5,12 +5,12 @@ This file is the master catalog of the wiki. Read this file first before routing
 ## Entities
 
 <!-- Add one line per entity page -->
-- _None yet._
+- [[Andrej Karpathy]] — [[LLM Wiki]] 模式的提出者；本项目思想源头。
 
 ## Concepts
 
 <!-- Add one line per concept page -->
-- _None yet._
+- [[LLM Wiki]] — LLM agent 主动、增量维护的持久化互联 Markdown 知识库模式；本项目核心范式。
 
 ## Topics
 
@@ -20,7 +20,7 @@ This file is the master catalog of the wiki. Read this file first before routing
 ## Sources
 
 <!-- Add one line per source summary page -->
-- _None yet._
+- [[LLM Wiki (Karpathy gist)]] — Karpathy 的 LLM Wiki idea file；本项目的种子源。
 
 ## Analyses
 
