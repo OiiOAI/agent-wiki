@@ -1,0 +1,20 @@
+.DS_Store
+Thumbs.db
+
+# Editor scratch files
+*.swp
+*.swo
+*~
+
+# Python (scripts/)
+__pycache__/
+*.pyc
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Wiki 加速层产物（均可重建）
+wiki/.search_index.json
+wiki/.embeddings/
+wiki/.cache/
