@@ -3729,3 +3729,21 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/survival-circuits.md`
 - Files deprecated: None.
 - Notes: 34 new + 15 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | wamsley-stickgold-sleep-medicine-clinics-2011
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/wamsley__stickgold_sleep_medicine_clinics_2011.pdf
+- Files created:
+  - `wiki/entities/erin-j-wamsley.md`
+  - `wiki/concepts/dream-lag-effect.md`
+  - `wiki/concepts/hall-content-analysis.md`
+  - `wiki/concepts/hippocampal-sharp-wave-ripples.md`
+  - `wiki/concepts/incorporation-recent-experience-dreaming.md`
+  - `wiki/concepts/neural-memory-reactivation.md`
+  - `wiki/concepts/sleep-spindles-memory.md`
+  - `wiki/sources/wamsley-stickgold-sleep-memory-dreaming-2011.md`
+- Files merged (extended):
+  - `wiki/entities/robert-stickgold.md`
+  - `wiki/concepts/sleep-dependent-memory-consolidation.md`
+- Files deprecated: None.
+- Notes: 8 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
