@@ -6436,3 +6436,45 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/digital-minimalism-in-everyday-life.md`
 - Files deprecated: None.
 - Notes: 19 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | essentialism-the-disciplined-pursuit-of-l-mckeown-greg
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf
+- Files created:
+  - `wiki/entities/bill-gates.md`
+  - `wiki/entities/clayton-christensen.md`
+  - `wiki/entities/daniel-kahneman.md`
+  - `wiki/entities/dieter-rams.md`
+  - `wiki/entities/greg-mckeown.md`
+  - `wiki/entities/herb-kelleher.md`
+  - `wiki/entities/jim-collins.md`
+  - `wiki/entities/michael-phelps.md`
+  - `wiki/entities/mihaly-csikszentmihalyi.md`
+  - `wiki/entities/paul-rand.md`
+  - `wiki/entities/peter-drucker.md`
+  - `wiki/entities/richard-koch.md`
+  - `wiki/entities/rosa-parks.md`
+  - `wiki/entities/steve-jobs.md`
+  - `wiki/concepts/90-percent-rule.md`
+  - `wiki/concepts/buffer.md`
+  - `wiki/concepts/escape.md`
+  - `wiki/concepts/essential-intent.md`
+  - `wiki/concepts/graceful-no.md`
+  - `wiki/concepts/kairos.md`
+  - `wiki/concepts/learned-helplessness.md`
+  - `wiki/concepts/minimal-viable-progress.md`
+  - `wiki/concepts/nonessentialism.md`
+  - `wiki/concepts/pareto-principle.md`
+  - `wiki/concepts/play.md`
+  - `wiki/concepts/reverse-pilot.md`
+  - `wiki/concepts/routine.md`
+  - `wiki/concepts/sunk-cost-bias.md`
+  - `wiki/concepts/trade-offs.md`
+  - `wiki/topics/nonessentialist-trap.md`
+  - `wiki/sources/essentialism-the-disciplined-pursuit-of-less.md`
+- Files merged (extended):
+  - `wiki/entities/warren-buffett.md`
+  - `wiki/concepts/essentialism.md`
+  - `wiki/concepts/sleep.md`
+- Files deprecated: None.
+- Notes: 31 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

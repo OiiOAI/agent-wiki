@@ -4,15 +4,19 @@ title: Sleep
 type: concept
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/health/Outlive.pdf#p1-552]'
+- '[raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p1-248]'
 confidence: high
 tags:
 - longevity
 - cognitive health
 - metabolic health
 - cardiovascular health
+- health
+- productivity
+- cognitive-function
 related:
   broader:
   - healthspan pillars
@@ -24,8 +28,8 @@ related:
   adjacent:
   - circadian rhythm
   - melatonin
+aliases: []
 ---
-
 
 # Sleep
 
@@ -45,6 +49,11 @@ Sleep is a non-negotiable biological necessity that plays critical roles in meta
 - People who sleep less than 7 hours per night over decades have more amyloid-beta and tau buildup in their brains than those who sleep 7+ hours. [raw/books/health/Outlive.pdf#p370]
 - Treating sleep disturbance may delay the age of onset into mild cognitive impairment by about 11 years. [raw/books/health/Outlive.pdf#p370]
 - Poor sleep suppresses leptin (satiety hormone) while increasing ghrelin (hunger hormone), leading to approximately 300 extra calories consumed the following day. [raw/books/health/Outlive.pdf#p365]
+- Our highest priority is to protect our ability to prioritize. [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p96]
+- Sleep will enhance ability to explore, make connections, and do less but better throughout waking hours. [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p96]
+- Pulling an all-nighter induces an impairment equivalent to a blood alcohol level of 0.1%. [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p92]
+- A study showed that twice the number of people who slept for eight hours solved a problem compared to the sleep-deprived group. [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p93]
+- Jeff Bezos says: 'I'm more alert and I think more clearly. I just feel so much better all day long if I've had eight hours.'. [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p94]
 
 ## Inferences
 
@@ -62,11 +71,15 @@ Sleep is a non-negotiable biological necessity that plays critical roles in meta
 - Concepts: [[insulin resistance]]
 - Concepts: [[amyloid-beta]]
 - Concepts: [[tau protein]]
+- Concepts: [[explore]]
+- Concepts: [[protect-the-asset]]
 
 ## Provenance
 
 - Primary source: [raw/books/health/Outlive.pdf#p1-552]
+- Additional source: [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p1-248]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `essentialism-the-disciplined-pursuit-of-l-mckeown-greg`.
