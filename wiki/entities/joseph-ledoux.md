@@ -4,13 +4,15 @@ title: Joseph LeDoux
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
+- '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 canonical: Joseph LeDoux
 confidence: high
 aliases:
 - Joe LeDoux
+- LeDoux
 tags:
 - neuroscientist
 - fear researcher
@@ -23,13 +25,15 @@ related:
   - fear
   - anxiety
   - emotional brain
+  - learned-fear
+  - fear-conditioning
   topics:
   - emotion neuroscience
   entities:
   - Emotional Brain Institute
   - Nathan Kline Institute
+  - michael-davis
 ---
-
 
 # Joseph LeDoux
 
@@ -49,6 +53,8 @@ Joseph LeDoux is a neuroscientist specializing in the neurobiology of fear and a
 - He joined NYU's faculty of Arts and Sciences in 1989. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p14]
 - He has been continuously funded by the National Institute of Mental Health since 1986. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p14]
 - In 1997 he was appointed director of the Emotional Brain Institute through collaboration between NYU and New York State. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p14]
+- Joseph LeDoux and Michael Davis found that in rodents, both innate and learned fear recruit a neural circuit focused on the amygdala, and they delineated how information from conditioned and unconditioned stimuli reaches the amygdala. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p352]
+- LeDoux showed that the amygdala receives information about the conditioned stimulus through both a direct pathway bypassing the cortex and an indirect pathway through the auditory cortex. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p353]
 
 ## Inferences
 
@@ -73,14 +79,19 @@ Joseph LeDoux is a neuroscientist specializing in the neurobiology of fear and a
 - Concepts: [[fear]]
 - Concepts: [[anxiety]]
 - Concepts: [[emotional brain]]
+- Concepts: [[learned-fear]]
+- Concepts: [[fear-conditioning]]
 - Topics: [[emotion neuroscience]]
 - Entities: [[Emotional Brain Institute]]
 - Entities: [[Nathan Kline Institute]]
+- Entities: [[michael-davis]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
+- Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.

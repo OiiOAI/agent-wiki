@@ -12,6 +12,7 @@ sources:
   - Antonio R_ Damasio,pdf.pdf#p1-332]'
 - '[raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_
   Mitchell.pdf#p1-354]'
+- '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 canonical: William James
 confidence: high
 aliases:
@@ -40,6 +41,8 @@ related:
   - free-will
   - agency
   - decision-making
+  - involuntary-attention
+  - voluntary-attention
   topics:
   - psychology
 ---
@@ -62,6 +65,9 @@ William James (1842–1910) was the founding father of American psychology. His 
 - James stated: 'Our thoughts come to us freely. Our actions go from us willfully.'. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p206]
 - James noted a parallel between his model and Darwin's natural selection, where random variations are generated but selection determines outcomes. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p207]
 - Physicist Robert Doyle highlighted James as 'the first thinker to enunciate clearly a two-stage decision process, with chance in a present time of random alternatives, leading to a choice which selects one alternative'. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p210]
+- William James noted in 1890: 'Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness, are of its essence. It implies withdrawal from some things in order to deal effectively with others.'. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p322]
+- James argued that voluntary attention is obviously a conscious process in people and therefore likely to be initiated in the cerebral cortex. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p323]
+- James proposed two types of attention: involuntary (supported by automatic neural processes, particularly evident in implicit memory) and voluntary (a specific feature of explicit memory arising from internal needs). [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p323]
 
 ## Inferences
 
@@ -80,6 +86,8 @@ William James (1842–1910) was the founding father of American psychology. His 
 - Concepts: [[free-will]]
 - Concepts: [[agency]]
 - Concepts: [[decision-making]]
+- Concepts: [[involuntary-attention]]
+- Concepts: [[voluntary-attention]]
 - Topics: [[psychology]]
 
 ## Provenance
@@ -87,9 +95,11 @@ William James (1842–1910) was the founding father of American psychology. His 
 - Primary source: [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p1-411]
 - Additional source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain - Antonio R_ Damasio,pdf.pdf#p1-332]
 - Additional source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
+- Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `descartes-error-emotion-reason-and-the-human-brain-antonio-r`.
 - 2026-04-25 — merged contributions from `free-agents-how-evolution-gave-us-free-will-kevin-j-mitchell`.
+- 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.

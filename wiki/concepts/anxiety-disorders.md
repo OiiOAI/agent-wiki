@@ -9,6 +9,7 @@ sources:
 - '[raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John
   J_ Ratey; Eric Hagerman.pdf#p1-228]'
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
+- '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 confidence: high
 tags:
 - anxiety
@@ -61,6 +62,10 @@ Psychological conditions characterized by excessive, irrational fear and worry t
 - Anxiolytic drug effects in animals are typically tested after single doses, but many psychiatric drugs require weeks of treatment before therapeutic effects emerge. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p340]
 - Most animal anxiety studies use male subjects despite women being more likely to develop anxiety disorders. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p340]
 - Peter Lang's three-response model (language behavior, behavioral acts, physiological reactions) attempted to objectively measure anxiety but marginalized the subjective phenomenology. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p329]
+- Anxiety states are by far the most common mental illnesses: at some point in their lives, 10 to 30 percent of people in the general population suffer from these anxiety disorders. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p349]
+- Normal anxiety exists in two major forms: instinctive anxiety (built into the organism and under more rigid genetic control) and learned anxiety (to which an organism may be genetically predisposed but which is basically acquired through experience). [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p349]
+- Instinctive anxiety is pathological when it is excessive and persistent enough to paralyze action; learned anxiety is pathological when it is provoked by events that present no real threat. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p349]
+- Both instinctive and learned fear are conserved throughout the animal kingdom because any capability enhancing survival tends to be conserved through evolution. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p349]
 
 ## Inferences
 
@@ -93,17 +98,24 @@ Psychological conditions characterized by excessive, irrational fear and worry t
 - Concepts: [[benzodiazepines]]
 - Concepts: [[ssris]]
 - Concepts: [[emotion-regulation]]
+- Concepts: [[fear]]
+- Concepts: [[learned-fear]]
+- Concepts: [[post-traumatic-stress]]
+- Concepts: [[phobias]]
 - Topics: [[mental health]]
 - Topics: [[psychiatry]]
 - Topics: [[emotional-consciousness]]
 - Topics: [[threat-processing]]
+- Topics: [[mental-illness]]
 
 ## Provenance
 
 - Primary source: [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p1-228]
 - Additional source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
+- Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `anxious-joseph-ledoux`.
+- 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.

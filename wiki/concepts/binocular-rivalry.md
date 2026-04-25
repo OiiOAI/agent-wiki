@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
 - '[raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas
   Dehaene.pdf#p1-411]'
+- '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 confidence: high
 tags:
 - perception
@@ -16,6 +17,9 @@ tags:
 - consciousness
 - method
 - illusion
+- consciousness-research
+- visual-perception
+- experimental-psychology
 related:
   broader:
   - consciousness-research-methods
@@ -46,6 +50,9 @@ Binocular rivalry is a phenomenon where different images shown to each eye cause
 - The phenomenon is used to study conscious visual perception in humans and monkeys. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p244-247]
 - Neuronal activity in inferior temporal cortex reflects conscious perception during rivalry. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p28-31]
 - Logothetis and colleagues used binocular rivalry to study the neural basis of consciousness in monkeys. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p28]
+- In binocular rivalry, two different images are presented so each eye sees only one; people most commonly see first one image, then the next, with horizontal and vertical stripes alternating back and forth spontaneously. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p393]
+- Eric Lumer and colleagues at University College London identified frontal and parietal cortical areas as the regions that become active when conscious attention switches from one image to another in binocular rivalry. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p394]
+- People with damage to the prefrontal cortex have difficulty switching from one image to the other in situations of binocular rivalry. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p394]
 
 ## Inferences
 
@@ -69,13 +76,16 @@ Binocular rivalry is a phenomenon where different images shown to each eye cause
 - Concepts: [[inattentional-blindness]]
 - Entities: [[Logothetis Nikos]]
 - Entities: [[Leopold David]]
+- Entities: [[claustrum]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
 - Additional source: [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p1-411]
+- Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `consciousness-and-the-brain-deciphering-h-stanislas-dehaene`.
+- 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.

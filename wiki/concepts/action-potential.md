@@ -12,16 +12,21 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos
   Llinás.pdf#p1-305]'
+- '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 confidence: high
 related:
   broader:
   - neurophysiology
   - synaptic-transmission
+  - neuronal signaling
   narrower:
   - sodium-channels
   - potassium-channels
   - depolarization
   - repolarization
+  - ionic hypothesis
+  - voltage-gated channels
+  - refractory period
 tags:
 - electrophysiology
 - neuronal-signaling
@@ -50,6 +55,11 @@ The action potential is the fundamental, universal electrical language of the ne
 - The action potential is all-or-none, generated when membrane depolarization reaches threshold at approximately -55 mV, resulting from a chain reaction of voltage-dependent channel opening. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p91]
 - Action potentials are approximately 100 mV in amplitude and last about one-thousandth of a second, traveling down the axon in a self-regenerating fashion. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p91]
 - When an action potential reaches axon terminals, it causes neurotransmitter release via voltage-dependent mechanisms, initiating synaptic transmission. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p92]
+- An action potential lasts about 1/1000 of a second and has two components: a swift upstroke to peak (+40mV) followed by an equally rapid downstroke returning to resting potential (-70mV). [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p90]
+- The all-or-none property means the signal is always the same amplitude once threshold is reached—it never varies in size. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p90]
+- Adrian discovered that intensity of stimulus is encoded by the frequency of action potentials, not by their size. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p91]
+- The action potential propagates without failure because the current generated is substantially greater than needed to excite the neighboring region of axon. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p96]
+- Helmholtz found in 1859 that nerve conduction occurs at speeds up to 90 feet per second—much slower than light but active rather than passive propagation. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p88]
 
 ## Inferences
 
@@ -59,10 +69,14 @@ The action potential is the fundamental, universal electrical language of the ne
 
 - Broader: [[neurophysiology]]
 - Broader: [[synaptic-transmission]]
+- Broader: [[neuronal signaling]]
 - Narrower: [[sodium-channels]]
 - Narrower: [[potassium-channels]]
 - Narrower: [[depolarization]]
 - Narrower: [[repolarization]]
+- Narrower: [[ionic hypothesis]]
+- Narrower: [[voltage-gated channels]]
+- Narrower: [[refractory period]]
 - Concepts: [[synaptic-transmission]]
 - Concepts: [[frequency-modulation]]
 - Concepts: [[neuronal-firing]]
@@ -76,15 +90,20 @@ The action potential is the fundamental, universal electrical language of the ne
 - Topics: [[cellular-neuroscience]]
 - Entities: [[voltage-gated-sodium-channel]]
 - Entities: [[voltage-gated-potassium-channel]]
+- Entities: [[alan-hodgkin-and-andrew-huxley]]
+- Entities: [[edgar-douglas-adrian]]
+- Entities: [[bernstein]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p1-305]
+- Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
 - 2026-04-25 — merged contributions from `i-of-the-vortex-from-neurons-to-self-rodolfo-riascos-llina-s`.
+- 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.

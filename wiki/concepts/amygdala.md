@@ -4,9 +4,10 @@ title: Amygdala
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
+- '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 confidence: high
 tags:
 - amygdala
@@ -35,8 +36,8 @@ related:
   - hippocampus
   - prefrontal-cortex
   - periaqueductal-gray
+aliases: []
 ---
-
 
 # Amygdala
 
@@ -56,6 +57,10 @@ The amygdala is traditionally described as the seat of fear in the brain and a k
 - Damage to the human amygdala prevents Pavlovian threat conditioning from occurring. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p148]
 - The amygdala can be thought of as the 'accelerator' of defensive reactions, while the ventromedial prefrontal cortex acts as the 'brake'. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p147]
 - Hebbian learning mechanisms underlie threat conditioning when weak and strong stimuli converge onto the same LA neurons. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p143]
+- The amygdala is central to both the unconscious and conscious components of emotion, coordinating the conscious experience of feeling and the bodily expression of emotion, particularly fear. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p351]
+- Damage to the amygdala disrupts the ability of an emotionally charged stimulus to elicit an emotional response; damage to the hippocampus interferes with the ability to remember the context in which the stimulus occurred. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p351]
+- The lateral nucleus of the amygdala mobilizes adaptive responses through connections with the hypothalamus (for fight-or-flight response) and the cingulate cortex (for conscious fear evaluation). [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p354]
+- The neural systems that store unconscious emotionally charged memories are different from those that generate conscious feeling states. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p351]
 
 ## Inferences
 
@@ -100,11 +105,17 @@ The amygdala is traditionally described as the seat of fear in the brain and a k
 - Concepts: [[hebbian-learning]]
 - Concepts: [[threat-processing]]
 - Concepts: [[defensive-behavior]]
+- Concepts: [[emotion]]
+- Concepts: [[hippocampus]]
+- Concepts: [[learned-fear]]
+- Concepts: [[hypothalamus]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
+- Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.

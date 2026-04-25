@@ -1712,3 +1712,115 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/qualia.md`
 - Files deprecated: None.
 - Notes: 38 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf
+- Files created:
+  - `wiki/entities/alan-hodgkin-and-andrew-huxley.md`
+  - `wiki/entities/alden-spencer.md`
+  - `wiki/entities/alfred-nobel.md`
+  - `wiki/entities/amit-etkin.md`
+  - `wiki/entities/arvid-carlsson.md`
+  - `wiki/entities/bernard-katz.md`
+  - `wiki/entities/center-for-neurobiology-and-behavior-columbia.md`
+  - `wiki/entities/charles-scott-sherrington.md`
+  - `wiki/entities/claustrum.md`
+  - `wiki/entities/craig-bailey.md`
+  - `wiki/entities/david-hubel.md`
+  - `wiki/entities/division-of-neurobiology-and-behavior-nyu.md`
+  - `wiki/entities/edgar-douglas-adrian.md`
+  - `wiki/entities/eric-r-kandel.md`
+  - `wiki/entities/francis-crick.md`
+  - `wiki/entities/genentech.md`
+  - `wiki/entities/h-m.md`
+  - `wiki/entities/harry-grundfest.md`
+  - `wiki/entities/howard-hughes-medical-institute-columbia.md`
+  - `wiki/entities/irving-kupfermann.md`
+  - `wiki/entities/james-h-schwartz.md`
+  - `wiki/entities/john-eccles.md`
+  - `wiki/entities/john-okeefe.md`
+  - `wiki/entities/kandel-nobel-prize.md`
+  - `wiki/entities/kausik-si.md`
+  - `wiki/entities/kelsey-martin.md`
+  - `wiki/entities/libet-readiness-potential.md`
+  - `wiki/entities/memory-pharmaceuticals.md`
+  - `wiki/entities/otto-loewi.md`
+  - `wiki/entities/richard-axel.md`
+  - `wiki/entities/roger-nicoll.md`
+  - `wiki/entities/stephen-kuffler.md`
+  - `wiki/entities/susumu-tonegawa.md`
+  - `wiki/entities/terje-lomo.md`
+  - `wiki/entities/tim-bliss.md`
+  - `wiki/entities/tom-carew.md`
+  - `wiki/entities/wade-marshall.md`
+  - `wiki/concepts/1967-review-cellular-neurophysiological-learning.md`
+  - `wiki/concepts/classical-conditioning-aplysia.md`
+  - `wiki/concepts/cognitive-map.md`
+  - `wiki/concepts/creb-memory-genes.md`
+  - `wiki/concepts/creb-protein-memory-switch.md`
+  - `wiki/concepts/cyclic-amp-short-term-memory.md`
+  - `wiki/concepts/depression.md`
+  - `wiki/concepts/dopamine-signaling-memory.md`
+  - `wiki/concepts/ebbinghaus-forgetting-curve.md`
+  - `wiki/concepts/empiricism-rationalism-neuroscience.md`
+  - `wiki/concepts/explicit-memory.md`
+  - `wiki/concepts/five-principles-of-the-new-science-of-mind.md`
+  - `wiki/concepts/gene-regulation-memory.md`
+  - `wiki/concepts/gill-withdrawal-reflex-aplysia.md`
+  - `wiki/concepts/habituation-learning.md`
+  - `wiki/concepts/homosynaptic-heterosynaptic-plasticity.md`
+  - `wiki/concepts/implicit-memory.md`
+  - `wiki/concepts/ionic-hypothesis.md`
+  - `wiki/concepts/learned-fear.md`
+  - `wiki/concepts/local-protein-synthesis.md`
+  - `wiki/concepts/long-term-memory.md`
+  - `wiki/concepts/map-kinase-memory.md`
+  - `wiki/concepts/memory-consolidation.md`
+  - `wiki/concepts/neural-analogs-of-learning.md`
+  - `wiki/concepts/neural-correlate-of-consciousness.md`
+  - `wiki/concepts/nmda-receptor.md`
+  - `wiki/concepts/place-cells.md`
+  - `wiki/concepts/prion-like-cepb-memory.md`
+  - `wiki/concepts/prospects-for-memory-research.md`
+  - `wiki/concepts/protein-kinase-a.md`
+  - `wiki/concepts/schizophrenia.md`
+  - `wiki/concepts/selective-attention.md`
+  - `wiki/concepts/sensitization-learning.md`
+  - `wiki/concepts/sensory-maps.md`
+  - `wiki/concepts/sensory-representation.md`
+  - `wiki/concepts/short-term-memory.md`
+  - `wiki/concepts/spatial-memory.md`
+  - `wiki/concepts/synaptic-marking.md`
+  - `wiki/concepts/synaptic-vesicle.md`
+  - `wiki/topics/austria-nazi-past.md`
+  - `wiki/topics/biotechnology-industry.md`
+  - `wiki/topics/cognitive-neuroscience.md`
+  - `wiki/topics/historical-debate-on-brain-localization.md`
+  - `wiki/topics/molecular-biology-of-cognition.md`
+  - `wiki/topics/molecular-biology-of-memory.md`
+  - `wiki/topics/neuroethics.md`
+  - `wiki/topics/new-science-of-mind.md`
+  - `wiki/topics/psychoanalysis-and-biology.md`
+  - `wiki/topics/synaptic-plasticity.md`
+  - `wiki/topics/unconscious-vs-conscious-processing.md`
+  - `wiki/sources/in-search-of-memory-the-emergence-of-a-new-science-of-mind.md`
+- Files merged (extended):
+  - `wiki/entities/aplysia.md`
+  - `wiki/entities/brenda-milner.md`
+  - `wiki/entities/joseph-ledoux.md`
+  - `wiki/entities/santiago-ramon-y-cajal.md`
+  - `wiki/entities/vernon-mountcastle.md`
+  - `wiki/entities/william-james.md`
+  - `wiki/concepts/action-potential.md`
+  - `wiki/concepts/amygdala.md`
+  - `wiki/concepts/anxiety-disorders.md`
+  - `wiki/concepts/binding-problem.md`
+  - `wiki/concepts/binocular-rivalry.md`
+  - `wiki/concepts/consciousness.md`
+  - `wiki/concepts/long-term-potentiation.md`
+  - `wiki/concepts/neuron-doctrine.md`
+  - `wiki/concepts/synaptic-transmission.md`
+  - `wiki/concepts/working-memory.md`
+- Files deprecated: None.
+- Notes: 88 new + 16 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
