@@ -1010,3 +1010,90 @@ This file is the append-only operational history of the wiki.
   - `wiki/topics/animal-consciousness.md`
 - Files deprecated: None.
 - Notes: 37 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | decision-neuroscience-an-integrative-perspective-jean-claude
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf
+- Files created:
+  - `wiki/entities/astatotilapia-burtoni.md`
+  - `wiki/entities/g-k-murray.md`
+  - `wiki/entities/jc-dreher.md`
+  - `wiki/entities/l-k-fellows.md`
+  - `wiki/entities/lateral-intraparietal-area-lip.md`
+  - `wiki/entities/medial-prefrontal-cortex.md`
+  - `wiki/entities/morrison-se-et-al.md`
+  - `wiki/entities/orbitofrontal-cortex.md`
+  - `wiki/entities/peck-cj-et-al.md`
+  - `wiki/entities/r-ligneul.md`
+  - `wiki/entities/s-bernardi-d-salzman.md`
+  - `wiki/entities/s-n-haber.md`
+  - `wiki/entities/s-palminteri.md`
+  - `wiki/entities/saez-et-al.md`
+  - `wiki/entities/social-brain-network.md`
+  - `wiki/entities/subthalamic-nucleus.md`
+  - `wiki/entities/t-singer.md`
+  - `wiki/entities/temporoparietal-junction.md`
+  - `wiki/entities/ventral-striatum-and-ventral-pallidum.md`
+  - `wiki/entities/w-schultz.md`
+  - `wiki/concepts/actor-critic-model.md`
+  - `wiki/concepts/amygdala-appetitive-aversive-systems.md`
+  - `wiki/concepts/anhedonia-schizophrenia.md`
+  - `wiki/concepts/anterior-cingulate-cortex-monitoring.md`
+  - `wiki/concepts/appetite-motivated-choice.md`
+  - `wiki/concepts/cognitive-control.md`
+  - `wiki/concepts/contextual-modulation.md`
+  - `wiki/concepts/decision-making-anxiety-disorders.md`
+  - `wiki/concepts/decision-making-gambling-disorder.md`
+  - `wiki/concepts/decision-making-in-gambling-disorder.md`
+  - `wiki/concepts/deep-brain-stimulation.md`
+  - `wiki/concepts/delusions-reinforcement-learning.md`
+  - `wiki/concepts/divisive-normalization.md`
+  - `wiki/concepts/dopamine-dependent-plasticity.md`
+  - `wiki/concepts/drift-diffusion-model.md`
+  - `wiki/concepts/economic-utility-value-coding.md`
+  - `wiki/concepts/empathy-vs-compassion.md`
+  - `wiki/concepts/five-choice-serial-reaction-time-task.md`
+  - `wiki/concepts/goal-directed-action.md`
+  - `wiki/concepts/hormonal-systems-social-dominance.md`
+  - `wiki/concepts/impulse-control-disorders-parkinson.md`
+  - `wiki/concepts/impulsivity-neuroscience.md`
+  - `wiki/concepts/incentive-learning.md`
+  - `wiki/concepts/intercultural-differences-social-dominance.md`
+  - `wiki/concepts/iowa-gambling-task.md`
+  - `wiki/concepts/major-depressive-disorder-and-decision-making.md`
+  - `wiki/concepts/melioration.md`
+  - `wiki/concepts/model-free-vs-model-based-reinforcement-learning.md`
+  - `wiki/concepts/nucleus-accumbens-impulsivity.md`
+  - `wiki/concepts/observer-effect.md`
+  - `wiki/concepts/opponent-brain-systems-reward-punishment.md`
+  - `wiki/concepts/optogenetic-tagging.md`
+  - `wiki/concepts/orbitofrontal-cortex-value.md`
+  - `wiki/concepts/outcome-devaluation.md`
+  - `wiki/concepts/oxytocin-social-decision-making.md`
+  - `wiki/concepts/perception-action-cycle.md`
+  - `wiki/concepts/perceptual-decision-making.md`
+  - `wiki/concepts/probabilistic-discounting.md`
+  - `wiki/concepts/reinforcement-learning-schizophrenia.md`
+  - `wiki/concepts/reinforcement-learning.md`
+  - `wiki/concepts/reversal-learning.md`
+  - `wiki/concepts/reward-prediction-error.md`
+  - `wiki/concepts/rostromedial-prefrontal-cortex-social-dominance.md`
+  - `wiki/concepts/social-brain-hypothesis.md`
+  - `wiki/concepts/social-conformity.md`
+  - `wiki/concepts/social-dominance-hierarchy.md`
+  - `wiki/concepts/social-norm-compliance.md`
+  - `wiki/concepts/stop-signal-reaction-time-task.md`
+  - `wiki/concepts/stress-neural-network-reconfiguration.md`
+  - `wiki/concepts/subthalamic-nucleus-hyperdirect-pathway.md`
+  - `wiki/concepts/temporal-difference-learning.md`
+  - `wiki/concepts/temporal-discounting.md`
+  - `wiki/concepts/temporoparietal-junction-salience.md`
+  - `wiki/concepts/transcranial-magnetic-stimulation-social-neuroscience.md`
+  - `wiki/concepts/value-coding.md`
+  - `wiki/concepts/value-versus-salience.md`
+  - `wiki/concepts/ventral-striatum.md`
+  - `wiki/concepts/ventromedial-frontal-lobe-decision-making.md`
+  - `wiki/concepts/winner-take-all-decision-mechanism.md`
+  - `wiki/sources/decision-neuroscience-an-integrative-perspective.md`
+- Files deprecated: None.
+- Notes: 80 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
