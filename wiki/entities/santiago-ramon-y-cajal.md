@@ -12,6 +12,8 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 - '[raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 canonical: Santiago Ramón y Cajal
 confidence: high
 aliases:
@@ -40,6 +42,7 @@ related:
   entities:
   - camillo-golgi
   - ross-harrison
+  - Camillo Golgi
 ---
 
 # Santiago Ramón y Cajal
@@ -65,6 +68,12 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Cajal distinguished two types of neural processes: axons and dendrites, and inferred that dendrites receive signals while axons send information. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p76]
 - Santiago Ramón y Cajal discovered the synapse at the end of the nineteenth century. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p205]
 - He is recognized as the world's first neuroscientist. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p205]
+- Ramón y Cajal discovered that nervous tissue is not a syncytium but a network of discrete cells using Golgi's technique. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p57]
+- He developed key concepts and much of the early evidence for the neuron doctrine. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p57]
+- The principle of dynamic polarization states that electrical signals within a nerve cell flow only in one direction: from receiving sites (dendrites and cell body) to the trigger region at the axon. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p74]
+- Connectional specificity states that nerve cells do not connect randomly but make specific connections at particular contact points with certain postsynaptic target cells but not others. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p74]
+- He was among the first to realize that what most distinguishes one type of neuron from another is form, specifically the number of processes arising from the cell body. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p75]
+- He championed the view of brain function called cellular connectionism. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p60]
 
 ## Inferences
 
@@ -75,9 +84,14 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 
 - Broader: [[neuron doctrine]]
 - Broader: [[Neuroscience]]
+- Broader: [[history of neuroscience]]
+- Broader: [[cell neuroscience]]
 - Narrower: [[dynamic polarization]]
 - Narrower: [[connection specificity]]
 - Narrower: [[synapse]]
+- Narrower: [[neuron doctrine]]
+- Narrower: [[connectional specificity]]
+- Narrower: [[cellular connectionism]]
 - Adjacent: [[John-Eccles]]
 - Adjacent: [[Synapse]]
 - Concepts: [[global-neuronal-workspace-theory]]
@@ -89,6 +103,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Concepts: [[neuron]]
 - Entities: [[camillo-golgi]]
 - Entities: [[ross-harrison]]
+- Entities: [[Camillo Golgi]]
 
 ## Provenance
 
@@ -96,6 +111,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
@@ -103,3 +119,4 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `primal-intelligence-you-are-smarter-than-angus-fletcher`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

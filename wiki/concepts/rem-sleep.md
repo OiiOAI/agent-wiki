@@ -4,10 +4,12 @@ title: REM Sleep
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - REM sleep
@@ -15,15 +17,21 @@ tags:
 - muscle atonia
 - brainstem
 - dreams
+- REM-sleep
+- dreaming
+- muscle-tone
+- brain-activation
 related:
   broader:
   - sleep stages
   - sleep-wake cycle
   narrower:
   - REM sleep behavior disorder
-  adjacent: []
+  adjacent:
+  - non-rem-sleep
+  - sleep-spindles
+aliases: []
 ---
-
 
 # REM Sleep
 
@@ -38,6 +46,11 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - GABAergic neurons in the ventrolateral periaqueductal gray matter inhibit subceruleus neurons, preventing REM sleep entry; mutual inhibition between these regions forms a flip-flop switch. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1133]
 - Antidepressants that increase brain levels of serotonin or norepinephrine reduce REM sleep because noradrenergic locus ceruleus and serotonergic dorsal raphe neurons inhibit the subceruleus REM-generating region. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1133]
 - Over the course of a night, non-REM sleep becomes progressively lighter while REM sleep episodes become longer. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1130]
+- REM sleep is associated with almost complete loss of muscle tone, owing to inhibition of the spinal motor neurons by descending pathways. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1193]
+- Sleepers roused from REM sleep report experiencing vivid dreams approximately 80% to 95% of the time. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1193]
+- In adults REM sleep occupies approximately 25% of total sleep time. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1194]
+- During REM sleep temperature regulation is at a low point and body temperature begins to fall further still. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1193]
+- Ponto-geniculo-occipital (PGO) waves during REM sleep appear to be initiated by phasic discharge of brain stem cholinergic neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1200]
 
 ## Inferences
 
@@ -48,17 +61,25 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - Broader: [[sleep stages]]
 - Broader: [[sleep-wake cycle]]
 - Narrower: [[REM sleep behavior disorder]]
+- Adjacent: [[non-rem-sleep]]
+- Adjacent: [[sleep-spindles]]
 - Concepts: [[subceruleus]]
 - Concepts: [[sleep paralysis]]
 - Concepts: [[muscle atonia]]
 - Concepts: [[dreaming]]
+- Concepts: [[PGO-waves]]
+- Concepts: [[muscle-atonía]]
+- Concepts: [[cholinergic-neurons]]
+- Topics: [[sleep-and-dreaming]]
 - Entities: [[pons]]
 - Entities: [[ventrolateral periaqueductal gray]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

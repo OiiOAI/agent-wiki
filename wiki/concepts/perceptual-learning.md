@@ -10,6 +10,8 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
   - Suzanne Corkin.pdf#p1-402]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - perception
@@ -18,6 +20,7 @@ tags:
 - plasticity
 - implicit-learning
 - visual-system
+- visual neuroscience
 related:
   broader:
   - visual-processing
@@ -44,12 +47,16 @@ Perceptual learning is a form of implicit learning that improves the ability to 
 - Henry completed the Gollin test without errors after four trials, and his accuracy was slightly better than that of ten control participants. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p187]
 - An hour later, Henry identified the same picture fragments in fewer trials without conscious memory of having seen the test before. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p187]
 - When given the same test thirteen years later, Henry's identification was even more accurate, demonstrating long-term retention of perceptual learning. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p188]
+- When focal lesions occur in corresponding positions on both retinas, the cortical representation of the lesioned area shrinks over months as surrounding neurons sprout collaterals. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p616]
+- Perceptual learning is highly specific to task, stimulus location, and configuration; training on three-line bisection does not transfer to vernier discrimination. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p617]
+- After practice, subjects can detect shorter contours and V1 neurons become correspondingly more sensitive to these shorter contours. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p618]
 
 ## Inferences
 
 - Inference: Perceptual learning occurs because the functional properties of visual cortex neurons remain mutable throughout life, despite earlier claims that adult visual cortex is fixed.
 - Inference: The specificity of perceptual learning suggests that early stages of visual processing are responsible, where receptive fields are smallest and orientation tuning is sharpest.
 - Inference: Perceptual learning relies on intact visual cortex rather than medial temporal-lobe structures, explaining why Henry could improve on the task without declarative awareness.
+- Inference: The specificity of perceptual learning suggests that early stages of visual processing with small receptive fields and precise retinotopic maps are responsible for these improvements.
 
 ## Related pages
 
@@ -62,7 +69,12 @@ Perceptual learning is a form of implicit learning that improves the ability to 
 - Concepts: [[contour-integration]]
 - Concepts: [[nondeclarative-memory]]
 - Concepts: [[visual-cortex]]
+- Concepts: [[cortical plasticity]]
+- Concepts: [[implicit learning]]
+- Concepts: [[contour saliency]]
+- Concepts: [[visual cortex]]
 - Topics: [[vision]]
+- Topics: [[experience-dependent changes]]
 - Entities: [[henry-molaison]]
 - Entities: [[brenda-milner]]
 
@@ -70,8 +82,10 @@ Perceptual learning is a form of implicit learning that improves the ability to 
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

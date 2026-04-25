@@ -11,6 +11,8 @@ sources:
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 - '[raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey
   - Smith.pdf#p1-232]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - neuroscience
@@ -20,6 +22,8 @@ tags:
 - philosophy-of-mind
 - perception
 - evolution
+- awareness
+- neural correlates
 related:
   broader:
   - cognitive control
@@ -58,6 +62,9 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - Dehaene's research shows unconscious processing can handle routine tasks but fails for novel tasks requiring step-by-step sequences. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p74]
 - The author argues for a 'transformation view' in which basic subjective experience preceded late-arising features like working memory and was transformed rather than created by them. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p76]
 - If crabs, octopuses, and cats all have subjective experience, then there were at least three separate origins for this trait in evolution. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p79]
+- Neural correlates of consciousness (NCC) include patterns of neural activity associated with conscious perception versus unconscious processing. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1721]
+- Binocular rivalry studies reveal differences between unconscious and conscious visual perception. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1721]
+- The subjective experience of voluntary action involves readiness potentials and the relationship between intention and conscious awareness. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1721]
 
 ## Inferences
 
@@ -72,6 +79,8 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 
 - Uncertain: How conscious experience arises from neural processes remains unexplained—this is the 'hard problem' of consciousness.
 - Uncertain: Whether consciousness can ever be explained in physical terms remains debated among philosophers, with some like Colin McGinn arguing the human mind may be incapable of solving this problem.
+- Uncertain: The exact neural mechanisms generating subjective conscious experience remain incompletely understood.
+- Uncertain: The relationship between neural activity patterns and the phenomenological quality of consciousness is philosophically debated.
 
 ## Related pages
 
@@ -97,6 +106,12 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - Concepts: [[global workspace]]
 - Concepts: [[latecomer view]]
 - Concepts: [[transformation view]]
+- Concepts: [[neural correlates of consciousness]]
+- Concepts: [[unconscious processing]]
+- Concepts: [[attention]]
+- Concepts: [[perception]]
+- Topics: [[cognitive neuroscience]]
+- Topics: [[philosophy of mind]]
 - Entities: [[francis-crick]]
 - Entities: [[christof-koch]]
 - Entities: [[gerald-edelman]]
@@ -108,9 +123,11 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - Primary source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p1-232]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `other-minds-the-octopus-the-sea-and-the-peter-godfrey-smith`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

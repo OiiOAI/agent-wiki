@@ -9,16 +9,21 @@ sources:
 - '[raw/books/neuroscience/A Thousand Brains _ A New Theory of Intelligence - Jeff
   Hawkins; Richard Dawkins; Basic Books.pdf#p1-242]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 canonical: Vernon Mountcastle
 confidence: high
 aliases:
 - Vernon Mountcastle
 - V. Mountcastle
 - Mountcastle
+- V. B. Mountcastle
 tags:
 - neuroscientist
 - johns-hopkins
 - cortical-columns
+- psychophysics
+- somatosensory
 related:
   concepts:
   - cortical-columns
@@ -28,9 +33,12 @@ related:
   - sensory-representation
   - columns
   - receptive-field
+  - sensory-coding
+  - psychophysics
   topics:
   - brain-theory
   - human-intelligence
+  - somatosensory-system
   entities:
   - jeff-hawkins
   - the-mindful-brain
@@ -55,6 +63,9 @@ Vernon Mountcastle was a neuroscientist at Johns Hopkins University who proposed
 - In the early 1950s, Vernon Mountcastle extended sensory representation analysis by recording from single cells, finding that individual neurons respond to signals from only a limited area of the skin called the receptive field. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p310]
 - Mountcastle discovered that tactile sensation is made up of several distinct submodalities, each with its own private pathway within the brain, and that the somatosensory cortex is organized into columns dedicated to one submodality and one area of skin. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p310]
 - Mountcastle proposed that columns form the basic information-processing modules of the cortex, now a generally accepted idea. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p310]
+- Mountcastle demonstrated precise correlation between sensory thresholds and neural responses, and between neural firing rates and self-reports of the intensity of sensations. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p513]
+- With Talbot and Kornhuber, Mountcastle showed that the relationship between discharge frequency of sensory neurons and stimulus amplitude is linear for touch receptors. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p504]
+- Mountcastle found that dynamics of the spike train convey important information about fluctuations of the stimulus, such as frequency of vibration or change in rate of movement. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p513]
 
 ## Inferences
 
@@ -75,8 +86,11 @@ Vernon Mountcastle was a neuroscientist at Johns Hopkins University who proposed
 - Concepts: [[sensory-representation]]
 - Concepts: [[columns]]
 - Concepts: [[receptive-field]]
+- Concepts: [[sensory-coding]]
+- Concepts: [[psychophysics]]
 - Topics: [[brain-theory]]
 - Topics: [[human-intelligence]]
+- Topics: [[somatosensory-system]]
 - Entities: [[jeff-hawkins]]
 - Entities: [[the-mindful-brain]]
 - Entities: [[wade-marshall]]
@@ -87,8 +101,10 @@ Vernon Mountcastle was a neuroscientist at Johns Hopkins University who proposed
 
 - Primary source: [raw/books/neuroscience/A Thousand Brains _ A New Theory of Intelligence - Jeff Hawkins; Richard Dawkins; Basic Books.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

@@ -4,18 +4,26 @@ title: Williams Syndrome
 type: entity
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 canonical: Williams syndrome
 confidence: high
 aliases:
 - Williams
+- williams-beuren-syndrome
 tags:
 - genetic syndrome
 - neurodevelopmental
 - social behavior
+- chromosome-7q11-23
+- deletion
+- sociability
+- language
+- spatial-processing
 related:
   concepts:
   - chromosomal deletion
@@ -24,12 +32,13 @@ related:
   - social-cognition
   - genomic-imprinting
   - chromosome-deletion
+  - brain-modularity
+  - cognitive-domain-separation
   topics:
   - neurodevelopmental-disorders
   entities:
   - autism spectrum disorder
 ---
-
 
 # Williams Syndrome
 
@@ -46,23 +55,42 @@ Williams syndrome is a rare genetic condition caused by heterozygous deletion of
 - The behavioral phenotype includes increased sociability, preserved language abilities, and affinity for music, contrasting with impaired visuospatial capabilities. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1532]
 - Individuals with Williams syndrome display a nearly universal loss of reticence with strangers but have high general anxiety and isolated phobias. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1532]
 - Duplication of the identical region of chromosome 7 is a significant risk factor for ASD, contrasting the social phenotypes of loss versus gain of this genomic region. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1532]
+- Williams syndrome is caused by a heterozygous deletion of chromosome region 7q11.23. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+- Children with Williams syndrome acquire language late but overcome early deficits to develop strong language skills and normal social interaction. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+- Williams syndrome children exhibit extreme sociability and lack typical shyness in the presence of strangers. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+- Williams syndrome children are profoundly defective in spatial processing, scoring as poorly as or worse than autistic children on IQ tests. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+
+## Inferences
+
+- Inference: The contrast between Williams syndrome and autism suggests that language and social skills can vary independently from general and spatial intelligence, supporting the idea that the brain is modular with distinct cognitive functions.
+
+## Uncertainties
+
+- Uncertain: The precise genes in the 7q11.23 region that affect sociability and spatial processing are not yet known.
 
 ## Related pages
 
+- Broader: [[genetic-disorders]]
+- Broader: [[developmental-disorders]]
 - Adjacent: [[autism-spectrum-disorder]]
+- Adjacent: [[autism]]
 - Concepts: [[chromosomal deletion]]
 - Concepts: [[social behavior]]
 - Concepts: [[spatial processing]]
 - Concepts: [[social-cognition]]
 - Concepts: [[genomic-imprinting]]
 - Concepts: [[chromosome-deletion]]
+- Concepts: [[brain-modularity]]
+- Concepts: [[cognitive-domain-separation]]
 - Topics: [[neurodevelopmental-disorders]]
 - Entities: [[autism spectrum disorder]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

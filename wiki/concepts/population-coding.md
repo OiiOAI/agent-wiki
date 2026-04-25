@@ -4,26 +4,30 @@ title: Population Coding
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - neuroscience
 - neural-coding
 - computational-neuroscience
+- population-coding
+- neural-code
+- sensory-processing
 related:
   broader:
   - neural-coding
   - sensory-coding
-  narrower: []
   adjacent:
   - rate-coding
   - temporal-coding
   - primary-motor-cortex
+aliases: []
 ---
-
 
 # Population Coding
 
@@ -41,6 +45,18 @@ Population coding is a neural coding scheme where information about stimulus pro
 - The population vector algorithm provides a unique signal about each reaching movement by pooling the heterogeneous single-neuron activity of the recorded M1 population. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p849]
 - Decoded M1 population-vector signals during reaching movements varied dramatically through time, directed initially toward the target but then transiently reversing just before the peak of hand velocity. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p850]
 - Correlates of forces to generate reaching were strongest in M1, weaker in PMd, and largely absent in parietal area PE/MIP. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p850]
+- The intensity of a stimulus is represented in the brain by the total number of active neurons in the receptor population, with low-threshold receptors recruited first, followed by high-threshold receptors. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p514]
+- The spatial resolution of a sensory system is proportional to the total number of receptor neurons and how their receptive fields are apportioned within the population. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p517]
+- Rate coding allows a population of neurons to simultaneously transmit spatial properties and intensity of stimuli by modulating firing rates of individual neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p516]
+- Firing rates of neurons in a population can be plotted in a coordinate system with multiple axes (modality, location, intensity, time) forming a vector that represents the population's activity. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p517]
+- Each visual neuron responds not just to its preferred stimulus but to any stimulus within a range described by a Gaussian tuning curve with a particular bandwidth. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p626]
+- In vector averaging, each cell's firing rate represents a 'vote' for its preferred orientation (line label), and the vector sum represents the perceived stimulus value. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p626]
+- The nervous system does not represent entire objects by single neurons; instead, cells represent parts of objects and ensembles represent entire objects in a distributed code. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p627]
+- Probability summation occurs when many neurons contribute to discrimination, increasing the signal-to-noise ratio and reducing the critical difference in stimulus value needed for detection. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p626]
+
+## Uncertainties
+
+- Uncertain: Whether timing of action potentials carries additional information beyond firing rate (Morse code hypothesis) is not known.
 
 ## Related pages
 
@@ -54,11 +70,22 @@ Population coding is a neural coding scheme where information about stimulus pro
 - Concepts: [[neural decoding]]
 - Concepts: [[motor control]]
 - Concepts: [[brain-machine interfaces]]
+- Concepts: [[sensory-coding]]
+- Concepts: [[receptive-field]]
+- Concepts: [[rate-coding]]
+- Concepts: [[tuning curve]]
+- Concepts: [[distributed code]]
+- Concepts: [[grandmother cell]]
+- Concepts: [[vector averaging]]
+- Topics: [[somatosensory-system]]
+- Topics: [[neural coding]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

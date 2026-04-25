@@ -10,16 +10,24 @@ sources:
   - Panksepp, Jaak.pdf#p1-242]'
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 related:
   broader:
   - epilepsy
   - brain-plasticity
+  adjacent:
+  - focal-seizures
+  - mossy-fiber-sprouting
 tags:
 - neuroscience
 - epilepsy
 - experimental-model
 - synaptic-plasticity
+- kindling
+- epilepsy-model
+- limbic-system
 aliases: []
 ---
 
@@ -39,11 +47,17 @@ Kindling is an experimental procedure where periodic localized electrical stimul
 - Kindling involves synaptic changes resembling learning and memory, including short-term changes in excitability and persistent morphological changes. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1462]
 - Morphological changes in kindling include axonal sprouting, synaptic reorganization, and changes in dendritic structure and ion channel expression. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1462]
 - Axonal sprouting has been observed in the dentate gyrus of patients with long-standing temporal lobe epilepsy. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1462]
+- In the kindling model, hyperexcitability is induced by repeated stimulation of limbic structures such as the amygdala or hippocampus. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1189]
+- The initial stimulus is followed by an afterdischarge that becomes more extensive and prolonged with repeated stimuli until a generalized seizure occurs. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1189]
+- Kindling is thought to involve synaptic changes that resemble those important in learning and memory, including short-term changes in excitability and persistent morphological changes including axonal sprouting. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1189]
+- Rearrangements of synaptic connections have been observed in the dentate gyrus of patients with long-standing focal seizures of hippocampal origin as well as following kindling in experimental animals. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1189]
 
 ## Related pages
 
 - Broader: [[epilepsy]]
 - Broader: [[brain-plasticity]]
+- Adjacent: [[focal-seizures]]
+- Adjacent: [[mossy-fiber-sprouting]]
 - Concepts: [[limbic-seizures]]
 - Concepts: [[personality-changes]]
 - Concepts: [[amygdala-stimulation]]
@@ -52,6 +66,9 @@ Kindling is an experimental procedure where periodic localized electrical stimul
 - Concepts: [[synaptic-plasticity]]
 - Concepts: [[axonal-sprouting]]
 - Concepts: [[limbic-system]]
+- Concepts: [[afterdischarge]]
+- Concepts: [[epileptogenesis]]
+- Topics: [[seizures-and-epilepsy]]
 - Entities: [[hippocampus]]
 - Entities: [[amygdala]]
 - Entities: [[dentate-gyrus]]
@@ -60,8 +77,10 @@ Kindling is an experimental procedure where periodic localized electrical stimul
 
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

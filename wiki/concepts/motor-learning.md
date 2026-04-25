@@ -4,23 +4,26 @@ title: Motor Learning
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - learning
 - plasticity
 - motor control
 - movement
+- motor-learning
+- motor-adaptation
+- skill-acquisition
 related:
-  broader: []
-  narrower: []
   adjacent:
   - primary-motor-cortex
+aliases: []
 ---
-
 
 # Motor Learning
 
@@ -42,6 +45,14 @@ Motor learning refers to the processes by which the nervous system acquires new 
 - Error signals in M1 drive adaptation in reaching; M1 activity during postmovement visual feedback reflects the direction of reach endpoint errors, and ICMS simulating these error responses causes adaptive changes without actual reaching errors. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p856]
 - Spike-timing dependent plasticity within local horizontal connections linking different parts of the arm motor map contributes to cortical reorganization underlying improved motor performance. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p855]
 - Monkeys could learn 'unnatural' changes in M1 neural activity decoder mapping if allowed enough practice over several days, demonstrating that neural circuits can learn new neural co-modulation structures. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p856]
+- Most forms of motor learning involve procedural or implicit learning, so-called because subjects are generally unable to express what they have learned, and it can be retained for extended periods without practice. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p813]
+- Motor learning can adapt to novel dynamic conditions by learning an internal model that compensates for unexpected forces, demonstrated by after-effects when the force is removed. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p814]
+- Kinematic and dynamic motor learning rely on different sensory modalities: proprioception is more important for dynamic tasks, whereas kinematic adaptation can occur with visual guidance alone. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p814]
+- Patients who have lost proprioception have particular difficulty controlling the dynamic properties of their limbs or learning new dynamic tasks without vision. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p814]
+
+## Inferences
+
+- Inference: Motor learning timescales vary from immediate adaptation to years of practice, reflecting the complexity of tasks and the need to unlearn evolutionary constraints.
 
 ## Related pages
 
@@ -55,11 +66,17 @@ Motor learning refers to the processes by which the nervous system acquires new 
 - Concepts: [[motor adaptation]]
 - Concepts: [[plasticity]]
 - Concepts: [[error signals]]
+- Concepts: [[internal-model]]
+- Concepts: [[proprioception]]
+- Concepts: [[explicit-learning]]
+- Topics: [[motor-control]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

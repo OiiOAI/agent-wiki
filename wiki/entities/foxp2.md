@@ -4,28 +4,38 @@ title: FOXP2
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Human _ the science behind what makes us unique - Michael
   S_ Gazzaniga.pdf#p1-461]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 canonical: FOXP2
 confidence: high
 aliases:
 - FOXP2 gene
 - forkhead-box P2
+- forkhead-box-p2
+- foxp2-gene
 tags:
 - genetics
 - language
 - neuroscience
 - evolution
+- transcription-factor
+- forkhead-domain
+- speech
+- human-evolution
 related:
-  concepts: []
-  topics: []
+  concepts:
+  - transcriptional-regulation
+  - human-evolution
+  - speech-adaptation
   entities:
   - ke-family
   - foxp2-mutation
+  - autism
 ---
-
 
 # FOXP2
 
@@ -40,20 +50,31 @@ A gene associated with speech and language ability. Mutations in FOXP2 cause a s
 - FOXP2 is a transcription factor that affects tissues in the brain, lung, gut, heart, and other locations, but the mutation in the KE family affected only the brain. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p43]
 - The FOXP2 protein differs by only 3 amino acids between mouse and human, with 2 of those differences occurring after the divergence of human and chimpanzee lineages. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p43]
 - The two human-specific FOXP2 mutations occurred within the last 200,000 years and have undergone accelerated evolution and positive selection. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p44]
+- A mutation in the transcriptional regulator FOXP2 was identified in a human family with defects in speech articulation and grammatical and linguistic impairment. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+- FOXP2 is present in all mammals and birds but is not uniquely human. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+- Several changes in FOXP2 have appeared since the divergence of humans and other primates. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
 
 ## Related pages
 
 - Broader: [[language-genetics]]
 - Broader: [[human-brain-uniqueness]]
+- Broader: [[language-genes]]
+- Broader: [[speech-genes]]
 - Narrower: [[forkhead-domain]]
 - Narrower: [[transcription-factor]]
+- Concepts: [[transcriptional-regulation]]
+- Concepts: [[human-evolution]]
+- Concepts: [[speech-adaptation]]
 - Entities: [[ke-family]]
 - Entities: [[foxp2-mutation]]
+- Entities: [[autism]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

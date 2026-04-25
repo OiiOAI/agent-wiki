@@ -10,6 +10,8 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Human _ the science behind what makes us unique - Michael
   S_ Gazzaniga.pdf#p1-461]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - mirror neurons
@@ -20,12 +22,18 @@ tags:
 - motor-cognition
 - language-evolution
 - primates
+- motor cognition
+- action recognition
+- primate neurophysiology
 related:
   broader:
   - action-recognition
   - language-evolution
   - social-cognition
   - imitation
+  - premotor cortex
+  - ventral premotor area
+  - visuomotor circuits
   narrower:
   - brocas-area
   - premotor-cortex
@@ -36,6 +44,9 @@ related:
   - emotional-contagion
   - mimicry
   - empathy
+  - canonical neurons
+  - affordances
+  - inferotemporal cortex
 aliases: []
 ---
 
@@ -62,11 +73,21 @@ Mirror neurons are a remarkable population of neurons that discharge both when a
 - Unlike monkeys, human mirror systems fire even for non-goal-directed movements like a hand randomly waving, which may explain humans' superior imitation abilities. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p187]
 - Mirror neurons code not just actions but intentions—the same action is coded differently if associated with different intentions (grabbing food to eat vs. to place in a cup). [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p188]
 - Children with autism spectrum disorder did not suppress mu waves when observing actions (unlike normal children), suggesting deficient mirror neuron system function. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p189]
+- Mirror neurons in area F5 of the ventral premotor cortex discharge during specific motor acts such as grasping, tearing, or holding, and also fire when the monkey observes another individual performing the same motor act. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p474]
+- Mirror neurons do not discharge in response to mere object presentation; they only respond when observing motor actions performed by another individual. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p474]
+- Mirror neurons represent observed actions as potential motor acts in the observer's own premotor cortex, potentially providing a basis for understanding others' intentions. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p474]
+- Canonical neurons in F5, related to mirror neurons, discharge both when grasping an object and when simply viewing an object of a particular shape, without necessarily planning to grasp it. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p472]
+- Difficulty in understanding the perspectives, thoughts, and intentions of others (a central feature of autism) may be related to dysfunction in mirror neuron systems. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p475]
 
 ## Inferences
 
 - Inference: Mirror neurons may have been exapted (co-opted) during human evolution for language development, as the same neural circuitry for recognizing actions could be used for generating communicative signals
 - Inference: The mirror neuron system's involvement in understanding both actions and intentions suggests a shared neural substrate for perception and production that may have been co-opted for social cognition.
+- Inference: Mirror neurons may form the neural substrate for social cognition by allowing individuals to internally simulate observed actions, thereby understanding others' motor intentions without requiring explicit cognitive reasoning.
+
+## Uncertainties
+
+- Uncertain: Direct evidence for mirror neurons in humans is limited; most evidence comes from monkey studies.
 
 ## Related pages
 
@@ -74,6 +95,9 @@ Mirror neurons are a remarkable population of neurons that discharge both when a
 - Broader: [[language-evolution]]
 - Broader: [[social-cognition]]
 - Broader: [[imitation]]
+- Broader: [[premotor cortex]]
+- Broader: [[ventral premotor area]]
+- Broader: [[visuomotor circuits]]
 - Narrower: [[brocas-area]]
 - Narrower: [[premotor-cortex]]
 - Narrower: [[action-understanding]]
@@ -82,18 +106,28 @@ Mirror neurons are a remarkable population of neurons that discharge both when a
 - Adjacent: [[emotional-contagion]]
 - Adjacent: [[mimicry]]
 - Adjacent: [[empathy]]
+- Adjacent: [[canonical neurons]]
+- Adjacent: [[affordances]]
+- Adjacent: [[inferotemporal cortex]]
 - Concepts: [[action recognition]]
 - Concepts: [[social cognition]]
 - Concepts: [[motor imagery]]
+- Concepts: [[action understanding]]
+- Concepts: [[motor planning]]
+- Concepts: [[potential motor acts]]
+- Concepts: [[visuomotor transformation]]
 - Entities: [[giacomo-rizzolatti]]
 - Entities: [[michael-arbib]]
+- Entities: [[area F5]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

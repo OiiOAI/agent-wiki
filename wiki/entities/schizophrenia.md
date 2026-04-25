@@ -10,6 +10,8 @@ sources:
   Dehaene.pdf#p1-411]'
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: medium
 tags:
 - disorder
@@ -19,7 +21,13 @@ tags:
 - psychiatric disorder
 - genetics
 - schizophrenia
-aliases: []
+- psychiatric-disorder
+- thought-disorder
+- heritable
+- complex-genetics
+aliases:
+- schizophrenia
+- schizo
 canonical: true
 related:
   concepts:
@@ -33,10 +41,18 @@ related:
   - dopamine hypothesis of schizophrenia
   - psychotic symptoms
   - deficit symptoms
+  - heritability
+  - developmental-defects
+  - risk-genes
+  - dopamine-hypothesis
+  - brain-development
+  - working-memory
   topics:
   - disorders of thought and volition
   entities:
   - autism spectrum disorder
+  - disc1
+  - neuregulin
 ---
 
 # Schizophrenia
@@ -61,16 +77,29 @@ A psychiatric disorder discussed in relation to consciousness and unconscious pr
 - Gray matter loss in schizophrenia results from decreased dendritic arborization and dendritic spines rather than cell death. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1541]
 - The strongest genetic association with schizophrenia lies within the MHC locus encoding complement factor C4, with elevated C4A expression associated with increased risk. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1544]
 - All current antipsychotic drugs produce their therapeutic effects by blocking D2 dopamine receptors in the forebrain. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1545]
+- Schizophrenia affects about 1% of all young adults and is strongly heritable. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p111]
+- Disc1 (Disrupted in Schizophrenia) was identified as a schizophrenia risk gene in a study of a large Scottish family. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p112]
+- Disc1 in mice has effects on neuronal development, neuronal signaling, and incorporation of newborn neurons into neural circuits. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p112]
+- Neuregulin is a developmental signaling gene that affects cell migration and synapse formation and has been identified as a schizophrenia risk gene. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p112]
+- Schizophrenia symptoms are grouped into positive symptoms (hallucinations, delusions that do not occur in healthy people), negative symptoms (impairment of normal functions), and cognitive symptoms. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1441]
+- The most common hallucinations in schizophrenia are auditory; patients often hear voices that may be bullying, derogatory, or commanding. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1441]
+- Monozygotic twins have a concordance rate of nearly 48% for schizophrenia, while dizygotic twins have approximately 17%, indicating significant genetic contribution. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1443]
+- Neuroanatomic abnormalities in schizophrenia include loss of gray matter in prefrontal and temporal cortex, ventricular enlargement, and reduced dendritic spine density. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1445-1446]
+- Antipsychotic drugs act on dopaminergic systems in the brain; their potency in treating positive symptoms correlates strongly with D2 dopamine receptor affinity. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1449]
+- The normal loss of gray matter during adolescence through synaptic pruning is accelerated in adolescents who develop schizophrenia. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1448]
 
 ## Inferences
 
 - Inference: Schizophrenia may represent a disorder of consciousness signatures, where the brain's ability to generate normal conscious markers is impaired
 - Inference: The overpruning hypothesis suggests schizophrenia may result from abnormal and excessive synaptic pruning during adolescence, supported by the association with complement factor C4.
+- Inference: The correlation between monozygotic twin concordance rates and genetic relatedness suggests genes contribute substantially to schizophrenia risk, but the 48% (not 100%) concordance indicates environmental or stochastic factors also play important roles.
 
 ## Related pages
 
 - Broader: [[psychiatric-disorders]]
 - Broader: [[psychotic disorders]]
+- Broader: [[mental-disorders]]
+- Broader: [[psychiatry]]
 - Adjacent: [[bipolar disorder]]
 - Adjacent: [[major depressive disorder]]
 - Concepts: [[consciousness]]
@@ -83,15 +112,25 @@ A psychiatric disorder discussed in relation to consciousness and unconscious pr
 - Concepts: [[dopamine hypothesis of schizophrenia]]
 - Concepts: [[psychotic symptoms]]
 - Concepts: [[deficit symptoms]]
+- Concepts: [[heritability]]
+- Concepts: [[developmental-defects]]
+- Concepts: [[risk-genes]]
+- Concepts: [[dopamine-hypothesis]]
+- Concepts: [[brain-development]]
+- Concepts: [[working-memory]]
 - Topics: [[disorders of thought and volition]]
 - Entities: [[autism spectrum disorder]]
+- Entities: [[disc1]]
+- Entities: [[neuregulin]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p1-411]
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

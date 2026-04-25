@@ -4,10 +4,12 @@ title: Apolipoprotein E
 type: entity
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 canonical: APOE
 confidence: high
 aliases:
@@ -24,6 +26,9 @@ related:
   - amyloid-aggregation
   - neuroinflammation
   - lipid-metabolism
+  - cholesterol
+  - lipid-transport
+  - genetic-risk-factors
   topics:
   - alzheimer-disease
   - late-onset-ad
@@ -33,7 +38,6 @@ related:
   - trem2
   - amyloid-beta-peptides
 ---
-
 
 # Apolipoprotein E
 
@@ -49,6 +53,10 @@ Apolipoprotein E (ApoE) is an apolipoprotein expressed at high levels in the bra
 - APOE2 protects against AD, decreasing risk by approximately 40% relative to the most common APOE3/APOE3 genotype. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1622]
 - ApoE4 promotes Aβ aggregation by diminishing Aβ clearance and promoting fibrillization, following the gradient ApoE4 > ApoE3 > ApoE2. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1622]
 - APOE4 may also act through additional mechanisms including influencing tau, the innate immune system, cholesterol metabolism, or synaptic plasticity. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1622]
+- ApoE is the major carrier of cholesterol and other lipids in the blood, encoded by three alleles that differ at only a few amino acids. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1393]
+- The ApoE4 allele increases the risk of developing AD by approximately fourfold compared to ApoE2 or ApoE3. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1393]
+- ApoE4 is present in only a few percent of the general population but in 40-50% of those with AD. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1393]
+- The mechanism by which ApoE4 predisposes to AD is not known, and ApoE4 is also a risk factor for Parkinson disease and multiple sclerosis. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1393]
 
 ## Inferences
 
@@ -56,9 +64,14 @@ Apolipoprotein E (ApoE) is an apolipoprotein expressed at high levels in the bra
 
 ## Related pages
 
+- Broader: [[alzheimers-disease-genetics]]
+- Broader: [[lipid-metabolism]]
 - Concepts: [[amyloid-aggregation]]
 - Concepts: [[neuroinflammation]]
 - Concepts: [[lipid-metabolism]]
+- Concepts: [[cholesterol]]
+- Concepts: [[lipid-transport]]
+- Concepts: [[genetic-risk-factors]]
 - Topics: [[alzheimer-disease]]
 - Topics: [[late-onset-ad]]
 - Topics: [[genetic-risk-factors]]
@@ -69,7 +82,9 @@ Apolipoprotein E (ApoE) is an apolipoprotein expressed at high levels in the bra
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

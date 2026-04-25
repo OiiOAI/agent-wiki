@@ -12,6 +12,8 @@ sources:
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian,
   Oshin.pdf#p1-500]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 canonical: Phineas P. Gage (1823–1861), American railroad construction foreman famous
   for surviving a traumatic brain injury
 confidence: high
@@ -20,6 +22,7 @@ aliases:
 - Phineas P. Gage
 - gage-1848-case
 - phineas-gage-case
+- Gage
 tags:
 - historical case study
 - brain injury
@@ -32,6 +35,9 @@ tags:
 - phineas-gage
 - prefrontal-cortex
 - history-neuroscience
+- frontal lobe
+- historical case
+- personality
 related:
   concepts:
   - frontal-cortex
@@ -41,9 +47,15 @@ related:
   - decision-making
   - social-behavior
   - frontal-lobe
+  - prefrontal function
+  - executive control
+  - personality change
+  - emotional control
   topics:
   - neurology
   - cognitive-neuroscience
+  - clinical neuroscience
+  - history of neuroscience
   entities:
   - john-harlow
   - david-ferrier
@@ -76,6 +88,11 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - After the accident, Gage became irresponsible, untrustworthy, and impatient of restraint or advice when it conflicted with his desires. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
 - Modern neuroimaging studies using Gage's skull (kept at Harvard) showed the lesion was most likely in the ventral and medial region of the prefrontal cortex on both sides. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
 - Despite normal intelligence, memory, speech, sensation, and movement after the accident, Gage's behavior changed completely in personal and social domains. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
+- In 1848, Phineas Gage survived a railroad construction accident in which a tamping iron was driven through his head by an explosion, damaging his prefrontal cortex. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
+- Before his injury, Gage was described as 'a shrewd, smart business man, very energetic and persistent in pursuing all his plans.'. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
+- After his injury, Gage became 'pertinaciously obstinate, yet capricious and vacillating, devising many plans of future operation, which are no sooner arranged than they are abandoned in turn for others appearing more feasible.'. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
+- The physician John Harlow provided the first clear description of Gage's case in 1868, documenting the dependence of personality on prefrontal cortex. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
+- Gage's injury resulted in damage to the orbital-ventromedial prefrontal cortex, an area involved in emotional processes associated with executive control of behavior. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
 
 ## Inferences
 
@@ -83,6 +100,11 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - Inference: Gage's case anticipated that normal social conduct requires particular brain regions, a concept that was radical for its time
 - Inference: Phineas Gage's case represents a foundational moment in cognitive neuroscience's study of decision-making, demonstrating that specific brain regions are necessary for normal decision behavior.
 - Inference: The Gage case influenced later work connecting brain damage to specific deficits in decision-making under risk, as studied by Damasio and Bechara.
+- Inference: Gage's case established that damage to specific brain regions, rather than causing general cognitive impairment, can produce selective changes in personality and decision-making, supporting the localization of function in the prefrontal cortex.
+
+## Uncertainties
+
+- Uncertain: Modern reconstructions suggest Gage's injury may have spared some medial prefrontal structures, though the behavioral changes were profound.
 
 ## Related pages
 
@@ -90,12 +112,17 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - Broader: [[case studies in neurology]]
 - Broader: [[frontal-lobe-syndrome]]
 - Broader: [[history-of-neuroscience]]
+- Broader: [[prefrontal cortex]]
+- Broader: [[orbital-ventromedial prefrontal cortex]]
+- Broader: [[frontal lobe]]
 - Narrower: [[elliot-patient]]
 - Narrower: [[ventromedial-prefrontal-cortex]]
 - Narrower: [[somatic-marker-hypothesis]]
 - Narrower: [[patient-ev]]
 - Adjacent: [[john-harlow]]
 - Adjacent: [[david-ferrier]]
+- Adjacent: [[Wisconsin Card Sort Test]]
+- Adjacent: [[EVR patient]]
 - Concepts: [[frontal-cortex]]
 - Concepts: [[decision-making-deficits]]
 - Concepts: [[brain-lesions]]
@@ -103,8 +130,14 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - Concepts: [[decision-making]]
 - Concepts: [[social-behavior]]
 - Concepts: [[frontal-lobe]]
+- Concepts: [[prefrontal function]]
+- Concepts: [[executive control]]
+- Concepts: [[personality change]]
+- Concepts: [[emotional control]]
 - Topics: [[neurology]]
 - Topics: [[cognitive-neuroscience]]
+- Topics: [[clinical neuroscience]]
+- Topics: [[history of neuroscience]]
 - Entities: [[john-harlow]]
 - Entities: [[david-ferrier]]
 - Entities: [[antonio-damasio]]
@@ -116,9 +149,11 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - Primary source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain - Antonio R_ Damasio,pdf.pdf#p1-332]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

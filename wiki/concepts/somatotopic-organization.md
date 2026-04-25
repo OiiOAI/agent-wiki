@@ -4,24 +4,35 @@ title: Somatotopic Organization
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - somatosensory
 - somatotopic
 - cortical-map
 - body-representation
+- neuroscience
+- sensory-processing
+- motor-control
+- neural-maps
 related:
   broader:
   - cortical-organization
   - sensory-processing
-  narrower: []
-  adjacent: []
+  - Neural Maps
+  - Sensory Systems
+  - Motor Systems
+  narrower:
+  - Homunculus
+  - Primary Somatosensory Cortex
+  - Primary Motor Cortex
+aliases: []
 ---
-
 
 # Somatotopic Organization
 
@@ -36,14 +47,26 @@ Somatotopic organization refers to the systematic mapping of the body surface wi
 - Wilder Penfield found that sensations from the lower limbs are mediated by neurons near the midline of the brain, while sensations from the upper body, hands, fingers, face, lips, and tongue are mediated by neurons located laterally. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p131]
 - The amount of cortical surface area devoted to each body part is proportional to the fineness of sensory discrimination, not to the mass of the body part, explaining the large representation of fingers, lips, and tongue. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p131]
 - The primary somatosensory cortex contains four complete maps of the body surface in Brodmann areas 3a, 3b, 1, and 2. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p135]
+- In somatosensory systems, neighboring groups of cells in the retina project to neighboring groups of cells in thalamic nuclei, which in turn project to neighboring regions of visual cortex. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p394]
+- The extent of representation of a body part in a neural map reflects the density of innervation and the fineness of control required for movements in that part. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p395]
+- The fovea of the retina has the highest density of photoreceptors and correspondingly more visual cortex is devoted to information from the fovea. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p394]
+- The motor map in primary motor cortex reflects the density of innervation and the fineness of motor control required for each body part. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p395]
 
 ## Related pages
 
 - Broader: [[cortical-organization]]
 - Broader: [[sensory-processing]]
+- Broader: [[Neural Maps]]
+- Broader: [[Sensory Systems]]
+- Broader: [[Motor Systems]]
+- Narrower: [[Homunculus]]
+- Narrower: [[Primary Somatosensory Cortex]]
+- Narrower: [[Primary Motor Cortex]]
 - Concepts: [[hierarchical-processing]]
 - Concepts: [[topographic-maps]]
 - Concepts: [[cortical-columns]]
+- Concepts: [[Topographic Organization]]
+- Concepts: [[Cortical Magnification]]
 - Entities: [[primary-somatosensory-cortex]]
 - Entities: [[primary-motor-cortex]]
 - Entities: [[dorsal-column-medial-lemniscal-system]]
@@ -52,7 +75,9 @@ Somatotopic organization refers to the systematic mapping of the body surface wi
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

@@ -12,6 +12,8 @@ sources:
   S_ Gazzaniga.pdf#p1-461]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - neuroscience
@@ -24,6 +26,8 @@ tags:
 - mentalizing
 - cognitive neuroscience
 - false belief
+- theory-of-mind
+- autism
 related:
   broader:
   - autism-spectrum-disorder
@@ -37,6 +41,7 @@ related:
   - false belief task
   - mentalizing
   - perspective-taking
+  - mind-blindness-hypothesis
   adjacent:
   - empathy
   - mirror neurons
@@ -69,6 +74,11 @@ Theory of mind refers to the ability to understand that other people have mental
 - The proposed double dissociation suggests patients with autism may lack mentalizing abilities but may not be deficient in sharing others' feelings, while patients with psychopathy lack empathy but are unimpaired in understanding others' thoughts and beliefs. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p250]
 - Empathic motivation may be a better predictor of engagement in other-regarding behavior than cognitive perspective-taking, because empathy engages motivational and emotional brain circuitries while theory of mind relies on networks typically less relevant for motivation and emotions. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p254]
 - Psychopaths may lack empathy but not cognitive perspective-taking, explaining why they can engage in antisocial behavior while being very good at manipulating others. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p254]
+- Theory of mind is the capacity to attribute mental states to others, allowing prediction of behavior based on inferring desires, intentions, beliefs, and knowledge. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1480]
+- The mind blindness hypothesis proposes that autism involves a deficit in mentalizing that underlies social communication impairments. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1480]
+- The Sally-Anne test demonstrated that young autistic children cannot predict where a puppet will first look for an object that was moved while the puppet was out of the room. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1481]
+- Four brain regions are associated with mentalizing: medial prefrontal cortex, temporoparietal region, amygdala, and inferior temporal region. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1481]
+- People with autism often show reduced activation and weaker connectivity in the mentalizing network during functional imaging studies. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1481]
 
 ## Inferences
 
@@ -77,6 +87,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Inference: Theory of mind and empathy appear to rely on distinct neural circuitries, as evidenced by their different impairment patterns in clinical populations (autism affects ToM but not necessarily empathy; psychopathy affects empathy but not ToM)
 - Inference: The medial prefrontal cortex may represent mental states decoupled from reality, while the superior temporal sulcus processes causal relationships between visual motion/action and intended goals
 - Inference: The distinction between 'cold' cognitive mentalizing and 'hot' empathic understanding may represent two distinct roots to understanding other people's minds.
+- Inference: The text notes that typically developing infants as young as 7 months show spontaneous mentalizing, suggesting this ability develops early in life and may be impaired in autism from early development.
 
 ## Uncertainties
 
@@ -95,6 +106,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Narrower: [[false belief task]]
 - Narrower: [[mentalizing]]
 - Narrower: [[perspective-taking]]
+- Narrower: [[mind-blindness-hypothesis]]
 - Adjacent: [[empathy]]
 - Adjacent: [[mirror neurons]]
 - Adjacent: [[social reasoning]]
@@ -108,20 +120,25 @@ Theory of mind refers to the ability to understand that other people have mental
 - Concepts: [[autism-spectrum-disorders]]
 - Concepts: [[psychopathy]]
 - Concepts: [[social-cognition]]
+- Concepts: [[amygdala]]
+- Concepts: [[medial-prefrontal-cortex]]
 - Topics: [[social-neuroscience]]
 - Topics: [[mentalizing-network]]
 - Entities: [[david-premack]]
 - Entities: [[daniel-povinelli]]
 - Entities: [[michael-tomasello]]
+- Entities: [[autism-spectrum-disorder]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

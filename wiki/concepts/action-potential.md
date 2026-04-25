@@ -13,12 +13,15 @@ sources:
 - '[raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos
   Llinás.pdf#p1-305]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 related:
   broader:
   - neurophysiology
   - synaptic-transmission
   - neuronal signaling
+  - electrophysiology
   narrower:
   - sodium-channels
   - potassium-channels
@@ -27,6 +30,9 @@ related:
   - ionic hypothesis
   - voltage-gated channels
   - refractory period
+  - trigger zone
+  - resting membrane potential
+  - myelination
 tags:
 - electrophysiology
 - neuronal-signaling
@@ -60,6 +66,16 @@ The action potential is the fundamental, universal electrical language of the ne
 - Adrian discovered that intensity of stimulus is encoded by the frequency of action potentials, not by their size. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p91]
 - The action potential propagates without failure because the current generated is substantially greater than needed to excite the neighboring region of axon. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p96]
 - Helmholtz found in 1859 that nerve conduction occurs at speeds up to 90 feet per second—much slower than light but active rather than passive propagation. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p88]
+- Action potentials are the signals by which the brain receives, analyzes, and conveys information. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p74]
+- Action potentials are all-or-none: stimuli below threshold produce no signal, stimuli above threshold all produce signals of the same amplitude. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p84]
+- Unlike receptor and synaptic potentials which spread passively and decrease in amplitude, action potentials do not decay because they are periodically regenerated. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p84]
+- Action potentials can travel at rates as fast as 100 m/s. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p84]
+- Only two features of the conducting signal convey information: the number of action potentials and the time intervals between them. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p84]
+- Edgar Adrian demonstrated that all action potentials have a similar shape regardless of whether they carry visual, tactile, or pain information. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p84]
+- Action potentials have a threshold typically around −50 mV, above which they are generated in an all-or-none fashion. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p200]
+- The rising phase of the action potential is caused by Na+ influx through voltage-gated Na+ channels, driving the membrane toward ENa (+55 mV). [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p209]
+- The falling phase results from Na+ channel inactivation and delayed K+ channel opening, causing net K+ efflux. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p209]
+- The absolute refractory period lasts approximately 5–10 ms due to Na+ channel inactivation and residual K+ channel opening. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p209]
 
 ## Inferences
 
@@ -70,6 +86,7 @@ The action potential is the fundamental, universal electrical language of the ne
 - Broader: [[neurophysiology]]
 - Broader: [[synaptic-transmission]]
 - Broader: [[neuronal signaling]]
+- Broader: [[electrophysiology]]
 - Narrower: [[sodium-channels]]
 - Narrower: [[potassium-channels]]
 - Narrower: [[depolarization]]
@@ -77,6 +94,9 @@ The action potential is the fundamental, universal electrical language of the ne
 - Narrower: [[ionic hypothesis]]
 - Narrower: [[voltage-gated channels]]
 - Narrower: [[refractory period]]
+- Narrower: [[trigger zone]]
+- Narrower: [[resting membrane potential]]
+- Narrower: [[myelination]]
 - Concepts: [[synaptic-transmission]]
 - Concepts: [[frequency-modulation]]
 - Concepts: [[neuronal-firing]]
@@ -86,6 +106,12 @@ The action potential is the fundamental, universal electrical language of the ne
 - Concepts: [[saltatory-conduction]]
 - Concepts: [[membrane-potential]]
 - Concepts: [[ion-channels]]
+- Concepts: [[voltage-gated-sodium-channels]]
+- Concepts: [[voltage-gated-potassium-channels]]
+- Concepts: [[depolarization]]
+- Concepts: [[repolarization]]
+- Concepts: [[refractory-period]]
+- Concepts: [[threshold]]
 - Topics: [[neuronal-signaling]]
 - Topics: [[cellular-neuroscience]]
 - Entities: [[voltage-gated-sodium-channel]]
@@ -93,6 +119,7 @@ The action potential is the fundamental, universal electrical language of the ne
 - Entities: [[alan-hodgkin-and-andrew-huxley]]
 - Entities: [[edgar-douglas-adrian]]
 - Entities: [[bernstein]]
+- Entities: [[Edgar Adrian]]
 
 ## Provenance
 
@@ -100,6 +127,7 @@ The action potential is the fundamental, universal electrical language of the ne
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p1-305]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
@@ -107,3 +135,4 @@ The action potential is the fundamental, universal electrical language of the ne
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
 - 2026-04-25 — merged contributions from `i-of-the-vortex-from-neurons-to-self-rodolfo-riascos-llina-s`.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

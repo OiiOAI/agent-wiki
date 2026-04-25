@@ -4,21 +4,22 @@ title: Resting Membrane Potential
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - membrane-biology
 - electrophysiology
 - ion-transport
-related:
-  broader: []
-  narrower: []
-  adjacent: []
+- membrane-potential
+- ion-gradients
+related: {}
+aliases: []
 ---
-
 
 # Resting Membrane Potential
 
@@ -32,6 +33,9 @@ The resting membrane potential is the electrical potential difference across the
 - In glial cells, resting channels permeable only to K+ produce a resting potential near EK (−75 mV) because K+ efflux down its concentration gradient creates charge separation. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p241]
 - In nerve cells, resting channels permeable to K+, Na+, and Cl− produce a resting potential (−65 mV) determined by the balance of ion fluxes and their equilibrium potentials. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p242]
 - The Na+-K+ pump (Na+-K+ ATPase) uses ATP hydrolysis to extrude three Na+ ions and import two K+ ions per cycle, maintaining the ionic gradients that establish the resting potential. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p243]
+- The resting membrane potential in most nerve cells ranges from −60 mV to −70 mV. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p179]
+- The resting membrane potential is determined by the passive flux of ions through resting channels, primarily permeable to K+. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p181]
+- In glial cells, which are permeable only to K+, the resting potential is approximately −75 mV, equal to the K+ equilibrium potential. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p181]
 
 ## Inferences
 
@@ -44,12 +48,18 @@ The resting membrane potential is the electrical potential difference across the
 - Concepts: [[sodium-potassium-pump]]
 - Concepts: [[action-potential]]
 - Concepts: [[membrane-capacitance]]
+- Concepts: [[membrane-potential]]
+- Concepts: [[equilibrium-potential]]
+- Concepts: [[depolarization]]
+- Concepts: [[hyperpolarization]]
 - Topics: [[ion-channels]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

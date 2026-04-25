@@ -4,25 +4,26 @@ title: Synaptic Plasticity
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - plasticity
 - learning
 - memory
 related:
-  broader: []
   narrower:
   - long-term-potentiation
   - long-term-depression
   - neuronal-excitability-plasticity
   adjacent:
   - homeostatic-plasticity
+aliases: []
 ---
-
 
 # Synaptic Plasticity
 
@@ -39,6 +40,9 @@ Synaptic plasticity refers to activity-dependent changes in the strength of syna
 - Synapses with an initial high probability of release normally undergo depression because the high rate of release transiently depletes docked vesicles; synapses with low initial release probability undergo facilitation. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p397]
 - During tetanic stimulation, residual calcium accumulates in presynaptic terminals, enhancing synaptic transmission for minutes to hours by activating calcium-dependent enzymes that increase vesicle priming. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p398]
 - Presynaptic terminals can be modulated by axo-axonic synapses that regulate transmitter release through changes in calcium influx or direct actions on the release machinery. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p398]
+- Post-tetanic potentiation can persist for several minutes to an hour at some synapses, resulting from residual Ca2+ that activates Ca2+-sensitive enzymes increasing vesicle priming. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p335]
+- Synaptic depression during prolonged stimulation results from depletion of releasable synaptic vesicles at active zones. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p335]
+- During tetanic stimulation the RIM and Munc13 complex helps maintain transmitter release by acting through diacylglycerol to promote vesicle priming. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p335]
 
 ## Inferences
 
@@ -57,14 +61,24 @@ Synaptic plasticity refers to activity-dependent changes in the strength of syna
 - Concepts: [[calcium-signaling]]
 - Concepts: [[short-term-plasticity]]
 - Concepts: [[long-term-plasticity]]
+- Concepts: [[post-tetanic potentiation]]
+- Concepts: [[synaptic depression]]
+- Concepts: [[residual calcium]]
+- Concepts: [[long-term potentiation]]
 - Topics: [[synaptic-transmission]]
 - Topics: [[learning]]
 - Topics: [[memory]]
+- Topics: [[learning and memory]]
+- Topics: [[synaptic modulation]]
+- Entities: [[RIM]]
+- Entities: [[Munc13]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

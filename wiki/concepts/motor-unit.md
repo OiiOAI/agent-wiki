@@ -4,22 +4,24 @@ title: Motor Unit
 type: concept
 status: draft
 created: '2026-04-22'
-updated: '2026-04-22'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - motor control
 - spinal cord
 - neuromuscular junction
 - muscle physiology
-related:
-  broader: []
-  narrower: []
-  adjacent: []
+- motor-unit
+- motor-neuron
+- muscle
+related: {}
+aliases: []
 ---
-
 
 # Motor Unit
 
@@ -39,6 +41,10 @@ The motor unit comprises a motor neuron and the muscle fibers it innervates, for
 - All muscle fibers within a motor unit are of the same histochemical type. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1462]
 - Motor units are recruited in a fixed order for both voluntary and reflex movements, with smallest units recruited first. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1462]
 - Motor unit disorders include motor neuron diseases, peripheral neuropathies, neuromuscular junction disorders, and myopathies. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1462]
+- A motor unit consists of a motor neuron and the muscle fibers that it innervates, concept proposed by Charles Sherrington in 1925. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p819]
+- The innervation number (number of muscle fibers within a motor unit) ranges from approximately 5 for an eye muscle to 1,800 for a leg muscle, indicating differences in the average increment in force when a motor unit is activated. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p821]
+- Motor units can be classified as slow-twitch (type I) with long contraction times and fatigue resistance, or fast-twitch (type II) with shorter contraction times that can be further divided into least fatigable (IIa) and most fatigable (IIb/IIx) subtypes. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p822]
+- Motor units are recruited progressively from the weakest to the strongest during a voluntary contraction, a phenomenon known as the size principle of motor neuron recruitment described by Elwood Henneman in 1957. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p824]
 
 ## Related pages
 
@@ -53,13 +59,23 @@ The motor unit comprises a motor neuron and the muscle fibers it innervates, for
 - Concepts: [[upper-motor-neurons]]
 - Concepts: [[neuromuscular-junction]]
 - Concepts: [[muscle-atrophy]]
+- Concepts: [[muscle-spindle]]
+- Concepts: [[alpha-motor-neuron]]
+- Concepts: [[gamma-motor-neuron]]
+- Concepts: [[reciprocal-innervation]]
+- Topics: [[motor-control]]
+- Topics: [[muscle-physiology]]
 - Entities: [[motor-neuron]]
 - Entities: [[skeletal-muscle]]
+- Entities: [[charles-sherrington]]
+- Entities: [[elwood-henneman]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

@@ -11,6 +11,8 @@ sources:
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 - '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
   - Suzanne Corkin.pdf#p1-402]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - synaptic-plasticity
@@ -22,16 +24,22 @@ related:
   broader:
   - synaptic-plasticity
   - memory
+  - synaptic plasticity
+  - explicit memory
+  - hippocampus
   narrower:
   - long-term-depression
   - early-ltp
   - late-ltp
   - early-phase-ltp
   - late-phase-ltp
+  - late-LTP
+  - NMDA receptor-dependent LTP
   adjacent:
   - nmda-receptor
   - hebbian-synapse
   - long-term-depression
+  - long-term depression
 aliases: []
 ---
 
@@ -64,25 +72,46 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - LTP has three basic features: persistence (lasting from hours to potentially a year), input specificity (restricted to active pathways), and associativity (both sending and receiving neurons must be simultaneously active). [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p133]
 - A 1986 study showed that blocking LTP in rats' hippocampi impaired their performance on the Morris water maze, linking deficient LTP to spatial amnesia similar to Henry's difficulty navigating after his surgery. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p133]
 - LTP provides evidence of neuroplasticity, the brain's ability to change with experience, through both structural plasticity (dendrite and synapse changes) and functional plasticity (synapse strength changes). [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p132]
+- LTP at Schaffer collateral synapses requires activation of NMDA receptors and Ca2+ influx into CA1 pyramidal neuron spines. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1544]
+- At mossy fiber synapses with CA3 pyramidal neurons, LTP is nonassociative and depends on presynaptic Ca2+ influx activating a calcium/calmodulin-dependent adenylyl cyclase, increasing cAMP and activating protein kinase A. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1544]
+- LTP at Schaffer collateral synapses exhibits three key properties: cooperativity (requires near-simultaneous activation of many afferent axons), associativity (weak input paired with strong input undergoes LTP), and synapse specificity (only activated synapses are potentiated). [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1548]
+- Early LTP (induced by one tetanus) lasts 1–3 hours and does not require new protein synthesis; late LTP (induced by four or more tetani) lasts up to 24 hours and requires cAMP, PKA, CREB activation, and new protein synthesis. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1550]
+- Late LTP maintenance depends on PKMζ, a constitutively active isoform of protein kinase C lacking a regulatory domain, which maintains increased AMPA receptor insertion in the postsynaptic membrane. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1553]
+- LTP at Schaffer collateral-CA1 synapses requires activation of NMDA receptors and the subsequent influx of Ca2+ into the postsynaptic neuron. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1557]
+- Mice lacking the NR1 subunit of the NMDA receptor in CA1 pyramidal neurons fail to show LTP and have impaired spatial memory in the Morris water maze. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1559]
+- Mice that overexpress the NR2B subunit of the NMDA receptor show enhanced LTP and improved spatial learning and memory. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1560]
+- LTP is thought to be required not only for memory formation but also for the long-term stabilization of place fields in hippocampal neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1563]
 
 ## Inferences
 
 - Inference: LTP and related forms of synaptic plasticity provide the cellular substrate for long-term memory storage, as suggested by Donald Hebb's 1949 proposal that synchronized pre- and postsynaptic activity strengthens synaptic connections.
 - Inference: The NMDA receptor's requirement for both presynaptic glutamate release AND postsynaptic depolarization fulfills Hebb's coincidence requirement for synaptic modification.
 - Inference: LTP may be necessary for learning, though scientists cannot yet prove it is as enduring as long-term memories, which may last decades while LTP lasts weeks at most.
+- Inference: The requirement for NMDA receptors in Schaffer collateral LTP connects it mechanistically to classical conditioning in the amygdala and sensitization in Aplysia, suggesting a conserved molecular pathway for associative memory storage across species.
+- Inference: Because LTP induction occludes subsequent LTP induction by electrical stimulation, the enhanced synaptic transmission following spatial training is likely caused by natural induction of LTP during learning.
+
+## Uncertainties
+
+- Uncertain: The precise identity of the retrograde messenger(s) that communicate from postsynaptic CA1 neurons to presynaptic Schaffer collateral terminals to enhance transmitter release during LTP remains uncertain; nitric oxide (NO) is suggested but not confirmed.
 
 ## Related pages
 
 - Broader: [[synaptic-plasticity]]
 - Broader: [[memory]]
+- Broader: [[synaptic plasticity]]
+- Broader: [[explicit memory]]
+- Broader: [[hippocampus]]
 - Narrower: [[long-term-depression]]
 - Narrower: [[early-ltp]]
 - Narrower: [[late-ltp]]
 - Narrower: [[early-phase-ltp]]
 - Narrower: [[late-phase-ltp]]
+- Narrower: [[late-LTP]]
+- Narrower: [[NMDA receptor-dependent LTP]]
 - Adjacent: [[nmda-receptor]]
 - Adjacent: [[hebbian-synapse]]
 - Adjacent: [[long-term-depression]]
+- Adjacent: [[long-term depression]]
 - Concepts: [[hippocampus]]
 - Concepts: [[memory]]
 - Concepts: [[calcium-signaling]]
@@ -94,16 +123,33 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Concepts: [[spatial-memory]]
 - Concepts: [[memory-consolidation]]
 - Concepts: [[neuroplasticity]]
+- Concepts: [[long-term depression]]
+- Concepts: [[synaptic plasticity]]
+- Concepts: [[hebbian learning]]
+- Concepts: [[early-phase LTP]]
+- Concepts: [[late-phase LTP]]
+- Concepts: [[NMDA receptor]]
+- Concepts: [[AMPA receptor]]
+- Concepts: [[CaMKII]]
+- Concepts: [[place cells]]
+- Concepts: [[spatial memory]]
 - Topics: [[cellular-neuroscience]]
+- Topics: [[explicit memory]]
+- Topics: [[hippocampal memory systems]]
+- Entities: [[CA1 pyramidal neuron]]
+- Entities: [[CA3 pyramidal neuron]]
+- Entities: [[dentate gyrus]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.

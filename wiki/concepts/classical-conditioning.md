@@ -10,6 +10,8 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
   - Suzanne Corkin.pdf#p1-402]'
+- '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
+  of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 confidence: high
 tags:
 - learning
@@ -42,6 +44,9 @@ Classical conditioning is an associative learning process where a neutral condit
 - Henry produced conditioned responses in both delay and trace procedures despite extensive hippocampal and cerebellar damage. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p184]
 - For delay conditioning, the control participant reached criterion in 315 trials, whereas Henry required 473 trials. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p184]
 - Two years after initial conditioning, Henry reached criterion for trace conditioning in only nine trials, demonstrating durable storage of learned responses. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p185]
+- In classical conditioning, the conditioned stimulus (CS) must precede the unconditioned stimulus (US) within approximately 0.5 seconds for effective conditioning in the Aplysia gill-withdrawal reflex. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1519]
+- Extinction, the decrease in conditioned response when CS is presented without US, represents new learning that the CS no longer predicts the US, not simple forgetting of the original association. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1507]
+- Conditioned eyeblink in rabbits depends on the cerebellum; lesions of the vermis or interpositus nucleus abolish the conditioned response while leaving the unconditioned response intact. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1508]
 
 ## Inferences
 
@@ -61,6 +66,10 @@ Classical conditioning is an associative learning process where a neutral condit
 - Concepts: [[cerebellum]]
 - Concepts: [[delay-conditioning]]
 - Concepts: [[trace-conditioning]]
+- Concepts: [[habituation]]
+- Concepts: [[fear conditioning]]
+- Topics: [[associative learning]]
+- Topics: [[implicit memory]]
 - Entities: [[Aplysia]]
 - Entities: [[amygdala]]
 - Entities: [[cerebellum]]
@@ -71,8 +80,10 @@ Classical conditioning is an associative learning process where a neutral condit
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
+- Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
+- 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
