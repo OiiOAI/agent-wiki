@@ -6178,3 +6178,60 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zheng-ming.md`
 - Files deprecated: None.
 - Notes: 61 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | daodejing
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub
+- Files created:
+  - `wiki/entities/laozi.md`
+  - `wiki/entities/meng-changjun.md`
+  - `wiki/entities/tang-taizong.md`
+  - `wiki/entities/tao-kan.md`
+  - `wiki/entities/tao-zhu-gong.md`
+  - `wiki/entities/wu-neng-zi.md`
+  - `wiki/concepts/ai-bing-bi-sheng.md`
+  - `wiki/concepts/bu-yan-zhi-jiao.md`
+  - `wiki/concepts/chong-ru-ruo-jing.md`
+  - `wiki/concepts/da-qiao-ru-zhuo.md`
+  - `wiki/concepts/dao-de-jing-cyclical-theory.md`
+  - `wiki/concepts/dao-fa-zi-ran.md`
+  - `wiki/concepts/dao-ji.md`
+  - `wiki/concepts/dao-sheng-yi.md`
+  - `wiki/concepts/dao.md`
+  - `wiki/concepts/de.md`
+  - `wiki/concepts/gong-cheng-shen-tui.md`
+  - `wiki/concepts/he-guang-tong-chen.md`
+  - `wiki/concepts/huo-fu-xiang-yi.md`
+  - `wiki/concepts/qian-xia.md`
+  - `wiki/concepts/qu-ze-quan.md`
+  - `wiki/concepts/rou-ruo-sheng-gang-qiang.md`
+  - `wiki/concepts/san-bao.md`
+  - `wiki/concepts/shang-de-bu-de.md`
+  - `wiki/concepts/shen-zhong-ru-shi.md`
+  - `wiki/concepts/tian-dao-wu-qin-chang-yu-shan-ren.md`
+  - `wiki/concepts/wei-er-bu-zheng.md`
+  - `wiki/concepts/wei-fu-bu-wei-mu.md`
+  - `wiki/concepts/wei-miao-xuan-tong.md`
+  - `wiki/concepts/wu-wei-er-wu-bu-wei.md`
+  - `wiki/concepts/wu-zhi-yi-wei-yong.md`
+  - `wiki/concepts/xi-ming.md`
+  - `wiki/concepts/xiao-guo-gua-min.md`
+  - `wiki/concepts/xuan-de.md`
+  - `wiki/concepts/yi-de-bao-yuan.md`
+  - `wiki/concepts/yu-shi-zhui-xing.md`
+  - `wiki/concepts/zhi-da-guo-ruo-peng-xiao-xian.md`
+  - `wiki/concepts/zhi-ren-lun-shi.md`
+  - `wiki/concepts/zhi-xiong-shou-ci.md`
+  - `wiki/concepts/zhi-xu-ji-shou-jing-du.md`
+  - `wiki/concepts/zhi-zu-chang-le.md`
+  - `wiki/concepts/zhi-zu.md`
+  - `wiki/concepts/zhong-wei-qing-gen-jing-wei-zao-jun.md`
+  - `wiki/sources/dao-de-jing-zhang-jing-zhang-songhui.md`
+- Files merged (extended):
+  - `wiki/entities/zeng-guo-fan.md`
+  - `wiki/entities/zhu-xi.md`
+  - `wiki/concepts/bian-zheng-fa.md`
+  - `wiki/concepts/bu-zheng-zhi-de.md`
+  - `wiki/concepts/wu-wei.md`
+- Files deprecated: None.
+- Notes: 44 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

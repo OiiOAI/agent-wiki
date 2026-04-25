@@ -11,6 +11,7 @@ sources:
   朱熹; 柯誉.epub#L1-L1]'
 - '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
 - '[raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]'
+- '[raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1]'
 canonical: 朱熹
 confidence: high
 aliases:
@@ -35,6 +36,8 @@ tags:
 - 挂扐法
 - 变占法
 - 朱熹著作
+- 宋代
+- 哲学
 related:
   concepts:
   - 理学
@@ -52,6 +55,8 @@ related:
   - 遁卦
   - 家人卦
   - 易学
+  - 宋代理学
+  - 道统思想
   topics:
   - 宋明理学
   - 儒家哲学
@@ -65,6 +70,7 @@ related:
   - 邵雍
   - 王应麟
   - 蔡元定
+  - 老子
 ---
 
 # 朱熹
@@ -104,6 +110,9 @@ related:
 - 朱熹在《本义》中释遁卦为退避之意，卦辞为'遁，亨，小利贞'. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p249]
 - 初六遁尾爻辞为'遁尾厉，勿用有攸往'，朱子释为危之道，当晦处静候可免灾. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p249]
 - 九四好遁爻辞为'君子吉，小人否'，象征君子能绝去所好而遁. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p250]
+- 朱熹认为「理也者，形而上之道也，生物之本也；气也者，形而下之器也，生物之具也」. [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L3228-L3230]
+- 朱熹认为「无是气，则是理亦无挂搭处」（《朱子语类》卷一）. [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L3231-L3233]
+- 老子「道生之」中的「道」相当于朱熹的「理」，「物形之」中的「物」相当于朱熹的「气」. [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L3259-L3262]
 
 ## Inferences
 
@@ -112,6 +121,7 @@ related:
 - Inference: 朱熹的“变占”之法对宋以后的人只起参考作用，并不为解占者当法式遵循，因为古人解占“筮无定法”，并不受框框限制。
 - Inference: 朱熹取名遁翁，取遁卦退而避之之意，拟遁自己于家中
 - Inference: 遁之家人卦的卦义与朱子当时的政治处境若合符节
+- Inference: 老子与朱熹在万物生成论上的相似性表明，中国哲学中「无形规律」与「有形物质」共同作用产生万物的思想具有一贯性
 
 ## Uncertainties
 
@@ -126,11 +136,13 @@ related:
 - Narrower: [[易学启蒙]]
 - Narrower: [[挂扐法]]
 - Narrower: [[变占法]]
+- Narrower: [[理气论]]
 - Adjacent: [[王弼]]
 - Adjacent: [[欧阳修]]
 - Adjacent: [[程颐]]
 - Adjacent: [[王懋竑]]
 - Adjacent: [[陈荣捷]]
+- Adjacent: [[老子]]
 - Concepts: [[理学]]
 - Concepts: [[性即理]]
 - Concepts: [[格物致知]]
@@ -146,6 +158,8 @@ related:
 - Concepts: [[遁卦]]
 - Concepts: [[家人卦]]
 - Concepts: [[易学]]
+- Concepts: [[宋代理学]]
+- Concepts: [[道统思想]]
 - Topics: [[宋明理学]]
 - Topics: [[儒家哲学]]
 - Entities: [[陆象山]]
@@ -157,6 +171,7 @@ related:
 - Entities: [[邵雍]]
 - Entities: [[王应麟]]
 - Entities: [[蔡元定]]
+- Entities: [[老子]]
 
 ## Provenance
 
@@ -164,6 +179,7 @@ related:
 - Additional source: [raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub#L1-L1]
 - Additional source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
 - Additional source: [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]
+- Additional source: [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1]
 
 ## Change notes
 
@@ -171,3 +187,4 @@ related:
 - 2026-04-25 — merged contributions from `周易本义-original-meaning-of-the-book-of-changes-朱熹著-柯誉整理-朱熹-柯誉`.
 - 2026-04-25 — merged contributions from `周易概论-刘大钧`.
 - 2026-04-25 — merged contributions from `易学本体论-成中英著-成中英`.
+- 2026-04-25 — merged contributions from `daodejing`.
