@@ -10,6 +10,7 @@ sources:
   - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/strategy/Thinking_in_Bets.epub#L1-L1]'
 confidence: high
 tags:
 - temporal-discounting
@@ -20,6 +21,9 @@ tags:
 - delayed reward
 - impulsivity
 - reward prediction
+- psychology
+- decision-making
+- self-control
 related:
   broader:
   - impulsivity
@@ -28,6 +32,8 @@ related:
   - value-based-decision-making
   - reward learning
   - decision making
+  - behavioral-economics
+  - cognitive-psychology
   narrower:
   - delay discounting
   - intertemporal choice
@@ -35,6 +41,9 @@ related:
   adjacent:
   - probabilistic-discounting
   - risk-taking
+  - mental-time-travel
+  - self-control
+  - retirement-planning
 aliases: []
 ---
 
@@ -58,6 +67,14 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 - The discount factor gamma defines the temporal focus of cumulative reward prediction: gamma = 0 considers only immediate reward, while gamma close to 1 includes long-delayed rewards. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p410]
 - A ventromedial-to-dorsolateral gradient in the striatum corresponds to short-to-long timescales of reward prediction. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p411]
 - A low setting of gamma can lead to short-sighted, impulsive behaviors. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p410]
+- Temporal discounting causes us to irrationally prioritize present-self's desires at the expense of future-self's wellbeing, as illustrated by Night Jerry staying up late regardless of Morning Jerry's consequences. [raw/books/strategy/Thinking_in_Bets.epub#L1525-L1530]
+- A 1990s military drawdown study found employees chose lump-sum retirement payments worth $2.5 billion, a 40% discount compared to the present value of annuity payments they would have received. [raw/books/strategy/Thinking_in_Bets.epub#L1540-L1543]
+- The neural basis of temporal discounting involves the prefrontal cortex (System 2, deliberative thinking) versus the limbic system (emotional, immediate responses). [raw/books/strategy/Thinking_in_Bets.epub#L1555-L1558]
+- Mental time travel can counteract temporal discounting by connecting present-self with future-self's perspective and reminding us not to over-discount future consequences. [raw/books/strategy/Thinking_in_Bets.epub#L1546-L1548]
+- Temporal discounting causes people to undervalue future rewards, contributing to the widespread retirement savings shortfall. [raw/books/strategy/Thinking_in_Bets.epub#L2180-L2195]
+- Hal Hershfield's research shows that increasing future self-continuity reduces temporal discounting and increases saving. [raw/books/strategy/Thinking_in_Bets.epub#L2180-L2195]
+- Age-progression technology, which renders aged images of users, has been shown to increase retirement savings behavior in studies. [raw/books/strategy/Thinking_in_Bets.epub#L2180-L2195]
+- The Bank of America Merrill Edge app uses 3D age-progression technology to help users visualize their retirement selves. [raw/books/strategy/Thinking_in_Bets.epub#L2180-L2195]
 
 ## Inferences
 
@@ -65,6 +82,7 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 - Inference: The dissociation between preserved temporal discounting but reduced future time perspective in VMF patients suggests these are dissociable constructs with different neural substrates.
 - Inference: The anatomical organization of temporal discounting in the striatum suggests that different subregions are specialized for different time horizons of reward prediction.
 - Inference: This gradient organization may explain individual differences in impulsivity and self-control, which depend on the relative engagement of ventromedial versus dorsolateral striatal regions.
+- Inference: Reducing temporal discounting may be achieved through interventions that strengthen psychological connection to the future self.
 
 ## Uncertainties
 
@@ -78,11 +96,16 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 - Broader: [[value-based-decision-making]]
 - Broader: [[reward learning]]
 - Broader: [[decision making]]
+- Broader: [[behavioral-economics]]
+- Broader: [[cognitive-psychology]]
 - Narrower: [[delay discounting]]
 - Narrower: [[intertemporal choice]]
 - Narrower: [[reward prediction]]
 - Adjacent: [[probabilistic-discounting]]
 - Adjacent: [[risk-taking]]
+- Adjacent: [[mental-time-travel]]
+- Adjacent: [[self-control]]
+- Adjacent: [[retirement-planning]]
 - Concepts: [[waiting-impulsivity]]
 - Concepts: [[reward-value]]
 - Concepts: [[vmf-decision-making]]
@@ -92,7 +115,14 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 - Concepts: [[impulsivity]]
 - Concepts: [[ventral striatum]]
 - Concepts: [[dorsal striatum]]
+- Concepts: [[mental-time-travel]]
+- Concepts: [[night-jerry-morning-jerry]]
+- Concepts: [[hyperbolic-discounting]]
+- Concepts: [[present-bias]]
+- Concepts: [[future-self-continuity]]
 - Topics: [[decision-neuroscience]]
+- Topics: [[future-self]]
+- Topics: [[self-control]]
 - Entities: [[nucleus-accumbens]]
 - Entities: [[prefrontal-cortex]]
 - Entities: [[ventromedial-frontal-lobe]]
@@ -102,8 +132,10 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 
 - Primary source: [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/strategy/Thinking_in_Bets.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `thinking-in-bets`.

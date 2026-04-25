@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]'
 - '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
   Dobelli; Nicky Griffin.pdf#p1-226]'
+- '[raw/books/strategy/Thinking_in_Bets.epub#L1-L1]'
 confidence: high
 tags:
 - hindsight-bias
@@ -19,10 +20,17 @@ tags:
 - prediction
 - judgment
 - certainty
+- cognitive-bias
+- decision-making
 related:
+  broader:
+  - cognitive-bias
   adjacent:
   - fallacy-of-single-cause
   - falsification-of-history
+  - self-serving-bias
+  - outcome-bias
+  - creeping-determinism
 aliases: []
 ---
 
@@ -43,29 +51,58 @@ Hindsight bias is the tendency to see past events as inevitable once their outco
 - The hindsight bias is the 'I told you so' phenomenon: in retrospect, everything seems clear and inevitable, making us believe we are better predictors than we actually are. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p41]
 - In 2007, economic experts painted rosy pictures for coming years; twelve months later the same experts enumerated obvious causes of the crash, when in reality nothing was predictable. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p41]
 - Studies show that people who are aware of hindsight bias fall for it just as much as everyone else, making it very difficult to overcome. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p42]
+- The CEO who fired his company president stated he thought he should have known the decision would turn out badly, exhibiting hindsight bias. [raw/books/strategy/Thinking_in_Bets.epub#L314-L317]
+- Hindsight bias develops from an overly tight connection between outcomes and decisions, causing people to treat probabilistic results as if they were inevitable. [raw/books/strategy/Thinking_in_Bets.epub#L318-L322]
+- Duke argues that Monday Morning Quarterbacks and critics of Pete Carroll's decision were guilty of hindsight bias, ignoring the probabilistic nature of the decision. [raw/books/strategy/Thinking_in_Bets.epub#L322-L326]
+- Judge Frank Easterbrook warned against hindsight bias in the legal system, overturning a $180 million punitive damages verdict in Jentz v. ConAgra Foods because there was no evidence the foreman foresaw the explosion that occurred. [raw/books/strategy/Thinking_in_Bets.epub#L1978-L1987]
+- The dendrology metaphor illustrates how, as the future becomes the past, the 'chainsaw' of the present cuts off all unrealized branches, making even low-probability events (2-3%) appear inevitable. [raw/books/strategy/Thinking_in_Bets.epub#L1966-L1972]
+- Hindsight bias is evident in reactions to the 2016 election, where Clinton's 30-40% chance of winning was treated as a 'twig' that should have been severed, despite being a substantial branch. [raw/books/strategy/Thinking_in_Bets.epub#L2010-L2014]
+- Scenario planning counteracts hindsight bias by memorializing all considered futures before an outcome occurs, making it harder to retroactively treat outcomes as inevitable. [raw/books/strategy/Thinking_in_Bets.epub#L1826-L1828]
+- Hindsight bias creates the illusion that past events were predictable, undermining accurate learning from experience. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
+- Baruch Fischhoff systematically demonstrated that outcome knowledge distorts judgment under uncertainty through hindsight bias. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
+- The bias contributes to overconfidence by making good outcomes seem inevitable when viewing past events with outcome knowledge. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
+- Judge Frank Easterbrook's Jentz v. ConAgra ruling addressed how hindsight bias affects legal judgments about business decisions. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
 
 ## Inferences
 
 - Inference: Hindsight bias may reduce learning from experience—if we feel we always knew what would happen, we may be less inclined to profit from the lessons an event can teach us.
+- Inference: Hindsight bias and resulting reinforce each other, creating a cycle where people both judge decisions solely by outcomes and believe they could have predicted those outcomes.
+- Inference: Combating hindsight bias requires deliberately considering alternative outcomes that could have occurred before learning what actually happened.
 
 ## Related pages
 
+- Broader: [[cognitive-bias]]
 - Adjacent: [[fallacy-of-single-cause]]
 - Adjacent: [[falsification-of-history]]
+- Adjacent: [[self-serving-bias]]
+- Adjacent: [[outcome-bias]]
+- Adjacent: [[creeping-determinism]]
 - Concepts: [[consistency-bias]]
 - Concepts: [[misattribution]]
 - Concepts: [[cognitive-dissonance]]
 - Concepts: [[story-bias]]
 - Concepts: [[outcome-bias]]
 - Concepts: [[forecast-illusion]]
+- Concepts: [[resulting]]
+- Concepts: [[cognitive-biases]]
+- Concepts: [[uncertainty]]
+- Concepts: [[scenario-planning]]
+- Concepts: [[temporal-discounting]]
+- Concepts: [[overconfidence]]
+- Concepts: [[foresight]]
 - Topics: [[memory-bias]]
+- Topics: [[decision-making-psychology]]
+- Topics: [[cognitive-bias]]
+- Topics: [[decision-quality]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]
 - Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
+- Additional source: [raw/books/strategy/Thinking_in_Bets.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.
+- 2026-04-25 — merged contributions from `thinking-in-bets`.

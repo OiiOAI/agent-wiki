@@ -10351,3 +10351,84 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/resilience.md`
 - Files deprecated: None.
 - Notes: 26 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | thinking-in-bets
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Thinking_in_Bets.epub
+- Files created:
+  - `wiki/entities/annie-duke.md`
+  - `wiki/entities/cass-sunstein.md`
+  - `wiki/entities/david-letterman.md`
+  - `wiki/entities/erik-seidel.md`
+  - `wiki/entities/hal-hershfield.md`
+  - `wiki/entities/heterodox-academy.md`
+  - `wiki/entities/jennifer-lerner.md`
+  - `wiki/entities/joe-kable.md`
+  - `wiki/entities/john-hennigan.md`
+  - `wiki/entities/john-stuart-mill.md`
+  - `wiki/entities/john-von-neumann.md`
+  - `wiki/entities/jon-haidt.md`
+  - `wiki/entities/mayfair-club.md`
+  - `wiki/entities/nate-silver.md`
+  - `wiki/entities/nick-the-greek.md`
+  - `wiki/entities/pete-carroll.md`
+  - `wiki/entities/phil-ivey.md`
+  - `wiki/entities/poker-vs-chess.md`
+  - `wiki/entities/robert-k-merton.md`
+  - `wiki/entities/steve-bartman.md`
+  - `wiki/entities/they-saw-a-game.md`
+  - `wiki/concepts/10-10-10.md`
+  - `wiki/concepts/all-decisions-are-bets.md`
+  - `wiki/concepts/backcasting.md`
+  - `wiki/concepts/belief-calibration.md`
+  - `wiki/concepts/belief-formation.md`
+  - `wiki/concepts/calibrated-uncertainty.md`
+  - `wiki/concepts/calibration.md`
+  - `wiki/concepts/confirmatory-thought.md`
+  - `wiki/concepts/conflict-of-interest.md`
+  - `wiki/concepts/cudos-norms.md`
+  - `wiki/concepts/cudos.md`
+  - `wiki/concepts/decision-making-under-uncertainty.md`
+  - `wiki/concepts/decision-swear-jar.md`
+  - `wiki/concepts/devil-s-advocate.md`
+  - `wiki/concepts/dissent-channel.md`
+  - `wiki/concepts/diversity-of-viewpoints.md`
+  - `wiki/concepts/echo-chamber.md`
+  - `wiki/concepts/exploratory-thought.md`
+  - `wiki/concepts/habit-loop.md`
+  - `wiki/concepts/leading-with-assent.md`
+  - `wiki/concepts/outcome-blindness.md`
+  - `wiki/concepts/outcome-fielding.md`
+  - `wiki/concepts/prediction-markets.md`
+  - `wiki/concepts/premortems.md`
+  - `wiki/concepts/rashomon-effect.md`
+  - `wiki/concepts/resulting.md`
+  - `wiki/concepts/scenario-planning.md`
+  - `wiki/concepts/snackwells-phenomenon.md`
+  - `wiki/concepts/system-1-system-2.md`
+  - `wiki/concepts/the-buddy-system-chapter.md`
+  - `wiki/concepts/the-matrix-red-pill.md`
+  - `wiki/concepts/ticker-watching.md`
+  - `wiki/concepts/tilt.md`
+  - `wiki/concepts/truthseeking-groups.md`
+  - `wiki/concepts/truthseeking-pod.md`
+  - `wiki/concepts/ulysses-contract.md`
+  - `wiki/concepts/uncertainty.md`
+  - `wiki/concepts/wanna-bet.md`
+  - `wiki/sources/thinking-in-bets.md`
+- Files merged (extended):
+  - `wiki/entities/gabriele-oettingen.md`
+  - `wiki/entities/gary-klein.md`
+  - `wiki/entities/philip-tetlock.md`
+  - `wiki/concepts/accountability.md`
+  - `wiki/concepts/game-theory.md`
+  - `wiki/concepts/groupthink.md`
+  - `wiki/concepts/hindsight-bias.md`
+  - `wiki/concepts/mental-time-travel.md`
+  - `wiki/concepts/motivated-reasoning.md`
+  - `wiki/concepts/perspective-taking.md`
+  - `wiki/concepts/premortem.md`
+  - `wiki/concepts/self-serving-bias.md`
+  - `wiki/concepts/temporal-discounting.md`
+- Files deprecated: None.
+- Notes: 60 new + 13 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
