@@ -5624,3 +5624,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zhi-guan.md`
 - Files deprecated: None.
 - Notes: 107 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | lishi-shanshui-yuqiao
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/历史山水渔樵 - 赵汀阳.pdf
+- Files created:
+  - `wiki/sources/lishi-shanshui-yuqiao.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
