@@ -11640,3 +11640,38 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/quan-qiu-hua.md`
 - Files deprecated: None.
 - Notes: 18 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 亲密关系的变革-现代社会中的性-爱和爱欲-英-安东尼-吉登斯-现代社会学文库-性社会学译丛-2001
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/亲密关系的变革 - 现代社会中的性 - 爱和爱欲 - 英 - 安东尼 - 吉登斯 - 现代社会学文库 - 性社会学译丛 - 2001.pdf
+- Files created:
+  - `wiki/entities/he-bo-te-ma-er-ku-sai.md`
+  - `wiki/entities/ka-sa-nuo-wa.md`
+  - `wiki/entities/su-shan-fu-hua-de.md`
+  - `wiki/entities/tang-pu-xun.md`
+  - `wiki/entities/wei-lian-lai-xi.md`
+  - `wiki/concepts/ai-yu.md`
+  - `wiki/concepts/chun-cui-guan-xi.md`
+  - `wiki/concepts/ge-ren-sheng-huo-de-min-zhu-hua.md`
+  - `wiki/concepts/gou-yin.md`
+  - `wiki/concepts/gu-ding-hua-guan-xi.md`
+  - `wiki/concepts/jie-fang-zheng-zhi.md`
+  - `wiki/concepts/ka-sa-nuo-fa-qing-jie.md`
+  - `wiki/concepts/ke-su-xing-xing-zheng.md`
+  - `wiki/concepts/lang-man-zhi-ai.md`
+  - `wiki/concepts/liang-xing-tong-ti.md`
+  - `wiki/concepts/nan-xing-xing-zheng.md`
+  - `wiki/concepts/ou-fa-xing-yu.md`
+  - `wiki/concepts/qin-mi-guan-xi-de-bian-ge.md`
+  - `wiki/concepts/rong-hui-zhi-ai.md`
+  - `wiki/concepts/xiang-hu-yi-lai.md`
+  - `wiki/concepts/xing-ji-jin-zhu-yi.md`
+  - `wiki/concepts/xing-jie-fang.md`
+  - `wiki/concepts/xing-yin.md`
+  - `wiki/concepts/you-du-de-fu-mu.md`
+  - `wiki/concepts/zi-zhi-xing-yuan-ze.md`
+  - `wiki/sources/qin-mi-guan-xi-de-bian-ge-xian-dai-she-hui-zhong-de-xing-ai-he-ai-yu-ying-an-dong-ni-ji-deng-si-xian-dai-she-hui-xue-wen-ku-xing-she-hui-xue-yi-cong-2001.md`
+- Files merged (extended):
+  - `wiki/concepts/sheng-huo-zheng-zhi.md`
+- Files deprecated: None.
+- Notes: 26 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
