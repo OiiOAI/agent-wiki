@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/business/Team_Topologies.epub#L1-L1]'
 - '[raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p1-450]'
+- '[raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf#p1-73]'
 canonical: Dave Snowden
 confidence: high
 aliases:
@@ -22,6 +23,9 @@ tags:
 - physicist
 - complexity
 - author
+- dave-snowden
+- cynefin
+- academic
 related:
   concepts:
   - cynefin-framework
@@ -33,6 +37,7 @@ related:
   - exaptive-practice
   - complexity-thinking
   - narrative-based-sense-making
+  - sense-making
   topics:
   - knowledge-management
   - complexity-thinking
@@ -67,6 +72,10 @@ Dave Snowden is known for developing the Cynefin framework for assessing domain 
 - Dave Snowden's demeanor combines that of a mad scientist, priest, and philosopher, wrapped around the skills of a debate champion. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p256]
 - Snowden's favorite place in the world is on top of Tryfan, a dinosaur-shaped mountain in alpine North Wales. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p250]
 - Dave Snowden developed the Cynefin Framework, which is now used in U.S. Armed Forces officer training. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p249]
+- Dave Snowden is Professor at University of Hull and Stellenbosch University. [raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf#p3]
+- He is the creator of the Cynefin framework which grew out of his work on naturalising sense-making. [raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf#p3]
+- The naturalising element links to the need to use natural science in understanding how humans interact with systems. [raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf#p3]
+- Snowden first presented the Cynefin framework at an internal European Commission training event in early 2010. [raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf#p5]
 
 ## Inferences
 
@@ -77,6 +86,8 @@ Dave Snowden is known for developing the Cynefin framework for assessing domain 
 
 ## Related pages
 
+- Broader: [[cynefin-framework]]
+- Broader: [[sense-making]]
 - Concepts: [[cynefin-framework]]
 - Concepts: [[complexity-theory]]
 - Concepts: [[sensemaking]]
@@ -86,6 +97,7 @@ Dave Snowden is known for developing the Cynefin framework for assessing domain 
 - Concepts: [[exaptive-practice]]
 - Concepts: [[complexity-thinking]]
 - Concepts: [[narrative-based-sense-making]]
+- Concepts: [[sense-making]]
 - Topics: [[knowledge-management]]
 - Topics: [[complexity-thinking]]
 - Topics: [[organizational-change]]
@@ -99,8 +111,10 @@ Dave Snowden is known for developing the Cynefin framework for assessing domain 
 
 - Primary source: [raw/books/business/Team_Topologies.epub#L1-L1]
 - Additional source: [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p1-450]
+- Additional source: [raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf#p1-73]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `cynefin-weaving-sense-making-into-the-fa-dave-snowden`.
+- 2026-04-25 — merged contributions from `managing-complexity-and-chaos-in-times-of-crisis-cynefin`.

@@ -11976,3 +11976,21 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/quan-li.md`
 - Files deprecated: None.
 - Notes: 134 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | managing-complexity-and-chaos-in-times-of-crisis-cynefin
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Managing complexity (and chaos) in times of crisis Cynefin.pdf
+- Files created:
+  - `wiki/concepts/aporetic-turn.md`
+  - `wiki/concepts/cadence-and-control.md`
+  - `wiki/concepts/constraints-in-crisis-management.md`
+  - `wiki/concepts/human-sensor-networks.md`
+  - `wiki/concepts/journaling-practices.md`
+  - `wiki/concepts/specialised-crews.md`
+  - `wiki/topics/cynefin-framework.md`
+  - `wiki/sources/managing-complexity-and-chaos-in-times-of-crisis.md`
+- Files merged (extended):
+  - `wiki/entities/dave-snowden.md`
+  - `wiki/concepts/exaptation.md`
+- Files deprecated: None.
+- Notes: 8 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
