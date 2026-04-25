@@ -10657,3 +10657,60 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/ren-li-zi-ben.md`
 - Files deprecated: None.
 - Notes: 21 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 保险精算丛书-利息理论-美-s-g-凯利森-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[保险精算丛书]利息理论·[美]S.G.凯利森 著.pdf
+- Files created:
+  - `wiki/entities/sg-kai-li-sen.md`
+  - `wiki/concepts/asset-liability-matching.md`
+  - `wiki/concepts/black-scholes-model.md`
+  - `wiki/concepts/bu-dong-chan-di-ya.md`
+  - `wiki/concepts/capital-budgeting.md`
+  - `wiki/concepts/cash-flow-analysis.md`
+  - `wiki/concepts/continuous-annuities.md`
+  - `wiki/concepts/dan-li.md`
+  - `wiki/concepts/duration.md`
+  - `wiki/concepts/fen-qi-huan-huan-biao.md`
+  - `wiki/concepts/fu-fen-qi-huan-huan.md`
+  - `wiki/concepts/fu-li.md`
+  - `wiki/concepts/fund-interest-measurement.md`
+  - `wiki/concepts/general-annuities.md`
+  - `wiki/concepts/general-borrowing-model.md`
+  - `wiki/concepts/gu-pong-gu-fen-hong-tie-xian-mo-xing.md`
+  - `wiki/concepts/he-ding-cheng-ben.md`
+  - `wiki/concepts/immunization.md`
+  - `wiki/concepts/ji-lei-han-shu.md`
+  - `wiki/concepts/jian-zhi-fang-fa.md`
+  - `wiki/concepts/jie-dai-zhong-cheng-fa.md`
+  - `wiki/concepts/jin-si-ji-suan-fang-fa.md`
+  - `wiki/concepts/li-lu-yu-tong-huo-peng-zhang.md`
+  - `wiki/concepts/li-xi-xiao-li.md`
+  - `wiki/concepts/mai-kong.md`
+  - `wiki/concepts/ming-yi-li-lu.md`
+  - `wiki/concepts/nian-jin.md`
+  - `wiki/concepts/non-compound-interest-annuities.md`
+  - `wiki/concepts/reinvestment-rate.md`
+  - `wiki/concepts/risk-and-uncertainty-reflection.md`
+  - `wiki/concepts/shi-zhi-li-lu.md`
+  - `wiki/concepts/shi-zhi-tie-xian-lu.md`
+  - `wiki/concepts/shou-yi-lu-zi-jin-yu-suan.md`
+  - `wiki/concepts/stochastic-interest-theory.md`
+  - `wiki/concepts/time-weighted-and-money-weighted-rates.md`
+  - `wiki/concepts/tong-zhi-chang-huan-zhai-quan.md`
+  - `wiki/concepts/uniqueness-of-yield-rate.md`
+  - `wiki/concepts/unknown-interest-rate-problems.md`
+  - `wiki/concepts/unknown-time-problems.md`
+  - `wiki/concepts/variable-payment-annuities.md`
+  - `wiki/concepts/varying-interest-rate-annuities.md`
+  - `wiki/concepts/wei-chang-huan-dai-kuan-yu-e.md`
+  - `wiki/concepts/xi-piao-zhi-fu-ri-zhi-jian-de-zhai-quan-gu-zhi.md`
+  - `wiki/concepts/xian-dai-jin-rong-shou-duan.md`
+  - `wiki/concepts/yield-curves.md`
+  - `wiki/concepts/yong-jiu-nian-jin.md`
+  - `wiki/concepts/you-xian-gu-yu-yong-jiu-zhai-quan.md`
+  - `wiki/concepts/zhai-quan-ding-jia.md`
+  - `wiki/concepts/zheng-quan-ding-zhi-fang-fa.md`
+  - `wiki/sources/li-xi-li-lun.md`
+- Files deprecated: None.
+- Notes: 50 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
