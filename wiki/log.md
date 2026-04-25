@@ -9257,3 +9257,74 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/milton-erickson.md`
 - Files deprecated: None.
 - Notes: 24 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | cynefin-weaving-sense-making-into-the-fa-dave-snowden
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf
+- Files created:
+  - `wiki/entities/alicia-juarrero.md`
+  - `wiki/entities/andres-jimenez.md`
+  - `wiki/entities/ann-pendleton-jullian.md`
+  - `wiki/entities/anna-panagiotou.md`
+  - `wiki/entities/anne-mcmurray.md`
+  - `wiki/entities/chris-corrigan.md`
+  - `wiki/entities/cognitive-edge.md`
+  - `wiki/entities/cultivating-leadership.md`
+  - `wiki/entities/ellie-snowden.md`
+  - `wiki/entities/friso-gosliga.md`
+  - `wiki/entities/gabriel-jurj.md`
+  - `wiki/entities/gary-wong.md`
+  - `wiki/entities/harold-jarche.md`
+  - `wiki/entities/ian-snape.md`
+  - `wiki/entities/jesko-von-den-steinen.md`
+  - `wiki/entities/juanita-uribe.md`
+  - `wiki/entities/jules-yim.md`
+  - `wiki/entities/kendra-rosencrans.md`
+  - `wiki/entities/liz-keogh.md`
+  - `wiki/entities/marion-kiely.md`
+  - `wiki/entities/mary-e-boone.md`
+  - `wiki/entities/michael-cheveldave.md`
+  - `wiki/entities/peter-stanbridge.md`
+  - `wiki/entities/riva-greenberg.md`
+  - `wiki/entities/robert-koch.md`
+  - `wiki/entities/sensemaker.md`
+  - `wiki/entities/simon-wardley.md`
+  - `wiki/entities/steve-holt.md`
+  - `wiki/entities/steve-mccrone.md`
+  - `wiki/entities/trent-hone.md`
+  - `wiki/entities/vivienne-read.md`
+  - `wiki/entities/waters-corporation.md`
+  - `wiki/entities/wellbeing-of-future-generations-act.md`
+  - `wiki/concepts/anecdote-circles.md`
+  - `wiki/concepts/cobra-effect.md`
+  - `wiki/concepts/combat-information-center.md`
+  - `wiki/concepts/complex-facilitation.md`
+  - `wiki/concepts/complexity-coaching.md`
+  - `wiki/concepts/confusion-domain.md`
+  - `wiki/concepts/constructal-law.md`
+  - `wiki/concepts/cynefin-framework.md`
+  - `wiki/concepts/embodied-cynefin-teaching.md`
+  - `wiki/concepts/enabling-constraints.md`
+  - `wiki/concepts/liminal-cynefin.md`
+  - `wiki/concepts/normalization-of-deviance.md`
+  - `wiki/concepts/organizational-well-being-and-cynefin.md`
+  - `wiki/concepts/probe-sense-respond.md`
+  - `wiki/concepts/risk-mastery-and-cynefin.md`
+  - `wiki/concepts/safe-to-fail-experiments.md`
+  - `wiki/concepts/safe-to-fail-probes.md`
+  - `wiki/concepts/safety-i-and-safety-ii.md`
+  - `wiki/concepts/scaffolds-for-emergence.md`
+  - `wiki/concepts/software-development-and-cynefin.md`
+  - `wiki/concepts/strategy-and-cynefin.md`
+  - `wiki/concepts/tame-and-wild-problems.md`
+  - `wiki/concepts/the-flow-system.md`
+  - `wiki/topics/cynefin-law-enforcement.md`
+  - `wiki/topics/cynefin-public-services-applications.md`
+  - `wiki/sources/cynefin-weaving-sense-making-into-the-fa-dave-snowden.md`
+  - `wiki/analyses/cynefin-toc-comparison.md`
+  - `wiki/analyses/cynefin-type-1-diabetes.md`
+- Files merged (extended):
+  - `wiki/entities/dave-snowden.md`
+  - `wiki/concepts/distributed-cognition.md`
+- Files deprecated: None.
+- Notes: 61 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
