@@ -4,10 +4,12 @@ title: 曹雪芹
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 canonical: 曹雪芹
 confidence: high
 aliases:
@@ -20,18 +22,23 @@ tags:
 - 清代
 - 小说家
 - 红楼梦作者
+- 清代作家
+- 古典文学
 related:
   concepts:
   - 红楼梦
   - 江宁织造
+  - 红楼梦结局
+  - 石头记
   topics:
   - 中国古典文学
   entities:
   - 高鹗
   - 脂砚斋
   - 红楼梦
+  - 空空道人
+  - 贾雨村
 ---
-
 
 # 曹雪芹
 
@@ -47,6 +54,8 @@ related:
 - 雍正年间，在统治阶级内部的权力斗争中，曹家受到牵连，家产被抄没，举家移居北京西郊. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L21-L21]
 - 曹雪芹穷困潦倒但一直坚持创作《红楼梦》，经过了批阅十载、增删五次的艰辛. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L21-L22]
 - 曹雪芹原稿传世仅存前八十回. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L19-L20]
+- 曹雪芹在书中结尾以作者身份出现. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L10003]
+- 曹雪芹在悼红轩中翻阅历来的古史. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L10003]
 
 ## Related pages
 
@@ -54,15 +63,21 @@ related:
 - Broader: [[满洲正白旗]]
 - Concepts: [[红楼梦]]
 - Concepts: [[江宁织造]]
+- Concepts: [[红楼梦结局]]
+- Concepts: [[石头记]]
 - Topics: [[中国古典文学]]
 - Entities: [[高鹗]]
 - Entities: [[脂砚斋]]
 - Entities: [[红楼梦]]
+- Entities: [[空空道人]]
+- Entities: [[贾雨村]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.

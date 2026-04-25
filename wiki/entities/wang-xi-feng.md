@@ -4,10 +4,12 @@ title: 王熙凤
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 canonical: 王熙凤
 confidence: high
 aliases:
@@ -18,10 +20,15 @@ tags:
 - 王熙凤
 - 红楼梦
 - 金陵十二钗
+- 荣国府
+- 管理才能
 related:
   concepts:
   - 金陵十二钗
-  topics: []
+  - 机关算尽
+  - 杀伐决断
+  - 力不从心
+  - 世态炎凉
   entities:
   - 刘姥姥
   - 贾蓉
@@ -29,8 +36,9 @@ related:
   - 平儿
   - 贾琏
   - 荣国府
+  - 贾母
+  - 鸳鸯
 ---
-
 
 # 王熙凤
 
@@ -51,29 +59,57 @@ related:
 - 凤姐在贾母丧事中吐血. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L7032-L7040]
 - 凤姐临终要船要轿，说到金陵归入册子去. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L7032-L7040]
 - 凤姐将巧姐托付给刘姥姥. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L7032-L7040]
+- 凤姐设计相思局，两次骗贾瑞到空屋或穿堂，使其冻恼奔波致病. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1895-L1920]
+- 凤姐协理宁国府，针对五大弊病严加整治，每日卯正二刻点卯理事. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2040-L2070]
+- 凤姐吩咐彩明念花名册、按名唤进看视，分派二十个分两班管人来客往倒茶. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2045-L2055]
+- 凤姐对迟到者打二十大板、革一月银米，赏罚分明威重令行. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字.精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2070-L2080]
+- 凤姐虽病重仍被委以操办贾母丧事的重任. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9430-L9435]
+- 凤姐因银钱不凑手、人手不足，在操办丧事时吐血昏倒. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9435-L9440]
+- 鸳鸯曾托付凤姐体面办理丧事，凤姐答应"有我呢". [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9425-L9430]
+- 李纨叹道凤丫头"闹了几年，不想在老太太的事上，只怕保不住脸了". [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9440-L9445]
 
 ## Inferences
 
 - Inference: 凤姐当家作主，暗示王夫人逐渐放权，为日后凤姐弄权埋下伏笔。
 - Inference: 周瑞家的评价「待下人未免太严些」暗合凤姐日后因苛刻而树敌招祸的悲剧。
+- Inference: 凤姐对贾瑞所言"几时叫他死在我手里，他才知道我的手段"表明其心狠手辣的一面，与协理宁国府时的干练相辅相成，共同构成其复杂性格
 
 ## Related pages
 
+- Broader: [[红楼梦]]
+- Broader: [[贾府]]
+- Broader: [[荣国府]]
 - Adjacent: [[jia-mu]]
 - Adjacent: [[yuanyang]]
 - Adjacent: [[qiao-jie]]
+- Adjacent: [[贾瑞]]
+- Adjacent: [[秦可卿]]
+- Adjacent: [[贾珍]]
+- Adjacent: [[尤氏]]
+- Adjacent: [[贾母]]
+- Adjacent: [[贾琏]]
+- Adjacent: [[鸳鸯]]
+- Adjacent: [[平儿]]
 - Concepts: [[金陵十二钗]]
+- Concepts: [[机关算尽]]
+- Concepts: [[杀伐决断]]
+- Concepts: [[力不从心]]
+- Concepts: [[世态炎凉]]
 - Entities: [[刘姥姥]]
 - Entities: [[贾蓉]]
 - Entities: [[周瑞家的]]
 - Entities: [[平儿]]
 - Entities: [[贾琏]]
 - Entities: [[荣国府]]
+- Entities: [[贾母]]
+- Entities: [[鸳鸯]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.

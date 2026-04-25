@@ -4,30 +4,35 @@ title: 风月宝鉴
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 canonical: 风月宝鉴
 confidence: high
 aliases:
 - 风月宝鉴镜子
+- 宝鉴
+- 妖镜
 tags:
 - 红楼梦
 - 法宝
 - 寓言
 - 哲学
+- 法器
+- 红楼梦象征物
 related:
   concepts:
   - 太虚幻境
   - 警幻仙子
-  topics: []
+  - 以假为真
   entities:
   - 贾瑞
   - 王熙凤
   - 跛足道人
 ---
-
 
 # 风月宝鉴
 
@@ -42,10 +47,14 @@ related:
 - 道士嘱咐贾瑞只照背面，不可照正面，只照背面便能保命. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L960-L961]
 - 贾瑞照正面见凤姐招手与之云雨，如此反复三四次后精竭而亡. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L968-L974]
 - 镜内哭道：「谁叫你们瞧正面了！你们自己以假为真，何苦来烧我？」. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L976-L977]
+- 风月宝鉴出自太虚幻境空灵殿上，警幻仙子所制. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1920-L1925]
+- 此镜专治邪思妄动之症，有济世保生之功，只可照背面不可照正面. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1923-L1926]
+- 正面照见凤姐招手，背面是一骷髅. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1930-L1940]
 
 ## Inferences
 
 - Inference: 风月宝鉴的寓意深刻：正面是欲望的诱惑（凤姐形象），背面是死亡的警示（骷髅形象），体现了作者对贪婪色欲的批判，以及「以假为真」的佛道哲理
+- Inference: 脂批称"此书表里皆有喻也"，暗示此镜象征红楼梦全书以假当真、以淫诫世的创作主旨
 
 ## Uncertainties
 
@@ -53,8 +62,12 @@ related:
 
 ## Related pages
 
+- Adjacent: [[贾瑞]]
+- Adjacent: [[跛足道人]]
+- Adjacent: [[警幻仙子]]
 - Concepts: [[太虚幻境]]
 - Concepts: [[警幻仙子]]
+- Concepts: [[以假为真]]
 - Entities: [[贾瑞]]
 - Entities: [[王熙凤]]
 - Entities: [[跛足道人]]
@@ -62,7 +75,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.

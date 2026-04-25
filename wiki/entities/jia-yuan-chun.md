@@ -4,28 +4,34 @@ title: 贾元春
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 canonical: 贾元春
 confidence: high
 aliases:
 - 元妃
 - 贵妃娘娘
+- 贵妃
+- 贾妃
 tags:
 - 红楼梦
 - 贾家
 - 贵妃
 - 宫廷
+- 十二钗
 related:
-  concepts: []
-  topics: []
+  topics:
+  - 省亲
   entities:
   - 贾家
   - 皇宫
+  - 贾宝玉
+  - 大观园
 ---
-
 
 # 贾元春
 
@@ -38,24 +44,36 @@ related:
 - 贵妃娘娘有些欠安，奉过旨意宣召亲丁四人进里头探问，许各带丫头一人. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6136-L6138]
 - 贾母等至元妃寝宫请安，元妃含泪道：父女弟兄，反不如小家子得以常常亲近. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6163-L6165]
 - 元妃问宝玉近来若何，贾母道近来颇肯念书，文字都做上来了，元妃道这样才好. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6166-L6168]
+- 贾元春被封为凤藻宫尚书加封贤德妃. [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2298-L2305]
+- 贾元春自幼系贾母教养，后入宫，时时带信出来嘱咐好生扶养宝玉. [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2543-L2550]
+- 贾元春归省时见贾母等人垂泪，说当日送我到那不得见人的去处. [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2567-L2574]
+- 贾元春将杏帘在望改为稻香村，并指其为前三首之冠. [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字.精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L2618-L2624]
 
 ## Inferences
 
 - Inference: 元妃与家人团聚时垂泪，体现了宫廷生活虽荣华富贵，却隔绝骨肉亲情的悲剧。
+- Inference: 贾元春的点戏《乞巧》伏元妃之死，是通部书之大过节、大关键
 
 ## Related pages
 
+- Broader: [[贾府核心人物]]
+- Broader: [[金陵十二钗]]
 - Adjacent: [[贾母]]
 - Adjacent: [[王夫人]]
 - Adjacent: [[贾宝玉]]
 - Adjacent: [[凤姐]]
+- Topics: [[省亲]]
 - Entities: [[贾家]]
 - Entities: [[皇宫]]
+- Entities: [[贾宝玉]]
+- Entities: [[大观园]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.

@@ -4,10 +4,12 @@ title: 探春远嫁
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 confidence: high
 aliases:
 - 探春出嫁
@@ -17,10 +19,11 @@ tags:
 - 探春
 - 婚姻
 - 离散
+- 红楼梦
 canonical: true
 related:
-  concepts: []
-  topics: []
+  topics:
+  - 红楼梦
   entities:
   - 贾政
   - 周琼
@@ -28,8 +31,8 @@ related:
   - 王夫人
   - 赵姨娘
   - 贾宝玉
+  - 贾探春
 ---
-
 
 # 探春远嫁
 
@@ -45,10 +48,14 @@ related:
 - 宝玉听闻探春远嫁，哭倒在炕上，感叹姊妹们都散了. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6784]
 - 赵姨娘虽然平日与探春不和，也前往道喜. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6792]
 - 探春临行前以纲常大体的话开导宝玉，使其转悲作喜. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6806]
+- 周琼来书为儿子求娶探春，贾政心想门户相当，与探春也相配. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9105-L9106]
+- 贾母担心探春远嫁后三年两年不能回家，自己恐赶不上再见一面. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9109-L9110]
+- 探春临行前到宝玉处话别，宝玉感叹姐妹们一个个散去. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L9119-L9120]
 
 ## Inferences
 
 - Inference: 探春远嫁是贾府衰败的重要标志之一，预示着四大家族联系的逐渐断裂
+- Inference: 探春远嫁是"千红一哭"的又一体现，四大家族的女儿们纷纷离散，暗示贾府气数将尽。
 
 ## Uncertainties
 
@@ -62,17 +69,21 @@ related:
 - Adjacent: [[宝玉]]
 - Adjacent: [[赵姨娘]]
 - Adjacent: [[贾母]]
+- Topics: [[红楼梦]]
 - Entities: [[贾政]]
 - Entities: [[周琼]]
 - Entities: [[贾母]]
 - Entities: [[王夫人]]
 - Entities: [[赵姨娘]]
 - Entities: [[贾宝玉]]
+- Entities: [[贾探春]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.

@@ -4,22 +4,21 @@ title: 掉包计
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 confidence: high
 tags:
 - 红楼梦
 - 掉包计
 - 凤姐
 - 宝黛钗
-related:
-  broader: []
-  narrower: []
-  adjacent: []
+related: {}
+aliases: []
 ---
-
 
 # 掉包计
 
@@ -33,10 +32,18 @@ related:
 - 薛姨妈应允将宝钗嫁给宝玉. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6660-L6670]
 - 袭人将宝玉与黛玉的私情告知王夫人. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6675-L6680]
 - 傻大姐无意中将娶亲之事告知黛玉. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L6680-L6690]
+- 掉包计由凤姐提出，方法是表面上说给宝玉娶林姑娘，实际却娶宝姑娘. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L8956-L8957]
+- 凤姐与王夫人耳语商议具体做法，得到王夫人点头同意. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L8959-L8960]
+- 凤姐嘱咐此计只说给宝玉听，外头一概不许提起. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L8973-L8974]
 
 ## Inferences
 
 - Inference: 掉包计是凤姐精心策划的计谋，目的是为病重的宝玉冲喜
+- Inference: 掉包计的成功实施导致黛玉误以为宝玉要娶她，在听闻消息后病情急剧恶化，最终吐血而死。
+
+## Uncertainties
+
+- Uncertain: 凤姐在王夫人耳边说的具体话语内容，文本未完整呈现
 
 ## Related pages
 
@@ -52,7 +59,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.

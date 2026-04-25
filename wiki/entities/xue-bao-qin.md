@@ -4,23 +4,28 @@ title: 薛宝琴
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细
   - 曹雪芹 & 高鹗.epub#L1-L1]'
+- '[raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附
+  - 曹雪芹 & chenjin5_com.epub#L1-L1]'
 confidence: high
 aliases:
 - 宝琴
+- 琴姑娘
+- 琴儿
 tags:
 - 红楼梦
 - 薛宝琴
 - 人物
+- 薛家
+- 才女
 canonical: true
 related:
   concepts:
   - 红楼梦
   - 金陵十二钗
-  topics: []
   entities:
   - 薛宝钗
   - 贾母
@@ -30,8 +35,10 @@ related:
   - jia-mu
   - feng-jie
   - xue-yi-ma
+  - 薛蝌
+  - 黛玉
+  - 湘云
 ---
-
 
 # 薛宝琴
 
@@ -49,10 +56,18 @@ related:
 - 贾母细问宝琴年庚八字并家内景况，薛姨妈半吐半露告知其已许配梅翰林之子. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L3488-L3500]
 - 宝琴八岁随父到西海沿子买洋货，遇真真国女子，会讲五经、能作诗填词. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L3630-L3645]
 - 凤姐说「我看准了他们两个是一对」，欲为宝玉宝琴作媒，因宝琴已许人家而作罢. [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L3498-L3505]
+- 薛宝琴是薛蝌之妹，薛宝钗的堂妹，年纪最小却才思敏捷. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L5891-L5892]
+- 薛宝琴年幼时便随父母走遍天下，见多识广. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L5895]
+- 薛宝琴之父在世时已将她许配给梅翰林之子. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L5895]
+- 贾母见薛宝琴非常喜欢，逼着王夫人认她做干女儿. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L5893]
+- 薛宝琴作了十首怀古绝句，内隐十物. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L5940-L5950]
+- 薛宝琴披着凫靥裘（野鸭头部毛皮拼面的皮衣），十分华贵. [raw/books/philosophy/红楼梦(无障碍阅读"原貌红楼梦"。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L5900]
 
 ## Inferences
 
 - Inference: 探春说'据我看，连他姐姐并这些人总不及他'，说明薛宝琴的才貌在大观园诸钗之上
+- Inference: 探春说宝钗、宝琴长得像同胞姐妹，说明薛家基因出众
+- Inference: 凤姐想为宝玉说媒，见宝琴已有婚约才作罢
 
 ## Related pages
 
@@ -60,6 +75,11 @@ related:
 - Adjacent: [[huai-gu-shi]]
 - Adjacent: [[lu-xue-ting-lian-ju]]
 - Adjacent: [[bao-yu-qing-wen-hong-mei]]
+- Adjacent: [[薛宝钗]]
+- Adjacent: [[薛蝌]]
+- Adjacent: [[贾母]]
+- Adjacent: [[黛玉]]
+- Adjacent: [[湘云]]
 - Concepts: [[红楼梦]]
 - Concepts: [[金陵十二钗]]
 - Entities: [[薛宝钗]]
@@ -70,11 +90,16 @@ related:
 - Entities: [[jia-mu]]
 - Entities: [[feng-jie]]
 - Entities: [[xue-yi-ma]]
+- Entities: [[薛蝌]]
+- Entities: [[黛玉]]
+- Entities: [[湘云]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《红楼梦》_脂砚斋精评本(无删减)(套装上下册)【无障碍阅读版,纸质书畅销百万册!生僻字注音、注释,附古典版画插图、详细 - 曹雪芹 & 高鹗.epub#L1-L1]
+- Additional source: [raw/books/philosophy/红楼梦(无障碍阅读“原貌红楼梦”。脂本全新精校,综合几十年红学研究成果,恢复作者原笔文字。精选脂批,针对性注释、图注,附 - 曹雪芹 & chenjin5_com.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `红楼梦-无障碍阅读-原貌红楼梦-脂本全新精校-综合几十年红学研究成果-恢复作者原笔文字-精选脂批-针对性注释-图注-附-`.
