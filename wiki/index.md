@@ -4,7 +4,7 @@ This file is the master catalog of the wiki. Read this file first before routing
 
 ## Entities
 
-<!-- Add one line per entitie page -->
+<!-- Add one line per entity page -->
 - [[1998年土地管理法修订]] — 1998年修订的《中华人民共和国土地管理法》实施，基本锁死了农村集体土地的非农建设通道，规定了农地要想转为建设用地必须经过征地变成国有土地，确立了城市政府对土地建设的垄断权力。
 - [[21-Day Built to Move Challenge]] — The 21-Day Built to Move Challenge is a structured program that introduces assessments, everyday practices, and mobilizations gradually over 21 days. Days 1-10 focus on taking tests while beginning...
 - [[22q11 Deletion Syndrome]] — 22q11 deletion syndrome is the most common chromosomal abnormality associated with schizophrenia and childhood-onset schizophrenia. The deletion was initially described as velocardiofacial syndrome...
@@ -8208,7 +8208,7 @@ This file is the master catalog of the wiki. Read this file first before routing
 
 ## Analyses
 
-<!-- Add one line per analyse page -->
+<!-- Add one line per analysis page -->
 - [[800-Gram Count Assessment]] — The 800-Gram Count is a self-assessment for tracking daily fruit and vegetable intake. The assessment involves weighing all sanctioned produce consumed throughout one day, tallying grams, and compa...
 - [[Aircraft Profile and Operational Error Severity]] — Analysis of aircraft profiles during operational errors reveals that while most OEs occur when at least one aircraft is in level flight with another climbing or descending, the 'all level' aircraft...
 - [[宝玉入学与科举之困]] — 第八十二回至第八十四回中，贾政强迫宝玉到家塾读书，每日早起理书、饭后写字、晌午讲书，并限定一年内若毫无长进便不准再念书。宝玉对八股文章极为反感，认为其"拿他诳功名混饭吃"，代儒讲解"后生可畏"与"吾未见好德如好色者也"两章，试图引导宝玉走上科举正途。
