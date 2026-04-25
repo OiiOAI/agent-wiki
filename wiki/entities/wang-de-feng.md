@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
+- '[raw/books/philosophy/第四讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-5]'
 confidence: medium
 tags:
 - 作者
@@ -17,6 +18,7 @@ tags:
 - 哲学家
 - 道家
 - 讲师
+- 中国哲学
 aliases:
 - 王德峰教授
 canonical: true
@@ -30,6 +32,8 @@ related:
   entities:
   - 《坛经》解读
   - 复旦大学
+  - dao-de-jing
+  - zhuang-zi
 ---
 
 # 王德峰
@@ -49,6 +53,7 @@ related:
 - 王德峰在机缘品中讲述《人民的名义》人物分析、《天道》剧情、以及其个人生活经历（如父母去世、复旦发言等）来阐释禅宗义理。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p247]
 - 王德峰开设有《道德经》《庄子》中国哲学的道家智慧课程. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p12]
 - 王德峰主张儒道互补，认为道家智慧用于发现毛病、提醒做减法，儒家则补充文明进步所需的奋斗精神. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p4]
+- 王德峰讲授《道德经》《庄子》系列课程，系统阐述道家智慧. [raw/books/philosophy/第四讲精要 - 王德峰讲《道德经》《庄子》.pdf#p4]
 
 ## Inferences
 
@@ -65,13 +70,17 @@ related:
 - Concepts: [[道家哲学]]
 - Entities: [[《坛经》解读]]
 - Entities: [[复旦大学]]
+- Entities: [[dao-de-jing]]
+- Entities: [[zhuang-zi]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
+- Additional source: [raw/books/philosophy/第四讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-5]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `第三讲精要-王德峰讲-道德经-庄子`.
+- 2026-04-25 — merged contributions from `第四讲精要-王德峰讲-道德经-庄子`.

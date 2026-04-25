@@ -5935,3 +5935,18 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/wang-de-feng-jiang-dao-de-jing-zhuang-zi.md`
 - Files deprecated: None.
 - Notes: 7 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 第四讲精要-王德峰讲-道德经-庄子
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/第四讲精要 - 王德峰讲《道德经》《庄子》.pdf
+- Files created:
+  - `wiki/entities/dao-de-jing.md`
+  - `wiki/concepts/fen-bie-wo-zhi.md`
+  - `wiki/concepts/wu-zhu.md`
+  - `wiki/sources/di-si-jiang-jing-yao-wang-de-feng-jiang-dao-de-jing-zhuang-zi.md`
+- Files merged (extended):
+  - `wiki/entities/wang-de-feng.md`
+  - `wiki/concepts/quan-sheng-bi-hai.md`
+  - `wiki/concepts/wu-wo.md`
+- Files deprecated: None.
+- Notes: 4 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
