@@ -751,3 +751,84 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/active-inference-parr-pezzulo-friston-2022.md`
 - Files deprecated: None.
 - Notes: 48 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | affective-neuroscience-the-foundations-of-human-and-animal-p
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf
+- Files created:
+  - `wiki/entities/anterior-cingulate-cortex.md`
+  - `wiki/entities/aplysia-californica.md`
+  - `wiki/entities/jaak-panksepp.md`
+  - `wiki/entities/lateral-hypothalamus.md`
+  - `wiki/entities/mesencephalic-central-gray.md`
+  - `wiki/entities/periaqueductal-gray.md`
+  - `wiki/entities/superior-colliculi.md`
+  - `wiki/entities/superior-colliculus.md`
+  - `wiki/entities/ventromedial-hypothalamus.md`
+  - `wiki/concepts/acetylcholine.md`
+  - `wiki/concepts/action-potential.md`
+  - `wiki/concepts/affective-attack.md`
+  - `wiki/concepts/antidepressant-pharmacology.md`
+  - `wiki/concepts/basal-ganglia.md`
+  - `wiki/concepts/behavior-genetics.md`
+  - `wiki/concepts/brain-hierarchical-organization.md`
+  - `wiki/concepts/brain-laterality-emotion.md`
+  - `wiki/concepts/brain-opioids-social-behavior.md`
+  - `wiki/concepts/brain-self-stimulation.md`
+  - `wiki/concepts/classical-conditioning-emotions.md`
+  - `wiki/concepts/crf.md`
+  - `wiki/concepts/eeg-electroencephalography.md`
+  - `wiki/concepts/emotional-operating-systems.md`
+  - `wiki/concepts/energy-homeostasis.md`
+  - `wiki/concepts/ethics-animal-research.md`
+  - `wiki/concepts/fear-system-circuit.md`
+  - `wiki/concepts/fear-system.md`
+  - `wiki/concepts/feeding-regulation.md`
+  - `wiki/concepts/gustatory-pleasure.md`
+  - `wiki/concepts/homogenic.md`
+  - `wiki/concepts/intermale-aggression.md`
+  - `wiki/concepts/kindling.md`
+  - `wiki/concepts/leptin-energy-balance.md`
+  - `wiki/concepts/limbic-system.md`
+  - `wiki/concepts/mating-infanticide-inhibition.md`
+  - `wiki/concepts/mesolimbic-dopamine-reward.md`
+  - `wiki/concepts/nature-nurture-emotions.md`
+  - `wiki/concepts/neuropeptides-feeding.md`
+  - `wiki/concepts/neuropeptides.md`
+  - `wiki/concepts/neurotransmitter-systems.md`
+  - `wiki/concepts/neurotrophins.md`
+  - `wiki/concepts/norepinephrine.md`
+  - `wiki/concepts/opioid-peptides.md`
+  - `wiki/concepts/opioid-theory-autism.md`
+  - `wiki/concepts/oxytocin-vasopressin.md`
+  - `wiki/concepts/panic-system.md`
+  - `wiki/concepts/pituitary-adrenal-stress-response.md`
+  - `wiki/concepts/positron-emission-tomography.md`
+  - `wiki/concepts/predatory-attack.md`
+  - `wiki/concepts/primary-process-consciousness.md`
+  - `wiki/concepts/rage-system.md`
+  - `wiki/concepts/rem-sleep-mechanisms.md`
+  - `wiki/concepts/rom-ram-brain.md`
+  - `wiki/concepts/rough-and-tumble-play.md`
+  - `wiki/concepts/seeking-system.md`
+  - `wiki/concepts/self-neuroscience.md`
+  - `wiki/concepts/self-stimulation.md`
+  - `wiki/concepts/separation-distress-social-attachment.md`
+  - `wiki/concepts/serotonin.md`
+  - `wiki/concepts/seven-emotional-systems.md`
+  - `wiki/concepts/sex-differences-brain-organization.md`
+  - `wiki/concepts/sham-rage.md`
+  - `wiki/concepts/sleep-waking-state-control.md`
+  - `wiki/concepts/social-loss-depression.md`
+  - `wiki/concepts/three-approaches-emotion-research.md`
+  - `wiki/concepts/triune-brain.md`
+  - `wiki/concepts/walter-hess.md`
+  - `wiki/concepts/williams-syndrome.md`
+  - `wiki/topics/autism-socioemotional.md`
+  - `wiki/topics/social-implications-emotional-systems.md`
+  - `wiki/sources/affective-neuroscience-panksepp.md`
+- Files merged (extended):
+  - `wiki/concepts/dopamine.md`
+  - `wiki/concepts/gaba.md`
+- Files deprecated: None.
+- Notes: 71 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
