@@ -2129,3 +2129,58 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/efference-copy.md`
 - Files deprecated: None.
 - Notes: 24 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | permanent-present-tense-the-unforgettable-life-of-the-suzann
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf
+- Files created:
+  - `wiki/entities/bickford-nursing-home.md`
+  - `wiki/entities/cerebellum.md`
+  - `wiki/entities/henry-molaison.md`
+  - `wiki/entities/striatum.md`
+  - `wiki/entities/suzanne-corkin.md`
+  - `wiki/entities/wilder-penfield.md`
+  - `wiki/entities/william-beecher-scoville.md`
+  - `wiki/entities/william-scoville.md`
+  - `wiki/concepts/amnesia.md`
+  - `wiki/concepts/amygdala-internal-states.md`
+  - `wiki/concepts/anterograde-amnesia.md`
+  - `wiki/concepts/bilateral-medial-temporal-lobe-resection.md`
+  - `wiki/concepts/declarative-and-nondeclarative-memory.md`
+  - `wiki/concepts/declarative-memory.md`
+  - `wiki/concepts/epilepsy.md`
+  - `wiki/concepts/episodic-versus-semantic-memory.md`
+  - `wiki/concepts/hippocampal-memory-localization.md`
+  - `wiki/concepts/internal-models.md`
+  - `wiki/concepts/medial-temporal-lobe.md`
+  - `wiki/concepts/mirror-recognition-in-amnesia.md`
+  - `wiki/concepts/mirror-tracing.md`
+  - `wiki/concepts/motor-skill-learning.md`
+  - `wiki/concepts/multiple-trace-theory.md`
+  - `wiki/concepts/nondeclarative-memory.md`
+  - `wiki/concepts/prism-adaptation.md`
+  - `wiki/concepts/psychosurgery.md`
+  - `wiki/concepts/reconsolidation.md`
+  - `wiki/concepts/repetition-priming.md`
+  - `wiki/concepts/retrograde-amnesia.md`
+  - `wiki/concepts/schema-theory.md`
+  - `wiki/concepts/semantic-memory-in-amnesia.md`
+  - `wiki/concepts/semantic-memory.md`
+  - `wiki/topics/brain-preservation-of-h-m.md`
+  - `wiki/topics/memory.md`
+  - `wiki/sources/permanent-present-tense.md`
+- Files merged (extended):
+  - `wiki/entities/brenda-milner.md`
+  - `wiki/entities/huntington-disease.md`
+  - `wiki/entities/parkinson-disease.md`
+  - `wiki/concepts/classical-conditioning.md`
+  - `wiki/concepts/episodic-memory.md`
+  - `wiki/concepts/hippocampus.md`
+  - `wiki/concepts/long-term-memory.md`
+  - `wiki/concepts/long-term-potentiation.md`
+  - `wiki/concepts/memory-consolidation.md`
+  - `wiki/concepts/perceptual-learning.md`
+  - `wiki/concepts/short-term-memory.md`
+  - `wiki/concepts/working-memory.md`
+- Files deprecated: None.
+- Notes: 35 new + 12 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

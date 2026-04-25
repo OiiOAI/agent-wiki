@@ -9,15 +9,19 @@ sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
+  - Suzanne Corkin.pdf#p1-402]'
 confidence: high
 tags:
 - synaptic-plasticity
 - learning
 - memory
 - hippocampus
+- LTP
 related:
   broader:
   - synaptic-plasticity
+  - memory
   narrower:
   - long-term-depression
   - early-ltp
@@ -56,15 +60,21 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - A single train of electrical stimuli produces a transient early phase of LTP lasting one to three hours that does not require synthesis of new protein. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p302]
 - Repeated trains of electrical stimuli produce a late phase of LTP lasting more than a day that requires gene activation. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p302]
 - The late phase of LTP is strongly affected by modulatory interneurons, which in mice are recruited to switch short-term homosynaptic into long-term heterosynaptic change. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p303]
+- In 1966, Terje Lømo discovered that repeated electrical stimulation of axons carrying information into a rabbit's hippocampus caused neurons to respond more quickly, strongly, and in greater number—the phenomenon later named long-term potentiation. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p132]
+- LTP has three basic features: persistence (lasting from hours to potentially a year), input specificity (restricted to active pathways), and associativity (both sending and receiving neurons must be simultaneously active). [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p133]
+- A 1986 study showed that blocking LTP in rats' hippocampi impaired their performance on the Morris water maze, linking deficient LTP to spatial amnesia similar to Henry's difficulty navigating after his surgery. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p133]
+- LTP provides evidence of neuroplasticity, the brain's ability to change with experience, through both structural plasticity (dendrite and synapse changes) and functional plasticity (synapse strength changes). [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p132]
 
 ## Inferences
 
 - Inference: LTP and related forms of synaptic plasticity provide the cellular substrate for long-term memory storage, as suggested by Donald Hebb's 1949 proposal that synchronized pre- and postsynaptic activity strengthens synaptic connections.
 - Inference: The NMDA receptor's requirement for both presynaptic glutamate release AND postsynaptic depolarization fulfills Hebb's coincidence requirement for synaptic modification.
+- Inference: LTP may be necessary for learning, though scientists cannot yet prove it is as enduring as long-term memories, which may last decades while LTP lasts weeks at most.
 
 ## Related pages
 
 - Broader: [[synaptic-plasticity]]
+- Broader: [[memory]]
 - Narrower: [[long-term-depression]]
 - Narrower: [[early-ltp]]
 - Narrower: [[late-ltp]]
@@ -82,13 +92,18 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Concepts: [[synaptic-capture]]
 - Concepts: [[ampa-receptor]]
 - Concepts: [[spatial-memory]]
+- Concepts: [[memory-consolidation]]
+- Concepts: [[neuroplasticity]]
+- Topics: [[cellular-neuroscience]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.

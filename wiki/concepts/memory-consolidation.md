@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 - '[raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian,
   Oshin.pdf#p1-500]'
+- '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
+  - Suzanne Corkin.pdf#p1-402]'
 confidence: high
 tags:
 - memory
@@ -18,6 +20,7 @@ tags:
 - learning
 - sleep
 - neuroscience
+- hippocampus
 related:
   broader:
   - memory
@@ -26,6 +29,7 @@ related:
   - replay
   - reconsolidation
   - semantic-integration
+  - synaptic-plasticity
   adjacent:
   - short-term-memory
   - long-term-memory
@@ -54,11 +58,16 @@ Memory consolidation is the process by which newly acquired memories become stab
 - Dreaming about newly learned material enhances subsequent recall, and pre-sleep stories are better recalled in the morning if subjects dreamt about story constituents during the night. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p362]
 - Off-line processing during wakefulness resembles in its functions and effects the off-line processing during sleep, including neural replay of recent experiences. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p365]
 - A 12-hour delay with wakefulness shows improved relational memory similar to delays including sleep, demonstrating that off-line processing during wakefulness is especially beneficial for associative memory. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p367]
+- Müller and Pilzecker discovered in 1900 that declarative learning does not immediately lead to enduring memory; consolidation depends on gradual brain changes that occur over time. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p125]
+- Consolidation requires dialogue between the hippocampus and cortical areas where memory components are stored, which was impossible in Henry's brain. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p130]
+- Memory traces are initially frail and strengthen gradually; they can be disrupted by drugs, alcohol, head injury, or behavioral manipulations. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p127]
+- The hippocampus initiates and completes active processes required for consolidation; Henry's defunct hippocampus prevented new declarative information from being secured. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p127]
 
 ## Inferences
 
 - Inference: Mind wandering may be the subjective experience of ongoing off-line processing, including reactivation and recombination of recent experiences.
 - Inference: The functions of sleep provide clues about possible functions of off-line processing during wakefulness.
+- Inference: Consolidation failure is the fundamental mechanism underlying Henry's anterograde amnesia.
 
 ## Related pages
 
@@ -67,6 +76,7 @@ Memory consolidation is the process by which newly acquired memories become stab
 - Narrower: [[replay]]
 - Narrower: [[reconsolidation]]
 - Narrower: [[semantic-integration]]
+- Narrower: [[synaptic-plasticity]]
 - Adjacent: [[short-term-memory]]
 - Adjacent: [[long-term-memory]]
 - Adjacent: [[creb-protein-memory-switch]]
@@ -79,13 +89,18 @@ Memory consolidation is the process by which newly acquired memories become stab
 - Concepts: [[episodic-memory]]
 - Concepts: [[semantic-memory]]
 - Concepts: [[default-network]]
+- Concepts: [[declarative-memory]]
+- Concepts: [[long-term-potentiation]]
+- Entities: [[henry-molaison]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
+- Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
+- 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
