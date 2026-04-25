@@ -5348,3 +5348,85 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zhi-guan.md`
 - Files deprecated: None.
 - Notes: 660 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 传习录-中华经典名著全本全注全译丛书-陆永胜译注
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub
+- Files created:
+  - `wiki/entities/cai-xi-yuan.md`
+  - `wiki/entities/chen-jiu-chuan.md`
+  - `wiki/entities/gu-dong-qiao.md`
+  - `wiki/entities/huang-sheng-zeng.md`
+  - `wiki/entities/huang-zhi.md`
+  - `wiki/entities/liu-guan-shi.md`
+  - `wiki/entities/lu-cheng.md`
+  - `wiki/entities/lu-yuan-jing.md`
+  - `wiki/entities/luo-zheng-an.md`
+  - `wiki/entities/ma-zi-shen.md`
+  - `wiki/entities/nan-da-ji.md`
+  - `wiki/entities/nie-wen-wei.md`
+  - `wiki/entities/ou-yang-chong-yi.md`
+  - `wiki/entities/qian-de-hong.md`
+  - `wiki/entities/wang-ru-zhong.md`
+  - `wiki/entities/xiao-hui.md`
+  - `wiki/entities/xu-ai.md`
+  - `wiki/entities/xue-kan.md`
+  - `wiki/entities/zhan-ruo-shui.md`
+  - `wiki/entities/zhou-dao-tong.md`
+  - `wiki/entities/zhu-ben-si.md`
+  - `wiki/entities/zou-shou-yi.md`
+  - `wiki/concepts/ai-you-cha-deng.md`
+  - `wiki/concepts/ba-ben-sai-yuan.md`
+  - `wiki/concepts/ben-ti-yu-gong-fu.md`
+  - `wiki/concepts/bi-you-shi-yan.md`
+  - `wiki/concepts/cheng-yi.md`
+  - `wiki/concepts/cun-tian-li-qu-ren-yu.md`
+  - `wiki/concepts/da-luo-zheng-an-shao-zai-shu.md`
+  - `wiki/concepts/da-nie-wen-wei.md`
+  - `wiki/concepts/da-ou-yang-chong-yi.md`
+  - `wiki/concepts/dao-xin-ren-xin.md`
+  - `wiki/concepts/dong-jing-he-yi.md`
+  - `wiki/concepts/ge-wu.md`
+  - `wiki/concepts/ji-yi.md`
+  - `wiki/concepts/jie-ju-ke-zhi.md`
+  - `wiki/concepts/jin-du.md`
+  - `wiki/concepts/jing-shi-guan-xi.md`
+  - `wiki/concepts/jing-zuo.md`
+  - `wiki/concepts/ju-jing-qiong-li.md`
+  - `wiki/concepts/le.md`
+  - `wiki/concepts/li-zhi.md`
+  - `wiki/concepts/liang-zhi.md`
+  - `wiki/concepts/liu-jing.md`
+  - `wiki/concepts/lv-xing-zhi-wei-dao.md`
+  - `wiki/concepts/man-jie-du-shi-sheng-ren.md`
+  - `wiki/concepts/meng-yi-yang-zheng.md`
+  - `wiki/concepts/nan-zhen-kan-hua.md`
+  - `wiki/concepts/ru-fo-zhi-bie.md`
+  - `wiki/concepts/shen-du.md`
+  - `wiki/concepts/sheng-ren-zhi-zhi.md`
+  - `wiki/concepts/shi-shang-mo-lian.md`
+  - `wiki/concepts/si-ju-jiao.md`
+  - `wiki/concepts/tian-quan-zheng-dao.md`
+  - `wiki/concepts/wan-wu-yi-ti.md`
+  - `wiki/concepts/wei-ji-yu-ke-ji.md`
+  - `wiki/concepts/wei-jing-wei-yi.md`
+  - `wiki/concepts/wu-wang-wu-zhu.md`
+  - `wiki/concepts/xia-xue-shang-da.md`
+  - `wiki/concepts/xin-ji-li.md`
+  - `wiki/concepts/xing-cha-ke-zhi.md`
+  - `wiki/concepts/xing-dao-jiao.md`
+  - `wiki/concepts/xing-shan.md`
+  - `wiki/concepts/yi-bi-gu-wo.md`
+  - `wiki/concepts/yi-duan.md`
+  - `wiki/concepts/ying-ke-er-jin.md`
+  - `wiki/concepts/zhao-xin-yu-wang-xin.md`
+  - `wiki/concepts/zhu-yi.md`
+  - `wiki/topics/yang-ming-xin-xue.md`
+  - `wiki/sources/chuan-xi-lu-zhong-hua-jing-dian-ming-zhu-quan-ben-quan-zhu-quan-yi-cong-shu.md`
+- Files merged (extended):
+  - `wiki/entities/wang-yang-ming.md`
+  - `wiki/concepts/ge-wu-zhi-zhi.md`
+  - `wiki/concepts/zhi-liang-zhi.md`
+  - `wiki/concepts/zhi-xing-he-yi.md`
+- Files deprecated: None.
+- Notes: 70 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
