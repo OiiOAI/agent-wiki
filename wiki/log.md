@@ -2680,3 +2680,62 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/theory-of-mind.md`
 - Files deprecated: None.
 - Notes: 104 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-better-brain-bonnie-j-kaplan
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf
+- Files created:
+  - `wiki/entities/andrew-weil.md`
+  - `wiki/entities/andri-case-study.md`
+  - `wiki/entities/benjy-case-study.md`
+  - `wiki/entities/bonnie-j-kaplan.md`
+  - `wiki/entities/daily-essential-nutrients.md`
+  - `wiki/entities/emily-earthquake-case.md`
+  - `wiki/entities/empowerplus.md`
+  - `wiki/entities/felice-jacka.md`
+  - `wiki/entities/ginger-case-study.md`
+  - `wiki/entities/isaiah-case-study.md`
+  - `wiki/entities/julia-j-rucklidge.md`
+  - `wiki/entities/liam-case-study.md`
+  - `wiki/entities/mirwais-case-study.md`
+  - `wiki/entities/tristan-case-study.md`
+  - `wiki/concepts/anti-inflammatory-diet.md`
+  - `wiki/concepts/b-vitamins-stress-anxiety.md`
+  - `wiki/concepts/brian-smoking-case.md`
+  - `wiki/concepts/broad-spectrum-multinutrients-adhd.md`
+  - `wiki/concepts/broad-spectrum-multinutrients.md`
+  - `wiki/concepts/diet-quality-mental-health-correlation.md`
+  - `wiki/concepts/diet-quality-predicting-mental-health.md`
+  - `wiki/concepts/gut-microbiome-mental-health.md`
+  - `wiki/concepts/inborn-errors-of-metabolism.md`
+  - `wiki/concepts/magic-bullet-thinking.md`
+  - `wiki/concepts/methylation-cycle.md`
+  - `wiki/concepts/micronutrients.md`
+  - `wiki/concepts/multinutrients-aggression-explosive-rage.md`
+  - `wiki/concepts/nutrients-autism-spectrum-disorder.md`
+  - `wiki/concepts/nutrients-cognitive-decline.md`
+  - `wiki/concepts/nutrients-pms.md`
+  - `wiki/concepts/nutrients-sleep-improvement.md`
+  - `wiki/concepts/nutrients-smoking-cessation.md`
+  - `wiki/concepts/nutrients-trauma-ptsd.md`
+  - `wiki/concepts/nutrients-versus-medications-adhd.md`
+  - `wiki/concepts/nutritional-psychiatry.md`
+  - `wiki/concepts/precautionary-principle-in-food-safety.md`
+  - `wiki/concepts/prenatal-diet-offspring-mental-health.md`
+  - `wiki/concepts/recommended-dietary-allowances-and-therapeutic-doses.md`
+  - `wiki/concepts/soil-microbiome-nutrient-depletion.md`
+  - `wiki/concepts/soil-mineral-depletion.md`
+  - `wiki/concepts/transtheoretical-model-of-behavior-change.md`
+  - `wiki/topics/blood-testing-limitations-for-nutrient-assessment.md`
+  - `wiki/topics/government-dietary-guidelines.md`
+  - `wiki/topics/mediterranean-diet-mental-health.md`
+  - `wiki/topics/multinutrient-supplements-for-mental-health.md`
+  - `wiki/topics/nutrient-drug-interactions-in-psychiatry.md`
+  - `wiki/topics/omega-3-fatty-acids-and-mental-health.md`
+  - `wiki/topics/the-scurvy-story-as-historical-parallel.md`
+  - `wiki/topics/ultra-processed-foods-and-mental-health.md`
+  - `wiki/sources/the-better-brain.md`
+- Files merged (extended):
+  - `wiki/concepts/gut-brain-axis.md`
+- Files deprecated: None.
+- Notes: 50 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

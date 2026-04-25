@@ -4,9 +4,10 @@ title: Gut-Brain Axis
 type: concept
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/health/Genius Foods - Max Lugavere.pdf#p1-562]'
+- '[raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p1-395]'
 confidence: high
 tags:
 - gut-brain-axis
@@ -16,13 +17,18 @@ related:
   broader:
   - microbiome
   - neurogastroenterology
-  narrower: []
+  - nutritional psychiatry
+  narrower:
+  - prebiotics
+  - probiotics
+  - fecal microbiota transplant
+  - BDNF
   adjacent:
   - microbiome
   - vagus-nerve
   - fecal-microbiota-transplantation
+aliases: []
 ---
-
 
 # Gut-Brain Axis
 
@@ -42,6 +48,13 @@ The gut microbiome communicates with the brain through the vagus nerve (providin
 - The vagus nerve sends messages from the GI tract directly to the brain, and cutting it appears to provide some protection against Parkinson's disease development. [raw/books/health/Genius Foods - Max Lugavere.pdf#p265]
 - Approximately 90 percent of the body's serotonin is found in the gut, where gut epithelial cells create serotonin to facilitate digestion. [raw/books/health/Genius Foods - Max Lugavere.pdf#p291]
 - Lactobacillus rhamnosus probiotic supplementation in mice increased anti-anxiety GABA receptors in parts of the brain, an effect absent when the vagus nerve was severed, suggesting direct microbial communication with the brain. [raw/books/health/Genius Foods - Max Lugavere.pdf#p277]
+- At least 50% of the cells in and on the human body are microbial cells, not human cells. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p78]
+- The gut microbiome contains about 90% of the microbes in the human body. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p79]
+- Studies found that certain emotional traits (anxiety) could be transferred between mice via gut microbe transfer, with corresponding changes in BDNF (brain-derived neurotrophic factor) in the hippocampus. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p81]
+- Specific bacteria (Coprococcus and Dialister) were found to be completely absent in people who are depressed, though causality has not been established. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p81]
+- A study of children with ASD who received fecal microbiota transplant showed over 40% had minimal to no ASD symptoms at a two-year follow-up, with concurrent improvement in gastrointestinal symptoms. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p87]
+- Fifty percent of adults with depression and 60% with anxiety went into remission following fecal microbiota transplant for digestive conditions. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p87]
+- Julia's research group published the first study showing that broad-spectrum multinutrients may increase bacterial diversity in the microbiome of children with ADHD, with decreased Bifidobacterium abundance correlating with improved ADHD symptoms. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p87]
 
 ## Inferences
 
@@ -55,6 +68,11 @@ The gut microbiome communicates with the brain through the vagus nerve (providin
 
 - Broader: [[microbiome]]
 - Broader: [[neurogastroenterology]]
+- Broader: [[nutritional psychiatry]]
+- Narrower: [[prebiotics]]
+- Narrower: [[probiotics]]
+- Narrower: [[fecal microbiota transplant]]
+- Narrower: [[BDNF]]
 - Adjacent: [[microbiome]]
 - Adjacent: [[vagus-nerve]]
 - Adjacent: [[fecal-microbiota-transplantation]]
@@ -64,11 +82,16 @@ The gut microbiome communicates with the brain through the vagus nerve (providin
 - Concepts: [[butyrate]]
 - Concepts: [[short-chain-fatty-acids]]
 - Concepts: [[inflammation]]
+- Concepts: [[micronutrients]]
+- Concepts: [[broad-spectrum multinutrients]]
+- Concepts: [[dysbiosis]]
 
 ## Provenance
 
 - Primary source: [raw/books/health/Genius Foods - Max Lugavere.pdf#p1-562]
+- Additional source: [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p1-395]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-better-brain-bonnie-j-kaplan`.
