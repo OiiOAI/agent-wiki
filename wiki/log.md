@@ -11406,3 +11406,40 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/zhou-dun-yi.md`
 - Files deprecated: None.
 - Notes: 31 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 十一家注孙子-中华国学文库-孙武-撰-杨炳安-校理
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf
+- Files created:
+  - `wiki/entities/cao-cao.md`
+  - `wiki/entities/du-mu.md`
+  - `wiki/entities/sun-wu.md`
+  - `wiki/entities/sun-xing-yan.md`
+  - `wiki/entities/yang-bing-an.md`
+  - `wiki/entities/zhang-yu.md`
+  - `wiki/concepts/ba-wang-zhi-bing.md`
+  - `wiki/concepts/huo-gong.md`
+  - `wiki/concepts/jin-gu-jing-qi.md`
+  - `wiki/concepts/jiu-bian.md`
+  - `wiki/concepts/jiu-di.md`
+  - `wiki/concepts/jun-zheng.md`
+  - `wiki/concepts/mou-gong.md`
+  - `wiki/concepts/qi-zheng.md`
+  - `wiki/concepts/shi-yi-zhu-xi-tong.md`
+  - `wiki/concepts/shi.md`
+  - `wiki/concepts/sun-zi-jiao-kan-xue.md`
+  - `wiki/concepts/tou-zhi-wang-di-ran-hou-cun.md`
+  - `wiki/concepts/wu-fa-zhi-shang.md`
+  - `wiki/concepts/wu-jian.md`
+  - `wiki/concepts/wu-li.md`
+  - `wiki/concepts/xing.md`
+  - `wiki/concepts/xu-shi.md`
+  - `wiki/concepts/yong-jian.md`
+  - `wiki/concepts/zhi-qi.md`
+  - `wiki/sources/shi-yi-jia-zhu-sun-zi.md`
+  - `wiki/analyses/sun-zi-bing-fa-liu-chuan-yu-zhu-jia-zhu-shu.md`
+  - `wiki/analyses/sun-zi-shi-san-pian-yu-ba-shi-er-pian.md`
+- Files merged (extended):
+  - `wiki/concepts/wu-wei.md`
+- Files deprecated: None.
+- Notes: 28 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

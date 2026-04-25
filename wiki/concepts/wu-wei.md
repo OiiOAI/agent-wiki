@@ -10,6 +10,7 @@ sources:
 - '[raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 - '[raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1]'
 - '[raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p1-209]'
+- '[raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p1-367]'
 confidence: high
 tags:
 - 玄学
@@ -23,6 +24,10 @@ tags:
 - wu-wei
 - actionless-activity
 - ancient-wisdom
+- 孙子兵法
+- 五危
+- 将材
+- 将领弱点
 related:
   broader:
   - 魏晋玄学
@@ -32,9 +37,16 @@ related:
   - 老子政治思想
   - Taoist philosophy
   - spiritual practice
+  - 九变
+  - 将材
   narrower:
   - 自然
   - 本末说
+  - 必死
+  - 必生
+  - 忿速
+  - 廉洁
+  - 爱民
   adjacent:
   - 逍遥
   - 独化
@@ -45,6 +57,8 @@ related:
   - nonresistance
   - surrender
   - presence
+  - 九变
+  - 军争
 aliases: []
 ---
 
@@ -83,6 +97,11 @@ aliases: []
 - In ancient China, wu wei was regarded as one of the highest achievements or virtues. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
 - Wu wei is radically different from inactivity in the ordinary state of consciousness, which stems from fear, inertia, or indecision. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
 - Real 'doing nothing' implies inner nonresistance and intense alertness. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
+- 必死可杀. [raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p196]
+- 必生可虏. [raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p159]
+- 忿速可侮. [raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p159]
+- 廉洁可辱. [raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p196]
+- 爱民可烦. [raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p197]
 
 ## Inferences
 
@@ -100,8 +119,15 @@ aliases: []
 - Broader: [[老子政治思想]]
 - Broader: [[Taoist philosophy]]
 - Broader: [[spiritual practice]]
+- Broader: [[九变]]
+- Broader: [[将材]]
 - Narrower: [[自然]]
 - Narrower: [[本末说]]
+- Narrower: [[必死]]
+- Narrower: [[必生]]
+- Narrower: [[忿速]]
+- Narrower: [[廉洁]]
+- Narrower: [[爱民]]
 - Adjacent: [[逍遥]]
 - Adjacent: [[独化]]
 - Adjacent: [[道]]
@@ -111,6 +137,8 @@ aliases: []
 - Adjacent: [[nonresistance]]
 - Adjacent: [[surrender]]
 - Adjacent: [[presence]]
+- Adjacent: [[九变]]
+- Adjacent: [[军争]]
 - Concepts: [[无为]]
 - Concepts: [[自然]]
 - Concepts: [[自为]]
@@ -121,6 +149,8 @@ aliases: []
 - Concepts: [[nonresistance]]
 - Concepts: [[presence]]
 - Concepts: [[acceptance]]
+- Concepts: [[将领]]
+- Concepts: [[权变]]
 - Entities: [[郭象]]
 - Entities: [[老子]]
 - Entities: [[庄子]]
@@ -132,6 +162,7 @@ aliases: []
 - Additional source: [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 - Additional source: [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1]
 - Additional source: [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p1-209]
+- Additional source: [raw/books/philosophy/十一家注孙子_中华国学文库 - 孙武 撰 杨炳安 校理.pdf#p1-367]
 
 ## Change notes
 
@@ -139,3 +170,4 @@ aliases: []
 - 2026-04-25 — merged contributions from `第三讲精要-王德峰讲-道德经-庄子`.
 - 2026-04-25 — merged contributions from `daodejing`.
 - 2026-04-25 — merged contributions from `the-power-of-now-tolle-eckhart`.
+- 2026-04-25 — merged contributions from `十一家注孙子-中华国学文库-孙武-撰-杨炳安-校理`.
