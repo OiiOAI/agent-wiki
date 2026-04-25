@@ -3157,3 +3157,22 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/the-hard-problem.md`
 - Files deprecated: None.
 - Notes: 32 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-mind-of-a-mnemonist-a-little-book-about-a-vast-memory-al
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Mind of a Mnemonist_ A Little Book about a Vast Memory, - Aleksandr R_ Luria, Lynn Solotaroff, Jerome Bruner.pdf
+- Files created:
+  - `wiki/entities/aleksandr-r-luria.md`
+  - `wiki/entities/s-mnemonist.md`
+  - `wiki/entities/s-the-mnemonist.md`
+  - `wiki/concepts/eidetic-memory.md`
+  - `wiki/concepts/figurative-thinking-and-poetry.md`
+  - `wiki/concepts/graphic-thinking.md`
+  - `wiki/concepts/magical-thinking.md`
+  - `wiki/concepts/memory-without-generalization.md`
+  - `wiki/concepts/mind-body-control.md`
+  - `wiki/concepts/synesthesia.md`
+  - `wiki/concepts/synesthetic-thinking.md`
+  - `wiki/sources/the-mind-of-a-mnemonist.md`
+- Files deprecated: None.
+- Notes: 12 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
