@@ -10106,3 +10106,65 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zeigarnik-effect.md`
 - Files deprecated: None.
 - Notes: 71 new + 22 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-crux-richard-rumelt
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/The Crux - Richard Rumelt.pdf
+- Files created:
+  - `wiki/entities/dropbox.md`
+  - `wiki/entities/elon-musk.md`
+  - `wiki/entities/farmkor.md`
+  - `wiki/entities/general-motors.md`
+  - `wiki/entities/intel.md`
+  - `wiki/entities/intuitive-surgical.md`
+  - `wiki/entities/iphone.md`
+  - `wiki/entities/kevin-feige.md`
+  - `wiki/entities/marc-benioff.md`
+  - `wiki/entities/marvel.md`
+  - `wiki/entities/michael-o-leary.md`
+  - `wiki/entities/netflix.md`
+  - `wiki/entities/okco.md`
+  - `wiki/entities/petzl.md`
+  - `wiki/entities/reed-hastings.md`
+  - `wiki/entities/richard-rumelt.md`
+  - `wiki/entities/royalfield.md`
+  - `wiki/entities/ryanair.md`
+  - `wiki/entities/salesforce-com.md`
+  - `wiki/entities/sp-global.md`
+  - `wiki/entities/spacex.md`
+  - `wiki/entities/zoom.md`
+  - `wiki/concepts/90-day-derby.md`
+  - `wiki/concepts/addressable-strategic-challenge.md`
+  - `wiki/concepts/addressable-strategic-challenges.md`
+  - `wiki/concepts/airland-battle.md`
+  - `wiki/concepts/bcg-matrix.md`
+  - `wiki/concepts/bertrand-competition.md`
+  - `wiki/concepts/boyd-loop.md`
+  - `wiki/concepts/bundle-of-ambitions.md`
+  - `wiki/concepts/capital-budgeting-critique.md`
+  - `wiki/concepts/close-coupling.md`
+  - `wiki/concepts/crux.md`
+  - `wiki/concepts/deferred-judgment.md`
+  - `wiki/concepts/design-versus-deduction.md`
+  - `wiki/concepts/disruption-theory.md`
+  - `wiki/concepts/fundamentals-of-advantage.md`
+  - `wiki/concepts/gnarly-challenges.md`
+  - `wiki/concepts/goals-vs-strategy.md`
+  - `wiki/concepts/long-wave-short-wave-technology.md`
+  - `wiki/concepts/network-effects.md`
+  - `wiki/concepts/organizational-dysfunction.md`
+  - `wiki/concepts/scale-and-experience.md`
+  - `wiki/concepts/simplify-to-grow.md`
+  - `wiki/concepts/strategic-coherence.md`
+  - `wiki/concepts/strategic-navigation.md`
+  - `wiki/concepts/strategic-planning-critique.md`
+  - `wiki/concepts/strategy-foundry.md`
+  - `wiki/concepts/strategy-vs-management.md`
+  - `wiki/concepts/wrong-causal-model.md`
+  - `wiki/sources/the-crux-how-leaders-become-strategists.md`
+- Files merged (extended):
+  - `wiki/entities/nvidia.md`
+  - `wiki/concepts/groupthink.md`
+  - `wiki/concepts/proximate-objectives.md`
+- Files deprecated: None.
+- Notes: 51 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
