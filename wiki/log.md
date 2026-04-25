@@ -8391,3 +8391,46 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/esther-perel.md`
 - Files deprecated: None.
 - Notes: 25 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-surrender-experiment-my-journey-into-life-s-perfection-m
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Surrender Experiment_ My Journey into Life's Perfection - Michael A_ Singer.pdf
+- Files created:
+  - `wiki/entities/alan-robertson.md`
+  - `wiki/entities/amrit-desai.md`
+  - `wiki/entities/baba-muktananda.md`
+  - `wiki/entities/barbara-duncan.md`
+  - `wiki/entities/bobby-davids.md`
+  - `wiki/entities/built-with-love.md`
+  - `wiki/entities/david-clark.md`
+  - `wiki/entities/donna-wagner.md`
+  - `wiki/entities/durga-devi.md`
+  - `wiki/entities/healtheon-webmd.md`
+  - `wiki/entities/jim-owens.md`
+  - `wiki/entities/john-kang.md`
+  - `wiki/entities/judge-norton.md`
+  - `wiki/entities/marty-wygod.md`
+  - `wiki/entities/marv-rich.md`
+  - `wiki/entities/medical-manager-corporation.md`
+  - `wiki/entities/paul-dobbins.md`
+  - `wiki/entities/personalized-programming.md`
+  - `wiki/entities/randy-turk.md`
+  - `wiki/entities/santa-fe-community-college.md`
+  - `wiki/entities/synetic.md`
+  - `wiki/entities/temple-of-the-universe.md`
+  - `wiki/entities/the-medical-manager.md`
+  - `wiki/entities/tim-staley.md`
+  - `wiki/entities/union-correctional-institution.md`
+  - `wiki/concepts/federal-indictment-medical-manager.md`
+  - `wiki/concepts/heart-chakra.md`
+  - `wiki/concepts/karma-yoga.md`
+  - `wiki/concepts/shaktipat.md`
+  - `wiki/concepts/sixth-amendment.md`
+  - `wiki/concepts/surrender-experiment.md`
+  - `wiki/concepts/surrender-spiritual-practice.md`
+  - `wiki/concepts/voice-in-the-head.md`
+  - `wiki/sources/the-surrender-experiment.md`
+- Files merged (extended):
+  - `wiki/concepts/surrender.md`
+- Files deprecated: None.
+- Notes: 34 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
