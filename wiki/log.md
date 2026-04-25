@@ -2739,3 +2739,110 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/gut-brain-axis.md`
 - Files deprecated: None.
 - Notes: 50 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-brain-that-changes-itself-norman-doidge
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf
+- Files created:
+  - `wiki/entities/aleksandr-luria.md`
+  - `wiki/entities/alvaro-pascual-leone.md`
+  - `wiki/entities/arrowsmith-school.md`
+  - `wiki/entities/barbara-arrowsmith-young.md`
+  - `wiki/entities/caudate-nucleus.md`
+  - `wiki/entities/cheryl-schiltz.md`
+  - `wiki/entities/cingulate-gyrus.md`
+  - `wiki/entities/doidge-bob-flanagan.md`
+  - `wiki/entities/edward-taub.md`
+  - `wiki/entities/eric-kandel.md`
+  - `wiki/entities/fast-forword.md`
+  - `wiki/entities/frederick-gage.md`
+  - `wiki/entities/frederick-lincoln.md`
+  - `wiki/entities/jeffrey-m-schwartz.md`
+  - `wiki/entities/jordan-grafman.md`
+  - `wiki/entities/joshua-cohen.md`
+  - `wiki/entities/lyova-zazetsky.md`
+  - `wiki/entities/mark-rosenzweig.md`
+  - `wiki/entities/michael-bernstein.md`
+  - `wiki/entities/michael-merzenich.md`
+  - `wiki/entities/michelle-mack.md`
+  - `wiki/entities/nicole-von-ruden.md`
+  - `wiki/entities/obsessive-compulsive-disorder.md`
+  - `wiki/entities/orbital-frontal-cortex.md`
+  - `wiki/entities/patient-a.md`
+  - `wiki/entities/paul-bach-y-rita.md`
+  - `wiki/entities/paula-tallal.md`
+  - `wiki/entities/pedro-bach-y-rita.md`
+  - `wiki/entities/posit-science.md`
+  - `wiki/entities/sea-gypsies.md`
+  - `wiki/entities/silver-spring-monkeys.md`
+  - `wiki/entities/stanley-karansky.md`
+  - `wiki/entities/thought-translation-machines.md`
+  - `wiki/entities/tms.md`
+  - `wiki/entities/v-s-ramachandran.md`
+  - `wiki/entities/yuri-danilov.md`
+  - `wiki/concepts/acquired-tastes.md`
+  - `wiki/concepts/bdnf.md`
+  - `wiki/concepts/body-image.md`
+  - `wiki/concepts/brain-exercises.md`
+  - `wiki/concepts/brain-lock.md`
+  - `wiki/concepts/brain-map-dedifferentiation.md`
+  - `wiki/concepts/brain-maps.md`
+  - `wiki/concepts/brain-unmasking.md`
+  - `wiki/concepts/cognitive-reserve.md`
+  - `wiki/concepts/compensation.md`
+  - `wiki/concepts/competitive-plasticity.md`
+  - `wiki/concepts/constraint-induced-movement-therapy.md`
+  - `wiki/concepts/critical-period-sexual-plasticity.md`
+  - `wiki/concepts/critical-periods-and-orbitofrontal-system.md`
+  - `wiki/concepts/culturally-modified-brain.md`
+  - `wiki/concepts/falling-in-love-plasticity.md`
+  - `wiki/concepts/four-types-of-neuroplasticity.md`
+  - `wiki/concepts/gate-control-theory-of-pain.md`
+  - `wiki/concepts/gentamicin.md`
+  - `wiki/concepts/learned-nonuse.md`
+  - `wiki/concepts/learning-disabilities.md`
+  - `wiki/concepts/localizationism.md`
+  - `wiki/concepts/long-term-potentiation-depression.md`
+  - `wiki/concepts/masochism-brain-plasticity.md`
+  - `wiki/concepts/massed-practice.md`
+  - `wiki/concepts/media-effects-on-brain.md`
+  - `wiki/concepts/memory-retranscription.md`
+  - `wiki/concepts/mental-practice.md`
+  - `wiki/concepts/micromapping.md`
+  - `wiki/concepts/mirror-box-therapy.md`
+  - `wiki/concepts/motor-maps.md`
+  - `wiki/concepts/neuronal-stem-cells.md`
+  - `wiki/concepts/neurons-that-fire-apart-wire-apart.md`
+  - `wiki/concepts/neurons-that-fire-together-wire-together.md`
+  - `wiki/concepts/nucleus-basalis.md`
+  - `wiki/concepts/operator-theory.md`
+  - `wiki/concepts/oxytocin-unlearning.md`
+  - `wiki/concepts/pornography-addiction-neuroplasticity.md`
+  - `wiki/concepts/procedural-and-explicit-memory.md`
+  - `wiki/concepts/rem-sleep-and-plasticity.md`
+  - `wiki/concepts/sensory-substitution.md`
+  - `wiki/concepts/sexual-plasticity.md`
+  - `wiki/concepts/shaping.md`
+  - `wiki/concepts/sublimation-neuroplasticity.md`
+  - `wiki/concepts/tactile-vision-device.md`
+  - `wiki/concepts/temporal-processing.md`
+  - `wiki/concepts/the-plastic-paradox.md`
+  - `wiki/concepts/tongue-display-unit.md`
+  - `wiki/concepts/transference.md`
+  - `wiki/concepts/use-it-or-lose-it.md`
+  - `wiki/topics/psychoanalysis-as-neuroplastic-therapy.md`
+  - `wiki/topics/synaptic-pruning.md`
+  - `wiki/sources/the-brain-that-changes-itself.md`
+- Files merged (extended):
+  - `wiki/entities/aplysia.md`
+  - `wiki/entities/h-m.md`
+  - `wiki/entities/santiago-ramon-y-cajal.md`
+  - `wiki/entities/sigmund-freud.md`
+  - `wiki/concepts/cochlear-implant.md`
+  - `wiki/concepts/critical-period.md`
+  - `wiki/concepts/neurogenesis.md`
+  - `wiki/concepts/neuroplasticity.md`
+  - `wiki/concepts/phantom-limb.md`
+  - `wiki/concepts/vestibular-system.md`
+- Files deprecated: None.
+- Notes: 89 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

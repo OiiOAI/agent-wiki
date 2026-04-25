@@ -14,12 +14,14 @@ sources:
 - '[raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
 canonical: Santiago Ramón y Cajal
 confidence: high
 aliases:
 - Cajal
 - Santiago Ramon y Cajal
 - Ramón y Cajal
+- Santiago Ramón y Cajal
 tags:
 - neuroanatomy
 - nobel
@@ -30,6 +32,9 @@ tags:
 - neural-circuitry
 - history-of-neuroscience
 - synapse
+- neuroanatomist
+- Nobel Prize
+- history of neuroscience
 related:
   concepts:
   - global-neuronal-workspace-theory
@@ -39,10 +44,19 @@ related:
   - cellular-connectionism
   - synapse
   - neuron
+  - neurogenesis
+  - neurons
+  - neuroplasticity
+  topics:
+  - brain regeneration
+  - history of neuroscience
   entities:
   - camillo-golgi
   - ross-harrison
   - Camillo Golgi
+  - Frederick Gage
+  - Peter Eriksson
+  - Norman Doidge
 ---
 
 # Santiago Ramón y Cajal
@@ -74,11 +88,16 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Connectional specificity states that nerve cells do not connect randomly but make specific connections at particular contact points with certain postsynaptic target cells but not others. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p74]
 - He was among the first to realize that what most distinguishes one type of neuron from another is form, specifically the number of processes arising from the cell body. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p75]
 - He championed the view of brain function called cellular connectionism. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p60]
+- Santiago Ramon y Cajal was the world's most outstanding neuroanatomist at the beginning of the twentieth century and a Nobel Prize winner. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p252]
+- He laid the groundwork for understanding how neurons are structured. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p252]
+- He devoted the later part of his career to searching for signs that the brain or spinal cord could change, regenerate, or reorganize its structure, but failed. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p253]
+- In his 1913 masterpiece 'Degeneration and Regeneration of the Nervous System,' he wrote: 'In adult centers the nerve paths are something fixed, ended, immutable. Everything may die, nothing may be regenerated. It is for the science of the future to change, if possible, this harsh decree.'. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p253]
 
 ## Inferences
 
 - Inference: Cajal's anatomical discoveries provide the structural foundation for understanding how the global workspace achieves brain-wide communication
 - Inference: Cajal's artistic background may have contributed to his ability to infer living processes from static images of fixed nerve cells.
+- Inference: Cajal's pessimistic conclusion about brain regeneration was based on the best available evidence of his time and reflected the scientific consensus, but modern discoveries of neurogenesis have overturned his view.
 
 ## Related pages
 
@@ -86,14 +105,19 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Broader: [[Neuroscience]]
 - Broader: [[history of neuroscience]]
 - Broader: [[cell neuroscience]]
+- Broader: [[neuroscience]]
+- Broader: [[neuroanatomy]]
 - Narrower: [[dynamic polarization]]
 - Narrower: [[connection specificity]]
 - Narrower: [[synapse]]
 - Narrower: [[neuron doctrine]]
 - Narrower: [[connectional specificity]]
 - Narrower: [[cellular connectionism]]
+- Narrower: [[neurons]]
+- Narrower: [[neurogenesis]]
 - Adjacent: [[John-Eccles]]
 - Adjacent: [[Synapse]]
+- Adjacent: [[neuroplasticity]]
 - Concepts: [[global-neuronal-workspace-theory]]
 - Concepts: [[pyramidal-neurons]]
 - Concepts: [[white-matter]]
@@ -101,9 +125,17 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Concepts: [[cellular-connectionism]]
 - Concepts: [[synapse]]
 - Concepts: [[neuron]]
+- Concepts: [[neurogenesis]]
+- Concepts: [[neurons]]
+- Concepts: [[neuroplasticity]]
+- Topics: [[brain regeneration]]
+- Topics: [[history of neuroscience]]
 - Entities: [[camillo-golgi]]
 - Entities: [[ross-harrison]]
 - Entities: [[Camillo Golgi]]
+- Entities: [[Frederick Gage]]
+- Entities: [[Peter Eriksson]]
+- Entities: [[Norman Doidge]]
 
 ## Provenance
 
@@ -112,6 +144,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
 
 ## Change notes
 
@@ -120,3 +153,4 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `primal-intelligence-you-are-smarter-than-angus-fletcher`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.

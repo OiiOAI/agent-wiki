@@ -9,6 +9,7 @@ sources:
 - '[raw/books/health/Built_to_Move.epub#L1-L1]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
 confidence: high
 tags:
 - balance
@@ -25,6 +26,7 @@ related:
   - otolith-organs
   - vestibulo-ocular-reflex
   - vestibular-nuclei
+  - tongue-display-unit
 aliases: []
 ---
 
@@ -43,6 +45,10 @@ The vestibular system, also known as the inner ear, is a labyrinth of ring-shape
 - Hair cells transduce head motion into neural signals; deflection toward the kinocilium causes depolarization and increased afferent firing, while deflection away causes hyperpolarization. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p971]
 - The cupula in each semicircular canal is displaced by endolymph flow during head rotation, bending hair cell stereocilia and altering firing rates in vestibular nerve fibers. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p972]
 - Otoconia (calcium carbonate particles) embedded in the otolithic membrane allow otolith organs to detect shear forces from gravity and linear acceleration. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p973]
+- The vestibular apparatus consists of three semicircular canals in the inner ear that detect motion in three-dimensional space—one for horizontal plane, one for vertical, one for forward/backward movement. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p13]
+- Signals from the vestibular apparatus go to specialized neurons called 'vestibular nuclei,' which process them and send commands to muscles for adjustment. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p14]
+- The vestibular sense weakens as we age, contributing to falls in the elderly who often fear falling more than being mugged. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p17]
+- Psychiatrist Paul Schilder studied how healthy sense of being and 'stable' body image are related to the vestibular sense in the 1930s. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p13]
 
 ## Inferences
 
@@ -55,20 +61,27 @@ The vestibular system, also known as the inner ear, is a labyrinth of ring-shape
 - Narrower: [[otolith-organs]]
 - Narrower: [[vestibulo-ocular-reflex]]
 - Narrower: [[vestibular-nuclei]]
+- Narrower: [[tongue-display-unit]]
 - Concepts: [[proprioception]]
 - Concepts: [[vision-balance]]
 - Concepts: [[balance]]
 - Concepts: [[hair-cells]]
 - Concepts: [[endolymph]]
 - Concepts: [[vestibular-nerve]]
+- Concepts: [[spatial-orientation]]
+- Concepts: [[sensory-substitution]]
 - Topics: [[vital-sign-8-balance]]
+- Entities: [[cheryl-schiltz]]
+- Entities: [[gentamicin]]
 
 ## Provenance
 
 - Primary source: [raw/books/health/Built_to_Move.epub#L1-L1]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.

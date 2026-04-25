@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
 canonical: Aplysia
 confidence: high
 aliases:
@@ -19,6 +20,9 @@ tags:
 - model-organism
 - neuroscience
 - learning
+- memory
+- synaptic-plasticity
+- research
 related:
   concepts:
   - sensitization
@@ -27,12 +31,19 @@ related:
   - simple neural systems
   - giant neuron
   - neural circuit
+  - synaptic-plasticity
+  - habituation
+  - short-term-memory
+  - long-term-memory
+  - classical-conditioning
   topics:
   - implicit-memory
   - synaptic-facilitation
   entities:
   - Eric Kandel
   - Ladislav Tauc
+  - eric-kandel
+  - tom-carew
 ---
 
 # Aplysia
@@ -54,15 +65,22 @@ Aplysia (sea slug) is a marine mollusk used extensively as a model organism for 
 - Aplysia are hermaphrodites that can form impressive copulating chains where each member serves as both male and female. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p200]
 - Kriegstein succeeded in rearing Aplysia in the laboratory from the embryonic stage of the egg mass to adulthood, enabling cell culture studies. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p265]
 - Aplysia larvae rest on red seaweed (Laurencia pacifica) and extract chemicals needed to trigger metamorphosis into juvenile slugs. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p266]
+- Aplysia is a giant marine snail with neurons a millimeter wide, visible to the naked eye, which Kandel studied as a window into human nervous tissue function. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p224]
+- Kandel found a simple circuit in Aplysia for gill withdrawal when danger is detected, which he could partially remove and keep alive in sea water for study. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p224]
+- As Aplysia learned to avoid shocks and withdraw its gill, its nervous system changed by enhancing synaptic connections between sensory and motor neurons. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p225]
+- When snails developed 'learned fear' through repeated shocks, the presynaptic neurons released more chemical messenger into the synapse, giving off more powerful signals. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p225]
+- Kandel and Carew showed that Aplysia could develop both short-term memories lasting several minutes and long-term memories lasting up to three weeks. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p225]
 
 ## Inferences
 
 - Inference: The simplicity of Aplysia's nervous system made it possible to trace the complete neural circuit controlling a simple behavior and relate changes in the reflex to changes in specific cells during learning.
+- Inference: The conservation of learning mechanisms across species from sea snails to humans suggests fundamental neuroplastic principles apply broadly.
 
 ## Related pages
 
 - Broader: [[invertebrate-neuroscience]]
 - Broader: [[model-organisms]]
+- Broader: [[sea-snails]]
 - Adjacent: [[gill-withdrawal-reflex-aplysia]]
 - Adjacent: [[eric-r-kandel]]
 - Concepts: [[sensitization]]
@@ -71,17 +89,26 @@ Aplysia (sea slug) is a marine mollusk used extensively as a model organism for 
 - Concepts: [[simple neural systems]]
 - Concepts: [[giant neuron]]
 - Concepts: [[neural circuit]]
+- Concepts: [[synaptic-plasticity]]
+- Concepts: [[habituation]]
+- Concepts: [[short-term-memory]]
+- Concepts: [[long-term-memory]]
+- Concepts: [[classical-conditioning]]
 - Topics: [[implicit-memory]]
 - Topics: [[synaptic-facilitation]]
 - Entities: [[Eric Kandel]]
 - Entities: [[Ladislav Tauc]]
+- Entities: [[eric-kandel]]
+- Entities: [[tom-carew]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
