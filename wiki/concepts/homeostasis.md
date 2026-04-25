@@ -13,6 +13,7 @@ sources:
 - '[raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R.
   Damasio.pdf#p1-323]'
 - '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
+- '[raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p1-116]'
 confidence: high
 related:
   broader:
@@ -45,6 +46,9 @@ tags:
 - consciousness
 - regulation
 - psychology
+- change
+- resistance
+- backslide
 aliases: []
 ---
 
@@ -82,6 +86,10 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Living things must resist one of the fundamental principles of physics: the Second Law of Thermodynamics. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p143]
 - Affect is an extended form of homeostasis; the multiplicity of needs that characterise complex organisms has everything to do with consciousness. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p164]
 - Affect is the fundamental vehicle of free-energy minimisation; affect is the primary medium of volition and the fount of all mental life. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p174]
+- Homeostasis is the built-in tendency of body, brain, and behavior to stay the same within narrow limits and snap back when changed. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p74]
+- Homeostasis works to keep things as they are even if they aren't very good, resisting all change equally. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p75]
+- The book presents five guidelines for dealing with homeostasis: awareness, negotiation, support systems, regular practice, and lifelong learning. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p78-80]
+- Homeostasis applies to families and organizations as well as individuals, meaning entire systems resist change when any part changes. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p76-77]
 
 ## Inferences
 
@@ -125,6 +133,9 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Concepts: [[biology]]
 - Concepts: [[survival]]
 - Concepts: [[regulation]]
+- Concepts: [[mastery]]
+- Concepts: [[practice]]
+- Concepts: [[plateau]]
 - Topics: [[hypothalamus]]
 - Topics: [[autonomic-nervous-system]]
 - Topics: [[neuroendocrine-system]]
@@ -139,6 +150,7 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
 - Additional source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
+- Additional source: [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p1-116]
 
 ## Change notes
 
@@ -146,3 +158,4 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.
 - 2026-04-25 — merged contributions from `the-hidden-spring-mark-solms`.
+- 2026-04-25 — merged contributions from `mastery-the-keys-to-success-and-long-ter-george-leonard`.

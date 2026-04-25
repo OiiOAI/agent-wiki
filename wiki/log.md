@@ -6557,3 +6557,25 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zeigarnik-effect.md`
 - Files deprecated: None.
 - Notes: 22 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | mastery-the-keys-to-success-and-long-ter-george-leonard
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf
+- Files created:
+  - `wiki/entities/george-leonard.md`
+  - `wiki/entities/leonard-energy-training.md`
+  - `wiki/concepts/dabbler.md`
+  - `wiki/concepts/hacker-learner.md`
+  - `wiki/concepts/ki.md`
+  - `wiki/concepts/mastery.md`
+  - `wiki/concepts/obsessive-learner.md`
+  - `wiki/concepts/plateau.md`
+  - `wiki/concepts/the-edge.md`
+  - `wiki/concepts/white-belt-mindset.md`
+  - `wiki/topics/mastery-in-relationships.md`
+  - `wiki/sources/mastery-the-keys-to-success-and-long-term-success.md`
+- Files merged (extended):
+  - `wiki/concepts/homeostasis.md`
+  - `wiki/concepts/intentionality.md`
+- Files deprecated: None.
+- Notes: 12 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
