@@ -6843,3 +6843,36 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/bj-fogg.md`
 - Files deprecated: None.
 - Notes: 36 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | attached-are-you-anxious-avoidant-or-sec-amir-levine
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Attached_ Are you Anxious, Avoidant or Sec - Amir Levine.pdf
+- Files created:
+  - `wiki/entities/amir-levine.md`
+  - `wiki/entities/jeffry-simpson.md`
+  - `wiki/entities/john-bowlby.md`
+  - `wiki/entities/john-gray.md`
+  - `wiki/entities/mary-ainsworth.md`
+  - `wiki/entities/rachel-heller.md`
+  - `wiki/concepts/activating-strategies.md`
+  - `wiki/concepts/adult-attachment-styles.md`
+  - `wiki/concepts/anxious-attachment-style.md`
+  - `wiki/concepts/anxious-avoidant-trap.md`
+  - `wiki/concepts/attachment-system.md`
+  - `wiki/concepts/avoidant-attachment-style.md`
+  - `wiki/concepts/conflict-strategies-workshop.md`
+  - `wiki/concepts/deactivating-strategies.md`
+  - `wiki/concepts/dependency-paradox.md`
+  - `wiki/concepts/effective-communication-relationships.md`
+  - `wiki/concepts/insecure-conflict-strategies.md`
+  - `wiki/concepts/phantom-ex-phenomenon.md`
+  - `wiki/concepts/protest-behavior.md`
+  - `wiki/concepts/relationship-misconceptions.md`
+  - `wiki/concepts/secure-attachment-style.md`
+  - `wiki/concepts/secure-base.md`
+  - `wiki/concepts/secure-conflict-resolution-principles.md`
+  - `wiki/concepts/strange-situation-test.md`
+  - `wiki/topics/avoidant-attachment-deactivating-strategies.md`
+  - `wiki/sources/attached-are-you-anxious-avoidant-or-secure.md`
+- Files deprecated: None.
+- Notes: 26 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
