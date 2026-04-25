@@ -3065,3 +3065,45 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/predictive-processing.md`
 - Files deprecated: None.
 - Notes: 35 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-feeling-of-what-happens-body-and-emot-antonio-r-damasio
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf
+- Files created:
+  - `wiki/entities/patient-david.md`
+  - `wiki/entities/patient-emily.md`
+  - `wiki/concepts/akinetic-mutism.md`
+  - `wiki/concepts/autobiographical-self.md`
+  - `wiki/concepts/background-feeling.md`
+  - `wiki/concepts/body-loop.md`
+  - `wiki/concepts/cingulate-cortex.md`
+  - `wiki/concepts/coma-persistent-vegetative-state.md`
+  - `wiki/concepts/consciousness-and-the-body.md`
+  - `wiki/concepts/core-consciousness.md`
+  - `wiki/concepts/dissociative-identity-disorder.md`
+  - `wiki/concepts/epileptic-automatism.md`
+  - `wiki/concepts/extended-consciousness.md`
+  - `wiki/concepts/feeling-of-feeling.md`
+  - `wiki/concepts/feeling.md`
+  - `wiki/concepts/internal-milieu.md`
+  - `wiki/concepts/locked-in-syndrome.md`
+  - `wiki/concepts/parabrachial-nucleus.md`
+  - `wiki/concepts/proto-self.md`
+  - `wiki/concepts/reticular-formation.md`
+  - `wiki/concepts/second-order-neural-pattern.md`
+  - `wiki/concepts/sprague-experiment.md`
+  - `wiki/concepts/transient-global-amnesia.md`
+  - `wiki/concepts/value-of-consciousness.md`
+  - `wiki/concepts/wakefulness.md`
+  - `wiki/sources/the-feeling-of-what-happens.md`
+- Files merged (extended):
+  - `wiki/entities/superior-colliculi.md`
+  - `wiki/concepts/anosognosia.md`
+  - `wiki/concepts/asomatognosia.md`
+  - `wiki/concepts/emotion.md`
+  - `wiki/concepts/homeostasis.md`
+  - `wiki/concepts/somatic-marker-hypothesis.md`
+  - `wiki/concepts/somatosensory-system.md`
+  - `wiki/concepts/unconscious-processing.md`
+- Files deprecated: None.
+- Notes: 26 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

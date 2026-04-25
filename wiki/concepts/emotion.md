@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences
   of - Evan Thompson.pdf#p1-535]'
 - '[raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]'
+- '[raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R.
+  Damasio.pdf#p1-323]'
 confidence: high
 related:
   broader:
@@ -16,15 +18,23 @@ related:
   - consciousness
   - enactive-approach
   - primal-intelligence
+  - life-regulation
   narrower:
   - valence
   - protention
   - affective-dynamics
   - emotional-interpretation
+  - feeling
+  - primary-emotions
+  - social-emotions
+  - background-emotions
   adjacent:
   - intentionality
   - appraisal
   - limbic-system
+  - pain
+  - pleasure
+  - motivation
 tags:
 - emotion
 - self-assessment
@@ -56,10 +66,17 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 - Dumb pride is a positive feeling toward a past action that everyone else thinks you should regret—it is the rebel self-respect that Antigone felt when buried alive for burying her brother. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p66]
 - Maverick gratitude comes from noticing when you get thanked for a thankless task that put you at odds with the world—it validates your core sense of purpose. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p68]
 - Emotion Reset works by recalling a time when you made a new plan under pressure, triggering the thought 'I have done it before; I can do it again' to calm aggression and release intuition. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p62]
+- Emotions are complicated collections of chemical and neural responses forming a pattern, with all emotions having some kind of regulatory role to play for the organism's survival. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p51]
+- Emotions are biologically determined processes depending on innately set brain devices laid down by long evolutionary history. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p51]
+- The devices which produce emotions occupy a fairly restricted ensemble of subcortical regions beginning at the brain stem and moving up to the higher brain. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p51]
+- All emotions can be engaged automatically, without conscious deliberation, despite individual variation and cultural shaping. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p51]
+- Emotions use the body as their theater (internal milieu, visceral, vestibular, musculoskeletal systems) but also affect the mode of operation of numerous brain circuits. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p51]
+- Emotions are part of bioregulatory devices with which organisms come equipped to survive. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p53]
 
 ## Inferences
 
 - Inference: Emotional fluctuations act as control parameters that induce bifurcations from one present moment of consciousness to another, playing a major role in generating the flow of consciousness.
+- Inference: Emotion and consciousness are evolutionarily intertwined, with emotion likely set before the dawn of consciousness, suggesting affect is more primitive than cognitive awareness.
 
 ## Uncertainties
 
@@ -71,13 +88,21 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 - Broader: [[consciousness]]
 - Broader: [[enactive-approach]]
 - Broader: [[primal-intelligence]]
+- Broader: [[life-regulation]]
 - Narrower: [[valence]]
 - Narrower: [[protention]]
 - Narrower: [[affective-dynamics]]
 - Narrower: [[emotional-interpretation]]
+- Narrower: [[feeling]]
+- Narrower: [[primary-emotions]]
+- Narrower: [[social-emotions]]
+- Narrower: [[background-emotions]]
 - Adjacent: [[intentionality]]
 - Adjacent: [[appraisal]]
 - Adjacent: [[limbic-system]]
+- Adjacent: [[pain]]
+- Adjacent: [[pleasure]]
+- Adjacent: [[motivation]]
 - Concepts: [[affective-force]]
 - Concepts: [[emotional-salience]]
 - Concepts: [[feeling-tone]]
@@ -86,6 +111,10 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 - Concepts: [[dumb-pride]]
 - Concepts: [[maverick-gratitude]]
 - Concepts: [[first-step-plan]]
+- Concepts: [[feeling]]
+- Concepts: [[core-consciousness]]
+- Concepts: [[somatic-marker-hypothesis]]
+- Concepts: [[homeostasis]]
 - Entities: [[lucy-gray]]
 - Entities: [[antigone]]
 
@@ -93,8 +122,10 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 
 - Primary source: [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p1-535]
 - Additional source: [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]
+- Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `primal-intelligence-you-are-smarter-than-angus-fletcher`.
+- 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.

@@ -14,6 +14,8 @@ sources:
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian,
   Oshin.pdf#p1-500]'
+- '[raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R.
+  Damasio.pdf#p1-323]'
 confidence: medium
 tags:
 - neuroscience
@@ -75,6 +77,7 @@ related:
   - VMPFC
   - somatic signals
   - arousal
+  - reasoning
 aliases: []
 ---
 
@@ -141,6 +144,11 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - The 'body loop' describes the enactment of somatic states that can act consciously or nonconsciously on neural processes enabling action. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p122]
 - The 'as if body loop' bypasses the body to activate insular/somatosensory cortices directly, creating fainter images of emotional body states. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p122]
 - Knowledge without emotion/somatic signaling leads to dissociation between what one knows or says and how one decides to act. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p121]
+- The somatic marker hypothesis suggests that emotion is integral to processes of reasoning and decision making, for worse and for better. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p41]
+- Patients with damage to ventromedial prefrontal and right parietal regions can still use instruments of rationality and call up knowledge of the world, yet many personal and social decisions become irrational. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p41]
+- Selective reduction of emotion is at least as prejudicial for rationality as excessive emotion. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p41]
+- Emotion probably assists reasoning especially when it comes to personal and social matters involving risk and conflict. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p42]
+- Emotion viewed as embodiment of the logic of survival—neither a luxury nor a nuisance nor a mere evolutionary vestige. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p42]
 
 ## Inferences
 
@@ -160,6 +168,7 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Inference: The somatic marker hypothesis provides a framework for understanding why patients with intact intellectual abilities but damaged ventromedial prefrontal cortex still make poor real-life decisions while performing normally on standard neuropsychological tests.
 - Inference: The hypothesis suggests that emotion is not merely disruptive to decision making but is actually necessary for advantageous choices.
 - Inference: The somatic marker hypothesis provides neurobiological support for the notion that people make judgments not only by evaluating consequences and their probability, but also at a gut or emotional level.
+- Inference: The hypothesis overturns the classical view that reason and emotion are opposing forces, replacing it with a view where emotion provides essential biasing signals for adaptive decision-making.
 
 ## Uncertainties
 
@@ -216,6 +225,7 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Adjacent: [[VMPFC]]
 - Adjacent: [[somatic signals]]
 - Adjacent: [[arousal]]
+- Adjacent: [[reasoning]]
 - Concepts: [[emotion]]
 - Concepts: [[feeling]]
 - Concepts: [[body]]
@@ -256,6 +266,8 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Concepts: [[emotional-processing]]
 - Concepts: [[somatic-state]]
 - Concepts: [[somatic-markers]]
+- Concepts: [[body-loop]]
+- Concepts: [[as-if-body-loop]]
 - Topics: [[descartes-error]]
 - Topics: [[decision-making]]
 - Topics: [[emotion and reason]]
@@ -280,6 +292,7 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Entities: [[vm-prefrontal-cortex]]
 - Entities: [[insular-cortex]]
 - Entities: [[somatosensory-cortex]]
+- Entities: [[damasio-antonio]]
 
 ## Provenance
 
@@ -288,6 +301,7 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Additional source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain.pdf#p1-332]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
+- Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
 
 ## Change notes
 
@@ -296,3 +310,4 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - 2026-04-25 — merged contributions from `descartes-error-emotion-reason-and-the-human-brain`.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
+- 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.

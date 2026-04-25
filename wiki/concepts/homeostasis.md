@@ -10,11 +10,15 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R.
+  Damasio.pdf#p1-323]'
 confidence: high
 related:
   broader:
   - physiology
   - autonomic-nervous-system
+  - life-regulation
+  - biology
   narrower:
   - body-temperature-regulation
   - water-balance
@@ -22,6 +26,12 @@ related:
   - blood-pressure-regulation
   - baroreceptor-reflex
   - thermoregulation
+  - emotion
+  - drive
+  - motivation
+  adjacent:
+  - internal-milieu
+  - proto-self
 tags:
 - homeostasis
 - physiology
@@ -49,17 +59,35 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Regulation is achieved through interlinked control systems with both physiological and behavioral outputs. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1148]
 - Key features of homeostatic control systems include motivational states such as hunger and thirst that arise as responses to internal stimuli and external incentive stimuli. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1148]
 - Body water is partitioned between intracellular and extracellular compartments that must be separately regulated because of their different compositions. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1149]
+- Homeostasis refers to the coordinated and largely automated physiological reactions required to maintain steady internal states in a living organism. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p39]
+- Emotions are part and parcel of the regulation called homeostasis; it is senseless to discuss them without understanding this aspect of living organisms. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p39]
+- In this book, homeostasis is proposed as a key to the biology of consciousness. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p40]
+- Consciousness enabled the connection of inner life regulation with the processing of images, bringing the life regulation system to bear on representing things and events inside and outside the organism. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p25]
+- Spinoza said that the effort to preserve oneself is the first and unique foundation of virtue; consciousness enables that effort. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p25]
+- Walter Cannon named homeostasis as 'the coordinated physiological reactions which maintain most of the steady states of the body.'. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p138]
+- Steven Rose argued for 'homeodynamics' because set points in living organisms can undergo changes across a lifetime and be influenced by context. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p141]
+
+## Inferences
+
+- Inference: Damasio's framework suggests consciousness evolved as an extension of homeostatic regulation, making awareness fundamentally about survival rather than pure cognition.
 
 ## Related pages
 
 - Broader: [[physiology]]
 - Broader: [[autonomic-nervous-system]]
+- Broader: [[life-regulation]]
+- Broader: [[biology]]
 - Narrower: [[body-temperature-regulation]]
 - Narrower: [[water-balance]]
 - Narrower: [[energy-balance]]
 - Narrower: [[blood-pressure-regulation]]
 - Narrower: [[baroreceptor-reflex]]
 - Narrower: [[thermoregulation]]
+- Narrower: [[emotion]]
+- Narrower: [[drive]]
+- Narrower: [[motivation]]
+- Adjacent: [[internal-milieu]]
+- Adjacent: [[proto-self]]
 - Concepts: [[negative-feedback]]
 - Concepts: [[set-point]]
 - Concepts: [[feedback-loops]]
@@ -68,18 +96,27 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Concepts: [[motivation]]
 - Concepts: [[thirst]]
 - Concepts: [[hunger]]
+- Concepts: [[proto-self]]
+- Concepts: [[emotion]]
+- Concepts: [[consciousness]]
+- Concepts: [[pain]]
+- Concepts: [[pleasure]]
 - Topics: [[hypothalamus]]
 - Topics: [[autonomic-nervous-system]]
 - Topics: [[neuroendocrine-system]]
 - Topics: [[homeostasis-motivation-addictive-states]]
+- Topics: [[neurobiology]]
+- Topics: [[evolution]]
 - Entities: [[hypothalamus]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.
