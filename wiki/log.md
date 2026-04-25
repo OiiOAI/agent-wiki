@@ -4491,3 +4491,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/san-ming-tong-hui.md`
 - Files deprecated: None.
 - Notes: 73 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 中华经典藏书-金刚经-心经-坛经-陈秋平-尚荣译注
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/中华经典藏书 金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf
+- Files created:
+  - `wiki/sources/zhong-hua-jing-dian-cang-shu-jin-gang-jing-xin-jing-tan-jing-chen-qiu-ping-shang-rong-yi-zhu.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
