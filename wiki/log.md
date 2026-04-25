@@ -10168,3 +10168,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/proximate-objectives.md`
 - Files deprecated: None.
 - Notes: 51 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-evolution-of-cooperation-robert-axelrod
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/The Evolution of Cooperation - Robert Axelrod.pdf
+- Files created:
+  - `wiki/sources/the-evolution-of-cooperation.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
