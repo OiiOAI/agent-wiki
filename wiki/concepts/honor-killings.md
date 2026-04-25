@@ -32,7 +32,7 @@ Killing of a family member considered to have tarnished the family's reputation,
 ## Key facts
 
 - Contemporary honor killings are mostly restricted to traditional Muslim, Hindu, and Sikh communities. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p298]
-- Honor killings are often planned with approval of family members, rationalized on religious grounds, and carried out openly to regain family honor. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worse - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p298]
+- Honor killings are often planned with approval of family members, rationalized on religious grounds, and carried out openly to regain family honor. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p298]
 - Perpetrators are often underage relatives to minimize sentencing, and victims are usually young women for offenses like refusing arranged marriage or being raped. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p298]
 - Honor killings occur throughout the West where patriarchs expect daughters to remain untouched by the world they emigrated to. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p299]
 

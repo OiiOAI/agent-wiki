@@ -30,9 +30,9 @@ Influence-from-Mere-Association Tendency describes how mere association with cer
 
 ## Key facts
 
-- Sellers of ordinary industrial products often change product trade dress and raise price significantly hoping quality-seeking buyers will be tricked into purchasing by mere association of high price with high quality. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p547]
-- CBS under Chairman Paley was famous for Persian Messenger Syndrome because Paley was hostile to people who brought him bad news, causing him to live in a cocoon of unreality and make one bad deal after another. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p552]
-- The proper antidote to Persian Messenger Syndrome is to develop through exercise of will a habit of welcoming bad news. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p553]
+- Sellers of ordinary industrial products often change product trade dress and raise price significantly hoping quality-seeking buyers will be tricked into purchasing by mere association of high price with high quality. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p547]
+- CBS under Chairman Paley was famous for Persian Messenger Syndrome because Paley was hostile to people who brought him bad news, causing him to live in a cocoon of unreality and make one bad deal after another. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p552]
+- The proper antidote to Persian Messenger Syndrome is to develop through exercise of will a habit of welcoming bad news. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p553]
 
 ## Related pages
 

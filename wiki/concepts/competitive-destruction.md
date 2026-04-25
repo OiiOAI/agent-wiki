@@ -28,9 +28,9 @@ The phenomenon where new technologies or business models destroy established ind
 
 ## Key facts
 
-- When technology moves as fast as it does in civilization like ours, you get competitive destruction—the finest buggy whip factory becomes obsolete when the horseless carriage arrives. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p189]
-- New businesses have huge advantages for early birds, but staying on the wave requires continuous attention. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p189]
-- The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you—and most people do not get this straight in their heads. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p187]
+- When technology moves as fast as it does in civilization like ours, you get competitive destruction—the finest buggy whip factory becomes obsolete when the horseless carriage arrives. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p189]
+- New businesses have huge advantages for early birds, but staying on the wave requires continuous attention. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p189]
+- The great lesson in microeconomics is to discriminate between when technology is going to help you and when it's going to kill you—and most people do not get this straight in their heads. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p187]
 
 ## Inferences
 

@@ -32,10 +32,10 @@ Outcomes that result from the simultaneous combination of multiple favorable fac
 
 ## Key facts
 
-- Really big effects, lollapalooza effects, will often come only from large combinations of factors; tuberculosis was tamed only by routine combined use of three different drugs. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p302]
-- To reach a $2 trillion value, Coca-Cola must use both operant conditioning and Pavlovian conditioning plus social proof effects—a combination of favorable factors creating lollapalooza results. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p309]
-- The LTCM collapse was a lollapalooza caused by overconfidence combined with high leverage and extreme competition. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
-- Academic psychology lacks sufficient attention to lollapalooza effects from combinations of psychological tendencies, creating a situation violating Einstein's injunction against oversimplification. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p315]
+- Really big effects, lollapalooza effects, will often come only from large combinations of factors; tuberculosis was tamed only by routine combined use of three different drugs. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p302]
+- To reach a $2 trillion value, Coca-Cola must use both operant conditioning and Pavlovian conditioning plus social proof effects—a combination of favorable factors creating lollapalooza results. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p309]
+- The LTCM collapse was a lollapalooza caused by overconfidence combined with high leverage and extreme competition. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
+- Academic psychology lacks sufficient attention to lollapalooza effects from combinations of psychological tendencies, creating a situation violating Einstein's injunction against oversimplification. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p315]
 
 ## Related pages
 

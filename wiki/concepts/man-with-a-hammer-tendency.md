@@ -33,10 +33,10 @@ The cognitive tendency to view all problems as fitting the tools or frameworks o
 
 ## Key facts
 
-- Professional defects stem partly from the proverb: 'To a man with a hammer, every problem looks like a nail.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p326]
-- One partial cure for man-with-hammer tendency is having a vast set of skills across multiple disciplines, so one carries multiple tools. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p325]
-- Pilots are trained to avoid responding to a hazard as if it was hazard 'X' just because their mind contains only a hazard 'X' model. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
-- Academic balkanization creates conditions where professors misteach psychology while non-psychology professors fail to consider psychological effects crucial in their subject matter. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p316]
+- Professional defects stem partly from the proverb: 'To a man with a hammer, every problem looks like a nail.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p326]
+- One partial cure for man-with-hammer tendency is having a vast set of skills across multiple disciplines, so one carries multiple tools. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p325]
+- Pilots are trained to avoid responding to a hazard as if it was hazard 'X' just because their mind contains only a hazard 'X' model. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
+- Academic balkanization creates conditions where professors misteach psychology while non-psychology professors fail to consider psychological effects crucial in their subject matter. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p316]
 
 ## Related pages
 

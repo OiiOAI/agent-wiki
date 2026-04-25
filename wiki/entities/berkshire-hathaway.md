@@ -56,11 +56,11 @@ Berkshire Hathaway is a multinational conglomerate holding company led by Warren
 - Munger states they have a huge area of things that, while legal, are beneath them—they won't do them. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p87]
 - They have decentralized power to a point just short of total abdication in subsidiary management. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p93]
 - The company avoids paying quarterly goals and budgets or having a standard personnel system. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p95]
-- Berkshire Hathaway's market value increased an astonishing 13,500 times from 1964 to approximately $135 billion without much increase in outstanding shares. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p8]
-- Buffett and Munger have acquired diverse businesses including Johns Manville, Buffalo Evening News, Flight Safety International, NetJets, Shaw Carpet, Benjamin Moore Paint, GEICO, and Dairy Queen. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p27]
-- Berkshire has purchased meaningful stakes in The Washington Post, Coca-Cola, Gillette, and American Express. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p27]
-- Berkshire almost entirely still owns every business it has ever acquired outright. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p27]
-- The company's insurance operations generate float at approximately 3% cost of capital, invested in businesses returning 13% or more. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p95]
+- Berkshire Hathaway's market value increased an astonishing 13,500 times from 1964 to approximately $135 billion without much increase in outstanding shares. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p8]
+- Buffett and Munger have acquired diverse businesses including Johns Manville, Buffalo Evening News, Flight Safety International, NetJets, Shaw Carpet, Benjamin Moore Paint, GEICO, and Dairy Queen. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p27]
+- Berkshire has purchased meaningful stakes in The Washington Post, Coca-Cola, Gillette, and American Express. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p27]
+- Berkshire almost entirely still owns every business it has ever acquired outright. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p27]
+- The company's insurance operations generate float at approximately 3% cost of capital, invested in businesses returning 13% or more. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p95]
 
 ## Inferences
 

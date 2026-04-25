@@ -35,8 +35,8 @@ A successful lawyer at Skadden Arps and classmate of Charlie Munger, noted for h
 
 ## Key facts
 
-- Joe Flom of Skadden Arps has been a successful lawyer partly because he's very good at dreaming up little, vivid examples that serve to pound a point home in a way that really works. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p276]
-- Munger describes Joe Flom's ability to use vivid, humorous examples as a knack that he honed, and argues that all lawyers were born with this gift to some degree. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p277]
+- Joe Flom of Skadden Arps has been a successful lawyer partly because he's very good at dreaming up little, vivid examples that serve to pound a point home in a way that really works. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p276]
+- Munger describes Joe Flom's ability to use vivid, humorous examples as a knack that he honed, and argues that all lawyers were born with this gift to some degree. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p277]
 
 ## Related pages
 

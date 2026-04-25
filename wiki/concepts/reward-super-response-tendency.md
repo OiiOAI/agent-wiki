@@ -31,9 +31,9 @@ Reward-Super Response Tendency is the tendency of humans and animals to modify t
 
 ## Key facts
 
-- A monkey can be trained to seek and work for an intrinsically worthless token if it is routinely exchangeable for a banana, demonstrating that conditioned responses to rewards extend beyond food to any desired item. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
-- Granny's Rule, requiring children to eat their carrots before dessert, demonstrates reward superpower because it can successfully manipulate one's own behavior using rewards already possessed. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
-- People change behavior for sex, friendship, companionship, advancement in status, and other non-monetary items, showing money is not the only effective reward. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
+- A monkey can be trained to seek and work for an intrinsically worthless token if it is routinely exchangeable for a banana, demonstrating that conditioned responses to rewards extend beyond food to any desired item. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
+- Granny's Rule, requiring children to eat their carrots before dessert, demonstrates reward superpower because it can successfully manipulate one's own behavior using rewards already possessed. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
+- People change behavior for sex, friendship, companionship, advancement in status, and other non-monetary items, showing money is not the only effective reward. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
 
 ## Related pages
 

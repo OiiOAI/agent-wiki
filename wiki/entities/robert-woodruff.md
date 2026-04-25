@@ -43,9 +43,9 @@ Robert Woodruff (1889–1985) was a businessman who took over Coca-Cola at age 3
 - Robert Woodruff was born in Georgia to a father who was president of a major trust company. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p339]
 - By age 33, Woodruff had taken over Coca-Cola and turned a small soft-drink manufacturer into a corporate giant known worldwide. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p339]
 - The Woodruff foundations retained approximately ninety percent concentration in Coca-Cola stock, which Munger cites as extremely wise. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p340]
-- Robert Woodruff took over Coca-Cola at age 33 and turned it from a small soft-drink manufacturer into a corporate giant known worldwide. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
-- The Woodruff foundations have proven extremely wise to retain an approximately ninety percent concentration in founder's Coca-Cola stock. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
-- Woodruff's personal creed: 'There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
+- Robert Woodruff took over Coca-Cola at age 33 and turned it from a small soft-drink manufacturer into a corporate giant known worldwide. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
+- The Woodruff foundations have proven extremely wise to retain an approximately ninety percent concentration in founder's Coca-Cola stock. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
+- Woodruff's personal creed: 'There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
 
 ## Related pages
 

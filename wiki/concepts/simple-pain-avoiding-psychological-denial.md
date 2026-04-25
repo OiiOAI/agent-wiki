@@ -30,9 +30,9 @@ Simple Pain-Avoiding Psychological Denial is the tendency to distort facts until
 
 ## Key facts
 
-- A sane woman whose super athlete, super-student son flew off over the Atlantic Ocean and never came back refused to believe he was dead. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p556]
-- In chemical dependency, addicted persons tend to believe they remain in respectable condition with respectable prospects, displaying extremely unrealistic denial as deterioration deepens. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p556]
-- Alcoholics Anonymous achieves a fifty percent cure rate by causing several psychological tendencies to act together to counter addiction, though one should stay far away from any conduct likely to drift into chemical dependency. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p556]
+- A sane woman whose super athlete, super-student son flew off over the Atlantic Ocean and never came back refused to believe he was dead. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p556]
+- In chemical dependency, addicted persons tend to believe they remain in respectable condition with respectable prospects, displaying extremely unrealistic denial as deterioration deepens. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p556]
+- Alcoholics Anonymous achieves a fifty percent cure rate by causing several psychological tendencies to act together to counter addiction, though one should stay far away from any conduct likely to drift into chemical dependency. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p556]
 
 ## Related pages
 

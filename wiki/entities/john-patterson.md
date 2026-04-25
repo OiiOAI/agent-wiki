@@ -33,9 +33,9 @@ John Patterson was a small retail merchant who, after a crude cash register tran
 
 ## Key facts
 
-- John Patterson was a small retail merchant who didn't make any money until he put in a crude cash register that changed his business from losing to earning profit. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p190]
-- Patterson created National Cash Register and got the best distribution system, biggest collection of patents, and best of everything as he surfed the technology wave. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p190]
-- Munger said buying into partnership with Patterson in those early days was a total one hundred percent cinch, and that's exactly what an investor should be looking for. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p190]
+- John Patterson was a small retail merchant who didn't make any money until he put in a crude cash register that changed his business from losing to earning profit. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p190]
+- Patterson created National Cash Register and got the best distribution system, biggest collection of patents, and best of everything as he surfed the technology wave. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p190]
+- Munger said buying into partnership with Patterson in those early days was a total one hundred percent cinch, and that's exactly what an investor should be looking for. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p190]
 
 ## Inferences
 

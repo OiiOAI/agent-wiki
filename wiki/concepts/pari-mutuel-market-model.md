@@ -28,12 +28,12 @@ Munger's analogy comparing stock markets to horse racing pari-mutuel systems. Bo
 
 ## Key facts
 
-- A pari-mutuel system is a market where everybody bets and odds change based on what's bet, just like the stock market. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p195]
-- The track takes seventeen percent off the top in pari-mutuel betting, requiring bettors to beat not only other bettors but also cover this cost. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p195]
-- Stock market transaction costs (spread and commissions) are much lower than the seventeen percent track take, making beating the market more feasible. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p196]
-- The one thing all winning bettors have in the history of beating pari-mutuel systems is that they bet very seldom. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p197]
-- The efficient market theory is obviously roughly right—markets are quite efficient and hard to beat by significant margins. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p194]
-- Markets are not perfectly efficient, and with enough shrewdness and discipline, some people will get better results than average. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p197]
+- A pari-mutuel system is a market where everybody bets and odds change based on what's bet, just like the stock market. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p195]
+- The track takes seventeen percent off the top in pari-mutuel betting, requiring bettors to beat not only other bettors but also cover this cost. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p195]
+- Stock market transaction costs (spread and commissions) are much lower than the seventeen percent track take, making beating the market more feasible. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p196]
+- The one thing all winning bettors have in the history of beating pari-mutuel systems is that they bet very seldom. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p197]
+- The efficient market theory is obviously roughly right—markets are quite efficient and hard to beat by significant margins. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p194]
+- Markets are not perfectly efficient, and with enough shrewdness and discipline, some people will get better results than average. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p197]
 
 ## Inferences
 

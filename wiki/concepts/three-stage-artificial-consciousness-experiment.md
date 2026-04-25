@@ -40,7 +40,7 @@ Solms describes a three-stage research programme for engineering artificial cons
 - Stage 2 parameters include energy acquisition, thermoregulation, fatigue, pain (triggered by physical damage), anxiety, and competition with other agents. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p258]
 - Stage 3 requires flexible prioritisation of multiple needs through precision optimisation on a contextual basis, where quantum of external energy varies in relation to thermoregulatory and anxiety thresholds. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p259]
 - Solms predicts consciousness arises only at Stage 3 when the system can compartmentalise different error values and flexibly modulate their precision weightings. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p259]
-- Stage 1 systems will have subjective values but no sentience; Stage 3 systems are predicted to be sentient. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p257,259]
+- Stage 1 systems will have subjective values but no sentience; Stage 3 systems are predicted to be sentient. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p257-259]
 - Many iterations of the system would fail and expire; successful predictive codes would be artificially propagated through successive generations. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p258-259]
 - The operational criterion for voluntary activity is survival in novel unpredicted environments, which Stage 2 systems are predicted to fail at but Stage 3 systems should succeed at. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p263]
 

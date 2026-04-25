@@ -27,10 +27,10 @@ This analysis examines how Salomon's general counsel failed to persuade CEO John
 
 ## Key facts
 
-- The general counsel knew Gutfreund should have promptly told federal authorities about trading improprieties in which Gutfreund didn't participate, and urged him to do so. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p278]
-- The general counsel told Gutfreund, 'You're probably not legally required to do that, but it's the right thing to do. You really should,' which didn't work because the task was unpleasant. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p278]
-- It would have been child's play to save the situation by telling Gutfreund, 'John, this situation could ruin your life. You could lose your wealth. You could lose your reputation,' but the general counsel appealed to morality instead. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p279]
-- Munger observes that appealing to a man's interest is likely to work better as a matter of human persuasion than appealing to anything else—this is a powerful psychological principle with deep biological roots. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p279]
+- The general counsel knew Gutfreund should have promptly told federal authorities about trading improprieties in which Gutfreund didn't participate, and urged him to do so. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p278]
+- The general counsel told Gutfreund, 'You're probably not legally required to do that, but it's the right thing to do. You really should,' which didn't work because the task was unpleasant. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p278]
+- It would have been child's play to save the situation by telling Gutfreund, 'John, this situation could ruin your life. You could lose your wealth. You could lose your reputation,' but the general counsel appealed to morality instead. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p279]
+- Munger observes that appealing to a man's interest is likely to work better as a matter of human persuasion than appealing to anything else—this is a powerful psychological principle with deep biological roots. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p279]
 
 ## Inferences
 

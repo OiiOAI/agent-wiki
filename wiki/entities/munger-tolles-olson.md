@@ -38,12 +38,12 @@ Munger Tolles & Olson is a prominent Los Angeles-based law firm founded by Charl
 
 ## Key facts
 
-- Munger co-founded the law firm in 1962 with four colleagues from Musick, Peeler & Garrett. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
-- Original partners were Roy Tolles, Rod Hills, Dick Esbenshade, Fred Warder, and Charlie Munger. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
-- The firm was renamed Munger Tolles & Olson with the addition of Ron Olson. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
-- Munger left as an active partner in 1965 and did not take his share of the firm's capital, directing it instead to the estate of his young partner Fred Warder who died of cancer. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p24]
-- The firm has an enviable record of quietly providing pro bono assistance to support groups for impoverished and disadvantaged people in Los Angeles. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p24]
-- Munger continues to influence the firm with principles: 'You don't need to take the last dollar' and 'Choose clients as you would choose friends'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p24]
+- Munger co-founded the law firm in 1962 with four colleagues from Musick, Peeler & Garrett. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
+- Original partners were Roy Tolles, Rod Hills, Dick Esbenshade, Fred Warder, and Charlie Munger. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
+- The firm was renamed Munger Tolles & Olson with the addition of Ron Olson. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
+- Munger left as an active partner in 1965 and did not take his share of the firm's capital, directing it instead to the estate of his young partner Fred Warder who died of cancer. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p24]
+- The firm has an enviable record of quietly providing pro bono assistance to support groups for impoverished and disadvantaged people in Los Angeles. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p24]
+- Munger continues to influence the firm with principles: 'You don't need to take the last dollar' and 'Choose clients as you would choose friends'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p24]
 
 ## Related pages
 

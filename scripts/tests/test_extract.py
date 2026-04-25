@@ -57,6 +57,36 @@ def test_normalize_provenance_snaps_path_to_canonical() -> None:
     assert _normalize_provenance(bad, src) == f"[{src}#L100-L200]"
 
 
+def test_normalize_provenance_snaps_truncated_long_chinese_filename() -> None:
+    """Real S5 failure mode: 196-char Chinese book title, LLM dropped
+    14 chars from the middle. Both basenames end with the same 30+ char
+    suffix (`- 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub`), so the
+    suffix-match path-snap kicks in. Without this, downstream lint
+    flagged 1.2k+ file_not_exist errors."""
+    src = (
+        "raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!"
+        "从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - "
+        "马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub"
+    )
+    truncated = (
+        "raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!"
+        "从历史哲学到科学哲学,十本书搭建一世纪的哲 - "
+        "马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub"
+    )
+    bad = f"[{truncated}#L100-L200]"
+    assert _normalize_provenance(bad, src) == f"[{src}#L100-L200]"
+
+
+def test_normalize_provenance_does_not_snap_unrelated_long_filenames() -> None:
+    """30-char suffix match must be sharp enough that two different long
+    books don't get conflated. Different book + different ending must NOT
+    snap."""
+    src = "raw/books/economics/[当代经济学系列丛书]微观经济学·[美]鲍默尔 著.pdf"
+    other = "raw/books/economics/[当代经济学系列丛书]宏观经济学·[法]贝纳西 著.pdf"
+    bad = f"[{other}#p42]"
+    assert _normalize_provenance(bad, src) == f"[{other}#p42]"
+
+
 def test_normalize_provenance_preserves_non_bracketed() -> None:
     assert _normalize_provenance("no brackets here", "x") == "no brackets here"
 

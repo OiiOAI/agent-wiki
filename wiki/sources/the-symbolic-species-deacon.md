@@ -94,8 +94,8 @@ The Symbolic Species is a neuroscience book by Terrence W. Deacon that investiga
 - The bibliography and chapter notes document fourteen chapters addressing language evolution, brain evolution, and symbolic cognition. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p530]
 - Chapter 1 references major language origins theories by Bickerton, Corballis, Donald, Dunbar, Lieberman, Pinker, and others. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p530]
 - Chapter 3 discusses ape language-training experiments including work with Koko, Nim, Lana, and Kanzi. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p531]
-- The bibliography includes references spanning developmental genetics (Raff), allometry (Gould, Thompson), neural Darwinism (Edelman), and consciousness research (Chalmers, Dennett, Searle). [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p533-#p557]
-- The index covers topics from abstraction and adaptation through zygote, including autism, displacement, encephalization, prefrontal cortex, Williams syndrome, and symbolic reference. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p560-#p602]
+- The bibliography includes references spanning developmental genetics (Raff), allometry (Gould, Thompson), neural Darwinism (Edelman), and consciousness research (Chalmers, Dennett, Searle). [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p533-p557]
+- The index covers topics from abstraction and adaptation through zygote, including autism, displacement, encephalization, prefrontal cortex, Williams syndrome, and symbolic reference. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p560-p602]
 
 ## Inferences
 

@@ -56,11 +56,11 @@ The psychology of misjudgment refers to the systematic cognitive errors that hum
 - Psychology professors cannot adequately demonstrate denial experiments without ethical violations, leading them to assume 'if I can't demonstrate it, it doesn't exist'—a conclusion Munger calls asinine. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p232]
 - Pavlov's decade of dog experiments on misery-caused mental misfunction have never appeared in introductory psychology books. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p232]
 - Munger advocates learning all 20 important models and using them as a checklist, not just relying on formal academic coverage. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p233]
-- The most useful and practical part of psychology—which Munger believes can be taught to any intelligent person in a week—is ungodly important. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p171]
-- Very smart people make totally bonkers mistakes by failing to pay heed to the psychology of misjudgment. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p172]
-- Pascal said, 'The mind of man at one and the same time is both the glory and the shame of the universe.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p172]
-- The basic neural network of the brain uses a crude, shortcut-type approximation, not the precise calculations of Fermat/Pascal. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p166]
-- Someone who knows how to take advantage of shortcuts in the perceptual apparatus can cause you to see things that aren't there. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p170]
+- The most useful and practical part of psychology—which Munger believes can be taught to any intelligent person in a week—is ungodly important. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p171]
+- Very smart people make totally bonkers mistakes by failing to pay heed to the psychology of misjudgment. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p172]
+- Pascal said, 'The mind of man at one and the same time is both the glory and the shame of the universe.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p172]
+- The basic neural network of the brain uses a crude, shortcut-type approximation, not the precise calculations of Fermat/Pascal. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p166]
+- Someone who knows how to take advantage of shortcuts in the perceptual apparatus can cause you to see things that aren't there. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p170]
 
 ## Inferences
 

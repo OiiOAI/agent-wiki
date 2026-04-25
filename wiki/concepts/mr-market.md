@@ -45,11 +45,11 @@ Mr. Market is a concept from Benjamin Graham's 'The Intelligent Investor' descri
 - Some days Mr. Market says 'I'll sell you some of my interest for way less than you think it's worth.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p194]
 - Other days Mr. Market offers to buy interests at prices 'way higher than you think it's worth.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p194]
 - Munger describes having Mr. Market as a blessing because he gives investors options to buy more, sell, or do nothing. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p194]
-- Graham treated the market as a manic-depressive who comes by every day offering to sell or buy interests at varying prices. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
-- Some days Mr. Market says he'll sell at prices way less than you think worth, other days he'll buy at prices way higher than you think worth. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
-- The investor gets the option of deciding whether to buy more, sell part, or do nothing at all when Mr. Market makes his offer. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
-- To Graham, it was a blessing to be in business with a manic-depressive who gave you this series of options all the time. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
-- Buffett has found Mr. Market very useful over his whole adult lifetime. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
+- Graham treated the market as a manic-depressive who comes by every day offering to sell or buy interests at varying prices. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
+- Some days Mr. Market says he'll sell at prices way less than you think worth, other days he'll buy at prices way higher than you think worth. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
+- The investor gets the option of deciding whether to buy more, sell part, or do nothing at all when Mr. Market makes his offer. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
+- To Graham, it was a blessing to be in business with a manic-depressive who gave you this series of options all the time. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
+- Buffett has found Mr. Market very useful over his whole adult lifetime. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p205]
 
 ## Inferences
 

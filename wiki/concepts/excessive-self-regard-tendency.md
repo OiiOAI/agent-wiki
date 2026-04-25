@@ -30,9 +30,9 @@ Excessive Self-Regard Tendency causes people to over-appraise themselves and the
 
 ## Key facts
 
-- Once owned, possessions suddenly become worth more to their owner than he would pay if they were offered for sale and he didn't already own them; this overappraisal phenomenon is called the 'endowment effect'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p557]
-- Tolstoy observed that the worst criminals don't appraise themselves as all that bad; they believe either they didn't commit their crimes or that considering their pressures, their behavior was understandable and forgivable. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p561]
-- Warren Buffett wisely said: 'It is not greed that drives the world, but envy'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p536]
+- Once owned, possessions suddenly become worth more to their owner than he would pay if they were offered for sale and he didn't already own them; this overappraisal phenomenon is called the 'endowment effect'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p557]
+- Tolstoy observed that the worst criminals don't appraise themselves as all that bad; they believe either they didn't commit their crimes or that considering their pressures, their behavior was understandable and forgivable. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p561]
+- Warren Buffett wisely said: 'It is not greed that drives the world, but envy'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p536]
 
 ## Related pages
 

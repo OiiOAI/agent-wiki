@@ -29,9 +29,9 @@ Granny's Rule is the requirement that children eat their carrots before they get
 
 ## Key facts
 
-- Granny's Rule can successfully manipulate one's own behavior even using rewards already possessed, demonstrating 'reward superpower' so extreme it must be mentioned. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
-- Consultant PhD psychologists often urge business organizations to improve their reward systems by teaching executives to use Granny's Rule to govern their own daily behavior. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
-- Given reward superpower, requiring oneself to do unpleasant tasks before pleasant ones is wise and sound, and the emphasis on daily use is not accidental because prompt rewards work best. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p517]
+- Granny's Rule can successfully manipulate one's own behavior even using rewards already possessed, demonstrating 'reward superpower' so extreme it must be mentioned. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
+- Consultant PhD psychologists often urge business organizations to improve their reward systems by teaching executives to use Granny's Rule to govern their own daily behavior. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p516]
+- Given reward superpower, requiring oneself to do unpleasant tasks before pleasant ones is wise and sound, and the emphasis on daily use is not accidental because prompt rewards work best. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p517]
 
 ## Related pages
 

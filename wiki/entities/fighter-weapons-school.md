@@ -50,7 +50,7 @@ The Fighter Weapons School (FWS) at Nellis Air Force Base was founded in 1949 an
 - Boyd was appointed Director of Academics but only on the condition that he could add four more classes to the academic curriculum. [raw/books/strategy/Boyd - Robert Coram.pdf#p82]
 - Boyd spent five-and-a-half years at Nellis, an unusually long tour of duty when normal is two to three years. [raw/books/strategy/Boyd - Robert Coram.pdf#p105]
 - The bust-out rate at the FWS proved it was the toughest course in the Air Force, designed to weed out every man who was not a tiger. [raw/books/strategy/Boyd - Robert Coram.pdf#p112]
-- No one had ever gone through the FWS with a perfect academic record until Ron Catton achieved perfect scores in every course. [raw/books/strategy/Boyd - Robert Coram.pdf#p111,115]
+- No one had ever gone through the FWS with a perfect academic record until Ron Catton achieved perfect scores in every course. [raw/books/strategy/Boyd - Robert Coram.pdf#p111-115]
 
 ## Inferences
 

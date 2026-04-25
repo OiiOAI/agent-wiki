@@ -35,10 +35,10 @@ The investment philosophy practiced by Berkshire Hathaway under Warren Buffett a
 
 ## Key facts
 
-- Berkshire Hathaway maintains marketable equity portfolios with virtually zero turnover and with only a very few stocks chosen, achieving total annual croupier costs below one-tenth of one percent of principal per annum. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p354]
-- If foundations would follow Berkshire's example, they would have cause for regret only if they couldn't get Warren Buffett to work for nothing. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p360]
-- Berkshire prefers to participate in foreign economies through companies like Coca-Cola and Gillette rather than direct foreign investment. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p359]
-- Berkshire's future rate of compounding shareholders' wealth is going to go down compared to its past, and its size will be an anchor dragging on performance. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p269]
+- Berkshire Hathaway maintains marketable equity portfolios with virtually zero turnover and with only a very few stocks chosen, achieving total annual croupier costs below one-tenth of one percent of principal per annum. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p354]
+- If foundations would follow Berkshire's example, they would have cause for regret only if they couldn't get Warren Buffett to work for nothing. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p360]
+- Berkshire prefers to participate in foreign economies through companies like Coca-Cola and Gillette rather than direct foreign investment. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p359]
+- Berkshire's future rate of compounding shareholders' wealth is going to go down compared to its past, and its size will be an anchor dragging on performance. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p269]
 
 ## Related pages
 

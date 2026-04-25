@@ -161,6 +161,34 @@ def test_provenance_format_path_with_spaces_accepted() -> None:
     assert check_provenance_format(md) == []
 
 
+def test_provenance_format_path_with_brackets_accepted() -> None:
+    """Chinese-publisher convention puts series labels in [...] inside the
+    filename, e.g. `[当代经济学系列丛书]微观经济学.pdf`. The provenance regex
+    must match these — earlier `[^\\]]+?` was too strict and stopped at
+    the first inner `]`, flagging 4k+ false-positive 'malformed' errors."""
+    md = VALID_CONCEPT_MD.replace(
+        "[raw/books/neuroscience/Friston.pdf#p42]",
+        "[raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p43]",
+    ).replace(
+        "[raw/books/neuroscience/Friston.pdf#p47]",
+        "[raw/books/business/[工商管理精要]兼并与收购·[美]P.S.萨德沙纳姆 著.pdf#p145]",
+    )
+    assert check_provenance_format(md) == []
+
+
+def test_provenance_format_two_anchors_one_line() -> None:
+    """Multiple provenance anchors on a single line must each match
+    independently — non-greedy regex behavior."""
+    md = VALID_CONCEPT_MD.replace(
+        "[raw/books/neuroscience/Friston.pdf#p42]",
+        "[raw/books/A.pdf#p1] cited by [raw/books/B.pdf#p2]",
+    )
+    # The two synthesized anchors should both pass; only the original
+    # second anchor remains in place. Either way: zero malformed errors.
+    errs = check_provenance_format(md)
+    assert all("malformed" not in str(e) for e in errs)
+
+
 def test_provenance_format_page_out_of_range(tmp_path: Path) -> None:
     # create a fake referenced file so file-existence passes
     (tmp_path / "raw" / "books" / "neuroscience").mkdir(parents=True)

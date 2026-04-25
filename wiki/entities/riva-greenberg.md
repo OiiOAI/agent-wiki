@@ -46,7 +46,7 @@ Riva Greenberg is a health researcher, health coach, and author who has lived wi
 
 - Riva Greenberg has lived with type 1 diabetes for 48 years and has written three books on the topic. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p188]
 - Research shows people with type 1 diabetes make approximately 180 decisions daily about managing their blood sugar. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p198]
-- Greenberg and Bertsch argue that managing blood sugar is primarily in the Complex domain of Cynefin, not the Complicated domain as commonly assumed. [raw/books/strategy/Cynefin - Weaving Say - Making into the Fa - Dave Snowden.pdf#p192]
+- Greenberg and Bertsch argue that managing blood sugar is primarily in the Complex domain of Cynefin, not the Complicated domain as commonly assumed. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p192]
 - Studies from the T1D Exchange Registry found that despite increased CGM device usage from 7% in 2012 to 30% in 2018, participants' blood sugar levels were actually higher in 2018 than 2012. [raw/books/strategy/Cynefin - Weaving Sense - Making into the Fa - Dave Snowden.pdf#p198]
 
 ## Inferences

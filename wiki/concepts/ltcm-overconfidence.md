@@ -34,10 +34,10 @@ The failure of Long-Term Capital Management in 1998, a hedge fund founded by a r
 
 ## Key facts
 
-- Long-Term Capital Management recently collapsed through overconfidence in its highly leveraged methods, despite IQs of its principles that must have averaged 160. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
-- Smart, hardworking people aren't exempted from professional disasters from overconfidence; often they just go aground in the more difficult voyages they choose. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
-- LTCM developed complex mathematical models to take advantage of arbitrage deals and used high levels of debt—about $125 billion by 1998. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
-- The LTCM collapse was poorly positioned for two consecutive months of negative returns combined with Salomon Brothers' exit from the arbitrage business and foreign financial panics. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
+- Long-Term Capital Management recently collapsed through overconfidence in its highly leveraged methods, despite IQs of its principles that must have averaged 160. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
+- Smart, hardworking people aren't exempted from professional disasters from overconfidence; often they just go aground in the more difficult voyages they choose. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
+- LTCM developed complex mathematical models to take advantage of arbitrage deals and used high levels of debt—about $125 billion by 1998. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
+- The LTCM collapse was poorly positioned for two consecutive months of negative returns combined with Salomon Brothers' exit from the arbitrage business and foreign financial panics. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
 
 ## Related pages
 

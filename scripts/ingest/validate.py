@@ -54,10 +54,11 @@ class ValidationError:
 
 _FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 _PROVENANCE_RE = re.compile(
-    # Book filenames commonly contain spaces ("Atomic Habits_ The life - …"),
-    # so the path segment allows any non-`]` character. The non-greedy quant
-    # stops at the first extension, avoiding runaway matches.
-    r"\[raw/[^\]]+?(?:\.pdf|\.epub|\.md|\.txt)"
+    # Book filenames may contain spaces ("Atomic Habits_ The life - …") AND
+    # brackets ("[当代经济学系列丛书]微观经济学.pdf"). We allow any non-newline
+    # character in the path; the trailing `#<anchor>]` pattern is what
+    # delimits the match — non-greedy so multiple anchors on one line work.
+    r"\[raw/[^\n]+?\.(?:pdf|epub|md|txt)"
     r"#(?:p\d+(?:-p?\d+)?|L\d+(?:-L?\d+)?)\]"
 )
 _WIKILINK_RE = re.compile(r"\[\[([^\[\]]*?)\]\]")
@@ -188,9 +189,15 @@ def check_provenance_format(
     """
     errs: list[ValidationError] = []
     body = _body_without_frontmatter(md_text)
-    # 1. any brace-like reference that isn't matched by our strict regex is a
-    #    structural error.
-    loose = re.findall(r"\[raw/[^\]]+?\]", body)
+    # 1. Find every bracketed `[raw/...]` reference. Strict ones match
+    #    the full provenance shape (path + #anchor]); the rest are
+    #    flagged as malformed. The loose regex must tolerate `]` inside
+    #    the path (Chinese publisher series labels: `[当代经济学]xxx.pdf`)
+    #    by anchoring on the file extension rather than the first `]`.
+    loose = re.findall(
+        r"\[raw/[^\n]+?\.(?:pdf|epub|md|txt)[^\n]*?\]",
+        body,
+    )
     strict = set(_PROVENANCE_RE.findall(body))
     for ref in loose:
         if ref not in strict:

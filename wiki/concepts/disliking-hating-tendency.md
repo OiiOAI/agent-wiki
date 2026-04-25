@@ -30,9 +30,9 @@ Disliking/Hating Tendency is the obverse of Liking/Loving Tendency, causing huma
 
 ## Key facts
 
-- When the World Trade Center was destroyed, many Pakistanis concluded that Hindus did it while many Muslims concluded that Jews did it, demonstrating factual distortions from hatred. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p521]
-- Mediations between Israelis and Palestinians are difficult because facts in one side's history overlap very little with facts from the other side's history. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p522]
-- Buffett explained that 'a major difference between rich and poor people is that rich people can spend their lives suing their relatives'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p521]
+- When the World Trade Center was destroyed, many Pakistanis concluded that Hindus did it while many Muslims concluded that Jews did it, demonstrating factual distortions from hatred. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p521]
+- Mediations between Israelis and Palestinians are difficult because facts in one side's history overlap very little with facts from the other side's history. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p522]
+- Buffett explained that 'a major difference between rich and poor people is that rich people can spend their lives suing their relatives'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p521]
 
 ## Related pages
 

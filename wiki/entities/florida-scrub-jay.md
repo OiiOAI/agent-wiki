@@ -38,7 +38,7 @@ A bird in the crow family studied by Nicky Clayton's group at Cambridge Universi
 
 - Florida scrub jays remember not just tens or hundreds of hiding places but thousands distributed throughout many square miles around their nests. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p147]
 - Scrub jays remember when they hid food, realizing that after a few days a peanut is still tasty but a worm is not. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p147]
-- Scrub jays remember whether they were being watched when they hid food, returning later to move the food if a witness might try to steal it. [raw/books/neuroscience/The forgetting machine _ memory, perception, and - Rodrigo Quian Quiroga; hoopla digital.pdf#p147]
+- Scrub jays remember whether they were being watched when they hid food, returning later to move the food if a witness might try to steal it. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p147]
 - Scrub jays demonstrate planning for the future by hiding food where they know they will be able to retrieve it later, not in places that will be hard to reach. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p147]
 
 ## Related pages

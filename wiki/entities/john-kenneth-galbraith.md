@@ -35,9 +35,9 @@ Harvard Economics Professor who coined the term 'bezzle' to describe the increas
 
 ## Key facts
 
-- Galbraith coined 'bezzle' to stand for the increase in any period of undisclosed embezzlement, seeing that undisclosed embezzlement per dollar has a very powerful stimulating effect on spending. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p369]
-- In Galbraith's insight, the embezzler spends more because he has more income, and his employer spends as before because he doesn't know any of his assets are gone. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p369]
-- Galbraith was Scottish and liked the bleakness of life demonstrated by his insight about bezzle. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p370]
+- Galbraith coined 'bezzle' to stand for the increase in any period of undisclosed embezzlement, seeing that undisclosed embezzlement per dollar has a very powerful stimulating effect on spending. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p369]
+- In Galbraith's insight, the embezzler spends more because he has more income, and his employer spends as before because he doesn't know any of his assets are gone. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p369]
+- Galbraith was Scottish and liked the bleakness of life demonstrated by his insight about bezzle. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p370]
 - John Kenneth Galbraith was born in 1908 and received the Nobel Prize in economics. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p396]
 - Galbraith famously said: 'We all agree that pessimism is a mark of superior intellect.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p396]
 - He said: 'The only function of economic forecasting is to make astrology look respectable.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p396]

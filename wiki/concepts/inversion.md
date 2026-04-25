@@ -32,11 +32,11 @@ A problem-solving technique where one turns problems around into reverse to thin
 - Munger states: 'The way complex adaptive systems work, and the way mental constructs work, problems frequently become easier to solve through inversion. If you turn problems around into reverse, you often think better.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p437]
 - Jacobi's principle was: 'Invert, always invert.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p438]
 - To help India, instead ask: 'How can I hurt India?' Find what will do the worst damage, and then try to avoid it. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p438]
-- The great algebraist Jacobi was known for constant repetition of one phrase: 'Invert, always invert.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
-- Many hard problems are best solved only when they are addressed backward, as Jacobi knew. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
-- Einstein discovered special relativity by making a 180-degree turn and revising Newton's laws to fit Maxwell's, inverting the approach of others who tried to revise Maxwell to fit Newton. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
-- Johnny Carson's approach was to study how to create misery (non-happiness) rather than how to be happy. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p157]
-- Darwin's working method emphasized giving priority attention to evidence tending to disconfirm cherished hard-won theories, a backward twist in thinking. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
+- The great algebraist Jacobi was known for constant repetition of one phrase: 'Invert, always invert.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
+- Many hard problems are best solved only when they are addressed backward, as Jacobi knew. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
+- Einstein discovered special relativity by making a 180-degree turn and revising Newton's laws to fit Maxwell's, inverting the approach of others who tried to revise Maxwell to fit Newton. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
+- Johnny Carson's approach was to study how to create misery (non-happiness) rather than how to be happy. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p157]
+- Darwin's working method emphasized giving priority attention to evidence tending to disconfirm cherished hard-won theories, a backward twist in thinking. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p158]
 
 ## Inferences
 

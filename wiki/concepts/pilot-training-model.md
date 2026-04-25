@@ -34,10 +34,10 @@ A model for professional education derived from how pilots are trained, consisti
 
 ## Key facts
 
-- Pilot training uses a strict six-element system: (1) wide formal education covering everything useful, (2) knowledge raised to practice-based fluency even for intertwined hazards, (3) forward and reverse thinking, (4) training allocated to minimize damage from later malfunctions, (5) mandatory checklist routines, and (6) ongoing knowledge maintenance through simulators. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
-- Munger suggests that 'mighty Harvard would do better if it thought more about pilot training.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
-- The best educational narrow-scale model is found in pilot education where incentives for effective education are strongest and results are most closely measured. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
-- In elite broadscale education, we need multidisciplinary coverage of immense amplitude with all skills raised to ever-maintained practice-based fluency, with forward and reverse thinking and checklist routines as a permanent part. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p330]
+- Pilot training uses a strict six-element system: (1) wide formal education covering everything useful, (2) knowledge raised to practice-based fluency even for intertwined hazards, (3) forward and reverse thinking, (4) training allocated to minimize damage from later malfunctions, (5) mandatory checklist routines, and (6) ongoing knowledge maintenance through simulators. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
+- Munger suggests that 'mighty Harvard would do better if it thought more about pilot training.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
+- The best educational narrow-scale model is found in pilot education where incentives for effective education are strongest and results are most closely measured. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p328]
+- In elite broadscale education, we need multidisciplinary coverage of immense amplitude with all skills raised to ever-maintained practice-based fluency, with forward and reverse thinking and checklist routines as a permanent part. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p330]
 
 ## Related pages
 

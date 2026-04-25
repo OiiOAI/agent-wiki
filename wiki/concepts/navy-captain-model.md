@@ -33,9 +33,9 @@ A management accountability model from the U.S. Navy where a captain's career en
 
 ## Key facts
 
-- In the Navy, if a captain has been up for twenty-four hours straight and turns the ship over to a competent first mate in tough conditions who takes the ship aground, clearly through no fault of the captain's, they don't court-martial him but his naval career is over. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p284]
-- Munger likes the Navy model because it forces people to pay attention when conditions are tough because there's no excuse; nobody's interested in your fault, it's just a rule for the good of all. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p285]
-- Napoleon said he liked luckier generals—he wasn't into supporting losers; the Navy likes luckier captains. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p285]
+- In the Navy, if a captain has been up for twenty-four hours straight and turns the ship over to a competent first mate in tough conditions who takes the ship aground, clearly through no fault of the captain's, they don't court-martial him but his naval career is over. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p284]
+- Munger likes the Navy model because it forces people to pay attention when conditions are tough because there's no excuse; nobody's interested in your fault, it's just a rule for the good of all. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p285]
+- Napoleon said he liked luckier generals—he wasn't into supporting losers; the Navy likes luckier captains. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p285]
 
 ## Related pages
 

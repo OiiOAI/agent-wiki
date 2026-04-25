@@ -35,11 +35,11 @@ Munger's critique of how charitable foundations manage investments, arguing that
 
 ## Key facts
 
-- Foundation investment costs can easily reach three percent of foundation net worth per annum when adding new activity year after year, even though this cost doesn't show up in conventional accounting. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p349]
-- If average annual gross real return from indexed investment in equities goes back to five percent over some long future period, and croupiers' take remains at three percent, the average foundation will be in a prolonged, uncomfortable, shrinking mode. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p350]
-- A person or institution with almost all wealth invested long-term in just three fine domestic corporations is securely rich. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p356]
-- The Woodruff foundations have proven extremely wise to retain approximately ninety percent concentration in Coca-Cola stock. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
-- Munger argues for imitation of Ben Franklin's model over Bernie Cornfeld's model for foundation investment. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p361]
+- Foundation investment costs can easily reach three percent of foundation net worth per annum when adding new activity year after year, even though this cost doesn't show up in conventional accounting. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p349]
+- If average annual gross real return from indexed investment in equities goes back to five percent over some long future period, and croupiers' take remains at three percent, the average foundation will be in a prolonged, uncomfortable, shrinking mode. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p350]
+- A person or institution with almost all wealth invested long-term in just three fine domestic corporations is securely rich. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p356]
+- The Woodruff foundations have proven extremely wise to retain approximately ninety percent concentration in Coca-Cola stock. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p357]
+- Munger argues for imitation of Ben Franklin's model over Bernie Cornfeld's model for foundation investment. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p361]
 
 ## Related pages
 

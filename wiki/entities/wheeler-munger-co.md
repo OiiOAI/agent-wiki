@@ -37,11 +37,11 @@ Wheeler Munger & Co. was Charlie Munger's investment partnership with Jack Wheel
 
 ## Key facts
 
-- The partnership was established around 1962 with Jack Wheeler and later joined by Al Marshall. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
-- For the first eleven years, the partnership compounded at 28.3% gross (20.0% net) versus 6.7% for the Dow without a single down year. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p25]
-- The partnership fell 31.9% in 1973 and 31.5% in 1974 in the vicious bear market, its largest holdings being Blue Chip Stamps and New America Fund. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p25]
-- The partnership rebounded strongly in 1975, rising 73.2%, bringing the overall 14-year record to 19.8% (13.7% net) compounded annually versus 5.0% for the Dow. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p26]
-- When Wheeler, Munger was liquidated, stakeholders received shares in Blue Chip Stamps and Diversified Retailing, later converted to Berkshire Hathaway stock. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p26]
+- The partnership was established around 1962 with Jack Wheeler and later joined by Al Marshall. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
+- For the first eleven years, the partnership compounded at 28.3% gross (20.0% net) versus 6.7% for the Dow without a single down year. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p25]
+- The partnership fell 31.9% in 1973 and 31.5% in 1974 in the vicious bear market, its largest holdings being Blue Chip Stamps and New America Fund. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p25]
+- The partnership rebounded strongly in 1975, rising 73.2%, bringing the overall 14-year record to 19.8% (13.7% net) compounded annually versus 5.0% for the Dow. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p26]
+- When Wheeler, Munger was liquidated, stakeholders received shares in Blue Chip Stamps and Diversified Retailing, later converted to Berkshire Hathaway stock. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p26]
 
 ## Related pages
 

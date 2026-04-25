@@ -28,10 +28,10 @@ The true underlying value of a business—the amount a private owner would pay f
 
 ## Key facts
 
-- Benjamin Graham introduced the concept of intrinsic value and the wisdom of buying stocks at a discount to that value. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p204]
-- Graham's concept of value to a private owner—what the whole enterprise would sell for—was calculable in many cases. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p202]
-- Over the long term, a stock cannot earn much better return than the underlying business earns—if the business earns six percent on capital over forty years, holding it yields approximately six percent. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p209]
-- If a business earns eighteen percent on capital over twenty or thirty years, even paying an expensive price ends up with a hell of a result. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p209]
+- Benjamin Graham introduced the concept of intrinsic value and the wisdom of buying stocks at a discount to that value. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p204]
+- Graham's concept of value to a private owner—what the whole enterprise would sell for—was calculable in many cases. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p202]
+- Over the long term, a stock cannot earn much better return than the underlying business earns—if the business earns six percent on capital over forty years, holding it yields approximately six percent. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p209]
+- If a business earns eighteen percent on capital over twenty or thirty years, even paying an expensive price ends up with a hell of a result. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p209]
 
 ## Inferences
 

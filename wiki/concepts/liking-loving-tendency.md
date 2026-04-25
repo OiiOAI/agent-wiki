@@ -30,9 +30,9 @@ Liking/Loving Tendency is the innate tendency of humans and animals to like and 
 
 ## Key facts
 
-- A newly hatched baby goose is programmed to love and follow the first creature that is nice to it, demonstrating the innate nature of this tendency across species. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p517]
-- Liking/Loving Tendency acts as a conditioning device causing the liker to ignore faults of and comply with wishes of the object of affection, to favor people, products, and actions merely associated with the object, and to distort facts to facilitate love. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p519]
-- Franklin counseled: 'Keep your eyes wide open before marriage and half shut thereafter'; Munger favors a tougher prescription: 'See it like it is and love anyway'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p551]
+- A newly hatched baby goose is programmed to love and follow the first creature that is nice to it, demonstrating the innate nature of this tendency across species. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p517]
+- Liking/Loving Tendency acts as a conditioning device causing the liker to ignore faults of and comply with wishes of the object of affection, to favor people, products, and actions merely associated with the object, and to distort facts to facilitate love. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p519]
+- Franklin counseled: 'Keep your eyes wide open before marriage and half shut thereafter'; Munger favors a tougher prescription: 'See it like it is and love anyway'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p551]
 
 ## Related pages
 

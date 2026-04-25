@@ -35,10 +35,10 @@ A hedge fund founded in 1994 by a respected Wall Street bond trader and two Nobe
 
 ## Key facts
 
-- LTCM was founded in 1994 by a well-respected Wall Street bond trader and two Nobel Prize winners in economics, developing complex mathematical models for arbitrage. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
-- LTCM used high levels of debt—about $125 billion by 1998—and was poorly positioned for two consecutive months of negative returns combined with Salomon Brothers' exit from arbitrage and foreign financial panics. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
-- Within a few months, LTCM lost almost $2 billion in capital, and the Federal Reserve Bank had to organize a bailout to avoid a chain reaction of liquidity requests throughout the economy. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
-- Smart, hardworking people with high IQs aren't exempted from professional disasters from overconfidence; often they just go aground in the more difficult voyages they choose. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
+- LTCM was founded in 1994 by a well-respected Wall Street bond trader and two Nobel Prize winners in economics, developing complex mathematical models for arbitrage. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
+- LTCM used high levels of debt—about $125 billion by 1998—and was poorly positioned for two consecutive months of negative returns combined with Salomon Brothers' exit from arbitrage and foreign financial panics. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
+- Within a few months, LTCM lost almost $2 billion in capital, and the Federal Reserve Bank had to organize a bailout to avoid a chain reaction of liquidity requests throughout the economy. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p353]
+- Smart, hardworking people with high IQs aren't exempted from professional disasters from overconfidence; often they just go aground in the more difficult voyages they choose. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p352]
 
 ## Related pages
 

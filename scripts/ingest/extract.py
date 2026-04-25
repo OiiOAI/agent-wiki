@@ -63,9 +63,20 @@ def _normalize_provenance(anchor: str, source_path: str) -> str:
     anchor_part = _DUP_LINE_PREFIX_RE.sub(r"L\1", anchor_part)
     anchor_part = _DUP_PAGE_PREFIX_RE.sub(r"p\1", anchor_part)
     # If LLM fuzzed the path (e.g. dropped a folder) but kept the basename,
-    # snap it back to the canonical source_path.
-    if path_part != source_path and Path(path_part).name == Path(source_path).name:
-        path_part = source_path
+    # snap it back to the canonical source_path. Also handles long Chinese
+    # filenames where the LLM truncated 10-20 chars from the middle: if the
+    # last 30 characters of both basenames match exactly, it's the same book.
+    if path_part != source_path:
+        emitted_name = Path(path_part).name
+        canonical_name = Path(source_path).name
+        if emitted_name == canonical_name:
+            path_part = source_path
+        elif (
+            len(canonical_name) > 30
+            and len(emitted_name) > 30
+            and emitted_name[-30:] == canonical_name[-30:]
+        ):
+            path_part = source_path
     return f"[{path_part}#{anchor_part}]" if sep else f"[{path_part}]"
 
 

@@ -58,7 +58,7 @@ Jonathan Haidt is a psychologist at the University of Virginia who studies moral
 - He authored 'The Righteous Mind: Why Good People Are Divided by Politics and Religion'. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p4]
 - Haidt entered the psychology graduate program at the University of Pennsylvania in 1987 and was admitted after studying philosophy in college, hoping to understand the meaning of life. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p18]
 - He conducted landmark cross-cultural research in Brazil and the United States that challenged Lawrence Kohlberg's rationalist theory of moral development. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p34-37]
-- He developed the social intuitionist model of moral judgment and coined the term 'moral dumbfounding' to describe when people hold moral judgments they cannot explain. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p39, p52]
+- He developed the social intuitionist model of moral judgment and coined the term 'moral dumbfounding' to describe when people hold moral judgments they cannot explain. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p39-p52]
 - His previous book is The Happiness Hypothesis (2006), in which he developed the rider and elephant metaphor for understanding the divided mind. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p12]
 - Haidt is Professor of Ethical Leadership at NYU Stern School of Business. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1]
 - He is a founder of YourMorals.org, which collects data on moral attitudes. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p200]

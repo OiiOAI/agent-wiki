@@ -30,9 +30,9 @@ Doubt-Avoidance Tendency is the tendency of the human brain to quickly remove do
 
 ## Key facts
 
-- Evolution made animals drift toward quick elimination of doubt because taking long time to decide is counterproductive for prey animals threatened by predators. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p522]
-- Judges and jurors must delay before decision making and comport themselves wearing a 'mask' of objectivity prior to conclusion time to counter Doubt-Avoidance Tendency. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p523]
-- What usually triggers Doubt-Avoidance Tendency is some combination of puzzlement and stress, both of which naturally occur in facing religious issues. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p523]
+- Evolution made animals drift toward quick elimination of doubt because taking long time to decide is counterproductive for prey animals threatened by predators. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p522]
+- Judges and jurors must delay before decision making and comport themselves wearing a 'mask' of objectivity prior to conclusion time to counter Doubt-Avoidance Tendency. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p523]
+- What usually triggers Doubt-Avoidance Tendency is some combination of puzzlement and stress, both of which naturally occur in facing religious issues. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p523]
 
 ## Related pages
 

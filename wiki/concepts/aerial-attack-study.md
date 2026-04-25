@@ -35,7 +35,7 @@ The "Aerial Attack Study" was John Boyd's first major intellectual contribution,
 - He was the first man to codify air-to-air combat tactics. [raw/books/strategy/Boyd - Robert Coram.pdf#p11]
 - The document became official Air Force doctrine, the bible of air combat, first in America and then for air forces around the world when declassified. [raw/books/strategy/Boyd - Robert Coram.pdf#p11]
 - Through this work, while still a junior officer, John Boyd changed the way every air force in the world flies and fights. [raw/books/strategy/Boyd - Robert Coram.pdf#p11]
-- Boyd wrote the Aerial Attack Study in about four months while working at Nellis, dictating to Spradling's secretary and spending weeks on revisions and editing. [raw/books/strategy/Boyd - Robert Coram.pdf#p108,115]
+- Boyd wrote the Aerial Attack Study in about four months while working at Nellis, dictating to Spradling's secretary and spending weeks on revisions and editing. [raw/books/strategy/Boyd - Robert Coram.pdf#p108-115]
 - Colonel Ralph Newman initially refused to support the manual and said the FWS would not use it, preferring a TR&D publication. [raw/books/strategy/Boyd - Robert Coram.pdf#p116]
 - Boyd went over the colonel's head and sent both manuals to TAC headquarters, and TAC ruled that Boyd's work would be used as the official training manual. [raw/books/strategy/Boyd - Robert Coram.pdf#p116]
 - The manual contained the prescient section "Basic Limitation of AIM-9 Against Maneuvering Targets" showing that missiles could be out-maneuvered by fighters, which is why it remained classified. [raw/books/strategy/Boyd - Robert Coram.pdf#p118]

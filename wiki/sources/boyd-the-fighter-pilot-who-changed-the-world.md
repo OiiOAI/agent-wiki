@@ -35,7 +35,7 @@ This biography by Robert Coram tells the story of Colonel John Richard Boyd, the
 - Core Acolytes who contributed include Franklin "Chuck" Spinney, Tom Christie, Pierre Sprey, Ray Leopold, Jim Burton, and Mike Wyly. [raw/books/strategy/Boyd - Robert Coram.pdf#p6]
 - The book is 480 pages covering Boyd's life from 1927 to 1997. [raw/books/strategy/Boyd - Robert Coram.pdf#p4-5]
 - Robert Coram wrote this comprehensive biography of John R. Boyd, published in 2002. [raw/books/strategy/Boyd - Robert Coram.pdf#p79]
-- The book draws on Boyd's own Oral History interview as a primary source for his perspective on events. [raw/books/strategy/Boyd - Robert Coram.pdf#p106,132]
+- The book draws on Boyd's own Oral History interview as a primary source for his perspective on events. [raw/books/strategy/Boyd - Robert Coram.pdf#p106-132]
 - The author notes that Boyd sometimes "embroidered reality" in his stories, as demonstrated by his account of three colonels being transferred after crossing the Yalu River. [raw/books/strategy/Boyd - Robert Coram.pdf#p131]
 - The source document is a biography of John R. Boyd by Robert Coram published in 2002. [raw/books/strategy/Boyd - Robert Coram.pdf#p146]
 - Chapters 11-14 cover 1962-1967, from E-M development through Mission Bolo. [raw/books/strategy/Boyd - Robert Coram.pdf#p155]

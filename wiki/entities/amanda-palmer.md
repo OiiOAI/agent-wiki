@@ -39,7 +39,7 @@ Musician Amanda Palmer performed as a living statue in Harvard Square for six ye
 ## Key facts
 
 - Palmer stood motionless as a living statue for six years starting in 1998, typically working 90 minutes followed by an hour break. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p27]
-- She discovered the challenge was mental rather than physical—resisting the urge to react to insults, grabbers, and even itching. [raw/books/psychonomy _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p28]
+- She discovered the challenge was mental rather than physical—resisting the urge to react to insults, grabbers, and even itching. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p28]
 - Palmer says her street performing 'gave me balls of steel' and trained her to stay focused. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p39]
 - She reports being able to focus on one project at a time for hours due to this training. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p39]
 

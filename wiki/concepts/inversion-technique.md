@@ -32,11 +32,11 @@ A problem-solving approach where one thinks through a problem in reverse—consi
 
 ## Key facts
 
-- It is not enough to think problems through forward; you must also think in reverse, much like the rustic who wanted to know where he was going to die so he'd never go there. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p300]
-- Many problems can't be solved forward, which is why the great algebraist Carl Jacobi said, 'Invert, always invert.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p300]
-- The Pythagoreans used reverse thinking to prove that the square root of two was an irrational number. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p300]
-- In the Coca-Cola business plan, inversion was used to determine what must be avoided: bad aftertaste, trademark dilution, envious resentment, and sudden flavor changes. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p311]
-- Einstein used self-criticism to rank alongside curiosity, concentration, and perseverance as causes of his achievement. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p318]
+- It is not enough to think problems through forward; you must also think in reverse, much like the rustic who wanted to know where he was going to die so he'd never go there. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p300]
+- Many problems can't be solved forward, which is why the great algebraist Carl Jacobi said, 'Invert, always invert.'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p300]
+- The Pythagoreans used reverse thinking to prove that the square root of two was an irrational number. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p300]
+- In the Coca-Cola business plan, inversion was used to determine what must be avoided: bad aftertaste, trademark dilution, envious resentment, and sudden flavor changes. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p311]
+- Einstein used self-criticism to rank alongside curiosity, concentration, and perseverance as causes of his achievement. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p318]
 
 ## Related pages
 

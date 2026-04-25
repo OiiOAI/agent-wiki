@@ -30,10 +30,10 @@ Inconsistency-Avoidance Tendency describes the brain's tendency to conserve prog
 
 ## Key facts
 
-- The brain conserves programming space by being reluctant to change, causing few people to eliminate many bad habits despite knowing they are bad. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p524]
-- A person making big sacrifices in assuming a new identity will intensify devotion to that identity because it would be inconsistent to make large sacrifices for something no good. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p529]
-- Max Planck noted that even in physics, radically new ideas are seldom accepted by the old guard; progress comes from a new generation less brain-blocked by previous conclusions. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p527]
-- Charles Darwin trained himself to intensively consider any evidence tending to disconfirm his hypotheses, the opposite of confirmation bias. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p528]
+- The brain conserves programming space by being reluctant to change, causing few people to eliminate many bad habits despite knowing they are bad. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p524]
+- A person making big sacrifices in assuming a new identity will intensify devotion to that identity because it would be inconsistent to make large sacrifices for something no good. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p529]
+- Max Planck noted that even in physics, radically new ideas are seldom accepted by the old guard; progress comes from a new generation less brain-blocked by previous conclusions. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p527]
+- Charles Darwin trained himself to intensively consider any evidence tending to disconfirm his hypotheses, the opposite of confirmation bias. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p528]
 
 ## Related pages
 

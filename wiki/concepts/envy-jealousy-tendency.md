@@ -30,9 +30,9 @@ Envy/Jealousy Tendency has deep evolutionary origins in the design of a species 
 
 ## Key facts
 
-- University communities often go 'bananas' when an employee gets annual compensation in multiples of standard professorial salary; in investment banks and law firms, envy/jealousy effects are usually more extreme. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p535]
-- Warren Buffett wisely said: 'It is not greed that drives the world, but envy'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p536]
-- When labeling a position as driven by envy/jealousy is perceived as equivalent to describing its holder as a childish mental basket case, a general taboo against such claims understandably arises. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p537]
+- University communities often go 'bananas' when an employee gets annual compensation in multiples of standard professorial salary; in investment banks and law firms, envy/jealousy effects are usually more extreme. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p535]
+- Warren Buffett wisely said: 'It is not greed that drives the world, but envy'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p536]
+- When labeling a position as driven by envy/jealousy is perceived as equivalent to describing its holder as a childish mental basket case, a general taboo against such claims understandably arises. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p537]
 
 ## Related pages
 
