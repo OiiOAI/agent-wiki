@@ -9769,3 +9769,78 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/poor-charlies-almanack.md`
 - Files deprecated: None.
 - Notes: 53 new + 36 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | sciencestrategywar-osinga
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/ScienceStrategyWar_Osinga.pdf
+- Files created:
+  - `wiki/entities/a-discourse-on-winning-and-losing.md`
+  - `wiki/entities/alan-beyerchen.md`
+  - `wiki/entities/basil-liddell-hart.md`
+  - `wiki/entities/frans-osinga.md`
+  - `wiki/entities/gregory-bateson.md`
+  - `wiki/entities/hermann-balck.md`
+  - `wiki/entities/ilya-prigogine.md`
+  - `wiki/entities/jfc-fuller.md`
+  - `wiki/entities/ludwig-von-bertalanffy.md`
+  - `wiki/entities/military-reform-movement.md`
+  - `wiki/entities/pat-pentland.md`
+  - `wiki/entities/robert-jervis.md`
+  - `wiki/entities/steven-mann.md`
+  - `wiki/entities/us-marine-corps.md`
+  - `wiki/concepts/adaptation-as-central-theme.md`
+  - `wiki/concepts/adaptation-boyd.md`
+  - `wiki/concepts/appreciation-and-leadership.md`
+  - `wiki/concepts/art-of-success.md`
+  - `wiki/concepts/boyd-post-modern-strategist.md`
+  - `wiki/concepts/boyd-synthesis-strategic-thought.md`
+  - `wiki/concepts/chaoplexity.md`
+  - `wiki/concepts/complex-adaptive-systems.md`
+  - `wiki/concepts/conceptual-spiral.md`
+  - `wiki/concepts/dissipative-structures.md`
+  - `wiki/concepts/essence-of-winning-and-losing.md`
+  - `wiki/concepts/evolutionary-epistemology.md`
+  - `wiki/concepts/feedback-loops.md`
+  - `wiki/concepts/friction-boyd-concept.md`
+  - `wiki/concepts/friction-in-war.md`
+  - `wiki/concepts/general-systems-theory.md`
+  - `wiki/concepts/godels-incompleteness-theorem.md`
+  - `wiki/concepts/implicit-communication.md`
+  - `wiki/concepts/indirect-approach.md`
+  - `wiki/concepts/interaction-and-isolation.md`
+  - `wiki/concepts/mismatches-anomalies.md`
+  - `wiki/concepts/mission-command-auftragstaktik.md`
+  - `wiki/concepts/moral-conflict.md`
+  - `wiki/concepts/newtonian-to-emerging-paradigm.md`
+  - `wiki/concepts/non-linear-systems-perspective.md`
+  - `wiki/concepts/organic-design-for-command-and-control.md`
+  - `wiki/concepts/organizational-learning-dominance.md`
+  - `wiki/concepts/organizational-learning.md`
+  - `wiki/concepts/orientation-ooda-loop.md`
+  - `wiki/concepts/paradigm-shift.md`
+  - `wiki/concepts/strategic-theory.md`
+  - `wiki/concepts/systems-thinking.md`
+  - `wiki/concepts/tacit-dimension.md`
+  - `wiki/concepts/the-conceptual-spiral.md`
+  - `wiki/concepts/the-strategic-game-of-question-marks.md`
+  - `wiki/concepts/theme-for-disintegration-and-collapse.md`
+  - `wiki/concepts/theme-for-vitality-and-growth.md`
+  - `wiki/concepts/unpredictability-in-war.md`
+  - `wiki/concepts/variety-in-response.md`
+  - `wiki/topics/john-boyd-strategy.md`
+  - `wiki/topics/scientific-paradigm-shift.md`
+  - `wiki/sources/science-strategy-and-war-osinga.md`
+- Files merged (extended):
+  - `wiki/entities/humberto-maturana.md`
+  - `wiki/entities/john-boyd.md`
+  - `wiki/entities/john-r-boyd.md`
+  - `wiki/entities/norbert-wiener.md`
+  - `wiki/entities/sun-tzu.md`
+  - `wiki/concepts/autopoiesis.md`
+  - `wiki/concepts/cybernetics.md`
+  - `wiki/concepts/emergence.md`
+  - `wiki/concepts/heisenberg-uncertainty-principle.md`
+  - `wiki/concepts/maneuver-conflict.md`
+  - `wiki/concepts/ooda-loop.md`
+- Files deprecated: None.
+- Notes: 56 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

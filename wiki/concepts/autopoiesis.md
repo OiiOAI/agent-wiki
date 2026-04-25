@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
 - '[raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences
   of - Evan Thompson.pdf#p1-535]'
+- '[raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p1-350]'
 confidence: high
 tags:
 - autopoiesis
@@ -20,6 +21,9 @@ tags:
 - biological-autonomy
 - maturana
 - varela
+- organization
+- cognition
+- circular-causality
 related:
   broader:
   - systems-biology
@@ -27,6 +31,8 @@ related:
   - autonomy
   - life-and-mind
   - deep-continuity-thesis
+  - complexity-theory
+  - cognitive-science
   narrower:
   - minimal-autopoiesis
   - sense-making
@@ -65,6 +71,12 @@ Autopoiesis (pronounced 'auto-poi-ee-sis') is a concept developed by Chilean bio
 - Autopoiesis captures the minimal organization of a cell without invoking the notion of life or defining life in terms of the cell. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p106]
 - Viruses are not autopoietic because they lack an internal reaction network and do not produce their own components from within themselves. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p125]
 - Maturana and Varela originally proposed that autopoiesis is necessary and sufficient to characterize living systems. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p125]
+- An autopoietic system is defined as 'a network of production processes in which the function of each component is to participate in the production or transformation of other components in the network,' continually making itself. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p140]
+- Autopoietic systems are organizationally closed but structurally open for matter and energy, maintaining stable form autonomously through self-organization while interacting with the environment. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p140]
+- Maturana hypothesized that the circular organization of the nervous system is the basic organization of all living systems, and that living systems are cognitive systems with living as a process of cognition. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p141]
+- Structural coupling refers to recurrent interactions with the environment each triggering structural changes in the system, but only those perturbations specified by the system itself trigger changes. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p141]
+- Boyd stated: 'Orientation shapes the character of present observation-orientation-decision-action loops—while these present loops shape the character of future orientation,' reflecting autopoietic principles. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p141]
+- In autopoietic systems, perception cannot be viewed as representation of external reality but must be understood as the continual creation of new relationships within the neural network. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p141]
 
 ## Inferences
 
@@ -72,6 +84,8 @@ Autopoiesis (pronounced 'auto-poi-ee-sis') is a concept developed by Chilean bio
 - Inference: Autopoiesis provides the minimal form of 'bodily self' while sensorimotor closure produces a 'sensorimotor self.'
 - Inference: Autopoiesis entails both identity (self-production) and sense-making (adaptive relation to environment), representing a twofold purposiveness.
 - Inference: The theory of autopoiesis offers a naturalized, biological account of Kant's notion of a natural purpose.
+- Inference: Boyd's emphasis on orientation as the central element shaping observations, decisions, and actions reflects the autopoietic insight that system structure determines interaction patterns.
+- Inference: The link between autopoiesis and cognition provided Boyd with scientific grounding for viewing mental processes as embodied action rather than mere information processing.
 
 ## Uncertainties
 
@@ -84,6 +98,8 @@ Autopoiesis (pronounced 'auto-poi-ee-sis') is a concept developed by Chilean bio
 - Broader: [[autonomy]]
 - Broader: [[life-and-mind]]
 - Broader: [[deep-continuity-thesis]]
+- Broader: [[complexity-theory]]
+- Broader: [[cognitive-science]]
 - Narrower: [[minimal-autopoiesis]]
 - Narrower: [[sense-making]]
 - Narrower: [[autonomous-system]]
@@ -101,16 +117,24 @@ Autopoiesis (pronounced 'auto-poi-ee-sis') is a concept developed by Chilean bio
 - Concepts: [[self-organization]]
 - Concepts: [[circular-causality]]
 - Concepts: [[organizational-closure]]
+- Concepts: [[structural-coupling]]
+- Concepts: [[cognitive-domain]]
+- Concepts: [[embodied-action]]
+- Concepts: [[cognition]]
+- Topics: [[cognitive-revolution]]
 - Entities: [[humberto-maturana]]
 - Entities: [[francisco-varela]]
 - Entities: [[pier-luigi-luisi]]
+- Entities: [[john-boyd]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
 - Additional source: [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p1-535]
+- Additional source: [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p1-350]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `mind-in-life-biology-phenomenology-and-the-sciences-of-evan-`.
+- 2026-04-25 — merged contributions from `sciencestrategywar-osinga`.

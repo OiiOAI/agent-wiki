@@ -4,18 +4,21 @@ title: Maneuver Conflict
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards,
   Chet, Richards, Chester W.pdf#p1-151]'
+- '[raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p1-350]'
 confidence: high
-related:
-  broader: []
-  narrower: []
-  adjacent: []
-tags: []
+related: {}
+tags:
+- boyd
+- maneuver-warfare
+- patterns-of-conflict
+- psychological-operations
+- conflict-categories
+aliases: []
 ---
-
 
 # Maneuver Conflict
 
@@ -31,11 +34,16 @@ Maneuver conflict is John Boyd's philosophy of competition and warfare that emph
 - The Toyota Production System was concluded by Boyd to be another implementation of the principles he associated with the Blitzkrieg. [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p6]
 - Both the Toyota Production System and Blitzkrieg use time as their principal strategic device and share organizational climate elements. [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p6]
 - Both trace back to the school of strategy whose earliest known documentation is Sun Tzu's The Art of War. [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p6]
+- Maneuver conflict utilizes five key elements: ambiguity (alternative or competing impressions), deception (impressions as they are not), novelty (unfamiliar impressions), fast transient maneuvers (irregular rapid shifts), and effort/cheng-ch'i (focused expenditure of energy or irruption of violence). [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p223]
+- The aim of maneuver conflict is to generate many non-cooperative centers of gravity, disorient or disrupt those the adversary depends upon, to magnify friction, shatter cohesion, produce paralysis, and bring about collapse. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p223]
+- Boyd amended his view to include overload due to 'a welter of threatening events' as also affecting adaptability, compounded by fear. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p223]
+- Boyd considered it equally valuable to aim for creation of many isolated remnants of enemy forces that can later be mopped up, rather than immediate collapse. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p223]
 
 ## Inferences
 
 - Inference: Since maneuver conflict principles apply equally to warfare and manufacturing, the fundamental driver of competitive success is not industry-specific tactics but universal principles of human behavior under stress and uncertainty.
 - Inference: The claim that both Blitzkrieg and Toyota Production System derive from Sun Tzu's strategic school suggests a common theoretical foundation spanning 2,500 years of strategic thought.
+- Inference: Boyd's maneuver conflict represents a synthesis of Sun Tzu's indirect approach with modern systems thinking, viewing the adversary as an organic system to be dismembered rather than destroyed through attrition.
 
 ## Related pages
 
@@ -44,6 +52,12 @@ Maneuver conflict is John Boyd's philosophy of competition and warfare that emph
 - Concepts: [[blitzkrieg]]
 - Concepts: [[organizational-climate]]
 - Concepts: [[time-based-competition]]
+- Concepts: [[moral-conflict]]
+- Concepts: [[theme-for-disintegration-and-collapse]]
+- Concepts: [[cheng-chi]]
+- Concepts: [[disorientation]]
+- Concepts: [[overload]]
+- Concepts: [[adaptability]]
 - Entities: [[john-r-boyd]]
 - Entities: [[sun-tzu]]
 - Entities: [[toyota-production-system]]
@@ -51,7 +65,9 @@ Maneuver conflict is John Boyd's philosophy of competition and warfare that emph
 ## Provenance
 
 - Primary source: [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p1-151]
+- Additional source: [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p1-350]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `sciencestrategywar-osinga`.

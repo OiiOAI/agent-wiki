@@ -9,11 +9,14 @@ sources:
 - '[raw/books/strategy/Boyd - Robert Coram.pdf#p1-468]'
 - '[raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards,
   Chet, Richards, Chester W.pdf#p1-151]'
+- '[raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p1-350]'
 confidence: high
 tags:
 - decision-making
 - military-theory
 - strategy
+- decision-cycle
+- adaptation
 related:
   broader:
   - patterns-of-conflict
@@ -51,6 +54,16 @@ The OODA Loop (Observe-Orient-Decide-Act) is John Boyd's decision-making framewo
 - Boyd emphasized that the steps are not distinct but flow into each other, shown by his use of dashes (O-O-D-A). [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p53]
 - Agility is defined as the ability to execute OODA loops more quickly than one's opponent. [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p53]
 - The most effective visualization includes 'Implicit Guidance and Control' arrows reflecting that most decision making can be implicit. [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p52]
+- OODA stands for Observation, Orientation, Decision, and Action—the four elements of Boyd's decision cycle. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p12]
+- Observation is sensing yourself and the world around you; Orientation is the complex set of filters of genetic heritage, cultural predispositions, personal experience, and knowledge. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p12]
+- Decision is a review of alternative courses of action and the selection of the preferred course as a hypothesis to be tested; Action is the testing of the decision selected by implementation. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p12]
+- Osinga argues the popular interpretation of OODA as 'rapid looping' is incomplete, obscuring themes about mental models, adaptation, and complexity. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p20]
+- Joint Vision 2010 incorporated OODA-loop dominance as a US defense policy goal, aiming to 'observe, orient, decide, and act much more quickly than our opponents'. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p17]
+- Boyd observed that in any conflict all combatants go through repeated cycles of an observation-orientation-decision-action (OODA) loop. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p83]
+- The potentially victorious combatant is one with the OODA loop which is consistently quicker than the opponent, including the time required to transition from one cycle to another. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p83]
+- As a combatant repeatedly cycles faster than the opponent, the opponent finds he is losing control of the situation, countermeasures are overcome by rapidly unfolding events, and command circuits become overloaded. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p83]
+- The OODA loop can be construed as a process of hypothesis testing reflecting Popperian dynamics of science. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p94]
+- William Lind stated that 'The Boyd Theory is the background for maneuver warfare doctrine'. [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p84]
 
 ## Inferences
 
@@ -59,6 +72,12 @@ The OODA Loop (Observe-Orient-Decide-Act) is John Boyd's decision-making framewo
 - Inference: The OODA Loop became Boyd's most enduring intellectual contribution, entering popular culture and business management literature despite often appearing without attribution to Boyd.
 - Inference: Since Boyd showed that faster OODA loops create psychological effects before physical damage becomes decisive, organizations can achieve Sun Tzu's goal of winning without fighting by paralyzing opponent decision-making.
 - Inference: The OODA Loop concept applies to any competitive endeavor between thinking beings, not just military combat, because it addresses how humans process information and make decisions under stress.
+- Inference: The simplified graphical depiction of the OODA loop that became popular obscures Boyd's more complex and richer model that emphasized the centrality of orientation as the key element shaping observation.
+- Inference: The OODA loop became Boyd's most widely cited contribution to military theory and strategy, providing a cognitive basis for understanding competitive decision-making under uncertainty.
+
+## Uncertainties
+
+- Uncertain: The extent to which Boyd's original complex model was accurately captured in the simplified versions that entered military doctrine is uncertain.
 
 ## Related pages
 
@@ -76,7 +95,13 @@ The OODA Loop (Observe-Orient-Decide-Act) is John Boyd's decision-making framewo
 - Concepts: [[ambiguity]]
 - Concepts: [[time-based-competition]]
 - Concepts: [[implicit-communication]]
+- Concepts: [[strategic-theory]]
+- Concepts: [[command-and-control]]
+- Concepts: [[orientation]]
+- Concepts: [[tempo]]
+- Concepts: [[decision-cycle]]
 - Topics: [[military-reform-movement]]
+- Topics: [[john-boyd-strategy]]
 - Entities: [[john-boyd]]
 - Entities: [[john-r-boyd]]
 - Entities: [[chuck-spinney]]
@@ -84,13 +109,16 @@ The OODA Loop (Observe-Orient-Decide-Act) is John Boyd's decision-making framewo
 - Entities: [[mike-wyly]]
 - Entities: [[us-navy]]
 - Entities: [[us-marine-corps]]
+- Entities: [[boyd-john-r]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Boyd - Robert Coram.pdf#p1-468]
 - Additional source: [raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf#p1-151]
+- Additional source: [raw/books/strategy/ScienceStrategyWar_Osinga.pdf#p1-350]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `certain-to-win-the-strategy-of-john-boyd-applied-to-richards`.
+- 2026-04-25 — merged contributions from `sciencestrategywar-osinga`.
