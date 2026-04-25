@@ -9224,3 +9224,36 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/ooda-loop.md`
 - Files deprecated: None.
 - Notes: 23 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | change-principles-of-problem-formulation-and-problem-paul-wa
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub
+- Files created:
+  - `wiki/entities/brief-therapy-center.md`
+  - `wiki/entities/john-h-weakland.md`
+  - `wiki/entities/mental-research-institute.md`
+  - `wiki/entities/milton-h-erickson.md`
+  - `wiki/entities/paul-watzlawick.md`
+  - `wiki/entities/richard-fisch.md`
+  - `wiki/concepts/first-order-change.md`
+  - `wiki/concepts/four-step-procedure.md`
+  - `wiki/concepts/game-without-end.md`
+  - `wiki/concepts/group-theory-change.md`
+  - `wiki/concepts/more-of-the-same.md`
+  - `wiki/concepts/nine-dot-problem.md`
+  - `wiki/concepts/paradox.md`
+  - `wiki/concepts/paradoxical-intervention.md`
+  - `wiki/concepts/persistence-and-change.md`
+  - `wiki/concepts/problem-formation.md`
+  - `wiki/concepts/problem-resolution.md`
+  - `wiki/concepts/reframing.md`
+  - `wiki/concepts/second-order-change.md`
+  - `wiki/concepts/symptom-prescription.md`
+  - `wiki/concepts/terrible-simplifications.md`
+  - `wiki/concepts/theory-of-logical-types.md`
+  - `wiki/concepts/utopia-syndrome.md`
+  - `wiki/sources/change-principles-of-problem-formulation-and-problem-resolution.md`
+- Files merged (extended):
+  - `wiki/entities/milton-erickson.md`
+- Files deprecated: None.
+- Notes: 24 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

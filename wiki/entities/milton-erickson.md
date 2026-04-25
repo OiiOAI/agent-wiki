@@ -4,28 +4,36 @@ title: Milton Erickson
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]'
+- '[raw/books/strategy/Change _ principles of problem formulation and problem - Paul
+  Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L1-L1]'
 canonical: Milton Erickson (1901–1980), American psychiatrist and hypnotherapist
 confidence: high
 aliases:
 - Milton H. Erickson
+- Milton Erickson
+- M. H. Erickson
 tags:
 - psychiatrist
 - hypnotherapy
 - nonverbal-communication
 - ' polio-survivor'
+- hypnotherapist
+- mentor
+- palo-alto
 related:
   concepts:
   - nonverbal-communication
   - empathy
   - hypnotherapy
   - observation-skills
-  topics: []
-  entities: []
+  - hypnosis
+  - psychotherapy
+  - change
+  - clinical-technique
 ---
-
 
 # Milton Erickson
 
@@ -43,22 +51,37 @@ Milton Erickson (1901–1980) was a pioneering American psychiatrist who became 
 - He could determine people's states of mind by their breathing patterns and, by mirroring these patterns, could lead patients into hypnotic trance and create deep rapport. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p104]
 - Erickson once identified that a beautiful young woman seeking therapy was actually a man by observing how she picked lint off her sleeve without making a natural detour around the breast area. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p103]
 - He could detect when his secretary was menstruating by the heaviness of her typing, and guess career backgrounds by the quality of hands, heaviness of step, head tilt, and vocal inflections. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p104]
+- Milton H. Erickson was a psychiatrist from Phoenix, Arizona. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
+- He was the mentor of John Weakland and wrote the introduction to 'Change'. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
+- His innovative techniques, especially in hypnosis, influenced all three authors. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
+- In his introduction, he spoke of 'the currents of change already seething within the person and the family'. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
 
 ## Inferences
 
 - Inference: Erickson's physical paralysis created the necessity that forced him to develop empathic powers dormant in all humans—the text argues that necessity is what activates these latent social skills.
+- Inference: Erickson's influence helped connect the theoretical work of the Palo Alto group to practical clinical applications, validating the book's approach to change.
 
 ## Related pages
 
+- Narrower: [[john-h-weakland]]
+- Adjacent: [[paul-watzlawick]]
+- Adjacent: [[richard-fisch]]
+- Adjacent: [[gregory-bateson]]
 - Concepts: [[nonverbal-communication]]
 - Concepts: [[empathy]]
 - Concepts: [[hypnotherapy]]
 - Concepts: [[observation-skills]]
+- Concepts: [[hypnosis]]
+- Concepts: [[psychotherapy]]
+- Concepts: [[change]]
+- Concepts: [[clinical-technique]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]
+- Additional source: [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `change-principles-of-problem-formulation-and-problem-paul-wa`.
