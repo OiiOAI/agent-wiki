@@ -370,3 +370,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-lean-startup-ries.md`
 - Files deprecated: None.
 - Notes: 42 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-speed-of-trust-the-one-thing-that-ch-covey-stephen-m-r
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/The SPEED of Trust _ The One Thing that Ch - Covey, Stephen M.R.pdf
+- Files created:
+  - `wiki/entities/franklincovey.md`
+  - `wiki/entities/howard-schultz.md`
+  - `wiki/entities/jon-huntsman-sr.md`
+  - `wiki/entities/stephen-m-r-covey.md`
+  - `wiki/entities/warren-buffett.md`
+  - `wiki/concepts/13-behaviors-of-trust.md`
+  - `wiki/concepts/4-cores-of-credibility.md`
+  - `wiki/concepts/5-waves-of-trust.md`
+  - `wiki/concepts/clarify-expectations.md`
+  - `wiki/concepts/confront-reality.md`
+  - `wiki/concepts/create-transparency.md`
+  - `wiki/concepts/deliver-results.md`
+  - `wiki/concepts/demonstrate-respect.md`
+  - `wiki/concepts/extend-trust.md`
+  - `wiki/concepts/five-waves-of-trust.md`
+  - `wiki/concepts/four-cores-of-credibility.md`
+  - `wiki/concepts/get-better.md`
+  - `wiki/concepts/high-trust-culture.md`
+  - `wiki/concepts/inspiring-trust.md`
+  - `wiki/concepts/integrity.md`
+  - `wiki/concepts/intent.md`
+  - `wiki/concepts/keep-commitments.md`
+  - `wiki/concepts/listen-first.md`
+  - `wiki/concepts/market-trust.md`
+  - `wiki/concepts/organizational-alignment.md`
+  - `wiki/concepts/practice-accountability.md`
+  - `wiki/concepts/propensity-to-trust.md`
+  - `wiki/concepts/right-wrongs.md`
+  - `wiki/concepts/self-trust.md`
+  - `wiki/concepts/seven-organizational-dividends.md`
+  - `wiki/concepts/seven-organizational-taxes.md`
+  - `wiki/concepts/sharing-economy.md`
+  - `wiki/concepts/show-loyalty.md`
+  - `wiki/concepts/smart-trust.md`
+  - `wiki/concepts/societal-trust.md`
+  - `wiki/concepts/talk-straight.md`
+  - `wiki/concepts/thirteen-behaviors.md`
+  - `wiki/concepts/trust-accounts.md`
+  - `wiki/concepts/trust-and-inspire-leadership.md`
+  - `wiki/concepts/trust-dividend.md`
+  - `wiki/concepts/trust-restoration.md`
+  - `wiki/concepts/trust-tax.md`
+  - `wiki/sources/the-speed-of-trust-covey.md`
+- Files deprecated: None.
+- Notes: 43 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
