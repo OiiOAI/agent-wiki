@@ -7233,3 +7233,34 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/mere-exposure-effect.md`
 - Files deprecated: None.
 - Notes: 53 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | man-s-search-for-meaning-young-adult-edit-viktor-e-frankl
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Man's Search for Meaning_ Young Adult Edit - Viktor E. Frankl.pdf
+- Files created:
+  - `wiki/entities/dr-j-steinhof.md`
+  - `wiki/entities/statue-of-responsibility.md`
+  - `wiki/entities/viktor-frankl.md`
+  - `wiki/concepts/concentration-camp-psychology.md`
+  - `wiki/concepts/existential-vacuum.md`
+  - `wiki/concepts/freedom-and-responsibility.md`
+  - `wiki/concepts/lifes-transitoriness.md`
+  - `wiki/concepts/logotherapy.md`
+  - `wiki/concepts/meaning-of-life.md`
+  - `wiki/concepts/meaning-of-love.md`
+  - `wiki/concepts/meaning-of-suffering.md`
+  - `wiki/concepts/nietzsche-why-to-live.md`
+  - `wiki/concepts/noo-dynamics.md`
+  - `wiki/concepts/psychiatric-credo.md`
+  - `wiki/concepts/psychological-bends.md`
+  - `wiki/concepts/spiritual-freedom.md`
+  - `wiki/concepts/suffering-and-purpose.md`
+  - `wiki/concepts/super-meaning.md`
+  - `wiki/concepts/three-ways-to-find-meaning.md`
+  - `wiki/concepts/tragic-optimism.md`
+  - `wiki/concepts/will-to-meaning.md`
+  - `wiki/sources/mans-search-for-meaning.md`
+- Files merged (extended):
+  - `wiki/concepts/self-transcendence.md`
+- Files deprecated: None.
+- Notes: 22 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
