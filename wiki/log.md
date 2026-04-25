@@ -9044,3 +9044,22 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/zhi-shen-shi-nei-zhong-guo-zheng-fu-yu-jing-ji-fa-zhan.md`
 - Files deprecated: None.
 - Notes: 169 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | algorithms-to-live-by
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Algorithms_to_Live_By.epub
+- Files created:
+  - `wiki/entities/vickrey-auction.md`
+  - `wiki/concepts/bufferbloat.md`
+  - `wiki/concepts/computational-kindness.md`
+  - `wiki/concepts/exponential-backoff.md`
+  - `wiki/concepts/information-cascade.md`
+  - `wiki/concepts/mechanism-design.md`
+  - `wiki/concepts/overfitting.md`
+  - `wiki/concepts/simulated-annealing.md`
+  - `wiki/sources/algorithms-to-live-by.md`
+- Files merged (extended):
+  - `wiki/concepts/nash-equilibrium.md`
+  - `wiki/concepts/prisoners-dilemma.md`
+- Files deprecated: None.
+- Notes: 9 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

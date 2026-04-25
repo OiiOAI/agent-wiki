@@ -11,6 +11,7 @@ sources:
 - '[raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]'
 - '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
   M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
+- '[raw/books/strategy/Algorithms_to_Live_By.epub#L1-L1]'
 confidence: high
 tags:
 - game-theory
@@ -19,22 +20,29 @@ tags:
 - evolution
 - strategy
 - psychology
+- competition
+- economics
 related:
   broader:
   - social-dilemma
   - game-theory
   - game theory
   - evolutionarily stable strategy
+  - dominant-strategy
   narrower:
   - public-goods-game
   - titr-for-tat
   - always-defect
   - grudger
+  - tragedy-of-the-commons
+  - mechanism-design
   adjacent:
   - trust-game
   - ultimatum-game
   - symbiosis
   - mutualism
+  - nash-equilibrium
+  - dominant-strategy
 aliases: []
 ---
 
@@ -55,6 +63,9 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - In the Prisoner's Dilemma, if both cooperate they each get two units; if both defect they each get one unit; if one cooperates and the other defects, the defector gets three units and the cooperator gets zero. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p941]
 - Tit for Tat strategy in iterated Prisoner's Dilemma involves cooperating initially, then mirroring the opponent's previous move. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1097]
 - The 1962 thriller Fail-Safe was premised on a Tit for Tat solution to nuclear conflict following a signal error. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1097]
+- In the prisoner's dilemma, defecting is a dominant strategy—always better regardless of what the other player does. [raw/books/strategy/Algorithms_to_Live_By.epub#L2740-L2742]
+- When both players follow their dominant strategy in the prisoner's dilemma, they both serve five years—a dramatically worse outcome than cooperation (freedom and $500,000 each). [raw/books/strategy/Algorithms_to_Live_By.epub#L2744-L2747]
+- The prisoner's dilemma demonstrates that equilibrium strategies may not lead to outcomes that are best for the players involved. [raw/books/strategy/Algorithms_to_Live_By.epub#L2750-L2752]
 
 ## Inferences
 
@@ -62,6 +73,7 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - Inference: The shadow of the future must be long enough for cooperation to be advantageous over defection
 - Inference: The length of expected future interaction affects how nice, forgiving, and envious players will be
 - Inference: The widespread cultural references to the Prisoner's Dilemma (including game shows like Golden Balls) suggest it captures fundamental aspects of human cooperation and competition dynamics.
+- Inference: The prisoner's dilemma explains why cooperation can be difficult to achieve even when it would benefit all parties—the incentives push toward defection despite mutual harm.
 
 ## Related pages
 
@@ -69,14 +81,19 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - Broader: [[game-theory]]
 - Broader: [[game theory]]
 - Broader: [[evolutionarily stable strategy]]
+- Broader: [[dominant-strategy]]
 - Narrower: [[public-goods-game]]
 - Narrower: [[titr-for-tat]]
 - Narrower: [[always-defect]]
 - Narrower: [[grudger]]
+- Narrower: [[tragedy-of-the-commons]]
+- Narrower: [[mechanism-design]]
 - Adjacent: [[trust-game]]
 - Adjacent: [[ultimatum-game]]
 - Adjacent: [[symbiosis]]
 - Adjacent: [[mutualism]]
+- Adjacent: [[nash-equilibrium]]
+- Adjacent: [[dominant-strategy]]
 - Concepts: [[cooperation]]
 - Concepts: [[reciprocity]]
 - Concepts: [[social-preferences]]
@@ -86,6 +103,11 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - Concepts: [[nonzero-sum-game]]
 - Concepts: [[reciprocal-altruism]]
 - Concepts: [[zero-sum-games]]
+- Concepts: [[dominant-strategy]]
+- Concepts: [[nash-equilibrium]]
+- Concepts: [[tragedy-of-the-commons]]
+- Concepts: [[mechanism-design]]
+- Concepts: [[price-of-anarchy]]
 - Topics: [[reciprocal-altruism]]
 - Topics: [[evolutionary-psychology]]
 - Topics: [[evolution-of-cooperation]]
@@ -97,9 +119,11 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - Primary source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]
 - Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
+- Additional source: [raw/books/strategy/Algorithms_to_Live_By.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-selfish-gene-40th-anniversary-edition-richard-dawkins`.
 - 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.
+- 2026-04-25 — merged contributions from `algorithms-to-live-by`.
