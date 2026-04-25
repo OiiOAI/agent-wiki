@@ -6774,3 +6774,27 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/negativity-bias.md`
 - Files deprecated: None.
 - Notes: 51 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-one-thing-gary-keller
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/The ONE Thing - Gary Keller.pdf
+- Files created:
+  - `wiki/concepts/accountability-cycle.md`
+  - `wiki/concepts/counterbalancing.md`
+  - `wiki/concepts/domino-effect.md`
+  - `wiki/concepts/focusing-question.md`
+  - `wiki/concepts/four-thieves-of-productivity.md`
+  - `wiki/concepts/goal-setting-to-the-now.md`
+  - `wiki/concepts/moving-from-e-to-p.md`
+  - `wiki/concepts/ok-plateau.md`
+  - `wiki/concepts/paretos-principle.md`
+  - `wiki/concepts/path-of-mastery.md`
+  - `wiki/concepts/six-lies-of-success.md`
+  - `wiki/concepts/success-habit.md`
+  - `wiki/concepts/time-blocking.md`
+  - `wiki/sources/the-one-thing.md`
+- Files merged (extended):
+  - `wiki/concepts/hyperbolic-discounting.md`
+  - `wiki/concepts/willpower.md`
+- Files deprecated: None.
+- Notes: 14 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
