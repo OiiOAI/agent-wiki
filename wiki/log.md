@@ -8509,3 +8509,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/intrinsic-motivation.md`
 - Files deprecated: None.
 - Notes: 27 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | willpower-rediscovering-the-greatest-human-strength-roy-f-ba
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf
+- Files created:
+  - `wiki/entities/alcoholics-anonymous.md`
+  - `wiki/entities/amanda-palmer.md`
+  - `wiki/entities/archibald-maule-ramsay.md`
+  - `wiki/entities/benjamin-franklins-virtue-system.md`
+  - `wiki/entities/david-blaine.md`
+  - `wiki/entities/drew-carey.md`
+  - `wiki/entities/eric-clapton.md`
+  - `wiki/entities/george-ainslie.md`
+  - `wiki/entities/henry-morton-stanley.md`
+  - `wiki/entities/mary-karr.md`
+  - `wiki/entities/oprah-winfrey.md`
+  - `wiki/entities/parole-board-study.md`
+  - `wiki/entities/regulation-18b.md`
+  - `wiki/entities/right-club.md`
+  - `wiki/concepts/asian-american-success-and-self-control.md`
+  - `wiki/concepts/bright-lines.md`
+  - `wiki/concepts/cognitive-miser.md`
+  - `wiki/concepts/decision-fatigue.md`
+  - `wiki/concepts/dieters-catch-22.md`
+  - `wiki/concepts/glucose-and-willpower.md`
+  - `wiki/concepts/hot-cold-empathy-gap.md`
+  - `wiki/concepts/monitoring-and-self-control.md`
+  - `wiki/concepts/oprah-paradox.md`
+  - `wiki/concepts/postponed-gratification.md`
+  - `wiki/concepts/precommitment.md`
+  - `wiki/concepts/procrastination.md`
+  - `wiki/concepts/quantified-self.md`
+  - `wiki/concepts/rubicon-model.md`
+  - `wiki/concepts/self-awareness.md`
+  - `wiki/concepts/self-esteem-movement.md`
+  - `wiki/concepts/social-networks-and-behavior.md`
+  - `wiki/concepts/social-support-and-self-control.md`
+  - `wiki/concepts/the-marshmallow-experiment.md`
+  - `wiki/concepts/the-zeigarnik-effect.md`
+  - `wiki/concepts/what-the-hell-effect.md`
+  - `wiki/concepts/willpower-training.md`
+  - `wiki/topics/parenting-and-self-control.md`
+  - `wiki/topics/religion-and-self-control.md`
+  - `wiki/sources/willpower-rediscovering-the-greatest-human-strength.md`
+- Files merged (extended):
+  - `wiki/entities/david-allen.md`
+  - `wiki/concepts/ego-depletion.md`
+  - `wiki/concepts/habit-formation.md`
+- Files deprecated: None.
+- Notes: 39 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

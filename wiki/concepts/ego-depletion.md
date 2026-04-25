@@ -9,6 +9,8 @@ sources:
 - '[raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost
   - Sönke Ahrens.pdf#p1-157]'
 - '[raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]'
+- '[raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy
+  F_ Baumeister, John Tierney.pdf#p1-476]'
 confidence: medium
 tags:
 - psychology
@@ -18,6 +20,8 @@ tags:
 - self-control
 - behavior
 - research
+- ego-depletion
+- psychology-experiments
 related:
   broader:
   - willpower
@@ -55,6 +59,11 @@ Ego depletion is the temporary reduction in the self's capacity for volitional a
 - The meta-analysis found that motivational incentives, training on self-control tasks, and glucose supplementation promoted better self-control in ego-depleted people. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p50]
 - A study found that people who made a difficult decision earlier in the day were more likely to cave in to temptation later, showing decisions also drain willpower. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p49]
 - Rewards appear to restore willpower; a study showed that swishing sugar solution (but not artificial sweetener) restored willpower without restoring glucose levels. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p101]
+- The term 'ego depletion' was coined by Baumeister as homage to Freud's energy model of the self. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p33]
+- Ego depletion affects the anterior cingulate cortex, slowing its activity and reducing error-detection ability. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p35]
+- Depleted persons react more strongly to all kinds of stimuli—sad movies make them extra sad, joyous pictures make them happier. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p35]
+- People can unconsciously conserve willpower when they know additional demands are coming. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p39]
+- A single finite amount of willpower is used for all manner of tasks including controlling thoughts, emotions, impulses, and performance. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p40]
 
 ## Inferences
 
@@ -85,15 +94,27 @@ Ego depletion is the temporary reduction in the self's capacity for volitional a
 - Concepts: [[willpower]]
 - Concepts: [[motivation]]
 - Concepts: [[mini-habits]]
+- Concepts: [[self-control]]
+- Concepts: [[glucose-hypothesis]]
+- Concepts: [[decision-fatigue]]
+- Concepts: [[the-zeigarnik-effect]]
 - Topics: [[brain-science-for-habits]]
+- Topics: [[the-science-of-willpower]]
+- Topics: [[willpower-in-daily-life]]
 - Entities: [[roy-baumeister]]
+- Entities: [[roy-f-baumeister]]
+- Entities: [[michael-inzlicht]]
+- Entities: [[jennifer-gutsell]]
+- Entities: [[mark-muraven]]
 
 ## Provenance
 
 - Primary source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
 - Additional source: [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]
+- Additional source: [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p1-476]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `mini-habits-smaller-habits-bigger-results-guise-stephen`.
+- 2026-04-25 — merged contributions from `willpower-rediscovering-the-greatest-human-strength-roy-f-ba`.
