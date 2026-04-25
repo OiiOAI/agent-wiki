@@ -10,6 +10,7 @@ sources:
   Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]'
 - '[raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein
   .epub.pdf#p1-388]'
+- '[raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]'
 confidence: high
 tags:
 - decision making
@@ -20,13 +21,18 @@ tags:
 - decision-making
 - cognitive-model
 - rpd
+- cognitive-science
+- psychology
+- models
 related:
   broader:
   - naturalistic-decision-making
+  - decision-making
   narrower:
   - singular-evaluation
   - mental-simulation
   - satisficing
+  - pattern-recognition
   adjacent:
   - situation-awareness-klein
   - critical-decision-method
@@ -69,6 +75,10 @@ The Recognition-Primed Decision (RPD) model, formulated by Klein, Calderwood, an
 - Experience provides the ability to recognize that a situation is a typical case. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
 - When patterns are broken or expectancies violated, the RPD model describes this as triggering diagnostic efforts including seizing unexpected opportunities. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
 - The RPD model explains situation awareness as emerging from situation recognition, encompassing relevant cues, plausible goals, actions, and expectancies. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
+- The RPD model explains how people can make good decisions without generating and comparing a set of options, using pattern matching and mental simulation instead. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p46]
+- Firefighters used the RPD process for more than 80 percent of their toughest incidents according to Klein's data analysis. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p48]
+- Army officers used intuition in 96 percent of their decisions during planning, and naval commanders relied on intuition in 95 percent of their decisions. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p48]
+- The RPD model posits that when faced with a familiar problem, the first solution recognized is likely to work because decision makers don't need the optimal option but rather a quickly identified acceptable option. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p44]
 
 ## Inferences
 
@@ -76,13 +86,20 @@ The Recognition-Primed Decision (RPD) model, formulated by Klein, Calderwood, an
 - Inference: The finding that fireground commanders do not generate and compare alternatives challenges rational choice theories of decision making.
 - Inference: The RPD model's dominance in naturalistic settings suggests that formal decision training may be less useful than experience-based pattern recognition training.
 - Inference: The RPD model demonstrates that people can make effective decisions without using a rational choice strategy, providing a counterexample to rational choice theory.
+- Inference: The RPD model challenges the classical decision-making model that requires comparing all options, showing that experienced experts rely primarily on pattern matching rather than analytical comparison.
+
+## Uncertainties
+
+- Uncertain: The exact percentage of decisions made using RPD vs. analytical methods may vary by domain and expertise level, though the research consistently shows high reliance on intuitive processes.
 
 ## Related pages
 
 - Broader: [[naturalistic-decision-making]]
+- Broader: [[decision-making]]
 - Narrower: [[singular-evaluation]]
 - Narrower: [[mental-simulation]]
 - Narrower: [[satisficing]]
+- Narrower: [[pattern-recognition]]
 - Adjacent: [[situation-awareness-klein]]
 - Adjacent: [[critical-decision-method]]
 - Adjacent: [[mental-simulation]]
@@ -109,8 +126,10 @@ The Recognition-Primed Decision (RPD) model, formulated by Klein, Calderwood, an
 
 - Primary source: [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]
 - Additional source: [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p1-388]
+- Additional source: [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `sources-of-power-how-people-make-decisions-by-gary-a-klein-e`.
+- 2026-04-25 — merged contributions from `the-power-of-intuition-gary-klein-ph-d`.

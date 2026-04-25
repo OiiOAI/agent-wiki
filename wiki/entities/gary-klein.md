@@ -10,6 +10,7 @@ sources:
   Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]'
 - '[raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein
   .epub.pdf#p1-388]'
+- '[raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]'
 canonical: Gary Klein
 confidence: high
 tags:
@@ -20,9 +21,12 @@ tags:
 - decision-making
 - naturalistic-decision-making
 - author
+- researchers
+- psychologists
 aliases:
 - Gary Klein
 - Gary A. Klein
+- Gary Klein, Ph.D.
 related:
   concepts:
   - critical incident technique
@@ -32,10 +36,14 @@ related:
   - recognition-primed-decision-model
   - sources-of-power
   - mental-simulation
+  - intuition
+  - cognitive-task-analysis
   topics:
   - naturalistic decision making
   - human factors
   - system design
+  entities:
+  - sources-of-power
 ---
 
 # Gary Klein
@@ -61,6 +69,10 @@ A researcher who developed the critical incident technique for studying decision
 - Klein co-designed the ShadowBox training program with colleagues to foster effective decision making. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p16]
 - Klein served on a team redesigning the White House Situation Room to support more effective decision making. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p16]
 - Klein collaborated with Nobel prize winner Daniel Kahneman. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p16]
+- Klein conducted his first research project on decision making almost two decades before this book, studying firefighters to see how they made high-stakes decisions in just a few seconds. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p12]
+- Klein's 1998 book Sources of Power: How People Make Decisions (MIT Press) described the Recognition-Primed Decision model and attracted significant media attention including coverage in the Wall Street Journal, Fast Company, and O Magazine. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p15]
+- Klein worked with the U.S. Marine Corps starting in 1995 to develop a decision-training program, which helped make the term intuitive decision making acceptable in military contexts. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p14]
+- Klein's company has compiled a database of more than a thousand difficult and critical decisions using cognitive task analysis methods in over seventy different fields. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p14]
 
 ## Inferences
 
@@ -81,16 +93,21 @@ A researcher who developed the critical incident technique for studying decision
 - Concepts: [[recognition-primed-decision-model]]
 - Concepts: [[sources-of-power]]
 - Concepts: [[mental-simulation]]
+- Concepts: [[intuition]]
+- Concepts: [[cognitive-task-analysis]]
 - Topics: [[naturalistic decision making]]
 - Topics: [[human factors]]
 - Topics: [[system design]]
+- Entities: [[sources-of-power]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]
 - Additional source: [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p1-388]
+- Additional source: [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `sources-of-power-how-people-make-decisions-by-gary-a-klein-e`.
+- 2026-04-25 — merged contributions from `the-power-of-intuition-gary-klein-ph-d`.

@@ -10176,3 +10176,45 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-evolution-of-cooperation.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-power-of-intuition-gary-klein-ph-d
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf
+- Files created:
+  - `wiki/entities/iron-foundry-case-study.md`
+  - `wiki/entities/joshua-chamberlain.md`
+  - `wiki/entities/lawrence-shattuck.md`
+  - `wiki/entities/lia-dibello.md`
+  - `wiki/entities/ted-benna.md`
+  - `wiki/entities/wagner-dodge.md`
+  - `wiki/entities/william-j-lemessurier.md`
+  - `wiki/concepts/automation-bias.md`
+  - `wiki/concepts/cognitive-engineering.md`
+  - `wiki/concepts/decision-making-critique.md`
+  - `wiki/concepts/decision-making-exercises.md`
+  - `wiki/concepts/directed-creativity.md`
+  - `wiki/concepts/executive-intent.md`
+  - `wiki/concepts/improvisation-under-pressure.md`
+  - `wiki/concepts/information-technology-and-intuition.md`
+  - `wiki/concepts/intuition-skills-training.md`
+  - `wiki/concepts/japanese-robotics-adaptability.md`
+  - `wiki/concepts/master-coaching.md`
+  - `wiki/concepts/metrics-and-intuition.md`
+  - `wiki/concepts/pattern-recognition.md`
+  - `wiki/concepts/planning-to-adapt-checklist.md`
+  - `wiki/concepts/planning-to-adapt.md`
+  - `wiki/concepts/premortem-exercise.md`
+  - `wiki/concepts/premortem.md`
+  - `wiki/concepts/sensemaking.md`
+  - `wiki/concepts/sticc-framework.md`
+  - `wiki/concepts/uncertainty-management.md`
+  - `wiki/sources/the-power-of-intuition-gary-klein.md`
+  - `wiki/analyses/intuition-lost-in-translation.md`
+- Files merged (extended):
+  - `wiki/entities/gary-klein.md`
+  - `wiki/concepts/intuition.md`
+  - `wiki/concepts/mental-models.md`
+  - `wiki/concepts/mental-simulation.md`
+  - `wiki/concepts/recognition-primed-decision-model.md`
+- Files deprecated: None.
+- Notes: 29 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

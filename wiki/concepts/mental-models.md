@@ -15,6 +15,7 @@ sources:
   Ed Wexler, Warren E_pdf.pdf#p1-619]'
 - '[raw/books/strategy/Situation awareness _ analysis and measurement - edited by
   Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]'
+- '[raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]'
 confidence: high
 tags:
 - thinking
@@ -90,6 +91,9 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - Approximately 18% of SA errors are traced to mental model problems: poor/insufficient models (7%), incorrect mental models (6.5%), and overreliance on default values (4.6%). [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p36]
 - Sarter and Woods (1991) stated that adequate mental models are a prerequisite for achieving SA. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p36]
 - Experienced pilots could report on relevant SA information for 5 to 6 minutes following simulation freezes without the memory decay expected from working memory, supporting the model of working memory as an activated subset of long-term memory. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p33]
+- Expert weather forecasters depend on mental models that enable them to spot negative cues—things that should have happened but didn't—only by reviewing data themselves. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p310]
+- Mental models are casual accounts for how things work in a situation, while stories are specific accounts using mental models to explain particular circumstances. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p365]
+- Information technology can damage mental models by locking thinking into predefined categories set up in advance, preventing learning and adaptation. [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p319]
 
 ## Inferences
 
@@ -122,6 +126,14 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - Concepts: [[attention]]
 - Concepts: [[comprehension]]
 - Concepts: [[projection]]
+- Concepts: [[pattern recognition]]
+- Concepts: [[expertise]]
+- Concepts: [[sensemaking]]
+- Concepts: [[action scripts]]
+- Concepts: [[intuition]]
+- Topics: [[cognitive psychology]]
+- Topics: [[decision-making]]
+- Topics: [[expertise development]]
 - Entities: [[charles-t-munger]]
 - Entities: [[isaac-newton]]
 
@@ -132,6 +144,7 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
 - Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 - Additional source: [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]
+- Additional source: [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]
 
 ## Change notes
 
@@ -140,3 +153,4 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.
 - 2026-04-25 — merged contributions from `situation-awareness-analysis-and-measurement-edited-by-mica-`.
+- 2026-04-25 — merged contributions from `the-power-of-intuition-gary-klein-ph-d`.
