@@ -7589,3 +7589,50 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/intuition.md`
 - Files deprecated: None.
 - Notes: 32 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-happiness-trap-how-to-stop-struggling-russ-harris
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Happiness Trap_ How to Stop Struggling - Russ Harris.pdf
+- Files created:
+  - `wiki/entities/helen-keller.md`
+  - `wiki/entities/russ-harris.md`
+  - `wiki/concepts/acceptance-and-commitment-therapy.md`
+  - `wiki/concepts/art-of-appreciation.md`
+  - `wiki/concepts/away-moves.md`
+  - `wiki/concepts/body-scan.md`
+  - `wiki/concepts/breaking-bad-habits.md`
+  - `wiki/concepts/challenge-formula.md`
+  - `wiki/concepts/choice-point.md`
+  - `wiki/concepts/choice-points.md`
+  - `wiki/concepts/commitment-ups-and-downs.md`
+  - `wiki/concepts/difficult-decisions.md`
+  - `wiki/concepts/documentary-of-you.md`
+  - `wiki/concepts/drop-anchor.md`
+  - `wiki/concepts/dropping-anchor.md`
+  - `wiki/concepts/emotions.md`
+  - `wiki/concepts/experiential-avoidance.md`
+  - `wiki/concepts/exposure.md`
+  - `wiki/concepts/four-domains-of-life.md`
+  - `wiki/concepts/hard-barriers.md`
+  - `wiki/concepts/making-room-tame.md`
+  - `wiki/concepts/noticing-and-naming.md`
+  - `wiki/concepts/noticing-self.md`
+  - `wiki/concepts/psychological-flexibility.md`
+  - `wiki/concepts/rigid-rules.md`
+  - `wiki/concepts/rumination-worrying-obsessing.md`
+  - `wiki/concepts/struggle-switch.md`
+  - `wiki/concepts/the-happiness-trap.md`
+  - `wiki/concepts/toward-moves.md`
+  - `wiki/concepts/unhooking-techniques.md`
+  - `wiki/concepts/unhooking.md`
+  - `wiki/concepts/urge-surfing.md`
+  - `wiki/concepts/values-vs-goals.md`
+  - `wiki/concepts/workability.md`
+  - `wiki/sources/the-happiness-trap-how-to-stop-struggling-and-start-living.md`
+- Files merged (extended):
+  - `wiki/entities/viktor-frankl.md`
+  - `wiki/concepts/fight-or-flight-response.md`
+  - `wiki/concepts/mindfulness.md`
+  - `wiki/concepts/self-compassion.md`
+- Files deprecated: None.
+- Notes: 35 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
