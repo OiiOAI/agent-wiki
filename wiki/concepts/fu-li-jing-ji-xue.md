@@ -7,6 +7,7 @@ created: '2026-04-25'
 updated: '2026-04-25'
 sources:
 - '[raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p1-709]'
+- '[raw/books/economics/经济学的三个世界·[美]劳埃德·雷诺兹 著.pdf#p1-305]'
 confidence: high
 related:
   broader:
@@ -22,9 +23,12 @@ related:
   - 市场失灵
   adjacent:
   - 一般均衡分析
-tags: []
+tags:
+- 福利经济学
+- 收入分配
+- 帕累托最优
+aliases: []
 ---
-
 
 # 福利经济学
 
@@ -39,6 +43,13 @@ tags: []
 - 第一福利定理表明竞争经济能导致帕累托效率的资源配置. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p439]
 - 第二福利定理表明任何帕累托效率分配都可以通过竞争均衡实现. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p443]
 - 社会福利函数允许在个人之间进行效用比较和价值判断. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p450]
+- 帕累托福利经济学认为每个人的效用是不可比较的，因而不可能对收入分配提出任何科学的见解. [raw/books/economics/经济学的三个世界·[美]劳埃德·雷诺兹 著.pdf#p28]
+- 几乎所有可以想象的政策行动都会对收入产生不同的影响. [raw/books/economics/经济学的三个世界·[美]劳埃德·雷诺兹 著.pdf#p28]
+- 福利经济学自本世纪三四十年代以来得到了广泛采用. [raw/books/economics/经济学的三个世界·[美]劳埃德·雷诺兹 著.pdf#p28]
+
+## Inferences
+
+- Inference: 西方经济学在收入分配问题上的这种立场与社会主义经济和欠发达经济中经济学家的角色形成对比，后两者更直接参与价值判断和政策目标的确定
 
 ## Related pages
 
@@ -60,11 +71,17 @@ tags: []
 - Concepts: [[市场失灵]]
 - Concepts: [[公平]]
 - Concepts: [[效率]]
+- Concepts: [[实证经济学与规范经济学]]
+- Concepts: [[经济政策]]
+- Topics: [[经济学理论]]
+- Topics: [[收入分配]]
 
 ## Provenance
 
 - Primary source: [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p1-709]
+- Additional source: [raw/books/economics/经济学的三个世界·[美]劳埃德·雷诺兹 著.pdf#p1-305]
 
 ## Change notes
 
 - 2026-04-25 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `经济学的三个世界-美-劳埃德-雷诺兹-著`.
