@@ -9382,3 +9382,27 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/working-memory.md`
 - Files deprecated: None.
 - Notes: 44 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | getting-to-yes-fisher-ury
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Getting_to_Yes_Fisher_Ury.pdf
+- Files created:
+  - `wiki/entities/bruce-patton.md`
+  - `wiki/entities/harvard-negotiation-project.md`
+  - `wiki/entities/jones-realty-v-turnbull.md`
+  - `wiki/entities/roger-fisher.md`
+  - `wiki/entities/william-ury.md`
+  - `wiki/concepts/batna-best-alternative-to-a-negotiated-agreement.md`
+  - `wiki/concepts/bottom-line.md`
+  - `wiki/concepts/dirty-tricks-in-negotiation.md`
+  - `wiki/concepts/interests-vs-positions.md`
+  - `wiki/concepts/inventing-options.md`
+  - `wiki/concepts/negotiation-jujitsu.md`
+  - `wiki/concepts/objective-criteria.md`
+  - `wiki/concepts/one-text-procedure.md`
+  - `wiki/concepts/positional-bargaining.md`
+  - `wiki/concepts/principled-negotiation.md`
+  - `wiki/concepts/separating-people-from-problem.md`
+  - `wiki/sources/getting-to-yes-fisher-ury.md`
+- Files deprecated: None.
+- Notes: 17 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
