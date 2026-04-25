@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲
   - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]'
+- '[raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]'
 confidence: high
 tags:
 - 佛教哲学
@@ -17,14 +18,28 @@ tags:
 - 认识论
 - 直观理论
 - 心理学
+- 奢摩他
+- 毗钵舍那
+- 三摩地
+- 瑜伽行派
 related:
   broader:
   - 天台宗哲学
   - 佛教修行
+  - 瑜伽行派修行法门
+  narrower:
+  - 奢摩他
+  - 毗钵舍那
+  - 止相
+  - 举相
+  - 舍相
+  - 三摩地
   adjacent:
   - 内省
   - 自我意识
   - 认识
+  - 三十七道品
+  - 空性
 aliases: []
 ---
 
@@ -44,6 +59,10 @@ aliases: []
 - 皮尔士通过视网膜盲点实验证明，我们直接看到的是一个环状空间而非连续平面，对这个环的填补必然是理智的工作，借此论证单纯沉思无法区分理智结论与直观材料. [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L34005-L34018]
 - 皮尔士通过贝克莱关于视觉的著作的例子指出，空间的第三维原本被认为直接直观，现已公认由推论得知. [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L33985-L33992]
 - 皮尔士否定直观能力的存在，理由是我们无法凭直觉知道一种认识是直觉的，且这种能力存不存在只能由证据确定. [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L34260-L34270]
+- 奢摩他（止）能对治掉举恶作，毗钵舍那（观）能对治惛沉睡眠疑. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L5140-L5141]
+- 奢摩他道圆满清净：乃至所有惛沉睡眠正善除遣. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L5143-L5144]
+- 毗钵舍那道圆满清净：乃至所有掉举恶作正善除遣. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L5145-L5146]
+- 五种心散动法：作意散动、外心散动、内心散动、相散动、粗重散动. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L5150-L5151]
 
 ## Inferences
 
@@ -53,23 +72,39 @@ aliases: []
 
 - Broader: [[天台宗哲学]]
 - Broader: [[佛教修行]]
+- Broader: [[瑜伽行派修行法门]]
+- Narrower: [[奢摩他]]
+- Narrower: [[毗钵舍那]]
+- Narrower: [[止相]]
+- Narrower: [[举相]]
+- Narrower: [[舍相]]
+- Narrower: [[三摩地]]
 - Adjacent: [[内省]]
 - Adjacent: [[自我意识]]
 - Adjacent: [[认识]]
+- Adjacent: [[三十七道品]]
+- Adjacent: [[空性]]
 - Concepts: [[三无性]]
 - Concepts: [[三性]]
+- Concepts: [[有寻有伺三摩地]]
+- Concepts: [[无寻无伺三摩地]]
+- Concepts: [[相缚]]
+- Concepts: [[粗重缚]]
 - Entities: [[智顗]]
 - Entities: [[梁肃]]
 - Entities: [[李翱]]
 - Entities: [[皮尔士]]
 - Entities: [[贝克莱]]
+- Entities: [[慈氏菩萨]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]
+- Additional source: [raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `二十世纪西方哲学经典-套装共10册-上海译文出品-从历史哲学到科学哲学-十本书搭建一世纪的哲学方程式-读懂二十世纪的哲-`.
+- 2026-04-25 — merged contributions from `佛教十三经-中华书局`.
