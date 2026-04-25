@@ -5632,3 +5632,36 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/lishi-shanshui-yuqiao.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 周易本义-original-meaning-of-the-book-of-changes-朱熹著-柯誉整理-朱熹-柯誉
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub
+- Files created:
+  - `wiki/entities/fu-xi.md`
+  - `wiki/concepts/da-yan-zhi-shu.md`
+  - `wiki/concepts/fen-gong-gua-xiang-ci-xu.md`
+  - `wiki/concepts/fu-xi-ba-gua.md`
+  - `wiki/concepts/gua-bian-tu.md`
+  - `wiki/concepts/he-tu.md`
+  - `wiki/concepts/heng-gua.md`
+  - `wiki/concepts/jing-gua.md`
+  - `wiki/concepts/kun-gua.md`
+  - `wiki/concepts/liu-shi-si-gua.md`
+  - `wiki/concepts/luo-shu.md`
+  - `wiki/concepts/qian-gua.md`
+  - `wiki/concepts/shi-ce.md`
+  - `wiki/concepts/shi-yi.md`
+  - `wiki/concepts/tai-ji.md`
+  - `wiki/concepts/wen-wang-ba-gua.md`
+  - `wiki/concepts/wu-jing-da-quan.md`
+  - `wiki/concepts/xi-ci-zhuan.md`
+  - `wiki/concepts/xian-gua.md`
+  - `wiki/concepts/xian-tian-zhi-xue.md`
+  - `wiki/concepts/yi-xue-qi-meng.md`
+  - `wiki/concepts/yuan-heng-li-zhen.md`
+  - `wiki/sources/zhou-yi-ben-yi.md`
+- Files merged (extended):
+  - `wiki/entities/zhu-xi.md`
+  - `wiki/concepts/xing-er-shang-xia.md`
+- Files deprecated: None.
+- Notes: 23 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
