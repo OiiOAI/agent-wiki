@@ -10787,3 +10787,48 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/sheng-ming-zhou-qi-mo-xing.md`
 - Files deprecated: None.
 - Notes: 62 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代经济学系列丛书-地下经济学-美-埃德加-法伊格-编著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[当代经济学系列丛书]地下经济学·[美]埃德加·法伊格 编著.pdf
+- Files created:
+  - `wiki/entities/ai-de-jia-l-fa-yi-ge.md`
+  - `wiki/entities/fa-yi-ge.md`
+  - `wiki/entities/kong-di-ni.md`
+  - `wiki/entities/ying-guo-guo-nei-shui-wu-ju.md`
+  - `wiki/concepts/cha-yi-fa.md`
+  - `wiki/concepts/chou-yang-diao-cha-fa.md`
+  - `wiki/concepts/de-guo-wei-guan-cha-jing-ji.md`
+  - `wiki/concepts/di-er-jing-ji.md`
+  - `wiki/concepts/di-xia-jing-ji.md`
+  - `wiki/concepts/di-yi-ji-ji-yu-di-er-jing-ji-de-gong-sheng-xian-xiang.md`
+  - `wiki/concepts/guan-cha-zhe-shou-diao-cha-zhe-zheng-ce-zhi-ding-zhe-fan-kui.md`
+  - `wiki/concepts/huo-bi-xu-qiu-fa.md`
+  - `wiki/concepts/huo-bi-xu-qiu-han-shu-fa.md`
+  - `wiki/concepts/jiao-yi-bi-lv-fa.md`
+  - `wiki/concepts/jiao-yi-fa.md`
+  - `wiki/concepts/jiao-yi-liang-fa.md`
+  - `wiki/concepts/jing-ji-bu-ke-si-yi-de-er-zhong-xing.md`
+  - `wiki/concepts/lao-dong-li-shi-chang-fa.md`
+  - `wiki/concepts/min-zhu-jing-ji-zheng-ce-li-lun.md`
+  - `wiki/concepts/rui-dian-de-xia-jing-ji.md`
+  - `wiki/concepts/sang-mu-mo-xing.md`
+  - `wiki/concepts/she-hui-fu-li-zui-da-hua-fang-fa.md`
+  - `wiki/concepts/she-hui-zhi-biao.md`
+  - `wiki/concepts/su-lian-te-quan-jing-ji-yu-di-er-jing-ji.md`
+  - `wiki/concepts/tao-shui.md`
+  - `wiki/concepts/wei-bao-da-shou-ru.md`
+  - `wiki/concepts/wei-deng-ji-shou-ru.md`
+  - `wiki/concepts/wei-guan-cha-jing-ji.md`
+  - `wiki/concepts/wei-gui-guan-li.md`
+  - `wiki/concepts/wei-ji-lu-shou-ru.md`
+  - `wiki/concepts/wei-shen-bao-shou-ru.md`
+  - `wiki/concepts/xian-jin-bi-lu-fa.md`
+  - `wiki/concepts/xian-jin-bi-lv-fa.md`
+  - `wiki/concepts/xin-xi-niu-qu.md`
+  - `wiki/concepts/xiong-ya-li-di-er-jing-ji.md`
+  - `wiki/concepts/yi-da-li-fei-fa-lao-dong-shi-chang.md`
+  - `wiki/sources/di-xia-jing-ji-xue.md`
+  - `wiki/analyses/qi-pian-hang-wei-dui-gdp-de-ying-xiang.md`
+- Files deprecated: None.
+- Notes: 38 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
