@@ -6410,3 +6410,29 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/carl-jung.md`
 - Files deprecated: None.
 - Notes: 37 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | digital-minimalism-in-everyday-life-williams-james-w
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Digital Minimalism in Everyday Life - Williams, James W.pdf
+- Files created:
+  - `wiki/entities/cal-newport.md`
+  - `wiki/concepts/art-therapy.md`
+  - `wiki/concepts/digital-declutter.md`
+  - `wiki/concepts/digital-detox.md`
+  - `wiki/concepts/digital-mindfulness.md`
+  - `wiki/concepts/digital-minimalism-practices.md`
+  - `wiki/concepts/digital-minimalism.md`
+  - `wiki/concepts/fomo.md`
+  - `wiki/concepts/grey-scale-phone-display.md`
+  - `wiki/concepts/life-skills-learning.md`
+  - `wiki/concepts/mandala-meditation.md`
+  - `wiki/concepts/minimalist-work-apps.md`
+  - `wiki/concepts/office-space-organization.md`
+  - `wiki/concepts/physical-book-reading.md`
+  - `wiki/concepts/relapse-prevention.md`
+  - `wiki/concepts/sabbath-practice.md`
+  - `wiki/concepts/technology-addiction.md`
+  - `wiki/concepts/touch-starvation.md`
+  - `wiki/sources/digital-minimalism-in-everyday-life.md`
+- Files deprecated: None.
+- Notes: 19 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
