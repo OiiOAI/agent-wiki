@@ -12,6 +12,7 @@ sources:
   S_ Gazzaniga.pdf#p1-461]'
 - '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
   of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
+- '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
 confidence: high
 tags:
 - brain structure
@@ -21,6 +22,9 @@ tags:
 - brain-function
 - prefrontal cortex
 - brain evolution
+- prefrontal
+- learning
+- neuroscience
 related:
   broader:
   - brain structures
@@ -63,11 +67,17 @@ The region of the cortex at the front of the brain that evolved most recently an
 - The human prefrontal cortex has novel features not present even in apes, including unique spatial arrangements of cells and unique patterns of connectivity within and between cell layers. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p256]
 - Todd Preuss described the human prefrontal cortex as 'rewired and running hot' due to greater interconnectivity between neurons and novel gene expression patterns. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p257]
 - Etienne Koechlin described the frontal pole as a functional 'add-on' enabling cognitive branching—the ability to engage simultaneously in multiple options for reasoning and multitasking. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p256]
+- Damage to prefrontal areas produces no specific sensory or motor problems and does not reduce IQ, but produces extensive deficits in certain learning contexts. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p279]
+- Prefrontally damaged patients fail at card-sorting tasks requiring them to change sorting criteria and have trouble generating word lists, tending to perseverate or repeat already named items. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p284]
+- Prefrontal areas help inhibit the tendency to act on simple correlative stimulus relationships and guide sampling of alternative higher-order sequential or hierarchic associations. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p286]
+- Bilateral prefrontal damage between 19 and 31 months of age produces particular impairments in vocabulary and grammar development. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p289]
+- Human prefrontal cortex is enlarged compared to posterior sensory and subcortical regions, biasing both attentional and mnemonic strategies to favor attention shifted from token-object associations to higher-order token-token relationships. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p292]
 
 ## Inferences
 
 - Inference: The unique features of human prefrontal cortex, particularly the frontal pole, likely contribute to human capacities for abstract reasoning and multitasking that distinguish us from other primates.
 - Inference: Novel connectivity patterns between prefrontal and parietal/temporal areas in humans may underlie enhanced cognitive integration compared to apes.
+- Inference: The enlargement of prefrontal cortex in humans may reflect adaptation to the unusual cognitive demands imposed by symbol learning.
 
 ## Uncertainties
 
@@ -95,18 +105,24 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Concepts: [[cognitive branching]]
 - Concepts: [[executive functions]]
 - Concepts: [[top-down processing]]
+- Concepts: [[displacement-theory-neural]]
+- Concepts: [[symbol-learning]]
+- Concepts: [[brocas-area]]
 - Entities: [[Todd Preuss]]
 - Entities: [[Etienne Koechlin]]
 - Entities: [[Phineas Gage]]
+- Entities: [[williams-syndrome]]
 
 ## Provenance
 
 - Primary source: [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p1-228]
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
+- Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
 - 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
+- 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.

@@ -10,11 +10,14 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
 canonical: Williams syndrome
 confidence: high
 aliases:
 - Williams
 - williams-beuren-syndrome
+- WS
+- Williams syndrome
 tags:
 - genetic syndrome
 - neurodevelopmental
@@ -24,6 +27,9 @@ tags:
 - sociability
 - language
 - spatial-processing
+- genetic-disorder
+- cognition
+- neuroscience
 related:
   concepts:
   - chromosomal deletion
@@ -34,10 +40,13 @@ related:
   - chromosome-deletion
   - brain-modularity
   - cognitive-domain-separation
+  - symbol-learning
+  - prefrontal-cortex
   topics:
   - neurodevelopmental-disorders
   entities:
   - autism spectrum disorder
+  - hoover-the-seal
 ---
 
 # Williams Syndrome
@@ -59,14 +68,21 @@ Williams syndrome is a rare genetic condition caused by heterozygous deletion of
 - Children with Williams syndrome acquire language late but overcome early deficits to develop strong language skills and normal social interaction. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
 - Williams syndrome children exhibit extreme sociability and lack typical shyness in the presence of strangers. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
 - Williams syndrome children are profoundly defective in spatial processing, scoring as poorly as or worse than autistic children on IQ tests. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p109]
+- Williams syndrome children are especially interesting because their precocious verbal skills follow curious patterns, producing long lists of physical characteristics but being baffled by novel purpose questions. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p290]
+- Anatomical data have revealed WS brains with reduction of the entire posterior cerebral cortex but sparing of the cerebellum and frontal lobes, and possibly even exaggeration of cerebellar size. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p291]
+- WS results from deletion of two genes including the gene for elastin and LIM1 kinase, with LIM1 being expressed in the head region of developing embryos. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p295]
+- Transgenic mouse embryos with both copies of the LIM1 gene knocked out fail to develop heads altogether, even though the remainder of the body develops normally. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p295]
+- WS demonstrates that high general intelligence is not as critical for crossing the symbolic threshold as growing up with a peculiar bias in learning tendencies. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p295]
 
 ## Inferences
 
 - Inference: The contrast between Williams syndrome and autism suggests that language and social skills can vary independently from general and spatial intelligence, supporting the idea that the brain is modular with distinct cognitive functions.
+- Inference: The underdevelopment of much of the brain but sparing of the frontal cortex and cerebellum in WS exaggerates the bias to learn symbolic associations, accounting for hyperlexic tendencies and precocious vocabularies.
 
 ## Uncertainties
 
 - Uncertain: The precise genes in the 7q11.23 region that affect sociability and spatial processing are not yet known.
+- Uncertain: Not all WS patients show the same gross anatomical abnormalities, and the underlying pathology may not always produce such gross abnormalities.
 
 ## Related pages
 
@@ -82,15 +98,20 @@ Williams syndrome is a rare genetic condition caused by heterozygous deletion of
 - Concepts: [[chromosome-deletion]]
 - Concepts: [[brain-modularity]]
 - Concepts: [[cognitive-domain-separation]]
+- Concepts: [[symbol-learning]]
+- Concepts: [[prefrontal-cortex]]
 - Topics: [[neurodevelopmental-disorders]]
 - Entities: [[autism spectrum disorder]]
+- Entities: [[hoover-the-seal]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.

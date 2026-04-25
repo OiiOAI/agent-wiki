@@ -15,6 +15,7 @@ sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]'
+- '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
 confidence: high
 tags:
 - neuroscience
@@ -85,6 +86,9 @@ Theory of mind refers to the ability to understand that other people have mental
 - Theory of mind emerges in primates along with self-recognition and self-awareness, and is closely linked to it. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p90]
 - Theory of mind is a capacity that children do not acquire fully until the age of four (though elements are probably present from 12 to 18 months), and which autistic children never acquire. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p90]
 - The neuroimaging correlates of both self-awareness and theory of mind lie in the right frontal and right cingulate cortex. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p132]
+- The ability to represent another's subjective experience requires maintaining awareness of indexical information and using it to produce a representation of what it would be like from a different perspective—a complicated double-negative referential relationship. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p461]
+- Constructing another point of view almost certainly requires prefrontal cortex involvement, and failure to take another's perspective is a common disability of patients with prefrontal damage. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p461]
+- Without symbolic representations, it seems unlikely that other species could behave according to a theory of others' minds or share representations of others' experiences. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p462]
 
 ## Inferences
 
@@ -95,11 +99,13 @@ Theory of mind refers to the ability to understand that other people have mental
 - Inference: The distinction between 'cold' cognitive mentalizing and 'hot' empathic understanding may represent two distinct roots to understanding other people's minds.
 - Inference: The text notes that typically developing infants as young as 7 months show spontaneous mentalizing, suggesting this ability develops early in life and may be impaired in autism from early development.
 - Inference: The close relationship between self-awareness and theory of mind suggests that the right hemisphere, which mediates both, is fundamentally oriented toward connection with others rather than isolation.
+- Inference: The ability to mentally represent other minds is one of the primary functions of symbolization, emerging from the same cognitive operations and neural substrates critical to symbolic abilities.
 
 ## Uncertainties
 
 - Uncertain: Whether chimpanzees possess a theory of mind remains contested; Tomasello's group believes they understand some psychological processes while Heyes and Povinelli argue the evidence is inconclusive
 - Uncertain: No fMRI study has yet demonstrated a clear dissociation between mentalizing and empathizing deficits in psychopathy and autism as of this research.
+- Uncertain: Whether nonhuman primates possess anyrudimentary form of theory of mind independent of symbolic abilities.
 
 ## Related pages
 
@@ -131,6 +137,9 @@ Theory of mind refers to the ability to understand that other people have mental
 - Concepts: [[medial-prefrontal-cortex]]
 - Concepts: [[self-awareness]]
 - Concepts: [[mirror-neurones]]
+- Concepts: [[symbolic-communication]]
+- Concepts: [[prefrontal-cortex-and-symbol-learning]]
+- Concepts: [[reciprocal-altruism]]
 - Topics: [[social-neuroscience]]
 - Topics: [[mentalizing-network]]
 - Topics: [[right-hemisphere]]
@@ -147,6 +156,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]
+- Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
 
 ## Change notes
 
@@ -155,3 +165,4 @@ Theory of mind refers to the ability to understand that other people have mental
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-master-and-his-emissary-iain-mcgilchrist`.
+- 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.

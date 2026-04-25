@@ -3329,3 +3329,100 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/working-memory.md`
 - Files deprecated: None.
 - Notes: 72 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-symbolic-species-terrence-w-deacon
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf
+- Files created:
+  - `wiki/entities/charles-sanders-peirce.md`
+  - `wiki/entities/dean-falk.md`
+  - `wiki/entities/dennis-oleary.md`
+  - `wiki/entities/donald-hebb.md`
+  - `wiki/entities/emx-and-otx-genes.md`
+  - `wiki/entities/gerald-edelman.md`
+  - `wiki/entities/harry-jerison.md`
+  - `wiki/entities/homo-erectus.md`
+  - `wiki/entities/hoover-the-seal.md`
+  - `wiki/entities/john-searle.md`
+  - `wiki/entities/kanzi-bonobo.md`
+  - `wiki/entities/kanzi.md`
+  - `wiki/entities/knm-er-1470.md`
+  - `wiki/entities/neanderthals.md`
+  - `wiki/entities/noam-chomsky.md`
+  - `wiki/entities/otto-snell.md`
+  - `wiki/entities/ralph-holloway.md`
+  - `wiki/entities/roman-jakobson.md`
+  - `wiki/entities/sherman-austin-chimps.md`
+  - `wiki/entities/terrence-w-deacon.md`
+  - `wiki/entities/ultrabithorax.md`
+  - `wiki/entities/vervet-monkey-alarm-calls.md`
+  - `wiki/concepts/axonal-displacement.md`
+  - `wiki/concepts/baldwinian-evolution.md`
+  - `wiki/concepts/behaviorist-theory.md`
+  - `wiki/concepts/brain-allometry.md`
+  - `wiki/concepts/brain-body-allometry.md`
+  - `wiki/concepts/brain-imaging-language.md`
+  - `wiki/concepts/central-gray-area.md`
+  - `wiki/concepts/chihuahua-fallacy.md`
+  - `wiki/concepts/chinese-room-argument.md`
+  - `wiki/concepts/chinese-room.md`
+  - `wiki/concepts/co-evolutionary-theory-language.md`
+  - `wiki/concepts/cortical-control-vocalization.md`
+  - `wiki/concepts/critical-period-language.md`
+  - `wiki/concepts/cross-linguistic-agrammatism.md`
+  - `wiki/concepts/developmental-clock.md`
+  - `wiki/concepts/developmental-displacement.md`
+  - `wiki/concepts/developmental-parcellation.md`
+  - `wiki/concepts/displacement-theory-neural.md`
+  - `wiki/concepts/encephalization.md`
+  - `wiki/concepts/genetic-assimilation.md`
+  - `wiki/concepts/gross-net-brain-function.md`
+  - `wiki/concepts/hebbian-learning.md`
+  - `wiki/concepts/homeotic-genes.md`
+  - `wiki/concepts/homo-symbolicus.md`
+  - `wiki/concepts/human-pair-bonding.md`
+  - `wiki/concepts/human-prefrontal-cortex-disproportionality.md`
+  - `wiki/concepts/human-visual-area-reduction.md`
+  - `wiki/concepts/iconic-reference.md`
+  - `wiki/concepts/indexical-reference.md`
+  - `wiki/concepts/language-lateralization.md`
+  - `wiki/concepts/language-organ-theory.md`
+  - `wiki/concepts/less-is-more-hypothesis.md`
+  - `wiki/concepts/missing-simple-languages-paradox.md`
+  - `wiki/concepts/molecular-computing.md`
+  - `wiki/concepts/neural-darwinism.md`
+  - `wiki/concepts/neural-parcellation.md`
+  - `wiki/concepts/neurulation.md`
+  - `wiki/concepts/polyandry.md`
+  - `wiki/concepts/polygyny.md`
+  - `wiki/concepts/prefrontal-cortex-and-symbol-learning.md`
+  - `wiki/concepts/proper-mass-theory.md`
+  - `wiki/concepts/proper-mass.md`
+  - `wiki/concepts/reciprocal-altruism-in-hominid-evolution.md`
+  - `wiki/concepts/reproductive-dilemma-hypothesis.md`
+  - `wiki/concepts/ritual-and-symbol-learning.md`
+  - `wiki/concepts/sexual-dimorphism.md`
+  - `wiki/concepts/symbol-learning.md`
+  - `wiki/concepts/symbolic-communication.md`
+  - `wiki/concepts/symbolic-recoding.md`
+  - `wiki/concepts/symbolic-reference.md`
+  - `wiki/concepts/symbolic-self.md`
+  - `wiki/concepts/symbolic-threshold.md`
+  - `wiki/concepts/synaptic-competition.md`
+  - `wiki/concepts/syntagmatic-paradigmatic-word-associations.md`
+  - `wiki/concepts/ventral-prefrontal-cortex.md`
+  - `wiki/concepts/vocal-learning-mammals.md`
+  - `wiki/topics/brain-language-co-evolution.md`
+  - `wiki/topics/human-brain-evolution.md`
+  - `wiki/topics/vocal-communication-systems.md`
+  - `wiki/sources/the-symbolic-species-deacon.md`
+  - `wiki/analyses/symbolic-generalization-animal-ordinality.md`
+- Files merged (extended):
+  - `wiki/entities/williams-syndrome.md`
+  - `wiki/concepts/brocas-area.md`
+  - `wiki/concepts/hox-genes.md`
+  - `wiki/concepts/prefrontal-cortex.md`
+  - `wiki/concepts/theory-of-mind.md`
+  - `wiki/concepts/wernickes-area.md`
+- Files deprecated: None.
+- Notes: 83 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
