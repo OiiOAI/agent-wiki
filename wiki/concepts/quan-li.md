@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲
   - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]'
 - '[raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p1-270]'
+- '[raw/books/sociology/社会学·下.pdf#p1-565]'
 confidence: high
 tags:
 - 权力类型
@@ -17,6 +18,10 @@ tags:
 - 评价维度
 - 权力理论
 - 政治社会学
+- 权力
+- 韦伯
+- 福柯
+- 卢克斯
 related:
   broader:
   - 重要性
@@ -57,11 +62,20 @@ aliases: []
 - 必须始终分清楚三种权力类型：权威（由自愿服从者的信仰证明为正当的权力）、强制（强制是最终的权力形式）和弄权（虽被行使但无权者一无所知的权力）. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p50]
 - 在现代世界，权力往往并不像中世纪那样显得有权威，统治者的正当性似乎不再那么必不可少. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p51]
 - 宏大理论假设在每个社会都理所当然地存在价值等级，这个假设系统地阻碍了我们把关于权力的重要问题表述清楚. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p52]
+- 马克斯·韦伯将权力定义为一个人或一些人在一个命令行动中贯彻他们自身意志的机会，即使遭遇参与行动的其他人的抵抗. [raw/books/sociology/社会学·下.pdf#p383]
+- 韦伯区分了权威的三种来源：传统型的、卡里斯马型的以及法理型的. [raw/books/sociology/社会学·下.pdf#p383]
+- 传统型权威是通过对长期确立的文化模式的敬重而得到合法化的权力. [raw/books/sociology/社会学·下.pdf#p383]
+- 卡里斯马型权威产生于追随者所感受到的对一个领袖的忠诚，相信领袖拥有超凡的品质. [raw/books/sociology/社会学·下.pdf#p383]
+- 法理型权威是被依法制定的规则和条例所合法化的权威，存在于现代组织和政府中. [raw/books/sociology/社会学·下.pdf#p383]
+- 福柯认为权力并不集中于某一个机构，也不是被特定的人群所掌握，而是运作在所有层面的社会互动中. [raw/books/sociology/社会学·下.pdf#p384]
+- 卢克斯提出权力的三维度：第一个维度关注在明显的冲突中按自己方式行事的能力，第二个维度关注做决定时参与者的行为，第三个维度是欲望的操纵. [raw/books/sociology/社会学·下.pdf#p385]
 
 ## Inferences
 
 - Inference: 权力虽然可以带来重要性，但作者指出权力也会腐败，可能在更大程度上减少持有者的实在
 - Inference: 宏大理论的规范性秩序思想导致我们假设几乎所有的权力都被合法化了，但实际上存在大量未经理性或服从者良知认可就被成功行使的权力
+- Inference: 福柯对权力的理解扩展了政治的概念，认为权力和知识是紧密交织在一起的
+- Inference: 卢克斯的激进观点认为通过控制人们的思想和欲望来保证顺从是权力的最高形式
 
 ## Uncertainties
 
@@ -85,13 +99,18 @@ aliases: []
 - Concepts: [[财富]]
 - Concepts: [[声名]]
 - Concepts: [[权威]]
+- Concepts: [[国家]]
+- Concepts: [[政治社会学]]
+- Topics: [[政治社会学]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]
 - Additional source: [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p1-270]
+- Additional source: [raw/books/sociology/社会学·下.pdf#p1-565]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `社会学的想象力-美-c-赖特-米尔斯`.
+- 2026-04-25 — merged contributions from `社会学-下`.
