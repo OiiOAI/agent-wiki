@@ -9555,3 +9555,22 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/loss-aversion.md`
 - Files deprecated: None.
 - Notes: 32 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | pdsa-history-16th-deming-research-seminar-feb-2010-moen-docx
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/PDSA_History._16th_Deming_Research_Seminar_Feb._2010.Moen.docx.pdf
+- Files created:
+  - `wiki/entities/ronald-moen.md`
+  - `wiki/entities/w-edwards-deming.md`
+  - `wiki/entities/walter-shewhart.md`
+  - `wiki/concepts/deming-wheel.md`
+  - `wiki/concepts/kaizen.md`
+  - `wiki/concepts/model-for-improvement.md`
+  - `wiki/concepts/pdca-cycle.md`
+  - `wiki/concepts/pdsa-cycle.md`
+  - `wiki/concepts/shewhart-cycle.md`
+  - `wiki/sources/foundation-and-history-of-the-pdsa-cycle.md`
+- Files merged (extended):
+  - `wiki/concepts/scientific-method.md`
+- Files deprecated: None.
+- Notes: 10 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
