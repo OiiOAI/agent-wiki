@@ -3747,3 +3747,90 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/sleep-dependent-memory-consolidation.md`
 - Files deprecated: None.
 - Notes: 8 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | a-theory-of-justice-original-edition-rawls-john
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf
+- Files created:
+  - `wiki/concepts/aristotelian-principle.md`
+  - `wiki/concepts/autonomy-and-objectivity.md`
+  - `wiki/concepts/average-utility-principle.md`
+  - `wiki/concepts/background-institutions-distributive-justice.md`
+  - `wiki/concepts/basis-of-equality.md`
+  - `wiki/concepts/chain-connection.md`
+  - `wiki/concepts/circumstances-of-justice.md`
+  - `wiki/concepts/civil-disobedience-rawls.md`
+  - `wiki/concepts/civil-disobedience.md`
+  - `wiki/concepts/classical-utilitarianism.md`
+  - `wiki/concepts/common-sense-precepts-of-justice.md`
+  - `wiki/concepts/congruence-of-right-and-good.md`
+  - `wiki/concepts/conscientious-refusal.md`
+  - `wiki/concepts/deliberative-rationality.md`
+  - `wiki/concepts/democratic-equality.md`
+  - `wiki/concepts/difference-principle.md`
+  - `wiki/concepts/dominant-end.md`
+  - `wiki/concepts/envy.md`
+  - `wiki/concepts/equal-liberty-of-conscience.md`
+  - `wiki/concepts/excellences-rawls.md`
+  - `wiki/concepts/excusable-general-envy.md`
+  - `wiki/concepts/fair-equality-of-opportunity.md`
+  - `wiki/concepts/formal-constraints.md`
+  - `wiki/concepts/formal-justice.md`
+  - `wiki/concepts/four-stage-sequence.md`
+  - `wiki/concepts/full-theory-of-the-good.md`
+  - `wiki/concepts/goodness-as-rationality.md`
+  - `wiki/concepts/hedonism-as-method-of-choice.md`
+  - `wiki/concepts/impartial-sympathetic-spectator.md`
+  - `wiki/concepts/intuitionism.md`
+  - `wiki/concepts/just-savings-principle.md`
+  - `wiki/concepts/justice-as-fairness.md`
+  - `wiki/concepts/justification-in-moral-theory.md`
+  - `wiki/concepts/kantian-interpretation-justice-as-fairness.md`
+  - `wiki/concepts/lexical-difference-principle.md`
+  - `wiki/concepts/majority-rule.md`
+  - `wiki/concepts/maximin-rule.md`
+  - `wiki/concepts/mixed-conceptions-of-justice.md`
+  - `wiki/concepts/moral-and-natural-attitudes.md`
+  - `wiki/concepts/moral-desert.md`
+  - `wiki/concepts/moral-sentiments.md`
+  - `wiki/concepts/moral-shame.md`
+  - `wiki/concepts/moral-worth.md`
+  - `wiki/concepts/morality-of-association.md`
+  - `wiki/concepts/morality-of-authority.md`
+  - `wiki/concepts/morality-of-principles.md`
+  - `wiki/concepts/natural-duties.md`
+  - `wiki/concepts/natural-duty.md`
+  - `wiki/concepts/original-position.md`
+  - `wiki/concepts/overlapping-consensus.md`
+  - `wiki/concepts/paternalism.md`
+  - `wiki/concepts/primary-social-goods.md`
+  - `wiki/concepts/principle-of-fairness.md`
+  - `wiki/concepts/principle-of-participation.md`
+  - `wiki/concepts/principle-of-perfection.md`
+  - `wiki/concepts/priority-of-liberty.md`
+  - `wiki/concepts/priority-problem.md`
+  - `wiki/concepts/psychological-stability-of-justice.md`
+  - `wiki/concepts/pure-procedural-justice.md`
+  - `wiki/concepts/rational-plan-of-life.md`
+  - `wiki/concepts/reflective-equilibrium.md`
+  - `wiki/concepts/rule-of-law.md`
+  - `wiki/concepts/self-respect-rawls.md`
+  - `wiki/concepts/self-respect.md`
+  - `wiki/concepts/social-union.md`
+  - `wiki/concepts/stability-rawls.md`
+  - `wiki/concepts/strains-of-commitment.md`
+  - `wiki/concepts/supererogatory-acts.md`
+  - `wiki/concepts/thin-theory-of-the-good.md`
+  - `wiki/concepts/three-psychological-laws.md`
+  - `wiki/concepts/time-preference.md`
+  - `wiki/concepts/toleration-of-the-intolerant.md`
+  - `wiki/concepts/two-principles-of-justice.md`
+  - `wiki/concepts/two-traditions-of-moral-learning.md`
+  - `wiki/concepts/unity-of-the-self.md`
+  - `wiki/concepts/veil-of-ignorance.md`
+  - `wiki/concepts/well-ordered-society.md`
+  - `wiki/sources/a-theory-of-justice-original-edition.md`
+- Files merged (extended):
+  - `wiki/entities/sigmund-freud.md`
+- Files deprecated: None.
+- Notes: 78 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

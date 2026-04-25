@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
+- '[raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p1-603]'
 confidence: medium
 tags:
 - scientist
@@ -18,6 +19,10 @@ tags:
 - neuroscience
 - memory
 - plasticity
+- freud
+- psychology
+- sense-of-justice
+- envy
 aliases: []
 canonical: true
 related:
@@ -31,6 +36,9 @@ related:
   - plasticity
   - synapse
   - dissociation
+  - envy
+  - sense-of-justice
+  - resentment
   entities:
   - eric-kandel
   - mr-l
@@ -54,12 +62,20 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 - Freud observed that memories can be altered by subsequent events and retranscribed, writing in 1896 that 'memory is present not once but several times over.'. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p230]
 - Freud discovered that patients projected transferences onto others unconsciously, and helping patients understand their transferences allowed them to improve their relationships. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p231]
 - Freud used the term 'mental plasticity' to describe people's capacity for change and observed that some people lose this plasticity prematurely while others retain it beyond the usual age limit. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p246]
+- Freud remarks that the sense of justice is the outgrowth of envy and jealousy, with the less favored moved by envy to take away advantages from the more favored. [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p476]
+- Rawls argues that Freud's account assumes an incorrect description of initial attitudes, confusing opposing interests with being moved by envy. [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p477]
+- Rawls distinguishes between envy and resentment, arguing that Freud conflates these and therefore wrongly traces the sense of justice to envy rather than to resentment at unfair treatment. [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p477]
+
+## Inferences
+
+- Inference: Rawls's critique implies that even if Freud's psychological observations were accurate, they would not establish that justice is founded on envy rather than on legitimate claims to fair treatment.
 
 ## Related pages
 
 - Broader: [[neurologists]]
 - Broader: [[psychoanalysts]]
 - Narrower: [[psychoanalysis]]
+- Adjacent: [[freuds-theory]]
 - Concepts: [[neuroscience]]
 - Concepts: [[neuroanatomy]]
 - Concepts: [[free-association]]
@@ -69,6 +85,9 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 - Concepts: [[plasticity]]
 - Concepts: [[synapse]]
 - Concepts: [[dissociation]]
+- Concepts: [[envy]]
+- Concepts: [[sense-of-justice]]
+- Concepts: [[resentment]]
 - Entities: [[eric-kandel]]
 - Entities: [[mr-l]]
 
@@ -76,8 +95,10 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 
 - Primary source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
+- Additional source: [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p1-603]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
+- 2026-04-25 — merged contributions from `a-theory-of-justice-original-edition-rawls-john`.
