@@ -6319,3 +6319,48 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/atomic-habits.md`
 - Files deprecated: None.
 - Notes: 5 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | building-a-second-brain-tiago-forte
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Building a Second Brain - Tiago Forte.pdf
+- Files created:
+  - `wiki/entities/amelia-course-participant.md`
+  - `wiki/entities/francis-ford-coppola.md`
+  - `wiki/entities/ken-burns.md`
+  - `wiki/entities/michael-polanyi.md`
+  - `wiki/entities/octavia-butler.md`
+  - `wiki/entities/picasso-bull.md`
+  - `wiki/entities/ryder-carroll.md`
+  - `wiki/entities/tiago-forte.md`
+  - `wiki/concepts/abundance-mindset.md`
+  - `wiki/concepts/archipelago-of-ideas.md`
+  - `wiki/concepts/capture.md`
+  - `wiki/concepts/cathedral-effect.md`
+  - `wiki/concepts/code-method.md`
+  - `wiki/concepts/commonplace-books.md`
+  - `wiki/concepts/consuming-to-creating-shift.md`
+  - `wiki/concepts/dial-down-the-scope.md`
+  - `wiki/concepts/discoverability.md`
+  - `wiki/concepts/distill.md`
+  - `wiki/concepts/divergence-and-convergence.md`
+  - `wiki/concepts/express.md`
+  - `wiki/concepts/hemingway-bridge.md`
+  - `wiki/concepts/intermediate-packets.md`
+  - `wiki/concepts/knowledge-building-blocks.md`
+  - `wiki/concepts/mise-en-place-knowledge-work.md`
+  - `wiki/concepts/obligation-to-service-shift.md`
+  - `wiki/concepts/organize.md`
+  - `wiki/concepts/para-method.md`
+  - `wiki/concepts/personal-knowledge-management.md`
+  - `wiki/concepts/polanyis-paradox.md`
+  - `wiki/concepts/progressive-summarization.md`
+  - `wiki/concepts/project-checklists.md`
+  - `wiki/concepts/retrieval-methods.md`
+  - `wiki/concepts/scarcity-mindset.md`
+  - `wiki/concepts/second-brain.md`
+  - `wiki/concepts/self-expression.md`
+  - `wiki/concepts/twelve-favorite-problems.md`
+  - `wiki/concepts/weekly-and-monthly-reviews.md`
+  - `wiki/sources/building-a-second-brain.md`
+- Files deprecated: None.
+- Notes: 38 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
