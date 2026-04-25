@@ -10,6 +10,8 @@ sources:
   Debra G_; Endsley, Mica R.pdf#p1-394]'
 - '[raw/books/strategy/Situation awareness _ analysis and measurement - edited by
   Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]'
+- '[raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein
+  .epub.pdf#p1-388]'
 confidence: high
 tags:
 - situation-awareness
@@ -19,6 +21,9 @@ tags:
 - human factors
 - cognitive processes
 - aviation
+- cognition
+- expertise
+- situational-awareness
 related:
   broader:
   - human-factors
@@ -58,6 +63,8 @@ related:
   - mental models
   - working memory
   - attention
+  - mental-simulation
+  - expertise
 aliases: []
 ---
 
@@ -112,6 +119,13 @@ Situation Awareness is identified in the book's table of contents as 'the Key to
 - The quality of decisions is contingent on an understanding of situation parameters and their relations, and the acquisition and application of accurate and timely information. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p316]
 - Aviation accidents often provide evidence of faulty decision-making processes resulting from inadequate situation assessment and awareness. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p316]
 - In two documented accidents (Air Illinois Flight 710, 1983 and GP Express Flight 861, 1992), flightcrews' inability to form accurate situation models led to loss of SA and subsequent crashes. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p318]
+- Experts have an overall sense of what is happening in a situation and can judge prototypicality, seeing the big picture. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
+- Experts appear less likely to fall victim to information overload compared to novices. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
+- The RPD model presents situation awareness as emerging from recognition of a situation, including relevant cues, plausible goals, actions to consider, and expectancies. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
+- Experts identify 'leverage points' as the central aspect of situation dynamics when explaining situations to others. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p191]
+- Experts perceive a situation as the patterns and relationships that grew out of the past and will grow into the future, not just the cues that exist at the moment. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p196]
+- The ability to decenter—seeing the world through others' eyes—is part of situation awareness; experienced tank platoon leaders considered cues not present, imagining how adversaries approached and what they were seeing. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p197]
+- Metaphors and analogues direct thinking by framing situation awareness, identifying appropriate goals, and flagging relevant pieces of information. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p262]
 
 ## Inferences
 
@@ -124,12 +138,14 @@ Situation Awareness is identified in the book's table of contents as 'the Key to
 - Inference: Situation awareness is central to pilot performance across three distinct domains, suggesting SA measurement must be tailored to each domain's specific metrics.
 - Inference: The four commonalities suggest that SA is a multi-faceted cognitive construct requiring multiple assessment approaches.
 - Inference: Since SA is critical to aviation safety and depends on controlled cognitive processes, over-reliance on automation during training may reduce operators' ability to maintain SA in posttraining situations.
+- Inference: Situation awareness enables experts to filter relevant information from noise, avoiding information overload that affects novices who lack the experiential framework to prioritize cues.
 
 ## Uncertainties
 
 - Uncertain: The specific definition of Situation Awareness and how it relates to User-Centered Design principles is not provided in this table of contents chunk.
 - Uncertain: The achievable ideal definition may need revision based on actual measurement results, suggesting it is not fully independent of performance data
 - Uncertain: The chunk does not provide specific objective measures for each of the three SA domains beyond the qualitative descriptions (geometry, Boolean logic, checklists/queues).
+- Uncertain: The chunk references Endsley and Garland (2000) for measurement perspectives on situation awareness but does not elaborate on their work.
 
 ## Related pages
 
@@ -168,6 +184,8 @@ Situation Awareness is identified in the book's table of contents as 'the Key to
 - Adjacent: [[mental models]]
 - Adjacent: [[working memory]]
 - Adjacent: [[attention]]
+- Adjacent: [[mental-simulation]]
+- Adjacent: [[expertise]]
 - Concepts: [[user-centered-design]]
 - Concepts: [[user-goals]]
 - Concepts: [[information-processing]]
@@ -194,12 +212,21 @@ Situation Awareness is identified in the book's table of contents as 'the Key to
 - Concepts: [[situation model]]
 - Concepts: [[mental model]]
 - Concepts: [[attention management strategies]]
+- Concepts: [[recognition-primed-decision-model]]
+- Concepts: [[negative-cues]]
+- Concepts: [[mental-models]]
+- Concepts: [[expectancy-violation]]
+- Concepts: [[perception]]
+- Concepts: [[anticipation]]
+- Concepts: [[pattern-recognition]]
 - Topics: [[human factors research]]
 - Topics: [[cognitive science]]
 - Topics: [[situation awareness measurement]]
 - Topics: [[post-hoc-assessment-of-sa-in-atc]]
 - Topics: [[human-centered training]]
 - Topics: [[aviation human factors]]
+- Topics: [[expertise]]
+- Topics: [[decision-making]]
 - Entities: [[Mica R. Endsley]]
 - Entities: [[Debra G. Jones]]
 - Entities: [[endsley]]
@@ -210,8 +237,10 @@ Situation Awareness is identified in the book's table of contents as 'the Key to
 
 - Primary source: [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p1-394]
 - Additional source: [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]
+- Additional source: [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p1-388]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `situation-awareness-analysis-and-measurement-edited-by-mica-`.
+- 2026-04-25 — merged contributions from `sources-of-power-how-people-make-decisions-by-gary-a-klein-e`.

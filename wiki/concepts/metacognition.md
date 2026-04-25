@@ -12,6 +12,8 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_
   Mitchell.pdf#p1-354]'
+- '[raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein
+  .epub.pdf#p1-388]'
 confidence: high
 tags:
 - metacognition
@@ -25,6 +27,7 @@ tags:
 - neuroscience
 - consciousness
 - self-awareness
+- expertise
 related:
   broader:
   - consciousness
@@ -38,6 +41,8 @@ related:
   - prefrontal cortex
   - executive function
   - introspection
+  - expertise
+  - situation-awareness
 aliases: []
 ---
 
@@ -58,6 +63,9 @@ Metacognition—the capacity to entertain thoughts about one's own thoughts—is
 - Metacognition gives humans an extra level of self-regulatory control—the faculty to think about and adjust our own motivations. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p252]
 - With higher-order models, humans can realize they made a choice for the wrong reasons and should think something else next time, learning what to pay attention to and what are the most relevant factors. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p257]
 - Being able to inspect our own reasons, tagged with meta-information on certainty, we can better judge how to update our models after some action. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p257]
+- Four components of metacognition are most important: memory limitations, having the big picture, self-critiques, and strategy selection. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p198]
+- Experts are sensitive to their own memory limitations, including working memory for holding something like a telephone number and long-term memory for anticipating where they hid a birthday present. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p198]
+- Since expert performance is less variable than novice performance, experts can more easily notice when they do a poor job and usually figure out why to make corrections. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p198]
 
 ## Inferences
 
@@ -81,6 +89,8 @@ Metacognition—the capacity to entertain thoughts about one's own thoughts—is
 - Adjacent: [[prefrontal cortex]]
 - Adjacent: [[executive function]]
 - Adjacent: [[introspection]]
+- Adjacent: [[expertise]]
+- Adjacent: [[situation-awareness]]
 - Concepts: [[consciousness]]
 - Concepts: [[self-consciousness]]
 - Concepts: [[global-neuronal-workspace]]
@@ -90,6 +100,8 @@ Metacognition—the capacity to entertain thoughts about one's own thoughts—is
 - Concepts: [[agency]]
 - Concepts: [[free will]]
 - Concepts: [[conscious control]]
+- Concepts: [[expertise]]
+- Concepts: [[cognitive-limitations]]
 - Topics: [[disorders of conscious and unconscious mental processes]]
 - Entities: [[natua]]
 
@@ -98,9 +110,11 @@ Metacognition—the capacity to entertain thoughts about one's own thoughts—is
 - Primary source: [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p1-411]
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
+- Additional source: [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p1-388]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
 - 2026-04-25 — merged contributions from `free-agents-how-evolution-gave-us-free-will-kevin-j-mitchell`.
+- 2026-04-25 — merged contributions from `sources-of-power-how-people-make-decisions-by-gary-a-klein-e`.

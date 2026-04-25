@@ -4,10 +4,12 @@ title: Critical Decision Method
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Situation awareness _ analysis and measurement - edited by
   Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]'
+- '[raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein
+  .epub.pdf#p1-388]'
 confidence: high
 tags:
 - cognitive task analysis
@@ -15,16 +17,19 @@ tags:
 - interviews
 - expertise
 - decision making
+- knowledge-elicitation
+- interviewing
 related:
   broader:
   - cognitive-task-analysis
-  narrower: []
   adjacent:
   - process-tracing
   - situation-awareness-klein
   - recognition-primed-decision-model
+  - cognitive-task-analysis
+  - knowledge-elicitation
+aliases: []
 ---
-
 
 # Critical Decision Method
 
@@ -41,6 +46,9 @@ The Critical Decision Method (CDM) is a cognitive task analysis technique develo
 - CDM studies of AEGIS naval commanders found virtually every incident included key variables that were context-specific and typically not included in simulations, such as judgments of other officers' competence. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p77]
 - CDM applied to NICU nurses identified cues for detecting sepsis in newborns that had not previously been published in medical or nursing literature. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p79]
 - CDM avoids problems with introspection by not asking why judgments were made; instead, it emphasizes cues and patterns that were noticed without requiring introspection about inferential processes. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p83]
+- The Critical Decision Method focuses attention on key judgments and decisions made during the incident being described. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p235]
+- In probing thought processes, interviewers ask what a person noticed when changing an assessment, what alternate goals might have existed, what other actions were possible, and hypotheticals about what would have happened if information had not arrived. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p236]
+- Asking novices where someone might have made a mistake helps uncover what experts notice that novices do not. [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p236]
 
 ## Inferences
 
@@ -53,16 +61,23 @@ The Critical Decision Method (CDM) is a cognitive task analysis technique develo
 - Adjacent: [[process-tracing]]
 - Adjacent: [[situation-awareness-klein]]
 - Adjacent: [[recognition-primed-decision-model]]
+- Adjacent: [[cognitive-task-analysis]]
+- Adjacent: [[knowledge-elicitation]]
 - Concepts: [[cognitive task analysis]]
 - Concepts: [[situation awareness]]
 - Concepts: [[expertise elicitation]]
 - Concepts: [[retrospective accounts]]
+- Concepts: [[knowledge-elicitation]]
+- Concepts: [[storytelling]]
+- Concepts: [[expertise-capture]]
 - Entities: [[klein-gary]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]
+- Additional source: [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p1-388]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `sources-of-power-how-people-make-decisions-by-gary-a-klein-e`.

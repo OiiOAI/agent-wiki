@@ -9958,3 +9958,50 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/situation-awareness.md`
 - Files deprecated: None.
 - Notes: 100 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | sources-of-power-how-people-make-decisions-by-gary-a-klein-e
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf
+- Files created:
+  - `wiki/entities/klein-associates.md`
+  - `wiki/entities/will-rogers-iii.md`
+  - `wiki/concepts/advanced-team-decision-making-model.md`
+  - `wiki/concepts/analogical-reasoning.md`
+  - `wiki/concepts/commander-s-intent.md`
+  - `wiki/concepts/comparative-evaluation.md`
+  - `wiki/concepts/counterfactual-thinking.md`
+  - `wiki/concepts/crisis-management-teams.md`
+  - `wiki/concepts/decision-scenarios.md`
+  - `wiki/concepts/expectancy-violation.md`
+  - `wiki/concepts/expertise-sources-of-power.md`
+  - `wiki/concepts/fine-discrimination.md`
+  - `wiki/concepts/flight-management-system.md`
+  - `wiki/concepts/hyperrationality.md`
+  - `wiki/concepts/intuition-expertise.md`
+  - `wiki/concepts/knowledge-engineering.md`
+  - `wiki/concepts/leverage-points.md`
+  - `wiki/concepts/mental-models-of-experts.md`
+  - `wiki/concepts/mental-simulation.md`
+  - `wiki/concepts/naturalistic-decision-making.md`
+  - `wiki/concepts/negative-cues.md`
+  - `wiki/concepts/premortem-strategy.md`
+  - `wiki/concepts/problem-solving-nonlinear.md`
+  - `wiki/concepts/recognition-primed-decision.md`
+  - `wiki/concepts/satisficing.md`
+  - `wiki/concepts/singular-evaluation.md`
+  - `wiki/concepts/team-mind.md`
+  - `wiki/concepts/time-horizon.md`
+  - `wiki/concepts/wildland-firefighters.md`
+  - `wiki/topics/vincennes-shootdown.md`
+  - `wiki/sources/sources-of-power-gary-klein.md`
+- Files merged (extended):
+  - `wiki/entities/gary-klein.md`
+  - `wiki/concepts/cognitive-task-analysis.md`
+  - `wiki/concepts/commanders-intent.md`
+  - `wiki/concepts/critical-decision-method.md`
+  - `wiki/concepts/metacognition.md`
+  - `wiki/concepts/recognition-primed-decision-model.md`
+  - `wiki/concepts/situation-awareness.md`
+  - `wiki/concepts/sources-of-power.md`
+- Files deprecated: None.
+- Notes: 31 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
