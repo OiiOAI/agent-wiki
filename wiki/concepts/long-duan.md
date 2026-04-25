@@ -1,0 +1,66 @@
+---
+id: long-duan
+title: 垄断
+type: concept
+status: draft
+created: '2026-04-25'
+updated: '2026-04-25'
+sources:
+- '[raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p1-709]'
+confidence: high
+tags:
+- 微观经济学
+- 市场结构
+- 价格决定
+related:
+  broader:
+  - shi-chang-jie-gou
+  narrower:
+  - zi-ran-long-duan
+  - jia-ge-qi-shi
+  - ka-te-er
+  adjacent: []
+---
+
+
+# 垄断
+
+## Summary
+
+垄断是一种市场结构，其特征是市场仅有单一供应商，且新供应商进入市场的道路完全受阻。垄断厂商是价格决定者，其产量选择会影响市场价格。垄断均衡下产量低于完全竞争水平，价格高于边际成本，产生无谓损失。
+
+## Key facts
+
+- 垄断市场的四个关键假设：(1) 卖者是价格决定者，厂商面对下滑的需求曲线；(2) 卖者无策略性行为；(3) 进入市场完全受阻；(4) 买者为价格接受者. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p461]
+- 垄断厂商面对的市场需求曲线即其厂商具体需求曲线，因为他是唯一的供应者. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p463]
+- 垄断者增加一单位产量产生两种效应：收益增加额等于新单位价格乘以新销量，收入减少额等于原价购买量的价格下跌损失. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p464]
+- 垄断者的边际收益曲线处处位于需求曲线下方（除零产量点外），因为边际收益 = P + X·(dP/dX)，且dP/dX < 0. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p465]
+- 垄断厂商遵循两条利润最大化规则：边际产出规则（MR=MC）和停止规则（若AR < AC则停产）. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p463]
+- 在垄断均衡点，价格高于边际成本，因为垄断者在MR=MC处生产，而MR < P. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p467]
+- 垄断者不会无限制地索取最高价格，因为提高价格会减少销量，导致内缘产量损失. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p469]
+- 需求价格弹性越小，垄断均衡价格与边际成本之间的缺口越大. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p469]
+- 利润最大化垄断者不会在需求无弹性的产量区间生产，因为提价会增加利润. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p469]
+
+## Inferences
+
+- Inference: 垄断者面对相同行业需求曲线时会比完全竞争者生产更少的产量，因为多头垄断者知道它卖得越多，必须降低油价
+- Inference: 垄断厂商在长期内可以持续获取正的经济利润，因为进入市场的道路被封锁，不会有新厂商进入吞噬利润
+
+## Related pages
+
+- Broader: [[shi-chang-jie-gou]]
+- Narrower: [[zi-ran-long-duan]]
+- Narrower: [[jia-ge-qi-shi]]
+- Narrower: [[ka-te-er]]
+- Concepts: [[jia-ge-jue-ding-zhe]]
+- Concepts: [[shi-chang-shi-li]]
+- Concepts: [[wu-wu-sun-shi]]
+- Topics: [[jing-zheng-fen-xi]]
+
+## Provenance
+
+- Primary source: [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p1-709]
+
+## Change notes
+
+- 2026-04-25 — page created by auto ingest.
