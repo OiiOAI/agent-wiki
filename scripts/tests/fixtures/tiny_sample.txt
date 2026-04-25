@@ -1,0 +1,129 @@
+The Zelnick Framework: A Short Tutorial
+
+By Dr. Margaret Zelnick, Institute for Synthetic Systems, 2019.
+
+This short tutorial summarizes the three core components of the Zelnick
+Framework, a formal approach to coordinating distributed decisions in
+heterogeneous agent populations. The framework consists of three parts:
+Alpha Protocol, Beta Mechanism, and Gamma Invariant. Readers are assumed
+to be familiar with basic game theory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 1: Introduction
+
+The Zelnick Framework was first described in 2017 by Dr. Margaret Zelnick
+at the Institute for Synthetic Systems. It was motivated by observations
+that classical coordination theorems fail whenever the agents involved
+have unbounded local memory and the observation window between them is
+shorter than one decision cycle. Zelnick proposed three independent
+components that together address the failure mode.
+
+Alpha Protocol is the first component. Alpha Protocol is a message
+scheduling rule in which every participating agent broadcasts its local
+state at the start of each round and withholds all further messages until
+it has received and acknowledged the states of its neighbors. The core
+claim associated with Alpha Protocol is that it eliminates cascading
+retransmissions in populations smaller than one thousand agents. Zelnick
+demonstrated this via simulation with populations of 50, 250, and 900
+agents. The protocol breaks down when populations exceed ten thousand
+because the acknowledgement traffic grows quadratically.
+
+Beta Mechanism is the second component. Beta Mechanism is a tie-breaking
+rule invoked whenever two agents report incompatible local states at the
+same logical timestamp. The rule is: the agent with the lower numeric
+identifier wins the tie, and the loser must re-request the current state
+from a third neighbor chosen uniformly at random. Zelnick showed that Beta
+Mechanism reduces convergence time by approximately thirty percent
+compared to the standard Byzantine-style consensus used as a baseline.
+
+Together, Alpha Protocol and Beta Mechanism form what Zelnick calls the
+message layer of the framework. The message layer handles the
+communication substrate but does not itself guarantee any property about
+the contents of the messages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 2: The Gamma Invariant
+
+Chapter 2 turns to the content layer. The Gamma Invariant is a property
+that any well-formed distributed decision must satisfy under the Zelnick
+Framework. Specifically, the Gamma Invariant states that the set of
+decisions produced by any two agents sharing at least one neighbor must
+have symmetric difference bounded above by the log of the population
+size. That is, two agents with overlapping neighborhoods cannot diverge
+arbitrarily far in their decisions.
+
+Zelnick proved that the Gamma Invariant holds whenever Alpha Protocol
+and Beta Mechanism are both in force and the decision procedure itself
+is deterministic. When either of the message-layer components is
+disabled, the Gamma Invariant fails in general. This result was
+demonstrated in a 2019 paper. Zelnick reported that the proof relies on
+an unconventional application of the hyper-symmetric closure operator
+from algebraic topology, which, while standard in that subfield, is
+unusual in distributed-systems literature.
+
+The boundary of the Gamma Invariant is important. It does not hold for
+non-deterministic decision procedures, and it does not hold when agents
+can refuse to answer. Dr. Margaret Zelnick acknowledges that the
+framework as stated is limited to fully-responsive deterministic agents,
+and she lists extensions to partially-responsive settings as an open
+question.
+
+Readers who want the full derivation should consult the 2019 monograph
+from the Institute for Synthetic Systems, which runs to approximately
+two hundred pages and covers generalizations that are out of scope for
+this tutorial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix A: Notation
+
+This appendix lists notation used in the tutorial. Agents are denoted by
+lowercase Greek letters; messages by lowercase Latin letters; timestamps
+by lowercase integers. A full glossary is available in the 2019
+monograph.

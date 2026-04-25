@@ -21,3 +21,7 @@ wiki/.cache/
 
 # 大体积原始资料（~2.0G，跨机同步靠外部手段；manifest 仍是台账）
 raw/books/
+
+# Ingest pipeline 凭据与中间产物
+.env
+tmp/
