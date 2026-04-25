@@ -3426,3 +3426,42 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/wernickes-area.md`
 - Files deprecated: None.
 - Notes: 83 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-astonishing-hypothesis-the-scientific-search-for-the-cri
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The astonishing hypothesis _ the scientific search for the - Crick, Francis.pdf
+- Files created:
+  - `wiki/entities/achromatopsia.md`
+  - `wiki/entities/george-ojemann.md`
+  - `wiki/entities/nmda-channel.md`
+  - `wiki/entities/patricia-goldman-rakic.md`
+  - `wiki/entities/wolf-singer.md`
+  - `wiki/concepts/40-hertz-oscillations.md`
+  - `wiki/concepts/antons-syndrome.md`
+  - `wiki/concepts/backpropagation.md`
+  - `wiki/concepts/claustrum.md`
+  - `wiki/concepts/correlated-firing.md`
+  - `wiki/concepts/feature-detector.md`
+  - `wiki/concepts/free-will-crick-theory.md`
+  - `wiki/concepts/nettalk.md`
+  - `wiki/concepts/neural-networks.md`
+  - `wiki/concepts/processing-postulate.md`
+  - `wiki/concepts/reverberatory-circuits.md`
+  - `wiki/concepts/split-brain.md`
+  - `wiki/concepts/visual-awareness.md`
+  - `wiki/concepts/winner-take-all.md`
+  - `wiki/concepts/working-memory-visual-spatial.md`
+  - `wiki/sources/the-astonishing-hypothesis.md`
+- Files merged (extended):
+  - `wiki/entities/antonio-damasio.md`
+  - `wiki/entities/brocas-area.md`
+  - `wiki/entities/v-s-ramachandran.md`
+  - `wiki/entities/wernickes-area.md`
+  - `wiki/concepts/binding-problem.md`
+  - `wiki/concepts/binocular-rivalry.md`
+  - `wiki/concepts/blindsight.md`
+  - `wiki/concepts/hebbian-learning.md`
+  - `wiki/concepts/hemineglect.md`
+  - `wiki/concepts/prosopagnosia.md`
+- Files deprecated: None.
+- Notes: 21 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

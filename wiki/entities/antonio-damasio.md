@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/neuroscience/The astonishing hypothesis _ the scientific search for
+  the - Crick, Francis.pdf#p1-335]'
 canonical: Antonio Damasio
 confidence: medium
 aliases:
@@ -23,6 +25,9 @@ tags:
 - body
 - decision-making
 - author
+- neurologist
+- consciousness
+- free will
 related:
   concepts:
   - somatic-marker-hypothesis
@@ -33,6 +38,8 @@ related:
   entities:
   - somatic-marker-hypothesis
   - ventromedial-prefrontal-cortex
+  - free-will-crick-theory
+  - anterior-cingulate
 ---
 
 # Antonio Damasio
@@ -49,13 +56,18 @@ Antonio Damasio is a neuroscientist who developed the somatic marker hypothesis,
 - Damasio's research identified that patients with ventromedial prefrontal damage maintain preserved intellect but exhibit defective emotional behavior and decision making. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p209]
 - Damasio proposed that biological value is tied to homeostasis and survival, with the physiological state of tissues within a homeostatic range constituting the deepest origin of biological value. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p212]
 - Damasio's somatic marker hypothesis distinguishes between emotion (an action program) and feeling (the conscious, cognitive sequel to the action program). [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p211]
+- Antonio Damasio and colleagues described a woman with damage to the anterior cingulate sulcus who appeared unresponsive with an 'empty' mind, leading Crick to conclude she had lost her Will. [raw/books/neuroscience/The astonishing hypothesis _ the scientific search for the - Crick, Francis.pdf#p282]
+- Damasio also worked on prosopagnosia and facial recognition, and on 'convergence zones' that appear to be located not only in many cortical areas but also in most brain regions associated with the cortex. [raw/books/neuroscience/The astonishing hypothesis _ the scientific search for the - Crick, Francis.pdf#p290]
 
 ## Related pages
 
 - Broader: [[neuroscientists]]
+- Broader: [[neurologists]]
 - Narrower: [[somatic-marker-hypothesis]]
 - Adjacent: [[joseph-ledoux]]
 - Adjacent: [[cornelius-weber]]
+- Adjacent: [[free-will]]
+- Adjacent: [[anterior-cingulate]]
 - Concepts: [[somatic-marker-hypothesis]]
 - Concepts: [[feeling]]
 - Concepts: [[emotion]]
@@ -63,13 +75,17 @@ Antonio Damasio is a neuroscientist who developed the somatic marker hypothesis,
 - Concepts: [[insula]]
 - Entities: [[somatic-marker-hypothesis]]
 - Entities: [[ventromedial-prefrontal-cortex]]
+- Entities: [[free-will-crick-theory]]
+- Entities: [[anterior-cingulate]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/neuroscience/The astonishing hypothesis _ the scientific search for the - Crick, Francis.pdf#p1-335]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `the-astonishing-hypothesis-the-scientific-search-for-the-cri`.
