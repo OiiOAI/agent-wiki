@@ -10832,3 +10832,39 @@ This file is the append-only operational history of the wiki.
   - `wiki/analyses/qi-pian-hang-wei-dui-gdp-de-ying-xiang.md`
 - Files deprecated: None.
 - Notes: 38 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代经济学系列丛书-宏观经济学-非瓦尔拉斯分析方法导论-法-让-帕斯卡尔-贝纳西-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[当代经济学系列丛书]宏观经济学：非瓦尔拉斯分析方法导论·[法]让 - 帕斯卡尔·贝纳西 著.pdf
+- Files created:
+  - `wiki/entities/bei-na-xi.md`
+  - `wiki/entities/rang-pa-si-qa-er-bei-na-xi.md`
+  - `wiki/concepts/cheng-ben-xing-tong-huo-peng-zhang.md`
+  - `wiki/concepts/duan-bian-gui-ze.md`
+  - `wiki/concepts/fei-li-pu-si-qu-xian.md`
+  - `wiki/concepts/fei-wa-er-la-si-jun-heng.md`
+  - `wiki/concepts/gong-zi-zhi-shu-hua.md`
+  - `wiki/concepts/gu-dian-xing-shi-ye.md`
+  - `wiki/concepts/gu-ding-jia-ge-jun-heng.md`
+  - `wiki/concepts/guo-ji-shou-zhi-san-chong-chuan-tong-fang-fa.md`
+  - `wiki/concepts/is-lm-fei-wa-la-si-si-mo-xing.md`
+  - `wiki/concepts/is-lm-mo-xing.md`
+  - `wiki/concepts/jia-ge-shu-liang-hun-he-tiao-jie.md`
+  - `wiki/concepts/kai-en-si-xing-shi-ye.md`
+  - `wiki/concepts/ke-cha-jue-yue-shu.md`
+  - `wiki/concepts/liang-guo-mo-xing.md`
+  - `wiki/concepts/ma-xie-er-lei-na-tiao-jian.md`
+  - `wiki/concepts/pei-e-fang-an-de-ke-cao-zong-xing.md`
+  - `wiki/concepts/pei-e-fang-an.md`
+  - `wiki/concepts/shi-chang-xiao-lu.md`
+  - `wiki/concepts/shu-liang-xin-hao.md`
+  - `wiki/concepts/wa-er-la-si-jun-heng.md`
+  - `wiki/concepts/wan-quan-yu-zhi.md`
+  - `wiki/concepts/xu-qiu-xing-tong-huo-peng-zhang.md`
+  - `wiki/concepts/yi-chu-xiao-ying.md`
+  - `wiki/concepts/you-xiao-xu-qiu-han-shu.md`
+  - `wiki/concepts/you-xiao-xu-qiu-yu-you-xiao-gong-gei.md`
+  - `wiki/concepts/yu-qi-zai-jing-ji-zhong-de-zuo-yong.md`
+  - `wiki/sources/dang-dai-jing-ji-xue-hong-guan-jing-ji-xue-fei-wa-er-la-si-fen-xi-fang-fa-dao-lun.md`
+- Files deprecated: None.
+- Notes: 29 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
