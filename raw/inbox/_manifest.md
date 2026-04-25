@@ -15,7 +15,7 @@ Track files copied into raw/inbox with original path, reason for inclusion, and 
 
 ## books/ (批次 2026-04-21)
 
-- Source: `/Users/moondy/Desktop/Anti-OS/raw/` 全部 PDF/EPUB（旧 Anti-OS 知识库的原始资料层）；旧库 **保持原位、完全不动**。
+- Source: 旧知识库（约 2.2G）的 `raw/` 目录全部 PDF/EPUB；旧库 **保持原位、完全不动**。
 - Copied: 196 unique files（含跨目录去重 6 份）到 `raw/books/<discipline>/`
 - Excluded: `.env` / `.obsidian/` / `.DS_Store` / `tmp/` / `__pycache__/` / 旧 wiki/ / 旧 schema/ / 旧 scripts/ / 旧 tasks/ / 旧 docs/ —— 仅保留**原始资料**，旧的 Anti-OS 加工层（wiki/schema 等）一律不迁入。
 - Classification（9 个学科，浅分类，非 Anti-OS 原分类）:
