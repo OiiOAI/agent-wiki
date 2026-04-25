@@ -586,3 +586,18 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/sarcopenia.md`
 - Files deprecated: None.
 - Notes: 38 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | sleep-the-myth-of-8-hours-the-power-of-n-nick-littlehales-li
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/health/Sleep_ The Myth of 8 Hours, the Power of N - Nick Littlehales [Littlehales, Nick].pdf
+- Files created:
+  - `wiki/entities/nick-littlehales.md`
+  - `wiki/concepts/chronotype.md`
+  - `wiki/concepts/circadian-rhythms.md`
+  - `wiki/concepts/controlled-recovery-period.md`
+  - `wiki/concepts/pre-post-sleep-routines.md`
+  - `wiki/concepts/r90-sleep-cycles.md`
+  - `wiki/concepts/sleep-kit-body-profiles.md`
+  - `wiki/sources/sleep-the-myth-of-8-hours-nick-littlehales.md`
+- Files deprecated: None.
+- Notes: 8 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
