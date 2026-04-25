@@ -5834,3 +5834,52 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/wang-bi.md`
 - Files deprecated: None.
 - Notes: 17 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 穷通宝鉴-owner
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/穷通宝鉴 - Owner.pdf
+- Files created:
+  - `wiki/entities/chong-zhen-di.md`
+  - `wiki/entities/ci-xi-tai-hou.md`
+  - `wiki/entities/duan-qi-rui.md`
+  - `wiki/entities/feng-guo-zhang.md`
+  - `wiki/entities/li-hong-zhang.md`
+  - `wiki/entities/wei-qian-li.md`
+  - `wiki/entities/xu-le-wu.md`
+  - `wiki/entities/yan-xi-shan.md`
+  - `wiki/entities/zeng-guo-fan.md`
+  - `wiki/entities/zuo-zong-tang.md`
+  - `wiki/concepts/bing-gui-qu-gui.md`
+  - `wiki/concepts/cong-cai-ge.md`
+  - `wiki/concepts/cong-sha-ge.md`
+  - `wiki/concepts/geng-ding-qu-gui.md`
+  - `wiki/concepts/gou-chen-de-wei.md`
+  - `wiki/concepts/gui-shui-shi-er-yue.md`
+  - `wiki/concepts/gui-shui-shi-yi-yue.md`
+  - `wiki/concepts/gui-shui-wu-yue.md`
+  - `wiki/concepts/gui-shui-zheng-yue.md`
+  - `wiki/concepts/jia-mu-si-ji-qu-yong.md`
+  - `wiki/concepts/jin-shen-ru-huo-xiang.md`
+  - `wiki/concepts/jing-lan-yi-ge.md`
+  - `wiki/concepts/qu-zhi-ren-shou-ge.md`
+  - `wiki/concepts/qun-jin-sheng-xia-miao-yong-yuan-wu.md`
+  - `wiki/concepts/ren-shui-shi-er-yue.md`
+  - `wiki/concepts/ren-shui-shi-yi-yue.md`
+  - `wiki/concepts/ren-shui-shi-yue.md`
+  - `wiki/concepts/sha-yin-xiang-sheng.md`
+  - `wiki/concepts/tai-yuan.md`
+  - `wiki/concepts/tiao-hou-wei-ji.md`
+  - `wiki/concepts/tu-run-jin-sheng.md`
+  - `wiki/concepts/wu-xing-zong-lun.md`
+  - `wiki/concepts/yan-shang-ge.md`
+  - `wiki/concepts/yang-ren-jia-sha.md`
+  - `wiki/concepts/yong-shen.md`
+  - `wiki/topics/dong-yue-yi-mu.md`
+  - `wiki/topics/san-chun-bing-huo-zong-lun.md`
+  - `wiki/topics/san-chun-yi-mu-zong-lun.md`
+  - `wiki/topics/san-qiu-yi-mu-zong-lun.md`
+  - `wiki/topics/san-xia-bing-huo-zong-lun.md`
+  - `wiki/topics/san-xia-yi-mu-zong-lun.md`
+  - `wiki/sources/qiong-tong-bao-jian.md`
+- Files deprecated: None.
+- Notes: 42 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
