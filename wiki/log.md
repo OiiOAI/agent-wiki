@@ -2959,3 +2959,59 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/working-memory.md`
 - Files deprecated: None.
 - Notes: 31 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-ecological-approach-to-visual-perception-classic-james-j
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Ecological Approach to Visual Perception_ Classic - James J_ Gibson.pdf
+- Files created:
+  - `wiki/entities/james-j-gibson.md`
+  - `wiki/entities/william-m-mace.md`
+  - `wiki/concepts/affordances.md`
+  - `wiki/concepts/ambient-optic-array.md`
+  - `wiki/concepts/compensatory-eye-movement.md`
+  - `wiki/concepts/deletion-and-accretion.md`
+  - `wiki/concepts/direct-perception.md`
+  - `wiki/concepts/direct-realism.md`
+  - `wiki/concepts/ecological-events.md`
+  - `wiki/concepts/ecological-laws-of-surfaces.md`
+  - `wiki/concepts/ecological-optics.md`
+  - `wiki/concepts/ecological-psychology.md`
+  - `wiki/concepts/egoreception.md`
+  - `wiki/concepts/eye-head-system.md`
+  - `wiki/concepts/field-of-view.md`
+  - `wiki/concepts/information-pickup-theory.md`
+  - `wiki/concepts/information-pickup.md`
+  - `wiki/concepts/invariant-structure.md`
+  - `wiki/concepts/invariants.md`
+  - `wiki/concepts/kinetic-depth-effect.md`
+  - `wiki/concepts/little-man-in-the-brain.md`
+  - `wiki/concepts/looming.md`
+  - `wiki/concepts/medium-substances-surfaces.md`
+  - `wiki/concepts/natural-perspective.md`
+  - `wiki/concepts/natural-vision.md`
+  - `wiki/concepts/nonperceptual-awareness.md`
+  - `wiki/concepts/occluding-edge.md`
+  - `wiki/concepts/occluding-edges.md`
+  - `wiki/concepts/optical-disturbances.md`
+  - `wiki/concepts/optical-flow.md`
+  - `wiki/concepts/perspective-structure.md`
+  - `wiki/concepts/picture-as-array.md`
+  - `wiki/concepts/place-learning.md`
+  - `wiki/concepts/present-past-experience-dichotomy.md`
+  - `wiki/concepts/progressive-picture.md`
+  - `wiki/concepts/reversible-occlusion.md`
+  - `wiki/concepts/stimulation-versus-information.md`
+  - `wiki/concepts/stimulus-information.md`
+  - `wiki/concepts/surface-layout-perception.md`
+  - `wiki/concepts/surface-layout.md`
+  - `wiki/concepts/tests-for-reality.md`
+  - `wiki/concepts/theory-of-drawing.md`
+  - `wiki/concepts/vista.md`
+  - `wiki/concepts/visual-cliff.md`
+  - `wiki/concepts/visual-ego.md`
+  - `wiki/concepts/visual-kinesthesis.md`
+  - `wiki/sources/the-ecological-approach-to-visual-perception.md`
+- Files merged (extended):
+  - `wiki/concepts/affordance.md`
+- Files deprecated: None.
+- Notes: 47 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
