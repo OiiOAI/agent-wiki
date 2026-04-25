@@ -6798,3 +6798,48 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/willpower.md`
 - Files deprecated: None.
 - Notes: 14 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | tiny-habits-the-small-changes-that-change-everything-bj-fogg
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Tiny Habits_ The Small Changes that Change Everything - BJ Fogg.pdf
+- Files created:
+  - `wiki/entities/amy-and-rachel.md`
+  - `wiki/entities/amy-tiny-habits-case-study.md`
+  - `wiki/entities/doug-abrams.md`
+  - `wiki/entities/hospital-nurse-resilience.md`
+  - `wiki/entities/juni-radio-host.md`
+  - `wiki/entities/lauren-hamlin.md`
+  - `wiki/entities/mike-and-chris.md`
+  - `wiki/entities/sukumar-pushup-king.md`
+  - `wiki/concepts/ability-factors.md`
+  - `wiki/concepts/anchor-tiny-habits.md`
+  - `wiki/concepts/behavior-change-masterplan.md`
+  - `wiki/concepts/behavior-design.md`
+  - `wiki/concepts/celebration-tiny-habits.md`
+  - `wiki/concepts/changing-together.md`
+  - `wiki/concepts/focus-mapping.md`
+  - `wiki/concepts/fogg-behavior-model.md`
+  - `wiki/concepts/fogg-maxim-2.md`
+  - `wiki/concepts/fogg-maxims.md`
+  - `wiki/concepts/golden-behaviors.md`
+  - `wiki/concepts/identity-shift.md`
+  - `wiki/concepts/maui-habit.md`
+  - `wiki/concepts/meanwhile-habit.md`
+  - `wiki/concepts/motivation-monkey.md`
+  - `wiki/concepts/motivation-wave.md`
+  - `wiki/concepts/pearl-habit.md`
+  - `wiki/concepts/prompts-tiny-habits.md`
+  - `wiki/concepts/shine-celebration.md`
+  - `wiki/concepts/shine.md`
+  - `wiki/concepts/skills-of-change.md`
+  - `wiki/concepts/success-momentum.md`
+  - `wiki/concepts/superfridge.md`
+  - `wiki/concepts/swarm-of-behaviors.md`
+  - `wiki/concepts/tiny-habits-method.md`
+  - `wiki/concepts/tiny-habits-recipe.md`
+  - `wiki/topics/tiny-habits.md`
+  - `wiki/sources/tiny-habits-the-small-changes-that-change-everything.md`
+- Files merged (extended):
+  - `wiki/entities/bj-fogg.md`
+- Files deprecated: None.
+- Notes: 36 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
