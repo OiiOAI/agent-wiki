@@ -14,6 +14,7 @@ sources:
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]'
 confidence: high
 tags:
 - neuroscience
@@ -28,6 +29,7 @@ tags:
 - false belief
 - theory-of-mind
 - autism
+- self-awareness
 related:
   broader:
   - autism-spectrum-disorder
@@ -79,6 +81,10 @@ Theory of mind refers to the ability to understand that other people have mental
 - The Sally-Anne test demonstrated that young autistic children cannot predict where a puppet will first look for an object that was moved while the puppet was out of the room. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1481]
 - Four brain regions are associated with mentalizing: medial prefrontal cortex, temporoparietal region, amygdala, and inferior temporal region. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1481]
 - People with autism often show reduced activation and weaker connectivity in the mentalizing network during functional imaging studies. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1481]
+- The right hemisphere plays an important role in 'theory of mind', a capacity to put oneself in another's position and see what is going on in that person's mind. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p90]
+- Theory of mind emerges in primates along with self-recognition and self-awareness, and is closely linked to it. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p90]
+- Theory of mind is a capacity that children do not acquire fully until the age of four (though elements are probably present from 12 to 18 months), and which autistic children never acquire. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p90]
+- The neuroimaging correlates of both self-awareness and theory of mind lie in the right frontal and right cingulate cortex. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p132]
 
 ## Inferences
 
@@ -88,6 +94,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Inference: The medial prefrontal cortex may represent mental states decoupled from reality, while the superior temporal sulcus processes causal relationships between visual motion/action and intended goals
 - Inference: The distinction between 'cold' cognitive mentalizing and 'hot' empathic understanding may represent two distinct roots to understanding other people's minds.
 - Inference: The text notes that typically developing infants as young as 7 months show spontaneous mentalizing, suggesting this ability develops early in life and may be impaired in autism from early development.
+- Inference: The close relationship between self-awareness and theory of mind suggests that the right hemisphere, which mediates both, is fundamentally oriented toward connection with others rather than isolation.
 
 ## Uncertainties
 
@@ -122,12 +129,16 @@ Theory of mind refers to the ability to understand that other people have mental
 - Concepts: [[social-cognition]]
 - Concepts: [[amygdala]]
 - Concepts: [[medial-prefrontal-cortex]]
+- Concepts: [[self-awareness]]
+- Concepts: [[mirror-neurones]]
 - Topics: [[social-neuroscience]]
 - Topics: [[mentalizing-network]]
+- Topics: [[right-hemisphere]]
 - Entities: [[david-premack]]
 - Entities: [[daniel-povinelli]]
 - Entities: [[michael-tomasello]]
 - Entities: [[autism-spectrum-disorder]]
+- Entities: [[autism]]
 
 ## Provenance
 
@@ -135,6 +146,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]
 
 ## Change notes
 
@@ -142,3 +154,4 @@ Theory of mind refers to the ability to understand that other people have mental
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-master-and-his-emissary-iain-mcgilchrist`.

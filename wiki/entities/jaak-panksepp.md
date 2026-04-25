@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal
   - Panksepp, Jaak.pdf#p1-242]'
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
+- '[raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]'
 canonical: Jaak Panksepp
 confidence: high
 aliases:
@@ -23,6 +24,8 @@ tags:
 - emotion
 - affective-neuroscience
 - limbic-system
+- consciousness
+- affect
 related:
   concepts:
   - affective neuroscience
@@ -31,6 +34,8 @@ related:
   - basic-emotions-theory
   - limbic-system
   - affective-neuroscience
+  - consciousness
+  - consciousness as a tree
 ---
 
 # Jaak Panksepp
@@ -48,6 +53,8 @@ Jaak Panksepp (1943-2017) was an Estonian-American neuroscientist and psychologi
 - Panksepp proposed that the same neural circuits control both emotional behaviors in animals and emotional feelings in humans because these circuits are conserved across mammals. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p186]
 - Using electrical stimulation in rats, Panksepp mapped areas from which behaviors related to fear, rage, and other emotions could be elicited. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p188]
 - Panksepp distinguished primary process affective states (primitive conscious feelings) from cognitively elaborated conscious feelings created through memory, attention, and language. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p186]
+- Panksepp writes that consciousness 'is deeply enmeshed with the brain mechanisms that automatically promote action readiness', rejecting the view that consciousness arises from sensory-perceptual imagery. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p313]
+- Panksepp sees consciousness as something that begins very deep in the midbrain and 'migrates' through higher regions, transforming itself through branches to the 'cerebral canopy'. [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p312]
 
 ## Uncertainties
 
@@ -69,13 +76,17 @@ Jaak Panksepp (1943-2017) was an Estonian-American neuroscientist and psychologi
 - Concepts: [[basic-emotions-theory]]
 - Concepts: [[limbic-system]]
 - Concepts: [[affective-neuroscience]]
+- Concepts: [[consciousness]]
+- Concepts: [[consciousness as a tree]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
+- Additional source: [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `anxious-joseph-ledoux`.
+- 2026-04-25 — merged contributions from `the-master-and-his-emissary-iain-mcgilchrist`.
