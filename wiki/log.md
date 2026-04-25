@@ -9192,3 +9192,35 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/boyd-the-fighter-pilot-who-changed-the-world.md`
 - Files deprecated: None.
 - Notes: 44 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | certain-to-win-the-strategy-of-john-boyd-applied-to-richards
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Certain to Win - The Strategy of John Boyd, Applied to - Richards, Chet, Richards, Chester W.pdf
+- Files created:
+  - `wiki/entities/john-r-boyd.md`
+  - `wiki/entities/schwerpunkt.md`
+  - `wiki/entities/southwest-airlines.md`
+  - `wiki/entities/sun-tzu.md`
+  - `wiki/concepts/agility.md`
+  - `wiki/concepts/ambiguity.md`
+  - `wiki/concepts/auftrag.md`
+  - `wiki/concepts/blitzkrieg.md`
+  - `wiki/concepts/cheng-chi.md`
+  - `wiki/concepts/directed-telescope.md`
+  - `wiki/concepts/fighting-power.md`
+  - `wiki/concepts/fingerspitzengefuhl.md`
+  - `wiki/concepts/fog-of-war.md`
+  - `wiki/concepts/maneuver-conflict.md`
+  - `wiki/concepts/musashis-survival-strategy.md`
+  - `wiki/concepts/mutual-trust.md`
+  - `wiki/concepts/organizational-climate.md`
+  - `wiki/concepts/schwerpunkt-and-commanders-intent.md`
+  - `wiki/concepts/sources-of-power.md`
+  - `wiki/concepts/strategy-boyd-definition.md`
+  - `wiki/concepts/time-based-competition.md`
+  - `wiki/concepts/toyota-production-system-principles.md`
+  - `wiki/sources/certain-to-win-the-strategy-of-john-boyd-applied-to-business.md`
+- Files merged (extended):
+  - `wiki/concepts/ooda-loop.md`
+- Files deprecated: None.
+- Notes: 23 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
