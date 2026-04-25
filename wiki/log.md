@@ -1097,3 +1097,41 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/decision-neuroscience-an-integrative-perspective.md`
 - Files deprecated: None.
 - Notes: 80 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | descartes-error-emotion-reason-and-the-human-brain-antonio-r
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain - Antonio R_ Damasio,pdf.pdf
+- Files created:
+  - `wiki/entities/antonio-r-damasio.md`
+  - `wiki/entities/elliot-patient.md`
+  - `wiki/entities/elliot.md`
+  - `wiki/entities/phineas-gage.md`
+  - `wiki/entities/prefrontal-cortices.md`
+  - `wiki/entities/ventromedial-prefrontal-cortex.md`
+  - `wiki/concepts/anosognosia.md`
+  - `wiki/concepts/background-feelings.md`
+  - `wiki/concepts/biological-regulation.md`
+  - `wiki/concepts/body-as-ground-reference.md`
+  - `wiki/concepts/body-brain-integration.md`
+  - `wiki/concepts/body-minded-brain.md`
+  - `wiki/concepts/convergence-zones.md`
+  - `wiki/concepts/developmental-sociopathy.md`
+  - `wiki/concepts/dispositional-representations.md`
+  - `wiki/concepts/gambling-task.md`
+  - `wiki/concepts/high-reason-view.md`
+  - `wiki/concepts/intuition.md`
+  - `wiki/concepts/mental-images.md`
+  - `wiki/concepts/myopia-for-the-future.md`
+  - `wiki/concepts/neural-complexity.md`
+  - `wiki/concepts/neural-self.md`
+  - `wiki/concepts/neuropsychological-dissociation.md`
+  - `wiki/concepts/pain-and-pleasure-as-survival-levers.md`
+  - `wiki/concepts/pain-and-suffering-distinction.md`
+  - `wiki/concepts/primary-emotions.md`
+  - `wiki/concepts/secondary-emotions.md`
+  - `wiki/sources/descartes-error-emotion-reason-and-the-human-brain.md`
+- Files merged (extended):
+  - `wiki/entities/william-james.md`
+  - `wiki/concepts/somatic-marker-hypothesis.md`
+- Files deprecated: None.
+- Notes: 28 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
