@@ -6364,3 +6364,49 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/building-a-second-brain.md`
 - Files deprecated: None.
 - Notes: 38 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | deep-work-rules-for-focused-success-in-a-distracted-world-ca
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World - Cal Newport.pdf
+- Files created:
+  - `wiki/entities/adam-grant.md`
+  - `wiki/entities/adam-marlin.md`
+  - `wiki/entities/clifford-nass.md`
+  - `wiki/entities/daniel-kilov.md`
+  - `wiki/entities/forrest-pritchard.md`
+  - `wiki/entities/jason-benn.md`
+  - `wiki/entities/radhika-nagpal.md`
+  - `wiki/entities/ryan-nicodemus.md`
+  - `wiki/concepts/4dx-framework.md`
+  - `wiki/concepts/attention-residue.md`
+  - `wiki/concepts/attention-restoration-theory.md`
+  - `wiki/concepts/craftsman-approach-tool-selection.md`
+  - `wiki/concepts/deep-work-hypothesis.md`
+  - `wiki/concepts/deep-work-ritual.md`
+  - `wiki/concepts/deep-work.md`
+  - `wiki/concepts/deliberate-leisure-time.md`
+  - `wiki/concepts/deliberate-practice.md`
+  - `wiki/concepts/eudaimonia-machine.md`
+  - `wiki/concepts/fixed-schedule-productivity.md`
+  - `wiki/concepts/flow-state.md`
+  - `wiki/concepts/grand-gesture.md`
+  - `wiki/concepts/hub-and-spoke-model.md`
+  - `wiki/concepts/internet-block-scheduling.md`
+  - `wiki/concepts/law-of-vital-few.md`
+  - `wiki/concepts/process-centric-email.md`
+  - `wiki/concepts/productive-meditation.md`
+  - `wiki/concepts/professorial-email-sorting.md`
+  - `wiki/concepts/roosevelt-dash.md`
+  - `wiki/concepts/sender-filter.md`
+  - `wiki/concepts/shallow-work-budget.md`
+  - `wiki/concepts/shallow-work.md`
+  - `wiki/concepts/social-media-abstinence-test.md`
+  - `wiki/concepts/unconscious-thought-theory.md`
+  - `wiki/concepts/whiteboard-effect.md`
+  - `wiki/concepts/zeigarnik-effect.md`
+  - `wiki/topics/deep-work-rules.md`
+  - `wiki/sources/deep-work-rules-for-focused-success-in-a-distracted-world-cal-newport.md`
+- Files merged (extended):
+  - `wiki/entities/carl-jung.md`
+- Files deprecated: None.
+- Notes: 37 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
