@@ -6478,3 +6478,48 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/sleep.md`
 - Files deprecated: None.
 - Notes: 31 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | getting-things-done-the-art-of-stress-fre-allen-david
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf
+- Files created:
+  - `wiki/entities/david-allen.md`
+  - `wiki/entities/tony-buzan.md`
+  - `wiki/concepts/brainstorming.md`
+  - `wiki/concepts/capturing-habit.md`
+  - `wiki/concepts/capturing-stuff.md`
+  - `wiki/concepts/clarifying-outcomes.md`
+  - `wiki/concepts/delegation.md`
+  - `wiki/concepts/distributed-cognition.md`
+  - `wiki/concepts/filing-system.md`
+  - `wiki/concepts/five-steps-of-workflow-mastery.md`
+  - `wiki/concepts/four-criteria-model.md`
+  - `wiki/concepts/gtd-mastery-path.md`
+  - `wiki/concepts/in-tray-processing.md`
+  - `wiki/concepts/incompletion-triggers.md`
+  - `wiki/concepts/mind-like-water.md`
+  - `wiki/concepts/mind-mapping.md`
+  - `wiki/concepts/natural-planning-model.md`
+  - `wiki/concepts/next-action-decision.md`
+  - `wiki/concepts/next-action.md`
+  - `wiki/concepts/next-actions-list.md`
+  - `wiki/concepts/open-loops.md`
+  - `wiki/concepts/projects-list.md`
+  - `wiki/concepts/psychological-capital.md`
+  - `wiki/concepts/reference-materials.md`
+  - `wiki/concepts/six-level-model-for-review.md`
+  - `wiki/concepts/six-level-model.md`
+  - `wiki/concepts/someday-maybe-list.md`
+  - `wiki/concepts/someday-maybe-lists.md`
+  - `wiki/concepts/someday-maybe.md`
+  - `wiki/concepts/tickler-file.md`
+  - `wiki/concepts/two-minute-rule.md`
+  - `wiki/concepts/waiting-for-list.md`
+  - `wiki/concepts/weekly-review.md`
+  - `wiki/concepts/workspace-setup.md`
+  - `wiki/sources/getting-things-done.md`
+- Files merged (extended):
+  - `wiki/concepts/cognitive-load.md`
+  - `wiki/concepts/flow-state.md`
+- Files deprecated: None.
+- Notes: 35 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
