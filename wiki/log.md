@@ -9328,3 +9328,57 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/distributed-cognition.md`
 - Files deprecated: None.
 - Notes: 61 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | designing-for-situation-awareness-an-approach-to-jones-debra
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf
+- Files created:
+  - `wiki/entities/debra-g-jones.md`
+  - `wiki/entities/ground-proximity-warning-system.md`
+  - `wiki/entities/isat.md`
+  - `wiki/entities/mica-r-endsley.md`
+  - `wiki/entities/oz-cockpit-display.md`
+  - `wiki/entities/sa-technologies.md`
+  - `wiki/concepts/adaptive-automation.md`
+  - `wiki/concepts/alarm-processing.md`
+  - `wiki/concepts/attentional-tunneling.md`
+  - `wiki/concepts/automaticity.md`
+  - `wiki/concepts/cognitive-task-analysis.md`
+  - `wiki/concepts/complexity-creep.md`
+  - `wiki/concepts/data-overload.md`
+  - `wiki/concepts/decision-support-dilemma.md`
+  - `wiki/concepts/design-principles-representing-uncertainty.md`
+  - `wiki/concepts/errant-mental-models.md`
+  - `wiki/concepts/goal-directed-task-analysis.md`
+  - `wiki/concepts/information-gap.md`
+  - `wiki/concepts/levels-of-automation.md`
+  - `wiki/concepts/managing-complexity.md`
+  - `wiki/concepts/mental-models-situation-awareness.md`
+  - `wiki/concepts/misplaced-salience.md`
+  - `wiki/concepts/mode-awareness.md`
+  - `wiki/concepts/out-of-the-loop-syndrome.md`
+  - `wiki/concepts/representational-error.md`
+  - `wiki/concepts/sa-demons.md`
+  - `wiki/concepts/sa-measurement.md`
+  - `wiki/concepts/sa-oriented-design-future.md`
+  - `wiki/concepts/sa-oriented-design-principles.md`
+  - `wiki/concepts/sa-oriented-design-synergy.md`
+  - `wiki/concepts/sagat.md`
+  - `wiki/concepts/schema-situation-awareness.md`
+  - `wiki/concepts/schema.md`
+  - `wiki/concepts/shared-situation-awareness.md`
+  - `wiki/concepts/situation-awareness-training.md`
+  - `wiki/concepts/situation-awareness.md`
+  - `wiki/concepts/system-evaluation-sa.md`
+  - `wiki/concepts/technology-centered-design.md`
+  - `wiki/concepts/teleoperation.md`
+  - `wiki/concepts/uncertainty-in-situation-awareness.md`
+  - `wiki/concepts/unmanned-remotely-operated-vehicles.md`
+  - `wiki/concepts/user-centered-design.md`
+  - `wiki/topics/alarm-systems.md`
+  - `wiki/sources/designing-for-situation-awareness-an-approach-to-user-centered-design.md`
+- Files merged (extended):
+  - `wiki/concepts/mental-models.md`
+  - `wiki/concepts/working-memory.md`
+- Files deprecated: None.
+- Notes: 44 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

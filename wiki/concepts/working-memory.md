@@ -17,6 +17,8 @@ sources:
 - '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
   of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
 - '[raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]'
+- '[raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones,
+  Debra G_; Endsley, Mica R.pdf#p1-394]'
 confidence: high
 tags:
 - psychology
@@ -33,6 +35,9 @@ tags:
 - cognitive neuroscience
 - executive function
 - language
+- cognitive-limitation
+- information-processing
+- bottleneck
 related:
   broader:
   - cognition
@@ -54,6 +59,7 @@ related:
   - delay-period activity
   - spatial selectivity
   - schema
+  - chunking
   adjacent:
   - long-term-memory
   - attention
@@ -65,6 +71,8 @@ related:
   - cognitive control
   - prefrontal-cortex
   - schema-theory
+  - mental-models
+  - situation-awareness
 aliases: []
 ---
 
@@ -111,6 +119,11 @@ Working memory is a special information-processing function consisting of two ma
 - The phonological loop, a component of working memory, temporarily holds linguistic information and is crucial for acquiring new vocabulary. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p46]
 - Patient KF, with damage to the phonological loop, could not learn foreign vocabulary even though he could learn word pairs in his native Italian. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p47]
 - The phonological loop is located in the back part of the parietal lobe, with active repetition depending on lower portions of the left prefrontal cortex. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p48]
+- Working memory stores features of the current situation to be processed into a meaningful picture. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p40]
+- People can hold approximately seven plus or minus two chunks of information in working memory. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p40]
+- Information decays from working memory as quickly as 20-30 seconds for abstract information unless actively maintained. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p53]
+- Working memory forms the second major bottleneck for SA. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p40]
+- Combining information processing to achieve high levels of SA and deciding on future actions can tax working memory to a great extent. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p40]
 
 ## Inferences
 
@@ -145,6 +158,7 @@ Working memory is a special information-processing function consisting of two ma
 - Narrower: [[delay-period activity]]
 - Narrower: [[spatial selectivity]]
 - Narrower: [[schema]]
+- Narrower: [[chunking]]
 - Adjacent: [[long-term-memory]]
 - Adjacent: [[attention]]
 - Adjacent: [[consciousness]]
@@ -155,6 +169,8 @@ Working memory is a special information-processing function consisting of two ma
 - Adjacent: [[cognitive control]]
 - Adjacent: [[prefrontal-cortex]]
 - Adjacent: [[schema-theory]]
+- Adjacent: [[mental-models]]
+- Adjacent: [[situation-awareness]]
 - Concepts: [[cognition]]
 - Concepts: [[attention]]
 - Concepts: [[memory]]
@@ -199,6 +215,7 @@ Working memory is a special information-processing function consisting of two ma
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
 - Additional source: [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]
+- Additional source: [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p1-394]
 
 ## Change notes
 
@@ -209,3 +226,4 @@ Working memory is a special information-processing function consisting of two ma
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
 - 2026-04-25 — merged contributions from `the-seven-sins-of-memory-daniel-l-schacter`.
+- 2026-04-25 — merged contributions from `designing-for-situation-awareness-an-approach-to-jones-debra`.
