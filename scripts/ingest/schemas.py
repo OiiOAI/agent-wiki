@@ -151,11 +151,32 @@ REQUIRED_FIELDS: dict[str, set[str]] = {
 }
 
 OPTIONAL_FIELDS: dict[str, set[str]] = {
-    "entity": {"tags", "related"},
-    "concept": {"tags", "related"},
-    "topic": {"tags", "related"},
-    "source": {"tags", "source_origin"},
-    "analysis": {"tags", "related_pages"},
+    # `canonical_name` overlaps with `title` for entities (LLM emits both
+    # when the page subject has a romanization or a translated form). Allow
+    # rather than reject — the value is informational, not load-bearing.
+    "entity": {"tags", "related", "canonical_name"},
+    # Concepts often carry synonyms (e.g. `working memory` ↔ `WM`); the
+    # WIKI_SOP doesn't *require* aliases on concepts but the LLM emits
+    # them constructively. Allow.
+    "concept": {"tags", "related", "aliases"},
+    "topic": {"tags", "related", "aliases"},
+    # Source pages benefit from richer bibliographic metadata than the
+    # required minimum. The LLM emits these for academic books.
+    "source": {
+        "tags",
+        "source_origin",
+        "source_publisher",
+        "source_translator",
+        "source_editor",
+        "source_original_date",
+        "source_discipline",
+        "source_base_text",     # for translations / commentaries
+        "source_author2",        # co-author, if frontmatter author is primary
+        "discipline",
+        "language",              # OCR'd / multi-lingual books
+        "aliases",               # alternate titles (translations etc.)
+    },
+    "analysis": {"tags", "related_pages", "question"},
     "conflict": {"tags"},
 }
 
