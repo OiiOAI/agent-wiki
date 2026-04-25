@@ -4,9 +4,11 @@ title: Solomon Shereshevsky
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
+- '[raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost
+  - Sönke Ahrens.pdf#p1-157]'
 canonical:
   description: Primary author name and form.
   type: string
@@ -14,11 +16,14 @@ confidence: high
 aliases:
 - Shereshevsky
 - mnemonist
+- Solomon Shereshevskii
 tags:
 - mnemonist
 - reporter
 - synesthesia
 - memory
+- journalist
+- case-study
 related:
   concepts:
   - synesthesia
@@ -26,11 +31,11 @@ related:
   - memory-athletes
   - false-memories
   - confabulation
-  topics: []
+  - active-inhibition
   entities:
   - alexander-luria
+  - aleksandr-lurija
 ---
-
 
 # Solomon Shereshevsky
 
@@ -44,6 +49,10 @@ Solomon Shereshevsky was a Russian newspaper reporter who had one of the most ex
 - Shereshevsky had synesthesia and could taste words, see music, and smell colors. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p74]
 - He could raise his heart rate by imagining running after a train and could raise one hand's temperature while lowering the other's through imagination. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p74]
 - Shereshevsky noted 'no great difference between the things I imagine and what exists in reality.'. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p86]
+- Shereshevsky could recount verbatim all meetings he had ever attended when asked. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p94]
+- The cost of perfect memory was trouble forgetting anything; important things got lost under irrelevant details. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p94]
+- Shereshevsky could repeat a novel word by word but the greater meaning was lost on him. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p94]
+- The case of Shereshevsky suggests that the ability to forget systematically is an ability we all possess and need. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p95]
 
 ## Related pages
 
@@ -52,12 +61,16 @@ Solomon Shereshevsky was a Russian newspaper reporter who had one of the most ex
 - Concepts: [[memory-athletes]]
 - Concepts: [[false-memories]]
 - Concepts: [[confabulation]]
+- Concepts: [[active-inhibition]]
 - Entities: [[alexander-luria]]
+- Entities: [[aleksandr-lurija]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
+- Additional source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `how-to-take-smart-notes-one-simple-technique-to-boost-so-nke`.

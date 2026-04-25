@@ -6523,3 +6523,37 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/flow-state.md`
 - Files deprecated: None.
 - Notes: 35 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | how-to-take-smart-notes-one-simple-technique-to-boost-so-nke
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf
+- Files created:
+  - `wiki/entities/charlie-munger.md`
+  - `wiki/entities/luhmann-niklas.md`
+  - `wiki/entities/niklas-luhmann.md`
+  - `wiki/entities/richard-feynman.md`
+  - `wiki/concepts/active-inhibition.md`
+  - `wiki/concepts/attention-focusing.md`
+  - `wiki/concepts/bottom-up-topic-development.md`
+  - `wiki/concepts/creativity-through-restrictions.md`
+  - `wiki/concepts/ego-depletion.md`
+  - `wiki/concepts/elaboration.md`
+  - `wiki/concepts/growth-mindset.md`
+  - `wiki/concepts/latticework-of-mental-models.md`
+  - `wiki/concepts/mere-exposure-effect.md`
+  - `wiki/concepts/planning-fallacy.md`
+  - `wiki/concepts/retrieval-practice.md`
+  - `wiki/concepts/slip-box.md`
+  - `wiki/concepts/smart-notes.md`
+  - `wiki/concepts/storage-strength-vs-retrieval-strength.md`
+  - `wiki/concepts/survivorship-bias.md`
+  - `wiki/concepts/three-note-taxonomy.md`
+  - `wiki/concepts/writing-step-by-step.md`
+  - `wiki/sources/how-to-take-smart-notes.md`
+- Files merged (extended):
+  - `wiki/entities/solomon-shereshevsky.md`
+  - `wiki/concepts/confirmation-bias.md`
+  - `wiki/concepts/deliberate-practice.md`
+  - `wiki/concepts/zeigarnik-effect.md`
+- Files deprecated: None.
+- Notes: 22 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
