@@ -3946,3 +3946,38 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/finite-and-infinite-games.md`
 - Files deprecated: None.
 - Notes: 22 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-almanack-of-naval-ravikant-a-guide-to-eric-jorgenson
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/The Almanack of Naval Ravikant_ A Guide to - Eric Jorgenson.pdf
+- Files created:
+  - `wiki/entities/eric-jorgenson.md`
+  - `wiki/entities/life-formulas-i.md`
+  - `wiki/entities/naval-ravikant.md`
+  - `wiki/entities/navals-rules.md`
+  - `wiki/entities/tim-ferriss.md`
+  - `wiki/concepts/accountability.md`
+  - `wiki/concepts/choiceless-awareness.md`
+  - `wiki/concepts/compound-interest.md`
+  - `wiki/concepts/freedom-from-expectations.md`
+  - `wiki/concepts/habit-formation.md`
+  - `wiki/concepts/happiness.md`
+  - `wiki/concepts/judgment.md`
+  - `wiki/concepts/legacy-and-mortality.md`
+  - `wiki/concepts/leverage.md`
+  - `wiki/concepts/luck.md`
+  - `wiki/concepts/mental-models.md`
+  - `wiki/concepts/monkey-mind.md`
+  - `wiki/concepts/rational-buddhism.md`
+  - `wiki/concepts/reading.md`
+  - `wiki/concepts/retirement.md`
+  - `wiki/concepts/saving-yourself.md`
+  - `wiki/concepts/specific-knowledge.md`
+  - `wiki/concepts/status-games.md`
+  - `wiki/concepts/the-meaning-of-life.md`
+  - `wiki/concepts/wealth-vs-money.md`
+  - `wiki/topics/building-wealth.md`
+  - `wiki/topics/learning-happiness.md`
+  - `wiki/sources/the-almanack-of-naval-ravikant.md`
+- Files deprecated: None.
+- Notes: 28 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
