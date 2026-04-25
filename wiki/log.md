@@ -5705,3 +5705,21 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/zhu-xi.md`
 - Files deprecated: None.
 - Notes: 28 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 我有一点喜欢你-关于爱-让-吕克
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/我有一点喜欢你 - 关于爱 - 让 - 吕克.pdf
+- Files created:
+  - `wiki/entities/jian-yan-kuan.md`
+  - `wiki/entities/rang-lu-ke-nan-xi.md`
+  - `wiki/entities/xin-xing-chu-ban-she.md`
+  - `wiki/entities/zhe-xue-xiao-jiang-zuo.md`
+  - `wiki/concepts/ai.md`
+  - `wiki/concepts/cheng-nuo.md`
+  - `wiki/concepts/du-yi-xing.md`
+  - `wiki/concepts/zhong-cheng.md`
+  - `wiki/concepts/zi-ai.md`
+  - `wiki/topics/zhai-hua-ban-you-xi-zhong-de-ai.md`
+  - `wiki/sources/wo-you-yi-dian-huan-xi-ni-guan-yu-ai.md`
+- Files deprecated: None.
+- Notes: 11 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
