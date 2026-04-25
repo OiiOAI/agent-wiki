@@ -6633,3 +6633,34 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/prefrontal-cortex.md`
 - Files deprecated: None.
 - Notes: 18 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | purposeful-curiosity-the-power-of-asking-constantine-andriop
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Purposeful Curiosity_ the Power of Asking - Constantine Andriopoulos.pdf
+- Files created:
+  - `wiki/entities/adrian-newey.md`
+  - `wiki/entities/ben-saunders.md`
+  - `wiki/entities/charles-gordon-lennox-11th-duke-of-richmond.md`
+  - `wiki/entities/felicity-aston.md`
+  - `wiki/entities/hazel-forsyth.md`
+  - `wiki/entities/hedy-lamarr.md`
+  - `wiki/entities/mae-jemison.md`
+  - `wiki/entities/nigel-toon.md`
+  - `wiki/entities/peter-beck.md`
+  - `wiki/entities/raphael-domjan.md`
+  - `wiki/entities/thieme-hennis.md`
+  - `wiki/concepts/analog-exploration.md`
+  - `wiki/concepts/culture-of-curiosity.md`
+  - `wiki/concepts/curiosity-resilience.md`
+  - `wiki/concepts/curious-framework.md`
+  - `wiki/concepts/disciplined-serendipity.md`
+  - `wiki/concepts/informational-interview.md`
+  - `wiki/concepts/itch-equation.md`
+  - `wiki/concepts/micro-curiosities.md`
+  - `wiki/concepts/purposeful-curiosity.md`
+  - `wiki/topics/curiosity-in-education.md`
+  - `wiki/topics/curiosity-in-society.md`
+  - `wiki/topics/nurturing-curiosity-in-children.md`
+  - `wiki/sources/purposeful-curiosity-the-power-of-asking.md`
+- Files deprecated: None.
+- Notes: 24 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
