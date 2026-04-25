@@ -696,3 +696,58 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/a-thousand-brains-hawkins.md`
 - Files deprecated: None.
 - Notes: 46 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | active-inference-the-free-energy-principle-in-mind-brain-tho
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf
+- Files created:
+  - `wiki/entities/basal-ganglia.md`
+  - `wiki/entities/giovanni-pezzulo.md`
+  - `wiki/entities/karl-j-friston.md`
+  - `wiki/entities/thomas-parr.md`
+  - `wiki/concepts/active-inference.md`
+  - `wiki/concepts/active-learning.md`
+  - `wiki/concepts/bayesian-brain-hypothesis.md`
+  - `wiki/concepts/bayesian-model-reduction.md`
+  - `wiki/concepts/bounded-rationality.md`
+  - `wiki/concepts/computational-pathology.md`
+  - `wiki/concepts/computational-phenotyping.md`
+  - `wiki/concepts/continuous-movement-control.md`
+  - `wiki/concepts/cortical-microcircuits.md`
+  - `wiki/concepts/dirichlet-distribution-learning.md`
+  - `wiki/concepts/epistemic-value.md`
+  - `wiki/concepts/expected-free-energy-discrete.md`
+  - `wiki/concepts/expected-free-energy.md`
+  - `wiki/concepts/four-step-recipe.md`
+  - `wiki/concepts/free-energy-principle.md`
+  - `wiki/concepts/generalized-filtering.md`
+  - `wiki/concepts/generalized-synchrony.md`
+  - `wiki/concepts/generative-model.md`
+  - `wiki/concepts/hierarchical-inference-discrete.md`
+  - `wiki/concepts/hybrid-discrete-continuous-models.md`
+  - `wiki/concepts/laplace-approximation.md`
+  - `wiki/concepts/lorenz-system.md`
+  - `wiki/concepts/lotka-volterra-dynamics.md`
+  - `wiki/concepts/markov-blanket.md`
+  - `wiki/concepts/model-based-data-analysis.md`
+  - `wiki/concepts/motor-reflexes.md`
+  - `wiki/concepts/neuromodulation-precision.md`
+  - `wiki/concepts/parametric-empirical-bayes.md`
+  - `wiki/concepts/perception-as-inference.md`
+  - `wiki/concepts/planning-as-inference.md`
+  - `wiki/concepts/pomdp.md`
+  - `wiki/concepts/precision-active-inference.md`
+  - `wiki/concepts/predictive-coding.md`
+  - `wiki/concepts/predictive-processing.md`
+  - `wiki/concepts/self-evidencing.md`
+  - `wiki/concepts/sensory-attenuation.md`
+  - `wiki/concepts/stochastic-dynamics.md`
+  - `wiki/concepts/surprise-information-theory.md`
+  - `wiki/concepts/variational-calculus.md`
+  - `wiki/concepts/variational-free-energy.md`
+  - `wiki/concepts/variational-inference.md`
+  - `wiki/concepts/variational-laplace.md`
+  - `wiki/concepts/variational-message-passing.md`
+  - `wiki/sources/active-inference-parr-pezzulo-friston-2022.md`
+- Files deprecated: None.
+- Notes: 48 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
