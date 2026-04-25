@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_
   Mitchell.pdf#p1-354]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey
+  - Smith.pdf#p1-232]'
 confidence: high
 tags:
 - neuroscience
@@ -17,11 +19,13 @@ tags:
 - philosophy of mind
 - philosophy-of-mind
 - perception
+- evolution
 related:
   broader:
   - cognitive control
   - metacognition
   - self-awareness
+  - subjective experience
   narrower:
   - attention
   - working memory
@@ -50,6 +54,10 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - The unity of consciousness refers to how various sensory modalities are melded into a single, coherent, conscious experience, and can break down in patients with severed brain hemispheres. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p388]
 - Subjectivity, the second characteristic of conscious awareness, poses the more formidable scientific challenge because each person experiences a world of private and unique sensations. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p388]
 - Nagel argues science cannot take on consciousness without discovering the elements of subjective consciousness, which are likely basic components of brain function existing in a form not yet imaginable. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p390]
+- Latecomer views hold that consciousness arose late in evolutionary history due to specific neural features like global workspaces or integrated sensory processing. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p75]
+- Dehaene's research shows unconscious processing can handle routine tasks but fails for novel tasks requiring step-by-step sequences. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p74]
+- The author argues for a 'transformation view' in which basic subjective experience preceded late-arising features like working memory and was transformed rather than created by them. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p76]
+- If crabs, octopuses, and cats all have subjective experience, then there were at least three separate origins for this trait in evolution. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p79]
 
 ## Inferences
 
@@ -57,6 +65,8 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - Inference: The evolution of the ability to model our own thoughts likely went hand in hand with the ability to model other people's thoughts, as both involve recursive self-modeling capabilities.
 - Inference: The binding problem in visual perception is directly related to the unity of consciousness problem, as both concern how separate brain regions and sensory inputs are integrated into coherent perceptual experiences.
 - Inference: The claustrum hypothesis represents Crick's final scientific contribution, proposing this brain structure as a coordinator analogous to an orchestra conductor.
+- Inference: 'Consciousness' is described as a 'mixed-up and overused but useful term' for forms of subjective experience that are unified and coherent in various ways.
+- Inference: The author suggests consciousness arose multiple times on different evolutionary paths, from simple experience through to unified self-awareness.
 
 ## Uncertainties
 
@@ -68,6 +78,7 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - Broader: [[cognitive control]]
 - Broader: [[metacognition]]
 - Broader: [[self-awareness]]
+- Broader: [[subjective experience]]
 - Narrower: [[attention]]
 - Narrower: [[working memory]]
 - Narrower: [[global workspace]]
@@ -82,17 +93,24 @@ Consciousness is a multifaceted phenomenon that includes the capacity for self-a
 - Concepts: [[neural-correlate-of-consciousness]]
 - Concepts: [[unconscious-vs-conscious-processing]]
 - Concepts: [[readiness-potential]]
+- Concepts: [[sentience]]
+- Concepts: [[global workspace]]
+- Concepts: [[latecomer view]]
+- Concepts: [[transformation view]]
 - Entities: [[francis-crick]]
 - Entities: [[christof-koch]]
 - Entities: [[gerald-edelman]]
 - Entities: [[claustrum]]
+- Entities: [[octopus]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p1-232]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `other-minds-the-octopus-the-sea-and-the-peter-godfrey-smith`.

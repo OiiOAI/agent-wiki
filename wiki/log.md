@@ -2095,3 +2095,37 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/ultimatum-game.md`
 - Files deprecated: None.
 - Notes: 43 new + 15 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | other-minds-the-octopus-the-sea-and-the-peter-godfrey-smith
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf
+- Files created:
+  - `wiki/entities/andrew-packard.md`
+  - `wiki/entities/cabbage-tree-bay.md`
+  - `wiki/entities/cephalopods.md`
+  - `wiki/entities/coleoids.md`
+  - `wiki/entities/giant-cuttlefish.md`
+  - `wiki/entities/octopolis.md`
+  - `wiki/entities/octopus.md`
+  - `wiki/entities/thomas-huxley.md`
+  - `wiki/concepts/action-shaping-view.md`
+  - `wiki/concepts/camera-eyes.md`
+  - `wiki/concepts/cephalopod-color-change.md`
+  - `wiki/concepts/episodic-like-memory-in-cuttlefish.md`
+  - `wiki/concepts/evolution-of-aging.md`
+  - `wiki/concepts/inner-speech.md`
+  - `wiki/concepts/ocean-acidification.md`
+  - `wiki/concepts/parallel-evolution-of-cephalopod-intelligence.md`
+  - `wiki/concepts/sensory-motor-view.md`
+  - `wiki/concepts/sentience.md`
+  - `wiki/concepts/subjective-experience.md`
+  - `wiki/concepts/workspace-theory.md`
+  - `wiki/topics/cephalopod-cognition.md`
+  - `wiki/topics/evolution-of-cephalopods.md`
+  - `wiki/topics/evolution-of-nervous-systems.md`
+  - `wiki/sources/other-minds-the-octopus-the-sea-and-the-soul-of-consciousness.md`
+- Files merged (extended):
+  - `wiki/concepts/consciousness.md`
+  - `wiki/concepts/efference-copy.md`
+- Files deprecated: None.
+- Notes: 24 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
