@@ -4,17 +4,21 @@ title: 神秀
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 confidence: high
 aliases:
 - 神秀上座
 - 北宗领袖
+- 神秀
 tags:
 - 北宗
 - 渐悟
 - 五祖弟子
+- 禅宗
+- 佛教
 canonical: true
 related:
   concepts:
@@ -26,8 +30,8 @@ related:
   entities:
   - 惠能
   - 弘忍
+  - 坛经
 ---
-
 
 # 神秀
 
@@ -42,20 +46,28 @@ related:
 - 弘忍评价神秀偈句："汝作此偈，未见本性，只到门外，未入门内。如此见解，觅无上菩提，了不可得。". [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p33]
 - 神秀偈句的毛病在于把心与烦恼对立起来，认为修行是保持隔绝，而烦恼实从心生。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p44]
 - 神秀偈句最多是小乘自了汉的境界，与大乘佛教把众生烦恼视为自己烦恼的精神相违。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p45]
+- 神秀为弘忍上首弟子，当时已是教授师. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 神秀作偈「身是菩提树，心如明镜台，时时勤拂拭，勿使惹尘埃」，被弘忍认为「未见本性」. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
 
 ## Related pages
 
+- Broader: [[禅宗]]
+- Adjacent: [[弘忍]]
+- Adjacent: [[惠能]]
 - Concepts: [[渐悟]]
 - Concepts: [[北宗禅]]
 - Concepts: [[拂尘看净]]
 - Topics: [[禅宗南北分派]]
 - Entities: [[惠能]]
 - Entities: [[弘忍]]
+- Entities: [[坛经]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.

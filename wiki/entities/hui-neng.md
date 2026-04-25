@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 confidence: high
 aliases:
 - 六祖惠能
@@ -17,6 +18,7 @@ aliases:
 - 六祖
 - 南宗六祖
 - 六祖坛经
+- 惠能
 tags:
 - 六祖
 - 禅宗
@@ -25,6 +27,8 @@ tags:
 - 惠能
 - 六祖坛经
 - 道佛比较
+- 佛教
+- 唐代
 canonical: true
 related:
   concepts:
@@ -34,16 +38,31 @@ related:
   - 南宗
   - shang-shan-ruo-shui
   - fan-zhe-dao-zhi-dong
+  - 即心即佛
+  - 自性自度
+  - 自性
+  - 南宗禅
   topics:
   - 佛教中国化
   - 禅宗发展
   - di-er-jiang-dao-jia-de-bian-zheng-si-xiang
+  - 禅宗
   entities:
   - 弘忍
   - 神秀
   - 达摩
   - 法海
   - 神会
+  - 金刚经
+  - 坛经
+  - 行思
+  - 怀让
+  - 玄觉
+  - 智常
+  - 法达
+  - 智通
+  - 志道
+  - 志诚
 ---
 
 # 惠能
@@ -68,6 +87,18 @@ related:
 - 惠能在《六祖坛经》中说「亡功福无比」，以忘功为最高境界. [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p5]
 - 道家与佛家对「功」的态度不同：道家讲功成身退，佛家讲忘功才是福. [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p5]
 - 《六祖坛经》「心量广大，犹如虚空」与「心善渊」相通. [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p6]
+- 惠能生于唐贞观十年（636），卒于先天二年（713），世寿七十六岁. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 惠能俗姓卢，祖籍范阳，父亲卢行瑫原为官员，后被贬为新州百姓. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 惠能三岁丧父，家境贫苦，以卖柴为生. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 惠能因听客人诵读《金刚经》而开悟，后前往黄梅参拜五祖弘忍. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 惠能作偈「菩提本无树，明镜亦非台，本来无一物，何处惹尘埃」，深契心性清净旨趣，得五祖传衣. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 唐仪凤元年（676），惠能在广州法性寺正式出家受戒，时年三十九岁. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 惠能创立禅宗南宗，大开东山法门，成为禅宗六祖. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 唐宪宗追谥惠能为「大鉴禅师」. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 惠能从黄梅五祖得法，回至韶州曹侯村. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2932-L2933]
+- 诸佛妙理，非关文字. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2939-L2940]
+- 我此法门，从上以来，先立无念为宗，无相为体，无住为本. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2539-L2540]
+- 法本一宗，人有南北；法即一种，见有迟疾；法无顿渐，人有利钝，故名顿渐. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L3408-L3409]
 
 ## Inferences
 
@@ -77,29 +108,49 @@ related:
 
 - Broader: [[禅宗]]
 - Broader: [[南宗]]
+- Broader: [[中国佛教]]
+- Adjacent: [[弘忍]]
+- Adjacent: [[神秀]]
 - Concepts: [[顿悟]]
 - Concepts: [[见性成佛]]
 - Concepts: [[禅宗]]
 - Concepts: [[南宗]]
 - Concepts: [[shang-shan-ruo-shui]]
 - Concepts: [[fan-zhe-dao-zhi-dong]]
+- Concepts: [[即心即佛]]
+- Concepts: [[自性自度]]
+- Concepts: [[自性]]
+- Concepts: [[南宗禅]]
 - Topics: [[佛教中国化]]
 - Topics: [[禅宗发展]]
 - Topics: [[di-er-jiang-dao-jia-de-bian-zheng-si-xiang]]
+- Topics: [[禅宗]]
 - Entities: [[弘忍]]
 - Entities: [[神秀]]
 - Entities: [[达摩]]
 - Entities: [[法海]]
 - Entities: [[神会]]
+- Entities: [[金刚经]]
+- Entities: [[坛经]]
+- Entities: [[行思]]
+- Entities: [[怀让]]
+- Entities: [[玄觉]]
+- Entities: [[智常]]
+- Entities: [[法达]]
+- Entities: [[智通]]
+- Entities: [[志道]]
+- Entities: [[志诚]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `中国哲学史-套装上下册-冯友兰`.
 - 2026-04-25 — merged contributions from `第二讲精要-王德峰讲-道德经-庄子`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.

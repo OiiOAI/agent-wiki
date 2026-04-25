@@ -4,25 +4,31 @@ title: 法达
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 canonical: 法达
 confidence: medium
 aliases:
 - 法达和尚
+- 法达禅师
 tags:
 - 禅宗人物
 - 坛经
+- 禅师
+- 惠能弟子
+- 法华经
 related:
   concepts:
   - 被经转
   - 转经
-  topics: []
+  - 自性
+  topics:
+  - 南宗禅
   entities:
   - 惠能
 ---
-
 
 # 法达
 
@@ -36,6 +42,8 @@ related:
 - 惠能偈句：「礼本折慢幢，头奚不至地；有我罪即生，亡功福无比」. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p303]
 - 惠能指出「心迷法华转，心悟转法华」，诵经须口诵心行方为转经. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p308]
 - 法达偈句：「经诵三千部，曹溪一句亡。未明出世旨，宁歇累生狂？」. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p312]
+- 法达礼师头不至地，惠能诃之：礼本折慢幢，头奚不至地；有我罪即生，亡功福无比. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2956-L2958]
+- 惠能说《法华经》：心迷法华转，心悟转法华；诵经久不明，与义作仇家；无念念即正，有念念成邪. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2991-L2992]
 
 ## Inferences
 
@@ -49,12 +57,16 @@ related:
 - Adjacent: [[法海]]
 - Concepts: [[被经转]]
 - Concepts: [[转经]]
+- Concepts: [[自性]]
+- Topics: [[南宗禅]]
 - Entities: [[惠能]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.

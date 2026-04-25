@@ -4,15 +4,18 @@ title: 一行三昧
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 confidence: high
 tags:
 - 三昧
 - Samadhi
 - 坐禅
 - 修行
+- 禅定
+- 禅宗修行
 related:
   broader:
   - 定慧品
@@ -24,8 +27,9 @@ related:
   - 无念
   - 无相
   - 无住
+  - 一相三昧
+aliases: []
 ---
-
 
 # 一行三昧
 
@@ -44,6 +48,7 @@ related:
 - '道须通流，何以却滞'——执着于法相阻断了道德通流. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p193]
 - 舍利弗曾长坐不动被维摩诘批评——坐是坐不成佛的. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p193]
 - 马祖道一曾执着于坐禅，被怀让禅师以'磨砖成镜'点醒——坐如何能成佛？. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p193]
+- 一行三昧指于一切处，行住坐卧，纯一直心，不动道场，真成净土. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L4006-L4006]
 
 ## Inferences
 
@@ -58,10 +63,13 @@ related:
 - Adjacent: [[无念]]
 - Adjacent: [[无相]]
 - Adjacent: [[无住]]
+- Adjacent: [[一相三昧]]
 - Concepts: [[直心]]
 - Concepts: [[主客二分]]
 - Concepts: [[知行合一]]
 - Concepts: [[磨砖成镜]]
+- Concepts: [[三昧]]
+- Concepts: [[一相三昧]]
 - Entities: [[惠能]]
 - Entities: [[马祖道一]]
 - Entities: [[怀让]]
@@ -71,7 +79,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.

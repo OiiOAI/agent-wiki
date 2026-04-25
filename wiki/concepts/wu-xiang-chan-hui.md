@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 confidence: high
 tags:
 - 坛经
@@ -17,6 +18,8 @@ tags:
 - 禅宗
 - 自性
 - 六祖坛经
+- 核心概念
+- 忏悔法门
 related:
   broader:
   - 忏悔品
@@ -52,6 +55,8 @@ aliases: []
 - 凡夫愚迷，只知忏其前愆，不知悔其后过；以不悔故，前愆不灭，后过又生. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3326-L3328]
 - 无相忏悔要求念念不被愚迷染、不被骄诳染、不被嫉妒染. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3317-L3320]
 - 惠能偈颂：「努力自见莫悠悠，后念忽绝一世休；若悟大乘得见性，虔恭合掌至心求」. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3405-L3406]
+- 忏者，忏其前愆；悔者，悔其后过. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2792-L2793]
+- 弟子等，从前念、今念及后念，念念不被愚迷染；从前所有恶业，悉皆尽忏，永不复起. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2777-L2778]
 
 ## Related pages
 
@@ -73,13 +78,17 @@ aliases: []
 - Concepts: [[四弘誓愿]]
 - Concepts: [[三皈依]]
 - Concepts: [[自性]]
+- Topics: [[南宗禅]]
+- Entities: [[惠能]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `佛教十三经-中华书局`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.

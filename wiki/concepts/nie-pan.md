@@ -4,14 +4,18 @@ title: 涅槃
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 confidence: high
 tags:
 - 佛教哲学
 - 涅槃
 - 坛经
+- 佛教
+- 修行目标
+- 果位
 related:
   broader:
   - 佛教
@@ -20,11 +24,13 @@ related:
   narrower:
   - 寂灭
   - 常乐
+  - 有余涅槃
+  - 无余涅槃
   adjacent:
   - 生死轮回
   - 四圣谛
+aliases: []
 ---
-
 
 # 涅槃
 
@@ -39,6 +45,10 @@ related:
 - 涅槃常乐「无有受者，亦无有不受者」——不是有一个独立的自我在受用快乐. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p329]
 - 惠能偈句：「无上大涅槃，圆明常寂照，凡愚谓之死，外道执为断」. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p334]
 - 涅槃就在当下，不是色身结束后才达到的状态；当下色身中有不生不灭之法身. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p332]
+- 涅槃消灭烦恼灾患，出现寂静、安稳、快乐的境界. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 玄奘法师译涅槃为圆寂，圆指具足一切福德智慧，寂指永离一切烦恼生死. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 有余涅槃诸根身依还存在，仅烦恼已尽. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 无余涅槃肉体消灭，现在身受心受的牵引因已断，达到灰身泯智的境界. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
 
 ## Inferences
 
@@ -51,19 +61,27 @@ related:
 - Broader: [[禅宗]]
 - Narrower: [[寂灭]]
 - Narrower: [[常乐]]
+- Narrower: [[有余涅槃]]
+- Narrower: [[无余涅槃]]
 - Adjacent: [[生死轮回]]
 - Adjacent: [[四圣谛]]
 - Concepts: [[色身]]
 - Concepts: [[法身]]
 - Concepts: [[当下涅槃]]
+- Concepts: [[般若波罗密多]]
+- Concepts: [[四圣谛]]
 - Entities: [[志道]]
 - Entities: [[惠能]]
 - Entities: [[仓央嘉措]]
+- Entities: [[心经]]
+- Entities: [[金刚经]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.

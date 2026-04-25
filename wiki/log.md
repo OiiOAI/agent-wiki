@@ -6235,3 +6235,75 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/wu-wei.md`
 - Files deprecated: None.
 - Notes: 44 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub
+- Files created:
+  - `wiki/entities/guan-shi-yin-pu-sa.md`
+  - `wiki/entities/hong-ren.md`
+  - `wiki/entities/huai-rang-chan-shi.md`
+  - `wiki/entities/jin-gang-jing.md`
+  - `wiki/entities/jiu-mo-luo-shi.md`
+  - `wiki/entities/ran-deng-fo.md`
+  - `wiki/entities/she-li-fu.md`
+  - `wiki/entities/shenxiu.md`
+  - `wiki/entities/shi-jia-mou-ni.md`
+  - `wiki/entities/xian-zong-ji.md`
+  - `wiki/entities/xing-si-chan-shi.md`
+  - `wiki/entities/xu-pu-ti.md`
+  - `wiki/entities/xue-jian.md`
+  - `wiki/entities/yong-jia-xuan-jue.md`
+  - `wiki/concepts/a-luo-han.md`
+  - `wiki/concepts/ban-ruo-bo-luo-mi-duo.md`
+  - `wiki/concepts/bu-shi.md`
+  - `wiki/concepts/ding-hui.md`
+  - `wiki/concepts/fa-shen-fei-xiang.md`
+  - `wiki/concepts/guo-qu-xin-bu-ke-de.md`
+  - `wiki/concepts/liu-gen-liu-chen.md`
+  - `wiki/concepts/ren-ru-bo-luo-mi.md`
+  - `wiki/concepts/ru-meng-huan-pao-ying.md`
+  - `wiki/concepts/san-ke-fa-men.md`
+  - `wiki/concepts/san-lun-ti-kong.md`
+  - `wiki/concepts/se-ji-shi-kong.md`
+  - `wiki/concepts/shi-er-yin-yuan.md`
+  - `wiki/concepts/shou-ji.md`
+  - `wiki/concepts/si-sheng-di.md`
+  - `wiki/concepts/tan-jing-ban-ben.md`
+  - `wiki/concepts/wu-fen-fa-shen-xiang.md`
+  - `wiki/concepts/wu-xiang-san-gui-yi.md`
+  - `wiki/concepts/wu-xiang.md`
+  - `wiki/concepts/wu-yan.md`
+  - `wiki/concepts/wu-yun.md`
+  - `wiki/concepts/ye.md`
+  - `wiki/concepts/yi-he-xiang.md`
+  - `wiki/concepts/yi-ti-san-shen-zi-xing-fo.md`
+  - `wiki/concepts/yi-xiang-san-mei.md`
+  - `wiki/concepts/yi-xing-san-mei.md`
+  - `wiki/concepts/zuo-chan.md`
+  - `wiki/topics/ban-ruo-pin-di-er.md`
+  - `wiki/topics/fu-zhu-pin-di-shi.md`
+  - `wiki/topics/hu-fa-pin-di-jiu.md`
+  - `wiki/topics/liu-zu-ge-ming.md`
+  - `wiki/topics/xing-you-pin-di-yi.md`
+  - `wiki/topics/yi-wen-pin-di-san.md`
+  - `wiki/topics/zhi-che-wen-dao.md`
+  - `wiki/sources/jin-gang-jing-xin-jing-tan-jing.md`
+- Files merged (extended):
+  - `wiki/entities/fa-da.md`
+  - `wiki/entities/hui-neng.md`
+  - `wiki/entities/shen-hui.md`
+  - `wiki/entities/shen-xiu.md`
+  - `wiki/entities/xuan-zang.md`
+  - `wiki/entities/zhi-cheng.md`
+  - `wiki/concepts/ban-ruo.md`
+  - `wiki/concepts/nie-pan.md`
+  - `wiki/concepts/san-shi-liu-dui-fa.md`
+  - `wiki/concepts/si-xiang.md`
+  - `wiki/concepts/wu-nian.md`
+  - `wiki/concepts/wu-xiang-chan-hui.md`
+  - `wiki/concepts/wu-zhu.md`
+  - `wiki/concepts/yi-hang-san-mei.md`
+  - `wiki/concepts/zi-xing.md`
+- Files deprecated: None.
+- Notes: 49 new + 15 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

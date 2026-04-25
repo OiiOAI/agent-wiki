@@ -4,21 +4,27 @@ title: 四相
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 confidence: high
 tags:
 - 我执
 - 圆觉宗
 - 禅观
+- 破执
+- 金刚经
 related:
   broader:
   - 圆觉经
-  narrower: []
-  adjacent: []
+  - 我执
+  - 法执
+  adjacent:
+  - 法相
+  - 非法相
+aliases: []
 ---
-
 
 # 四相
 
@@ -34,6 +40,13 @@ related:
 - 寿命相：谓诸众生心照清净觉所了者，一切业智所不自见犹如命根。. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L2262-L2264]
 - 认四颠倒为实我体，由此便生憎爱二境，于虚妄体重执虚妄，二妄相依生妄业道。. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L2233-L2236]
 - 有我爱者亦爱涅槃伏我爱根为涅槃相，有憎我者亦憎生死，不知爱者真生死故别憎生死名不解脱。. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L2270-L2272]
+- 四相为我相、人相、众生相、寿者相. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L348-L349]
+- 我相指凡夫误认为外在的我为实相而执著之. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L349-L350]
+- 人相谓众生妄计在六道轮回的自体为真实存在的外在相状. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L350-L351]
+- 众生相谓众生把依五蕴和合而生的自体当成真实存在的外在相状. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L351-L352]
+- 寿者相谓执著众生的从生到死有一期的生命相续，可以传之长久. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L352-L353]
+- 四相实际上都是由一个"我相"所开展出来，佛教特别注重破除"我执". [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L353-L354]
+- 经文指出"若菩萨有我相、人相、众生相、寿者相，即非菩萨". [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L347-L348]
 
 ## Inferences
 
@@ -43,15 +56,24 @@ related:
 ## Related pages
 
 - Broader: [[圆觉经]]
+- Broader: [[我执]]
+- Broader: [[法执]]
+- Adjacent: [[法相]]
+- Adjacent: [[非法相]]
 - Concepts: [[我执]]
 - Concepts: [[清净觉]]
 - Concepts: [[妄执]]
+- Concepts: [[空]]
+- Concepts: [[无我]]
+- Concepts: [[离相]]
 - Entities: [[净诸业障菩萨]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
