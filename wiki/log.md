@@ -9141,3 +9141,54 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/hormesis.md`
 - Files deprecated: None.
 - Notes: 67 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | boyd-robert-coram
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Boyd - Robert Coram.pdf
+- Files created:
+  - `wiki/entities/acolytes.md`
+  - `wiki/entities/cheng-and-chi.md`
+  - `wiki/entities/everest-riccioni.md`
+  - `wiki/entities/f-100-super-sabre.md`
+  - `wiki/entities/f-x-project.md`
+  - `wiki/entities/fighter-weapons-school.md`
+  - `wiki/entities/franklin-spinney.md`
+  - `wiki/entities/georgia-institute-of-technology.md`
+  - `wiki/entities/jim-burton.md`
+  - `wiki/entities/john-boyd.md`
+  - `wiki/entities/kurt-godel.md`
+  - `wiki/entities/mike-wyly.md`
+  - `wiki/entities/mordecai-hod.md`
+  - `wiki/entities/oscar-t-brooks.md`
+  - `wiki/entities/pierre-sprey.md`
+  - `wiki/entities/raymond-leopold.md`
+  - `wiki/entities/ron-catton.md`
+  - `wiki/entities/thomas-philip-christie.md`
+  - `wiki/entities/tom-christie.md`
+  - `wiki/entities/vernon-spradling.md`
+  - `wiki/entities/werner-heisenberg.md`
+  - `wiki/concepts/aerial-attack-study.md`
+  - `wiki/concepts/buttonhook-turn.md`
+  - `wiki/concepts/creative-induction.md`
+  - `wiki/concepts/destruction-and-creation.md`
+  - `wiki/concepts/destructive-deduction.md`
+  - `wiki/concepts/dialectic-engine.md`
+  - `wiki/concepts/energy-maneuverability-theory.md`
+  - `wiki/concepts/fourth-generation-warfare.md`
+  - `wiki/concepts/free-play-exercises.md`
+  - `wiki/concepts/gold-plating.md`
+  - `wiki/concepts/guns-vs-missiles-debate.md`
+  - `wiki/concepts/lightweight-fighter-program.md`
+  - `wiki/concepts/maneuver-warfare.md`
+  - `wiki/concepts/mental-concepts-as-decision-models.md`
+  - `wiki/concepts/ooda-loop.md`
+  - `wiki/concepts/patterns-of-conflict.md`
+  - `wiki/concepts/second-law-of-thermodynamics.md`
+  - `wiki/concepts/spinney-report.md`
+  - `wiki/concepts/task-force-alpha.md`
+  - `wiki/concepts/to-be-or-to-do.md`
+  - `wiki/topics/fighter-mafia.md`
+  - `wiki/topics/military-reform-movement.md`
+  - `wiki/sources/boyd-the-fighter-pilot-who-changed-the-world.md`
+- Files deprecated: None.
+- Notes: 44 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
