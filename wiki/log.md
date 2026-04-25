@@ -321,3 +321,52 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-e-myth-revisited.md`
 - Files deprecated: None.
 - Notes: 31 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-lean-startup-how-today-s-entrepreneur-eric-ries
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/The Lean Startup_ How Today's Entrepreneur - Eric Ries.pdf
+- Files created:
+  - `wiki/entities/aardvark-startup.md`
+  - `wiki/entities/alphabet-energy.md`
+  - `wiki/entities/eric-ries.md`
+  - `wiki/entities/ign-entertainment.md`
+  - `wiki/entities/imvu.md`
+  - `wiki/entities/school-of-one.md`
+  - `wiki/entities/sgw-designworks.md`
+  - `wiki/entities/tony-ford.md`
+  - `wiki/entities/toyota.md`
+  - `wiki/entities/votizen.md`
+  - `wiki/entities/wealthfront.md`
+  - `wiki/concepts/actionable-metrics.md`
+  - `wiki/concepts/adaptive-organization.md`
+  - `wiki/concepts/build-measure-learn.md`
+  - `wiki/concepts/cohort-analysis.md`
+  - `wiki/concepts/continuous-deployment.md`
+  - `wiki/concepts/entrepreneurship-as-management.md`
+  - `wiki/concepts/five-blames.md`
+  - `wiki/concepts/five-whys.md`
+  - `wiki/concepts/genchi-gembutsu.md`
+  - `wiki/concepts/innovation-accounting.md`
+  - `wiki/concepts/innovation-sandbox.md`
+  - `wiki/concepts/kanban-product-development.md`
+  - `wiki/concepts/large-batch-death-spiral.md`
+  - `wiki/concepts/long-term-stock-exchange.md`
+  - `wiki/concepts/minimum-viable-product.md`
+  - `wiki/concepts/paid-engine-growth.md`
+  - `wiki/concepts/pivot.md`
+  - `wiki/concepts/portfolio-thinking.md`
+  - `wiki/concepts/product-market-fit.md`
+  - `wiki/concepts/pull-production.md`
+  - `wiki/concepts/small-batches.md`
+  - `wiki/concepts/speed-regulator.md`
+  - `wiki/concepts/split-testing.md`
+  - `wiki/concepts/split-the-difference-problem.md`
+  - `wiki/concepts/sticky-engine-growth.md`
+  - `wiki/concepts/validated-learning.md`
+  - `wiki/concepts/value-and-growth-hypotheses.md`
+  - `wiki/concepts/vanity-metrics.md`
+  - `wiki/concepts/viral-engine-growth.md`
+  - `wiki/concepts/wizard-of-oz-testing.md`
+  - `wiki/sources/the-lean-startup-ries.md`
+- Files deprecated: None.
+- Notes: 42 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
