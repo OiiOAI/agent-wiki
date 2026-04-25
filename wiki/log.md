@@ -7732,3 +7732,54 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/narcissism.md`
 - Files deprecated: None.
 - Notes: 83 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-mindful-body-thinking-our-way-to-chro-ellen-j-langer
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Mindful Body_ Thinking Our Way to Chro - Ellen J. Langer.pdf
+- Files created:
+  - `wiki/entities/alia-crum.md`
+  - `wiki/entities/andrew-reece.md`
+  - `wiki/entities/asya-rolls.md`
+  - `wiki/entities/atul-gawande.md`
+  - `wiki/entities/chambermaid-study.md`
+  - `wiki/entities/ellen-j-langer.md`
+  - `wiki/entities/francesco-pagnini.md`
+  - `wiki/entities/george-engel.md`
+  - `wiki/entities/open-label-placebo.md`
+  - `wiki/entities/roger-ulrich.md`
+  - `wiki/entities/sleep-perception-study.md`
+  - `wiki/entities/something-in-the-air-study.md`
+  - `wiki/entities/spontaneous-remission.md`
+  - `wiki/concepts/attention-to-variability-healthcare.md`
+  - `wiki/concepts/attention-to-variability.md`
+  - `wiki/concepts/borderline-effect.md`
+  - `wiki/concepts/counterclockwise-study.md`
+  - `wiki/concepts/embodied-cognition.md`
+  - `wiki/concepts/fatigue-as-mental-construct.md`
+  - `wiki/concepts/illusion-of-control.md`
+  - `wiki/concepts/imaginary-exercise.md`
+  - `wiki/concepts/imagined-eating.md`
+  - `wiki/concepts/invisible-gorilla-study.md`
+  - `wiki/concepts/level-1-2-3-thinking.md`
+  - `wiki/concepts/mental-health-screening-social-media.md`
+  - `wiki/concepts/mind-body-unity.md`
+  - `wiki/concepts/mindful-contagion.md`
+  - `wiki/concepts/mindful-decision-making.md`
+  - `wiki/concepts/mindful-hospitals.md`
+  - `wiki/concepts/mindful-optimism.md`
+  - `wiki/concepts/mindful-utopia.md`
+  - `wiki/concepts/mindfulness-langer.md`
+  - `wiki/concepts/mindless-conformity.md`
+  - `wiki/concepts/pygmalion-effect.md`
+  - `wiki/concepts/senility-mindful-response.md`
+  - `wiki/concepts/social-comparison.md`
+  - `wiki/concepts/white-bear-effect.md`
+  - `wiki/concepts/work-life-integration.md`
+  - `wiki/sources/the-mindful-body.md`
+- Files merged (extended):
+  - `wiki/concepts/implicit-association-test.md`
+  - `wiki/concepts/nocebo-effect.md`
+  - `wiki/concepts/placebo-effect.md`
+  - `wiki/concepts/scarcity-mindset.md`
+- Files deprecated: None.
+- Notes: 39 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
