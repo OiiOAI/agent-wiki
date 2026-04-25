@@ -10904,3 +10904,33 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/jing-ji-zhou-qi-li-lun-fang-fa-he-gai-nian-tong-lun.md`
 - Files deprecated: None.
 - Notes: 29 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代经济学系列丛书-经济学家和说教者-美-斯蒂格茨-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[当代经济学系列丛书]经济学家和说教者·[美]斯蒂格茨 著.pdf
+- Files created:
+  - `wiki/entities/george-stigler.md`
+  - `wiki/entities/henry-c-si-meng-si.md`
+  - `wiki/entities/ya-dang-si-mi.md`
+  - `wiki/concepts/bian-ji-sheng-chan-lu-lun-li.md`
+  - `wiki/concepts/chuan-ji-yu-jing-ji-fen-xi.md`
+  - `wiki/concepts/duan-zhe-de-xu-qiu-qu-xian.md`
+  - `wiki/concepts/fan-long-duan-zheng-ce.md`
+  - `wiki/concepts/fan-shi-li-lun.md`
+  - `wiki/concepts/ge-ren-li-yi-ji-zhi-shi-ling.md`
+  - `wiki/concepts/gong-li-zhu-yi.md`
+  - `wiki/concepts/gong-zi-ji-jin-li-lun.md`
+  - `wiki/concepts/jing-ji-li-fa-yu-li-yi-ji-tuan.md`
+  - `wiki/concepts/jing-ji-xue-jia-de-she-hui-jue-se.md`
+  - `wiki/concepts/jing-ji-xue-yin-zheng-fen-xi.md`
+  - `wiki/concepts/jing-zheng-lun-li-xue.md`
+  - `wiki/concepts/ke-xue-she-hui-xue.md`
+  - `wiki/concepts/shuo-jiao-preaching.md`
+  - `wiki/concepts/xiao-yong-li-lun-de-cai-yong.md`
+  - `wiki/concepts/yin-zheng-fen-xi.md`
+  - `wiki/concepts/zhong-fu-fa-xian-yuan-li.md`
+  - `wiki/concepts/zhong-fu-fa-xian.md`
+  - `wiki/concepts/zi-you-fang-ren.md`
+  - `wiki/sources/jing-ji-xue-jia-he-shuo-jiao-zhe.md`
+- Files deprecated: None.
+- Notes: 23 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
