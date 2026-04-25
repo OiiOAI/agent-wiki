@@ -8357,3 +8357,37 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/typical-dreams.md`
 - Files deprecated: None.
 - Notes: 478 new + 9 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-state-of-affairs-esther-perel
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The State of Affairs - Esther Perel.pdf
+- Files created:
+  - `wiki/entities/andrea-case-study.md`
+  - `wiki/entities/dan-savage.md`
+  - `wiki/entities/terry-real.md`
+  - `wiki/entities/the-builders.md`
+  - `wiki/entities/the-explorers.md`
+  - `wiki/entities/the-sufferers.md`
+  - `wiki/concepts/betrayal.md`
+  - `wiki/concepts/compersion.md`
+  - `wiki/concepts/conscious-uncoupling.md`
+  - `wiki/concepts/consensual-nonmonogamy.md`
+  - `wiki/concepts/disclosure-decisions-after-infidelity.md`
+  - `wiki/concepts/female-sexual-desire-after-marriage.md`
+  - `wiki/concepts/infidelity-as-self-discovery.md`
+  - `wiki/concepts/infidelity.md`
+  - `wiki/concepts/jealousy-in-romantic-relationships.md`
+  - `wiki/concepts/jealousy.md`
+  - `wiki/concepts/love-lust-split.md`
+  - `wiki/concepts/modern-marriage.md`
+  - `wiki/concepts/security-vs-adventure-in-long-term-relationships.md`
+  - `wiki/concepts/self-blame-and-revenge-after-infidelity.md`
+  - `wiki/concepts/separation-ceremony.md`
+  - `wiki/concepts/sex-addiction.md`
+  - `wiki/concepts/sexless-marriage.md`
+  - `wiki/concepts/three-post-infidelity-outcomes.md`
+  - `wiki/sources/the-state-of-affairs-esther-perel.md`
+- Files merged (extended):
+  - `wiki/entities/esther-perel.md`
+- Files deprecated: None.
+- Notes: 25 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
