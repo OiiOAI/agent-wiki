@@ -9513,3 +9513,45 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/make-it-clear-patrick-henry-winston.md`
 - Files deprecated: None.
 - Notes: 22 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | never-split-the-difference-negotiating-as-voss-chris
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Never Split the Difference_ Negotiating As - Voss, Chris.pdf
+- Files created:
+  - `wiki/entities/abu-sabaya.md`
+  - `wiki/entities/abu-sayyaf.md`
+  - `wiki/entities/behavioral-change-stairway-model.md`
+  - `wiki/entities/dwight-watson.md`
+  - `wiki/entities/fbi-crisis-negotiation-unit.md`
+  - `wiki/entities/jeffrey-schilling.md`
+  - `wiki/entities/william-griffin.md`
+  - `wiki/concepts/accusation-audit.md`
+  - `wiki/concepts/ackerman-bargaining.md`
+  - `wiki/concepts/anchoring-emotions-negotiation.md`
+  - `wiki/concepts/black-swan-negotiation.md`
+  - `wiki/concepts/calibrated-questions.md`
+  - `wiki/concepts/counterpart-religion.md`
+  - `wiki/concepts/deadlines-in-negotiation.md`
+  - `wiki/concepts/hunting-black-swans.md`
+  - `wiki/concepts/i-am-normal-paradox.md`
+  - `wiki/concepts/influence-behind-the-table.md`
+  - `wiki/concepts/late-night-fm-dj-voice.md`
+  - `wiki/concepts/mirroring.md`
+  - `wiki/concepts/no-oriented-negotiation.md`
+  - `wiki/concepts/rule-of-three.md`
+  - `wiki/concepts/seven-thirty-eight-fifty-five-rule.md`
+  - `wiki/concepts/similarity-principle.md`
+  - `wiki/concepts/spotting-liars.md`
+  - `wiki/concepts/tactical-empathy.md`
+  - `wiki/concepts/taking-a-punch.md`
+  - `wiki/concepts/thats-right-breakthrough.md`
+  - `wiki/concepts/the-three-yesses.md`
+  - `wiki/concepts/three-negotiation-styles.md`
+  - `wiki/concepts/three-types-of-leverage.md`
+  - `wiki/sources/never-split-the-difference.md`
+  - `wiki/analyses/negotiation-one-sheet.md`
+- Files merged (extended):
+  - `wiki/concepts/labeling.md`
+  - `wiki/concepts/loss-aversion.md`
+- Files deprecated: None.
+- Notes: 32 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
