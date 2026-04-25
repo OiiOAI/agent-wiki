@@ -2184,3 +2184,36 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/working-memory.md`
 - Files deprecated: None.
 - Notes: 35 new + 12 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | primal-intelligence-you-are-smarter-than-angus-fletcher
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf
+- Files created:
+  - `wiki/entities/angus-fletcher.md`
+  - `wiki/entities/carl-von-clausewitz.md`
+  - `wiki/entities/charles-darwin.md`
+  - `wiki/entities/j-p-guilford.md`
+  - `wiki/entities/nikola-tesla.md`
+  - `wiki/entities/storythinking.md`
+  - `wiki/entities/u-s-army-special-operations.md`
+  - `wiki/concepts/antifragility.md`
+  - `wiki/concepts/attack-into-the-ambush.md`
+  - `wiki/concepts/commanders-intent.md`
+  - `wiki/concepts/commonsense.md`
+  - `wiki/concepts/dissociation.md`
+  - `wiki/concepts/eat-your-enemy.md`
+  - `wiki/concepts/go-where-experts-cant-say-no.md`
+  - `wiki/concepts/imagination.md`
+  - `wiki/concepts/innovation.md`
+  - `wiki/concepts/match-newness-of-plan-to-environment.md`
+  - `wiki/concepts/motor-intelligence-moto.md`
+  - `wiki/concepts/optimization-trap.md`
+  - `wiki/concepts/planner-not-the-plan.md`
+  - `wiki/concepts/synapse.md`
+  - `wiki/sources/primal-intelligence.md`
+- Files merged (extended):
+  - `wiki/entities/santiago-ramon-y-cajal.md`
+  - `wiki/concepts/emotion.md`
+  - `wiki/concepts/intuition.md`
+- Files deprecated: None.
+- Notes: 22 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

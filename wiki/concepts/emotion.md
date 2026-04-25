@@ -4,16 +4,18 @@ title: Emotion
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences
   of - Evan Thompson.pdf#p1-535]'
+- '[raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]'
 confidence: high
 related:
   broader:
   - affect
   - consciousness
   - enactive-approach
+  - primal-intelligence
   narrower:
   - valence
   - protention
@@ -23,9 +25,15 @@ related:
   - intentionality
   - appraisal
   - limbic-system
-tags: []
+tags:
+- emotion
+- self-assessment
+- fear
+- anger
+- shame
+- grief
+aliases: []
 ---
-
 
 # Emotion
 
@@ -41,6 +49,13 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 - Affective valence manifests in movement valences (approach/withdrawal), feeling valences (pleasant/unpleasant), social valences (dominance/submission), and normative valences (good/bad). [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p366]
 - Emotional interpretations emerge through trigger, self-amplification, self-stabilization, and learning phases. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p362]
 - Moods represent enduring intentional orientations that modify the emotion-cognition state space and persist when no action can resolve them. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p367]
+- Emotions help achieve an effective mental life narrative by flashing warnings when the past is fracturing or the future is narrowing. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p57]
+- Fear is the brain's signal that 'You have no plan'—the brain has evolved a bias to action, and when it doesn't have a plan, fear makes it receptive to outside influence. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p58]
+- Anger reveals that the future has narrowed to a single branch—one plan can work if executed assertively, but the cost is steep: burnout, shortened fuse, elevated stress. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p61]
+- Grief signals that you have experienced something disturbing that you cannot reconcile with your worldview; shame signals that you have acted inconsistently with your personal path. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p65]
+- Dumb pride is a positive feeling toward a past action that everyone else thinks you should regret—it is the rebel self-respect that Antigone felt when buried alive for burying her brother. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p66]
+- Maverick gratitude comes from noticing when you get thanked for a thankless task that put you at odds with the world—it validates your core sense of purpose. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p68]
+- Emotion Reset works by recalling a time when you made a new plan under pressure, triggering the thought 'I have done it before; I can do it again' to calm aggression and release intuition. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p62]
 
 ## Inferences
 
@@ -55,6 +70,7 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 - Broader: [[affect]]
 - Broader: [[consciousness]]
 - Broader: [[enactive-approach]]
+- Broader: [[primal-intelligence]]
 - Narrower: [[valence]]
 - Narrower: [[protention]]
 - Narrower: [[affective-dynamics]]
@@ -66,11 +82,19 @@ Emotion is characterized as a "prototype whole-organism event" mobilizing virtua
 - Concepts: [[emotional-salience]]
 - Concepts: [[feeling-tone]]
 - Concepts: [[action-tendency]]
+- Concepts: [[emotion-reset]]
+- Concepts: [[dumb-pride]]
+- Concepts: [[maverick-gratitude]]
+- Concepts: [[first-step-plan]]
+- Entities: [[lucy-gray]]
+- Entities: [[antigone]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p1-535]
+- Additional source: [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `primal-intelligence-you-are-smarter-than-angus-fletcher`.
