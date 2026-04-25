@@ -15,6 +15,8 @@ sources:
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The forgetting machine _ memory, perception, and the -
   Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - synaptic-plasticity
@@ -31,6 +33,7 @@ related:
   - synaptic plasticity
   - explicit memory
   - hippocampus
+  - neural-plasticity
   narrower:
   - long-term-depression
   - early-ltp
@@ -39,11 +42,17 @@ related:
   - late-phase-ltp
   - late-LTP
   - NMDA receptor-dependent LTP
+  - NMDA-receptors
+  - glutamate-signaling
+  - calcium-signaling
   adjacent:
   - nmda-receptor
   - hebbian-synapse
   - long-term-depression
   - long-term depression
+  - LTD
+  - fear-conditioning
+  - synapse-formation
 aliases: []
 ---
 
@@ -87,6 +96,15 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - LTP is thought to be required not only for memory formation but also for the long-term stabilization of place fields in hippocampal neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1563]
 - Bliss and Lømo's work on LTP was published as 'Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path' in Journal of Physiology 232 (1973): 331-356. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p169]
 - Morris, Anderson, Lynch and Baudry demonstrated that selective impairment of learning and blockade of LTP occurs with the N-methyl-D-aspartate receptor antagonist AP5. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p169]
+- LTP was first demonstrated in 1966 by Terje Lømo at the University of Oslo. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p142]
+- LTP occurs when NMDA receptors finally activate, allowing calcium (rather than sodium) to flow into the dendritic spine. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p142]
+- Calcium from LTP causes more glutamate receptors to be inserted into the dendritic spine membrane, making the neuron more responsive to glutamate. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p142]
+- LTP underlies fear conditioning in the basolateral amygdala, frontal cortex learning to control the amygdala, and dopaminergic reward learning. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p143]
+- Moderate transient stress promotes hippocampal LTP while prolonged stress disrupts it and promotes LTD. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p144]
+- LTP involves two classes of glutamate receptors: NMDA receptors that allow calcium entry when activated, and non-NMDA (AMPA) receptors that mediate initial excitatory transmission. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p965]
+- Calcium influx through NMDA receptors triggers signaling cascades that result in more AMPA receptors being inserted into the synapse. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p965]
+- LTP in the spinal cord relates to neuropathic pain syndromes where severe injury causes nonnoxious stimuli to become chronically painful. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p968]
+- During the menstrual cycle in humans, the amount of myelin in the corpus callosum fluctuates. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p970]
 
 ## Inferences
 
@@ -95,10 +113,13 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Inference: LTP may be necessary for learning, though scientists cannot yet prove it is as enduring as long-term memories, which may last decades while LTP lasts weeks at most.
 - Inference: The requirement for NMDA receptors in Schaffer collateral LTP connects it mechanistically to classical conditioning in the amygdala and sensitization in Aplysia, suggesting a conserved molecular pathway for associative memory storage across species.
 - Inference: Because LTP induction occludes subsequent LTP induction by electrical stimulation, the enhanced synaptic transmission following spatial training is likely caused by natural induction of LTP during learning.
+- Inference: The finding that LTP changes persist even when the receptor copies that were modified are degraded (within days) suggests some form of molecular memory or protein synthesis-dependent mechanism transfers the LTP trace to new receptor copies, explaining how memories can persist for decades
 
 ## Uncertainties
 
 - Uncertain: The precise identity of the retrograde messenger(s) that communicate from postsynaptic CA1 neurons to presynaptic Schaffer collateral terminals to enhance transmitter release during LTP remains uncertain; nitric oxide (NO) is suggested but not confirmed.
+- Uncertain: The exact mechanisms by which LTP-induced changes are transferred to new generations of receptor copies are beyond the scope of current research
+- Uncertain: Debate continues over whether presynaptic or postsynaptic changes are more crucial to LTP
 
 ## Related pages
 
@@ -107,6 +128,7 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Broader: [[synaptic plasticity]]
 - Broader: [[explicit memory]]
 - Broader: [[hippocampus]]
+- Broader: [[neural-plasticity]]
 - Narrower: [[long-term-depression]]
 - Narrower: [[early-ltp]]
 - Narrower: [[late-ltp]]
@@ -114,10 +136,16 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Narrower: [[late-phase-ltp]]
 - Narrower: [[late-LTP]]
 - Narrower: [[NMDA receptor-dependent LTP]]
+- Narrower: [[NMDA-receptors]]
+- Narrower: [[glutamate-signaling]]
+- Narrower: [[calcium-signaling]]
 - Adjacent: [[nmda-receptor]]
 - Adjacent: [[hebbian-synapse]]
 - Adjacent: [[long-term-depression]]
 - Adjacent: [[long-term depression]]
+- Adjacent: [[LTD]]
+- Adjacent: [[fear-conditioning]]
+- Adjacent: [[synapse-formation]]
 - Concepts: [[hippocampus]]
 - Concepts: [[memory]]
 - Concepts: [[calcium-signaling]]
@@ -141,9 +169,16 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Concepts: [[spatial memory]]
 - Concepts: [[memory formation]]
 - Concepts: [[synaptic transmission]]
+- Concepts: [[Hebbian-learning]]
+- Concepts: [[synaptic-strengthening]]
+- Concepts: [[neural-plasticity]]
+- Concepts: [[synaptic-plasticity]]
+- Concepts: [[glutamate]]
 - Topics: [[cellular-neuroscience]]
 - Topics: [[explicit memory]]
 - Topics: [[hippocampal memory systems]]
+- Topics: [[neuroscience]]
+- Topics: [[learning]]
 - Entities: [[CA1 pyramidal neuron]]
 - Entities: [[CA3 pyramidal neuron]]
 - Entities: [[dentate gyrus]]
@@ -157,6 +192,7 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
@@ -165,3 +201,4 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-forgetting-machine-memory-perception-and-the-rodrigo-qui`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

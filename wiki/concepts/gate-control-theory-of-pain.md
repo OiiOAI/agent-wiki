@@ -4,9 +4,11 @@ title: Gate Control Theory of Pain
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - gate control theory
@@ -14,6 +16,9 @@ tags:
 - Melzack
 - Wall
 - neuroplasticity
+- neuroscience
+- sensory-systems
+- circuit-theory
 related:
   broader:
   - pain
@@ -25,8 +30,8 @@ related:
   adjacent:
   - body image
   - placebo effect
+aliases: []
 ---
-
 
 # Gate Control Theory of Pain
 
@@ -44,6 +49,14 @@ The gate control theory of pain, developed by Ronald Melzack and Patrick Wall in
 - Wall co-invented transcutaneous electrical nerve stimulation (TENS), which uses electric current to stimulate neurons that inhibit pain and help close the gate. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p198]
 - The gate theory made Western scientists less skeptical of acupuncture, which may reduce pain by stimulating neurons that inhibit pain and close gates. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p198]
 - Pain maps in the spinal cord can change following injury, and chronic injury can make pain system cells fire more easily, a plastic alteration making people hypersensitive to pain. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p197]
+- Ronald Melzack and Patrick Wall first proposed the gate control theory of pain in 1965. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p716]
+- Fast pain (from neuron A) is sharp and transient, mediated by feed-forward inhibition that silences the pain pathway quickly. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p715]
+- Slow pain (from neuron D) is throbbing and continuous; this pathway inhibits the inhibitor of the pain-signaling neuron, prolonging pain signals. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p715]
+- Scratching near an insect bite stimulates fast pain fibers, which activates inhibition and shuts down the slow chronic pain pathway temporarily. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p716]
+
+## Inferences
+
+- Inference: The theory was proposed as a theoretical model before being confirmed anatomically, showing the power of functional reasoning to guide anatomical research.
 
 ## Related pages
 
@@ -59,13 +72,18 @@ The gate control theory of pain, developed by Ronald Melzack and Patrick Wall in
 - Concepts: [[endorphins]]
 - Concepts: [[placebo effect]]
 - Concepts: [[referred pain]]
+- Concepts: [[feed-forward-inhibition]]
+- Concepts: [[negative-feedback]]
+- Concepts: [[inhibitory-neurotransmitter]]
 - Topics: [[pain mechanisms]]
 - Topics: [[neuroplasticity]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

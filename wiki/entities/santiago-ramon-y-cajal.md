@@ -17,6 +17,8 @@ sources:
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
 - '[raw/books/neuroscience/When brains dream _ understanding the science and mystery
   of - Antonio Zadra.pdf#p1-341]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 canonical: Santiago Ramón y Cajal
 confidence: high
 aliases:
@@ -39,6 +41,7 @@ tags:
 - history of neuroscience
 - nobel-laureate
 - dream-diary
+- spain
 related:
   concepts:
   - global-neuronal-workspace-theory
@@ -51,6 +54,7 @@ related:
   - neurogenesis
   - neurons
   - neuroplasticity
+  - golgi-stain
   topics:
   - brain regeneration
   - history of neuroscience
@@ -99,6 +103,8 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Cajal wrote that 'except in extremely rare cases, it is impossible to verify the doctrine of the surly and somewhat egotistical Viennese author' (Freud). [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p55]
 - Cajal held that dreams resulted from wild neural firings in various regions of the brain, presaging the activation-synthesis model developed by Hobson and McCarley almost seventy years later. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p56]
 - Cajal's dream diary and notes were published in 2014. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p56]
+- Cajal used the Golgi stain to stain the processes, branches, and twigs of dendrites and axon terminals of single neurons. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
+- His work showed there was not a continuous merged net of a superneuron, establishing that individual neurons are discrete entities. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
 
 ## Inferences
 
@@ -138,6 +144,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Concepts: [[neurogenesis]]
 - Concepts: [[neurons]]
 - Concepts: [[neuroplasticity]]
+- Concepts: [[golgi-stain]]
 - Topics: [[brain regeneration]]
 - Topics: [[history of neuroscience]]
 - Entities: [[camillo-golgi]]
@@ -156,6 +163,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
 - Additional source: [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p1-341]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
@@ -166,3 +174,4 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
 - 2026-04-25 — merged contributions from `when-brains-dream-understanding-the-science-and-mystery-of-a`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

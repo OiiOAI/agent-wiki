@@ -11,11 +11,16 @@ sources:
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - neuroscience-fundamental
 - cell-biology
 - neural-circuitry
+- neuroscience
+- history
+- cell-theory
 related:
   broader:
   - neuroscience
@@ -55,6 +60,9 @@ The neuron doctrine is the principle that individual neurons are the elementary 
 - Harrison confirmed Ramón y Cajal's suggestion that the tip of the axon gives rise to a growth cone which leads the developing axon to its target. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p57]
 - The final definite proof came in the mid-1950s with electron microscopy; a landmark study by Sanford Palay demonstrated the existence of synapses. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p57]
 - Synapses are specialized regions that permit chemical or electrical signaling between neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p57]
+- The neuron doctrine emerged in the late 19th century as the view that each neuron is an independent unit with axon terminals separated by a tiny gap. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
+- Santiago Ramón y Cajal used the Golgi stain to demonstrate that individual neurons are discrete entities, supporting the neuron doctrine. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
+- The neuron doctrine defeated the competing syncytium view, which proposed that neurons fuse into a continuous membrane. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
 
 ## Inferences
 
@@ -76,6 +84,9 @@ The neuron doctrine is the principle that individual neurons are the elementary 
 - Concepts: [[cellular-connectionism]]
 - Concepts: [[dynamic polarization]]
 - Concepts: [[connectional specificity]]
+- Concepts: [[syncytium]]
+- Concepts: [[camillo-golgi]]
+- Concepts: [[santiago-ramon-y-cajal]]
 - Entities: [[santiago-ramon-y-cajal]]
 - Entities: [[camillo-golgi]]
 - Entities: [[sanford-palay]]
@@ -90,9 +101,11 @@ The neuron doctrine is the principle that individual neurons are the elementary 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

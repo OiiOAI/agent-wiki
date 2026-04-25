@@ -8,12 +8,15 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]'
 - '[raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1-469]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - evolution
 - selection
 - theory
 - criticism
+- controversy
 related:
   broader:
   - natural-selection
@@ -41,11 +44,17 @@ Group selection is the hypothesis that natural selection acts primarily between 
 - George Williams and Richard Dawkins argued that group selection never actually happened, claiming apparent altruism could always be explained by individual-level selection. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p218]
 - Multilevel selection theory posits that natural selection operates simultaneously at individual and group levels, sometimes favoring different traits. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p214]
 - Group selection requires mechanisms to suppress free riding within groups, such as gossip, punishment, and shared moral matrices. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p199]
+- Vero Copner Wynne-Edwards championed group selection but is remembered primarily for having been wrong about it. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1084]
+- Eusocial insects have a unique genetic system where sterile workers pass on more genes by helping the queen reproduce than by reproducing themselves. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1085]
 
 ## Inferences
 
 - Inference: The book argues that group selection is an intuitive but logically flawed explanation for altruism, which cannot survive the logic of individual competition.
 - Inference: group selection shaped human psychology, it would explain both our capacity for selfishness (individual selection) and our groupish tendencies (group selection).
+
+## Uncertainties
+
+- Uncertain: The debate over group selection versus individual selection remains complex; modern understanding acknowledges multiple levels at which selection can operate.
 
 ## Related pages
 
@@ -61,7 +70,11 @@ Group selection is the hypothesis that natural selection acts primarily between 
 - Concepts: [[superorganism]]
 - Concepts: [[hive-hypothesis]]
 - Concepts: [[major-transitions]]
+- Concepts: [[kin-selection]]
+- Concepts: [[inclusive-fitness]]
 - Topics: [[evolution-of-morality]]
+- Topics: [[evolution]]
+- Topics: [[social-behavior]]
 - Entities: [[v-c-wynne-edwards]]
 - Entities: [[robert-ardrey]]
 - Entities: [[konrad-lorenz]]
@@ -74,8 +87,10 @@ Group selection is the hypothesis that natural selection acts primarily between 
 
 - Primary source: [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]
 - Additional source: [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1-469]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-righteous-mind-jonathan-haidt`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

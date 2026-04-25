@@ -16,6 +16,8 @@ sources:
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]'
 - '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - neuroscience
@@ -31,6 +33,7 @@ tags:
 - theory-of-mind
 - autism
 - self-awareness
+- social-psychology
 related:
   broader:
   - autism-spectrum-disorder
@@ -89,6 +92,9 @@ Theory of mind refers to the ability to understand that other people have mental
 - The ability to represent another's subjective experience requires maintaining awareness of indexical information and using it to produce a representation of what it would be like from a different perspective—a complicated double-negative referential relationship. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p461]
 - Constructing another point of view almost certainly requires prefrontal cortex involvement, and failure to take another's perspective is a common disability of patients with prefrontal damage. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p461]
 - Without symbolic representations, it seems unlikely that other species could behave according to a theory of others' minds or share representations of others' experiences. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p462]
+- Theory of Mind involves interactions between the dlPFC and a brain region called the temporoparietal juncture. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p901]
+- Mirror neurons and the Theory of Mind network are mentioned in relation to sociopaths' lack of capacity for empathy and their atypical blunted pain perception. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p990]
+- When people contemplate the morality of corporate actions, they activate Theory of Mind networks just as when contemplating morality of fellow humans. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1140]
 
 ## Inferences
 
@@ -140,9 +146,13 @@ Theory of mind refers to the ability to understand that other people have mental
 - Concepts: [[symbolic-communication]]
 - Concepts: [[prefrontal-cortex-and-symbol-learning]]
 - Concepts: [[reciprocal-altruism]]
+- Concepts: [[mirror-neurons]]
+- Concepts: [[prefrontal-cortex]]
 - Topics: [[social-neuroscience]]
 - Topics: [[mentalizing-network]]
 - Topics: [[right-hemisphere]]
+- Topics: [[neuroscience]]
+- Topics: [[social-psychology]]
 - Entities: [[david-premack]]
 - Entities: [[daniel-povinelli]]
 - Entities: [[michael-tomasello]]
@@ -157,6 +167,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]
 - Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
@@ -166,3 +177,4 @@ Theory of mind refers to the ability to understand that other people have mental
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-master-and-his-emissary-iain-mcgilchrist`.
 - 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

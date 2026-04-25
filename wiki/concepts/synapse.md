@@ -4,26 +4,29 @@ title: Synapse
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - neuroscience
 - brain
 - neurons
 - synapse
+- cell-biology
+- synaptic-transmission
 related:
   broader:
   - Neuron
   - Motor Intelligence
-  narrower: []
   adjacent:
   - Santiago-Ramon-y-Cajal
   - John-Eccles
   - MOS-transistor
+aliases: []
 ---
-
 
 # Synapse
 
@@ -37,6 +40,9 @@ The synapse is a junction between two neurons that functions as an A → B machi
 - Viewed by microscope, the synapse appears as a gap, prompting twentieth-century scientists called the Sparks to hypothesize it worked like an electronic switch (transistor). [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p205]
 - Due to Nobel Prize research by John Eccles in the 1950s, we know that neurons do not connect via lightning bolts; they connect via protein transmitters and other physical machinery. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p225]
 - When neuron A extends a path to neuron B, that is a synapse thinking A leads to B, or A → B—not a transistor thinking A = B. [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p225]
+- The synapse is the tiny gap between axon terminals and dendritic spines where chemical communication occurs. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
+- Synapses were not directly visualized until the invention of electron microscopy in the 1950s. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p704]
+- Neurotransmitters released from the presynaptic axon terminal float across the synapse to receptors on the postsynaptic dendritic spine. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p705]
 
 ## Inferences
 
@@ -53,13 +59,20 @@ The synapse is a junction between two neurons that functions as an A → B machi
 - Concepts: [[motor-intelligence]]
 - Concepts: [[neurons]]
 - Concepts: [[a-to-b-thinking]]
+- Concepts: [[neurotransmitter]]
+- Concepts: [[action-potential]]
+- Concepts: [[receptor]]
+- Concepts: [[reuptake]]
+- Concepts: [[neuromodulation]]
 - Entities: [[santiago-ramon-y-cajal]]
 - Entities: [[john-eccles]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

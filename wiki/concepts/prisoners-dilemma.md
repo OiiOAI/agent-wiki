@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - game-theory
@@ -16,6 +18,7 @@ tags:
 - social-dilemma
 - evolution
 - strategy
+- psychology
 related:
   broader:
   - social-dilemma
@@ -49,12 +52,16 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - The iterated game provides hope because it allows players to build up trust or mistrust, reciprocate or placate, forgive or avenge. [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p245]
 - Life is riddled with Iterated Prisoner's Dilemma games, not just human life but animal and plant life too. [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p246]
 - For iterated games to foster cooperation, neither player should know when the game is going to end. [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p264]
+- In the Prisoner's Dilemma, if both cooperate they each get two units; if both defect they each get one unit; if one cooperates and the other defects, the defector gets three units and the cooperator gets zero. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p941]
+- Tit for Tat strategy in iterated Prisoner's Dilemma involves cooperating initially, then mirroring the opponent's previous move. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1097]
+- The 1962 thriller Fail-Safe was premised on a Tit for Tat solution to nuclear conflict following a signal error. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1097]
 
 ## Inferences
 
 - Inference: The gap between Nash Equilibrium prediction (defect) and observed behavior (frequent cooperation) indicates that humans are not purely self-interested.
 - Inference: The shadow of the future must be long enough for cooperation to be advantageous over defection
 - Inference: The length of expected future interaction affects how nice, forgiving, and envious players will be
+- Inference: The widespread cultural references to the Prisoner's Dilemma (including game shows like Golden Balls) suggest it captures fundamental aspects of human cooperation and competition dynamics.
 
 ## Related pages
 
@@ -77,8 +84,11 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 - Concepts: [[niceness]]
 - Concepts: [[forgivingness]]
 - Concepts: [[nonzero-sum-game]]
+- Concepts: [[reciprocal-altruism]]
+- Concepts: [[zero-sum-games]]
 - Topics: [[reciprocal-altruism]]
 - Topics: [[evolutionary-psychology]]
+- Topics: [[evolution-of-cooperation]]
 - Entities: [[robert-axelrod]]
 - Entities: [[anatol-rapoport]]
 
@@ -86,8 +96,10 @@ The Prisoner's Dilemma is a standard game theory scenario where two players can 
 
 - Primary source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-selfish-gene-40th-anniversary-edition-richard-dawkins`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

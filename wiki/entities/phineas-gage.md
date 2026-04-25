@@ -14,6 +14,8 @@ sources:
   Oshin.pdf#p1-500]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 canonical: Phineas P. Gage (1823–1861), American railroad construction foreman famous
   for surviving a traumatic brain injury
 confidence: high
@@ -38,6 +40,9 @@ tags:
 - frontal lobe
 - historical case
 - personality
+- history
+- neuroscience
+- case-study
 related:
   concepts:
   - frontal-cortex
@@ -51,11 +56,15 @@ related:
   - executive control
   - personality change
   - emotional control
+  - brain-damage
+  - personality
+  - neuroplasticity
   topics:
   - neurology
   - cognitive-neuroscience
   - clinical neuroscience
   - history of neuroscience
+  - neuroscience
   entities:
   - john-harlow
   - david-ferrier
@@ -93,6 +102,10 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - After his injury, Gage became 'pertinaciously obstinate, yet capricious and vacillating, devising many plans of future operation, which are no sooner arranged than they are abandoned in turn for others appearing more feasible.'. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
 - The physician John Harlow provided the first clear description of Gage's case in 1868, documenting the dependence of personality on prefrontal cortex. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
 - Gage's injury resulted in damage to the orbital-ventromedial prefrontal cortex, an area involved in emotional processes associated with executive control of behavior. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p455]
+- In 1848, an accident blew a thirteen-pound iron tamping rod through Gage's left face and out the top of his skull, destroying his left frontal cortex. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p56]
+- Gage transformed from respected and even-keeled to 'fitful, irreverent, grossly profane, manifestly little deference for fellows, at times pertinaciously obstinate.'. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p56]
+- Gage was described by friends as 'no longer Gage' and was reduced to appearing as a circus exhibit with his rod by P.T. Barnum. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p57]
+- Within a few years, Gage recovered enough to resume work (as stagecoach driver) and was broadly appropriate, showing brain plasticity. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p57]
 
 ## Inferences
 
@@ -134,10 +147,14 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - Concepts: [[executive control]]
 - Concepts: [[personality change]]
 - Concepts: [[emotional control]]
+- Concepts: [[brain-damage]]
+- Concepts: [[personality]]
+- Concepts: [[neuroplasticity]]
 - Topics: [[neurology]]
 - Topics: [[cognitive-neuroscience]]
 - Topics: [[clinical neuroscience]]
 - Topics: [[history of neuroscience]]
+- Topics: [[neuroscience]]
 - Entities: [[john-harlow]]
 - Entities: [[david-ferrier]]
 - Entities: [[antonio-damasio]]
@@ -150,6 +167,7 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
@@ -157,3 +175,4 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

@@ -4,20 +4,26 @@ title: Moral Foundations Theory
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1-469]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - moral psychology
 - evolutionary psychology
 - political psychology
 - cognitive modules
+- moral-psychology
+- political-psychology
+- culture
 related:
   broader:
   - intuitionism
   - moral psychology
   - evolutionary psychology
+  - moral-psychology
   narrower:
   - care-harm foundation
   - fairness-cheating foundation
@@ -29,8 +35,11 @@ related:
   - WEIRD morality
   - moral matrices
   - Shweder three ethics
+  - social-intuitionism
+  - political-orientation
+  - disgust-sensitivity
+aliases: []
 ---
-
 
 # Moral Foundations Theory
 
@@ -50,18 +59,28 @@ A theory proposing that the moral mind is organized around six innate psychologi
 - Political liberals tend to rely most heavily on Care/harm and Liberty/oppression foundations. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p203]
 - Political conservatives rely on all six foundations equally, giving them a broader moral palate. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p204]
 - The Liberty/oppression foundation makes people notice and resent signs of attempted domination. [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p206]
+- Moral foundations theory identifies six foundations: care versus harm, fairness versus cheating, liberty versus oppression, loyalty versus betrayal, authority versus subversion, and sanctity versus degradation. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p463]
+- Liberals preferentially value care, fairness, and liberty; conservatives value all six foundations, including loyalty, authority, and sanctity. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p463]
+- The disagreement about whether conservatives have more moral foundations or liberals have 'refined' ones reflects a genuine ideological divide in moral philosophy. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p463]
+- Sanctity concerns (related to disgust sensitivity) predict social conservatism and opposition to practices like gay marriage and premarital sex. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p467]
 
 ## Inferences
 
 - Inference: Moral Foundations Theory explains why conservatives can appeal to a broader range of moral intuitions than liberals, giving them a 'conservative advantage' in politics
 - Inference: The theory reframes moral disagreement as reflecting different weightings of universal moral foundations rather than fundamental value differences
 - Inference: Moral Foundations Theory suggests that political disagreements may stem from different weightings of innate moral psychology rather than purely rational policy debates.
+- Inference: Moral foundations theory explains why political disputes are often intractable—liberals and conservatives are not just disagreeing about facts but have different underlying moral intuitions. Each side literally experiences different things as 'obviously wrong.'
+
+## Uncertainties
+
+- Uncertain: Whether the six foundations are truly universal across all human cultures, or whether they reflect Western/individualistic moral categories, is debated.
 
 ## Related pages
 
 - Broader: [[intuitionism]]
 - Broader: [[moral psychology]]
 - Broader: [[evolutionary psychology]]
+- Broader: [[moral-psychology]]
 - Narrower: [[care-harm foundation]]
 - Narrower: [[fairness-cheating foundation]]
 - Narrower: [[loyalty-betrayal foundation]]
@@ -71,19 +90,28 @@ A theory proposing that the moral mind is organized around six innate psychologi
 - Adjacent: [[WEIRD morality]]
 - Adjacent: [[moral matrices]]
 - Adjacent: [[Shweder three ethics]]
+- Adjacent: [[social-intuitionism]]
+- Adjacent: [[political-orientation]]
+- Adjacent: [[disgust-sensitivity]]
 - Concepts: [[fairness-foundation]]
 - Concepts: [[liberty-oppression-foundation]]
 - Concepts: [[care-harm-foundation]]
 - Concepts: [[group-selection]]
 - Concepts: [[hive-hypothesis]]
+- Concepts: [[binding-foundations]]
+- Concepts: [[individualizing-foundations]]
+- Concepts: [[moral-relativism]]
 - Topics: [[morality-binds-and-blinds]]
 - Topics: [[evolution-of-morality]]
 - Entities: [[jonathan-haidt]]
+- Entities: [[john-jost]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1-469]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

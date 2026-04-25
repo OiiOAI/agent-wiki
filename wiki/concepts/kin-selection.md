@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/Human _ the science behind what makes us unique - Michael
   S_ Gazzaniga.pdf#p1-461]'
 - '[raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - evolution
@@ -19,12 +21,17 @@ tags:
 - Hamilton
 - inclusive fitness
 - nepotism
+- cooperation
+- kinship
 related:
   broader:
   - evolutionary-theory
   - inclusive fitness
   - natural selection
   - altruism theory
+  - evolution-of-behavior
+  - evolution
+  - inclusive-fitness
   narrower:
   - relatedness-coefficient
   - inclusive-fitness
@@ -33,6 +40,8 @@ related:
   adjacent:
   - reciprocal-altruism
   - group-selection
+  - individual-selection
+  - multilevel-selection
 aliases: []
 ---
 
@@ -64,6 +73,16 @@ Kin selection is an evolutionary theory proposing that altruistic behavior evolv
 - A guaranteed monogamous mother is as genetically valuable to you as an identical twin, because she is a full sibling-producing machine. [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p348]
 - In ant species where females mate only once and store sperm for life, a male can be sure his father's sperm are living on after him, making the mother an excellent genetic bet regardless of whether the father is dead. [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p349]
 - The 'mother's brother effect' that Dawkins predicted was already well known to anthropologists; Richard Alexander had made the same hypothesis earlier. [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p349]
+- Haldane formalized that organisms can leave copies of their genes by reproducing or by helping relatives reproduce, with the amount of help weighted by degree of relatedness. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p350]
+- You share 50% of genes with a full sibling, meaning reproducing once and dying so that your sibling reproduces twice are evolutionarily equivalent. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p350]
+- Among primates, how often individuals groom each other depends on how closely related they are. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p351]
+- Primates understand kinship—when animal A is crummy to animal B, afterward B is more likely to be crummy to A's relatives. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p351]
+- Sperm in deer mouse females aggregate only with sperm from the same individual or a close relative to swim faster. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p353]
+- Studies show highest reproductive success arises from third- and fourth-cousin marriages in Iceland. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p354]
+- Kin selection explains altruism toward relatives based on degree of genetic relatedness; full siblings share 50% of genes, half siblings share 25%. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1087]
+- Inbreeding was responsible for the demise of the Spanish branch of the Habsburg dynasty. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1091]
+- Fraternal polyandry in resource-poor regions decreases population growth and prevents family plots from falling below subsistence level when subdivided among inheriting sons. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1090]
+- Chuck E. Cheese's has the highest rate of fights among clientele, where parents aggressively intervene to benefit their own children over others. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1093]
 
 ## Inferences
 
@@ -85,12 +104,17 @@ Kin selection is an evolutionary theory proposing that altruistic behavior evolv
 - Broader: [[inclusive fitness]]
 - Broader: [[natural selection]]
 - Broader: [[altruism theory]]
+- Broader: [[evolution-of-behavior]]
+- Broader: [[evolution]]
+- Broader: [[inclusive-fitness]]
 - Narrower: [[relatedness-coefficient]]
 - Narrower: [[inclusive-fitness]]
 - Narrower: [[green-beard-effect]]
 - Narrower: [[hamiltonian-kin-selection]]
 - Adjacent: [[reciprocal-altruism]]
 - Adjacent: [[group-selection]]
+- Adjacent: [[individual-selection]]
+- Adjacent: [[multilevel-selection]]
 - Concepts: [[ESS]]
 - Concepts: [[inclusive fitness]]
 - Concepts: [[relatedness]]
@@ -101,6 +125,10 @@ Kin selection is an evolutionary theory proposing that altruistic behavior evolv
 - Concepts: [[inclusive-fitness]]
 - Concepts: [[incest-avoidance]]
 - Concepts: [[group-selection]]
+- Concepts: [[hamilton-rule]]
+- Concepts: [[Hamilton's-rule]]
+- Topics: [[evolution-of-cooperation]]
+- Topics: [[social-behavior]]
 - Entities: [[william-hamilton]]
 - Entities: [[richard-dawkins]]
 - Entities: [[w-d-hamilton]]
@@ -112,8 +140,10 @@ Kin selection is an evolutionary theory proposing that altruistic behavior evolv
 
 - Primary source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf#p1-415]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-selfish-gene-40th-anniversary-edition-richard-dawkins`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

@@ -4,16 +4,21 @@ title: Limbic System
 type: concept
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal
   - Panksepp, Jaak.pdf#p1-242]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - neuroanatomy
 - emotions
 - maclean
 - brain-systems
+- neuroscience
+- brain
+- emotion
 related:
   broader:
   - triune-brain
@@ -29,8 +34,9 @@ related:
   - hypothalamus
   - amygdala
   - hippocampus
+  - frontal-cortex
+aliases: []
 ---
-
 
 # Limbic System
 
@@ -48,6 +54,11 @@ The limbic system, also called the visceral or old-mammalian brain, is a brain r
 - Key visual pathways of the limbic system include the fornix, stria terminalis, ventral amygdalofugal pathway, mamillothalamic tract, habenulopeduncular tract, and medial forebrain bundle. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p47]
 - The stria terminalis sends descending information from the amygdala to a broad synaptic field from the bed nucleus of the stria terminalis to the ventromedial nucleus of the hypothalamus. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p48]
 - The medial forebrain bundle is the area where self-stimulation and stimulus-bound emotive behaviors can be obtained most easily through electrical stimulation of the brain. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p48]
+- The limbic system was identified through studies showing that lesions produced abnormalities in sociality, especially sexual and aggressive behaviors (Klüver-Bucy syndrome). [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p31]
+- For rodents, olfactory inputs provide emotional information; for primates, visual inputs are more important. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p32]
+- The hypothalamus serves as the interface between core regulatory (Layer 1) and emotional (Layer 2) brain regions. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p32]
+- There are no 'centers' in the brain for complex behaviors like feeling 'pissy' or 'horny'—the circuitry is immensely complex. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p32]
+- The limbic system communicates with the frontal cortex bidirectionally, not merely being 'reined in' by it. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p35]
 
 ## Uncertainties
 
@@ -67,15 +78,25 @@ The limbic system, also called the visceral or old-mammalian brain, is a brain r
 - Adjacent: [[hypothalamus]]
 - Adjacent: [[amygdala]]
 - Adjacent: [[hippocampus]]
+- Adjacent: [[frontal-cortex]]
 - Concepts: [[emotional-processing]]
 - Concepts: [[social-emotions]]
 - Concepts: [[emotional-command-systems]]
 - Concepts: [[basal-ganglia]]
+- Concepts: [[emotion]]
+- Concepts: [[autonomic-nervous-system]]
+- Concepts: [[parasympathetic-nervous-system]]
+- Concepts: [[sympathetic-nervous-system]]
+- Topics: [[neuroscience]]
+- Entities: [[walle-nauta]]
+- Entities: [[paul-maclean]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

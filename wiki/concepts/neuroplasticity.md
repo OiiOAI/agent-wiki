@@ -10,6 +10,8 @@ sources:
 - '[raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John
   J_ Ratey; Eric Hagerman.pdf#p1-228]'
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - neuroplasticity
@@ -23,6 +25,7 @@ tags:
 - adaptation
 - synapses
 - brain plasticity
+- plasticity
 related:
   broader:
   - neuroscience
@@ -101,6 +104,10 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - Blindfold experiments showed it could take as few as two days for the visual cortex to begin processing tactile and auditory signals when sight was completely blocked. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p217]
 - Pascual-Leone proposed that the brain is 'plastic, not elastic' — permanently altered by every encounter rather than returning to a previous state. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p215]
 - The operator theory proposes that individual brain parts are not committed to processing particular senses but compete to process abstract information like spatial relationships, movement, and shapes. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p218]
+- Brain injury such as stroke triggers neurogenesis, but whatever compensatory neurogenesis occurs is limited, since many neurological insults leave lasting damage. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p973]
+- New neurons sometimes make things worse after brain injury, migrating where they shouldn't and making circuits seizure-prone—described as neuronal pathological altruism. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p973]
+- The number of new neurons integrated into circuits reflects: number formed from stem cells, percentage differentiating into neurons versus glia, and rate at which new neurons survive and form functional synapses. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p974]
+- Voluntary exercise with glucocorticoid secretion enhances neurogenesis, while stress-induced glucocorticoid secretion inhibits it—the contrast between good and bad stress. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p974]
 
 ## Inferences
 
@@ -157,9 +164,12 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - Concepts: [[mental-practice]]
 - Concepts: [[operator-theory]]
 - Concepts: [[cross-modal-plasticity]]
+- Concepts: [[hippocampus]]
+- Concepts: [[stress]]
 - Topics: [[neuroscience]]
 - Topics: [[brain-function]]
 - Topics: [[learning]]
+- Topics: [[brain-development]]
 - Entities: [[Norman Doidge]]
 - Entities: [[William Greenough]]
 - Entities: [[Donald Hebb]]
@@ -176,9 +186,11 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - Primary source: [raw/books/health/Genius Foods - Max Lugavere.pdf#p1-562]
 - Additional source: [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p1-228]
 - Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `spark-the-revolutionary-new-science-of-exercise-and-the-john`.
 - 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.

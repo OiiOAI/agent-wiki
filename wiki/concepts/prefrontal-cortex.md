@@ -15,6 +15,8 @@ sources:
 - '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
 - '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 - '[raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]'
+- '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
+  M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
 confidence: high
 tags:
 - brain structure
@@ -101,6 +103,10 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Lhermitte's study found that patients with damaged frontal lobes almost always imitated absurd examiner gestures with great precision, even when asked not to and when told it wasn't required. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p35]
 - Patients with damaged frontal lobes remembered every gesture while normal participants forgot some, suggesting healthy frontal lobes redirect focus from subconscious pattern recognition. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p35]
 - The prefrontal cortex handles short-term memory and current thinking, meaning anything using it could affect willpower reserves. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p49]
+- The dlPFC is associated with deliberative, cognitive control while the vmPFC is associated with emotional processing and regulation. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p900]
+- By studying neuron firing patterns in the frontal cortex, researchers can predict decisions with about 80% accuracy roughly 700 milliseconds before conscious awareness. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p892]
+- Individuals with vmPFC damage are strongly and equally willing to pull the lever or push the person in trolley problem scenarios, unlike typical individuals. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1180]
+- The most probable sequence of PFC activation during emotional regulation is dlPFC activation, then vmPFC activation, then inhibition of the amygdala. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p905]
 
 ## Inferences
 
@@ -160,7 +166,13 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Concepts: [[willpower]]
 - Concepts: [[ego-depletion]]
 - Concepts: [[habit-formation]]
+- Concepts: [[amygdala]]
+- Concepts: [[executive-function]]
+- Concepts: [[moral-reasoning]]
+- Concepts: [[emotion-regulation]]
 - Topics: [[brain-science-for-habits]]
+- Topics: [[neuroscience]]
+- Topics: [[decision-making]]
 - Entities: [[Todd Preuss]]
 - Entities: [[Etienne Koechlin]]
 - Entities: [[Phineas Gage]]
@@ -178,6 +190,7 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
 - Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 - Additional source: [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]
+- Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
 
 ## Change notes
 
@@ -187,3 +200,4 @@ The region of the cortex at the front of the brain that evolved most recently an
 - 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.
 - 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.
 - 2026-04-25 — merged contributions from `mini-habits-smaller-habits-bigger-results-guise-stephen`.
+- 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.
