@@ -7017,3 +7017,37 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/triune-brain.md`
 - Files deprecated: None.
 - Notes: 102 new + 31 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | dbt-skills-training-handouts-and-worksheets-second-edition-m
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/DBT® Skills Training Handouts and Worksheets, Second Edition - Marsha M_ Linehan.pdf
+- Files created:
+  - `wiki/entities/marsha-m-linehan.md`
+  - `wiki/concepts/abc-please.md`
+  - `wiki/concepts/alternate-rebellion-and-adaptive-denial.md`
+  - `wiki/concepts/behavior-change-strategies.md`
+  - `wiki/concepts/biosocial-theory.md`
+  - `wiki/concepts/burning-bridges-and-building-new-ones.md`
+  - `wiki/concepts/chain-analysis.md`
+  - `wiki/concepts/clean-mind-and-clear-mind.md`
+  - `wiki/concepts/clear-mind.md`
+  - `wiki/concepts/core-mindfulness-skills.md`
+  - `wiki/concepts/dear-man.md`
+  - `wiki/concepts/dialectical-abstinence.md`
+  - `wiki/concepts/dialectics.md`
+  - `wiki/concepts/fast.md`
+  - `wiki/concepts/give.md`
+  - `wiki/concepts/half-smiling-and-willing-hands.md`
+  - `wiki/concepts/improve-the-moment.md`
+  - `wiki/concepts/mindfulness-of-current-thoughts.md`
+  - `wiki/concepts/opposite-action.md`
+  - `wiki/concepts/please-skills.md`
+  - `wiki/concepts/radical-acceptance.md`
+  - `wiki/concepts/tip-skills.md`
+  - `wiki/concepts/turning-the-mind.md`
+  - `wiki/concepts/validation.md`
+  - `wiki/concepts/wise-mind-accpts.md`
+  - `wiki/concepts/wise-mind.md`
+  - `wiki/sources/dbt-skills-training-handouts-and-worksheets-second-edition.md`
+- Files deprecated: None.
+- Notes: 27 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
