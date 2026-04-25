@@ -8434,3 +8434,38 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/surrender.md`
 - Files deprecated: None.
 - Notes: 34 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-courage-to-be-disliked-the-japanese-phenomenon-that-ichi
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The courage to be disliked_ the Japanese phenomenon that - Ichiro Kishimi, and Fumitake Koga.pdf
+- Files created:
+  - `wiki/entities/alfred-adler.md`
+  - `wiki/entities/fumitake-koga.md`
+  - `wiki/entities/ichiro-kishimi.md`
+  - `wiki/concepts/community-feeling.md`
+  - `wiki/concepts/confidence-in-others.md`
+  - `wiki/concepts/contribution-to-others.md`
+  - `wiki/concepts/courage-to-be-normal.md`
+  - `wiki/concepts/desire-for-recognition.md`
+  - `wiki/concepts/feeling-of-inferiority.md`
+  - `wiki/concepts/freedom.md`
+  - `wiki/concepts/horizontal-relationships.md`
+  - `wiki/concepts/if-i-change-the-world-will-change.md`
+  - `wiki/concepts/individual-psychology.md`
+  - `wiki/concepts/inferiority-complex.md`
+  - `wiki/concepts/life-as-series-of-moments.md`
+  - `wiki/concepts/life-lie.md`
+  - `wiki/concepts/life-tasks.md`
+  - `wiki/concepts/living-in-the-here-and-now.md`
+  - `wiki/concepts/meaning-of-life-in-adlerian-psychology.md`
+  - `wiki/concepts/pursuit-of-superiority.md`
+  - `wiki/concepts/self-acceptance.md`
+  - `wiki/concepts/separation-of-tasks.md`
+  - `wiki/concepts/superiority-complex.md`
+  - `wiki/concepts/teleology.md`
+  - `wiki/concepts/trauma-denial.md`
+  - `wiki/sources/the-courage-to-be-disliked.md`
+- Files merged (extended):
+  - `wiki/concepts/courage.md`
+- Files deprecated: None.
+- Notes: 26 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
