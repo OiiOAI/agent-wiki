@@ -6094,3 +6094,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/hu-shi-ying-wen-zhong-guo-si-xiang-shi-shou-ke-gang-yao-yi-gao-zheng-li-ben-hu-shi-zhu-hu-shi-1891-1962-author-hu-shi.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 般若波罗蜜多心经-简体注音本-唐三藏法师玄奘-仁慧草堂
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/般若波罗蜜多心经(简体注音本) - 唐三藏法师玄奘,仁慧草堂.pdf
+- Files created:
+  - `wiki/sources/ban-ruo-bo-luo-mi-duo-xin-jing-jian-ti-zhu-yin-ben.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
