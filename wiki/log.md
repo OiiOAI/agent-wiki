@@ -3176,3 +3176,69 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-mind-of-a-mnemonist.md`
 - Files deprecated: None.
 - Notes: 12 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-selfish-gene-40th-anniversary-edition-richard-dawkins
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Selfish Gene_ 40th Anniversary edition - Richard Dawkins.pdf
+- Files created:
+  - `wiki/entities/alan-grafen.md`
+  - `wiki/entities/amotz-zahavi.md`
+  - `wiki/entities/anatol-rapoport.md`
+  - `wiki/entities/beaver-dam.md`
+  - `wiki/entities/caddis-house.md`
+  - `wiki/entities/david-lack.md`
+  - `wiki/entities/heterocephalus-glaber.md`
+  - `wiki/entities/j-maynard-smith.md`
+  - `wiki/entities/r-d-alexander.md`
+  - `wiki/entities/r-l-trivers.md`
+  - `wiki/entities/robert-axelrod.md`
+  - `wiki/entities/t-gene.md`
+  - `wiki/entities/v-c-wynne-edwards.md`
+  - `wiki/entities/vampire-bats.md`
+  - `wiki/entities/w-d-hamilton.md`
+  - `wiki/concepts/altruism.md`
+  - `wiki/concepts/battle-of-the-sexes.md`
+  - `wiki/concepts/bottleneck-theory.md`
+  - `wiki/concepts/child-bearing-versus-child-caring.md`
+  - `wiki/concepts/crossing-over.md`
+  - `wiki/concepts/cuckoo-manipulation.md`
+  - `wiki/concepts/epideictic-displays.md`
+  - `wiki/concepts/evolutionarily-stable-strategy.md`
+  - `wiki/concepts/extended-phenotype.md`
+  - `wiki/concepts/gene-pool.md`
+  - `wiki/concepts/group-selection.md`
+  - `wiki/concepts/hamiltonian-relatedness-hymenoptera.md`
+  - `wiki/concepts/handicap-principle.md`
+  - `wiki/concepts/haplodiploidy.md`
+  - `wiki/concepts/hawk-dove-model.md`
+  - `wiki/concepts/hymenoptera-sex-ratios.md`
+  - `wiki/concepts/kin-relatedness.md`
+  - `wiki/concepts/life-dinner-principle.md`
+  - `wiki/concepts/meiotic-drive.md`
+  - `wiki/concepts/meme.md`
+  - `wiki/concepts/naked-mole-rat.md`
+  - `wiki/concepts/negative-feedback.md`
+  - `wiki/concepts/nice-guys-finish-first.md`
+  - `wiki/concepts/parasite-host-gene-cooperation.md`
+  - `wiki/concepts/parent-offspring-conflict.md`
+  - `wiki/concepts/parental-investment.md`
+  - `wiki/concepts/replicator.md`
+  - `wiki/concepts/segregation-distorters.md`
+  - `wiki/concepts/selfish-gene-theory.md`
+  - `wiki/concepts/sexual-conflict.md`
+  - `wiki/concepts/survival-machine.md`
+  - `wiki/concepts/symbiosis-mutualism.md`
+  - `wiki/concepts/tit-for-tat.md`
+  - `wiki/concepts/vehicle.md`
+  - `wiki/concepts/war-of-attrition.md`
+  - `wiki/topics/social-insects-eusociality.md`
+  - `wiki/sources/the-selfish-gene.md`
+  - `wiki/analyses/critique-wynne-edwards-group-selection.md`
+- Files merged (extended):
+  - `wiki/entities/richard-dawkins.md`
+  - `wiki/entities/robert-trivers.md`
+  - `wiki/concepts/kin-selection.md`
+  - `wiki/concepts/prisoners-dilemma.md`
+  - `wiki/concepts/reciprocal-altruism.md`
+- Files deprecated: None.
+- Notes: 53 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
