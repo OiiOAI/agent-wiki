@@ -10934,3 +10934,52 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/jing-ji-xue-jia-he-shuo-jiao-zhe.md`
 - Files deprecated: None.
 - Notes: 23 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 诺贝尔经济学奖获奖者学术精品自选集-社会选择-个性与多准则-美-肯尼思-约瑟夫-阿罗-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[诺贝尔经济学奖获奖者学术精品自选集]社会选择：个性与多准则·[美]肯尼思·约瑟夫·阿罗 著.pdf
+- Files created:
+  - `wiki/entities/a-luo-la-nao-de-fang-fa.md`
+  - `wiki/entities/a-luo.md`
+  - `wiki/entities/bo-er-da.md`
+  - `wiki/entities/dun-kang-bu-lai-ke.md`
+  - `wiki/entities/ke-he-le-suan-fa.md`
+  - `wiki/entities/ken-ni-si-yue-se-fu-a-luo.md`
+  - `wiki/entities/kenen-si-yue-se-fu-a-luo.md`
+  - `wiki/entities/kong-duo-sai.md`
+  - `wiki/concepts/a-luo-bu-ke-neng-xing-ding-li.md`
+  - `wiki/concepts/a-luo-gong-li-xi-tong.md`
+  - `wiki/concepts/bo-ge-sen-she-hui-fu-li-han-shu.md`
+  - `wiki/concepts/bu-chang-yuan-ze.md`
+  - `wiki/concepts/chuan-di-xing-tiao-jian.md`
+  - `wiki/concepts/dan-feng-zhi-pian-hao.md`
+  - `wiki/concepts/duo-zhun-ze-jue-ce.md`
+  - `wiki/concepts/fei-du-cai-tiao-jian.md`
+  - `wiki/concepts/ge-ren-jian-xiao-yong-bi-jiao.md`
+  - `wiki/concepts/ge-ren-zhu-yi-jia-she.md`
+  - `wiki/concepts/ji-ti-li-xing.md`
+  - `wiki/concepts/jin-shen-xu.md`
+  - `wiki/concepts/jue-ding-xing-ji-he.md`
+  - `wiki/concepts/ka-er-duo-bu-chang-yuan-ze.md`
+  - `wiki/concepts/ke-he-le-ding-li.md`
+  - `wiki/concepts/kong-duo-sai-san-yuan-zu.md`
+  - `wiki/concepts/kong-duo-sai-zhun-ze.md`
+  - `wiki/concepts/luo-mi-luo-suan-fa.md`
+  - `wiki/concepts/pa-lei-tuo-yuan-ze.md`
+  - `wiki/concepts/ping-deng-xing-tiao-jian.md`
+  - `wiki/concepts/ping-jia-han-shu.md`
+  - `wiki/concepts/ruo-xu.md`
+  - `wiki/concepts/she-hui-xuan-ze-li-lun.md`
+  - `wiki/concepts/she-hui-xuan-ze.md`
+  - `wiki/concepts/tou-piao-bei-lv.md`
+  - `wiki/concepts/wu-guan-bei-xuan-dui-xiang-de-du-li-xing.md`
+  - `wiki/concepts/xi-tuo-fu-si-ji-bu-chang-yuan-ze.md`
+  - `wiki/concepts/xu-guan-du-li-xing-gong-li.md`
+  - `wiki/concepts/yi-ban-ke-neng-xing-ding-li.md`
+  - `wiki/concepts/yi-lai-ke-tuo-fang-fa.md`
+  - `wiki/concepts/zhong-li-xing-tiao-jian.md`
+  - `wiki/sources/she-hui-xuan-ze-ge-xing-yu-duo-zhun-ze.md`
+- Files merged (extended):
+  - `wiki/concepts/she-hui-fu-li-han-shu.md`
+- Files deprecated: None.
+- Notes: 40 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
