@@ -11042,3 +11042,58 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/fu-li-jing-ji-xue.md`
 - Files deprecated: None.
 - Notes: 50 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 经济学的边际革命说明和评价-美-r-d-c-布莱克-a-w-科茨-克劳弗德-d-w-古德温-编
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/经济学的边际革命说明和评价·[美]R.D.C.布莱克 A.W.科茨 克劳弗德·D.W.古德温 编.pdf
+- Files created:
+  - `wiki/entities/an-jing-tao-mo.md`
+  - `wiki/entities/ao-di-li-xue-pai.md`
+  - `wiki/entities/fu-li-de-li-xi-wei-sai-er.md`
+  - `wiki/entities/fu-tian-de-san.md`
+  - `wiki/entities/gao-tian-bao-ma.md`
+  - `wiki/entities/jie-wen-si.md`
+  - `wiki/entities/ka-er-men-ge-er.md`
+  - `wiki/entities/kai-er-en-si.md`
+  - `wiki/entities/lai-ang-wa-er-la.md`
+  - `wiki/entities/lai-eng-wa-er-la-si.md`
+  - `wiki/entities/lai-eng-wa-er-la.md`
+  - `wiki/entities/men-ge-er.md`
+  - `wiki/entities/mu-le.md`
+  - `wiki/entities/ou-gen-pang-ba-wai-ke.md`
+  - `wiki/entities/pa-lei-tuo.md`
+  - `wiki/entities/w-s-jie-wen-si.md`
+  - `wiki/entities/wa-er-la.md`
+  - `wiki/entities/wei-er-fu-lei-duo-pa-lei-tuo.md`
+  - `wiki/entities/wei-lian-si-tan-li-jie-wen-si.md`
+  - `wiki/entities/xi-meng-niu-ke-mu.md`
+  - `wiki/entities/xiao-quan-xin-san.md`
+  - `wiki/entities/yue-han-lei-jing-ji-xue-jia.md`
+  - `wiki/entities/zhong-shan-yi-zhi-lang.md`
+  - `wiki/concepts/bian-ji-ge-ming.md`
+  - `wiki/concepts/bian-ji-geming.md`
+  - `wiki/concepts/bian-ji-xiao-yong-lun.md`
+  - `wiki/concepts/bian-ji-xiao-yong.md`
+  - `wiki/concepts/bian-ji-zhu-yi-shou-huo.md`
+  - `wiki/concepts/bian-ji-zhu-yi-zai-bei-mei-zhou-de-chuan-bo.md`
+  - `wiki/concepts/bian-ji-zhu-yi-zai-ri-ben.md`
+  - `wiki/concepts/bian-ji-zhu-yi-zai-yi-da-li.md`
+  - `wiki/concepts/bian-ji-zhu-yi.md`
+  - `wiki/concepts/chuan-ji-yan-jiu-fang-fa.md`
+  - `wiki/concepts/chun-jing-ji-xue.md`
+  - `wiki/concepts/gong-zi-ji-jin-lun.md`
+  - `wiki/concepts/jing-ji-ke-xue-zi-zhu-quan.md`
+  - `wiki/concepts/jing-ji-si-xiang-de-chuan-bo.md`
+  - `wiki/concepts/jing-ji-xue-ge-ming-de-zhuan-yi-xing-bi-jiao.md`
+  - `wiki/concepts/kuai-le-yu-tong-ku-j-su-n.md`
+  - `wiki/concepts/xi-shao-xing.md`
+  - `wiki/concepts/xiao-yong-lun-cai-yong-wen-ti.md`
+  - `wiki/concepts/xuan-ze-yuan-ze.md`
+  - `wiki/concepts/ying-guo-gu-dian-jing-ji-xue-de-shuai-luo.md`
+  - `wiki/topics/bian-ji-zhu-yi-yu-ma-ke-si-zhu-yi-de-guan-xi.md`
+  - `wiki/topics/bian-ji-zhu-yi-zai-yi-da-li-de-chuan-bo.md`
+  - `wiki/topics/gu-dian-yu-xin-gu-dian-jing-ji-xue-de-qu-bie.md`
+  - `wiki/sources/jing-ji-xue-de-bian-ji-geming-shuo-ming-he-ping-jia.md`
+  - `wiki/analyses/ao-di-li-xue-pai-shi-fou-shi-bian-ji-zhu-yi-zhe.md`
+- Files deprecated: None.
+- Notes: 48 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
