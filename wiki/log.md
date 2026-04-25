@@ -3517,3 +3517,19 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/turing-test.md`
 - Files deprecated: None.
 - Notes: 34 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-neural-correlates-of-consciousness-and-unconsciousness-i
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The neural correlates of consciousness and unconsciousness in sleep.pdf
+- Files created:
+  - `wiki/concepts/consciousness-during-sleep.md`
+  - `wiki/concepts/dreaming-experience.md`
+  - `wiki/concepts/fusiform-face-area.md`
+  - `wiki/concepts/high-density-eeg.md`
+  - `wiki/concepts/posterior-cortical-hot-zone.md`
+  - `wiki/concepts/serial-awakening-paradigm.md`
+  - `wiki/sources/the-neural-correlates-of-dreaming.md`
+- Files merged (extended):
+  - `wiki/entities/giulio-tononi.md`
+- Files deprecated: None.
+- Notes: 7 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
