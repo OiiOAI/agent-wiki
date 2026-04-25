@@ -4172,3 +4172,104 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/zhong-guo-si-xiang-shi-xia.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 坛经-解读-王德峰
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/《坛经》解读 - 王德峰.pdf
+- Files created:
+  - `wiki/entities/chan-zong.md`
+  - `wiki/entities/fa-da.md`
+  - `wiki/entities/fa-hai-shao-zhou-qu-jiang.md`
+  - `wiki/entities/fang-bian.md`
+  - `wiki/entities/hong-ren-fa-shi.md`
+  - `wiki/entities/huai-rang.md`
+  - `wiki/entities/hui-ming.md`
+  - `wiki/entities/hui-neng.md`
+  - `wiki/entities/nan-tai-he-shang.md`
+  - `wiki/entities/shen-xiu.md`
+  - `wiki/entities/tai-xu.md`
+  - `wiki/entities/wang-de-feng.md`
+  - `wiki/entities/wo-lun-chan-shi.md`
+  - `wiki/entities/wu-jin-cang.md`
+  - `wiki/entities/xing-si.md`
+  - `wiki/entities/yin-zong-fa-shi.md`
+  - `wiki/entities/yong-jia.md`
+  - `wiki/entities/zhang-xing-chang.md`
+  - `wiki/entities/zhi-cheng.md`
+  - `wiki/entities/zhi-dao.md`
+  - `wiki/entities/zhi-huang.md`
+  - `wiki/concepts/ban-ruo-pin.md`
+  - `wiki/concepts/ban-ruo.md`
+  - `wiki/concepts/bei-jing-zhuan.md`
+  - `wiki/concepts/bu-er-zhi-fa.md`
+  - `wiki/concepts/bu-sheng-bu-mie.md`
+  - `wiki/concepts/chan-hui-pin.md`
+  - `wiki/concepts/chan-zong-gong-an.md`
+  - `wiki/concepts/chan-zong-yu-zheng-zhi.md`
+  - `wiki/concepts/chang-yu-wu-chang.md`
+  - `wiki/concepts/ci-an-yu-bi-an.md`
+  - `wiki/concepts/dan-shui-kan-chai-mo-wu-miao-dao.md`
+  - `wiki/concepts/dan-wu-yu-jian-wu.md`
+  - `wiki/concepts/ding-hui-pin.md`
+  - `wiki/concepts/ding-hui-yi-ti.md`
+  - `wiki/concepts/dun-wu.md`
+  - `wiki/concepts/feng-dong-fan-dong.md`
+  - `wiki/concepts/fo-xue-zhong-guo-hua.md`
+  - `wiki/concepts/gen-xing.md`
+  - `wiki/concepts/gong-de-yu-fu-de-de-qu-bie.md`
+  - `wiki/concepts/gong-de-yu-fu-de.md`
+  - `wiki/concepts/hu-nian.md`
+  - `wiki/concepts/ji-xin-ji-fo.md`
+  - `wiki/concepts/ji-yuan-pin.md`
+  - `wiki/concepts/jian-xing-cheng-fo.md`
+  - `wiki/concepts/jie-ding-hui.md`
+  - `wiki/concepts/jing-you-xin-sheng.md`
+  - `wiki/concepts/liu-du.md`
+  - `wiki/concepts/ming-yu-fa-kong.md`
+  - `wiki/concepts/mo-he.md`
+  - `wiki/concepts/nie-pan.md`
+  - `wiki/concepts/pu-jing.md`
+  - `wiki/concepts/reason-yu-dao-li.md`
+  - `wiki/concepts/san-ju-yi.md`
+  - `wiki/concepts/san-mei.md`
+  - `wiki/concepts/san-shen-fo.md`
+  - `wiki/concepts/san-shen-si-zhi.md`
+  - `wiki/concepts/san-shi-liu-dui-fa.md`
+  - `wiki/concepts/shen-hui.md`
+  - `wiki/concepts/si-hong-shi-yuan.md`
+  - `wiki/concepts/si-shu-de-ci-xu.md`
+  - `wiki/concepts/wang-yang-ming-xin-xue-yu-chan-zong.md`
+  - `wiki/concepts/wu-fen-xiang.md`
+  - `wiki/concepts/wu-nian-wei-zong.md`
+  - `wiki/concepts/wu-nian-wu-xiang-wu-zhu.md`
+  - `wiki/concepts/wu-xiang-chan-hui.md`
+  - `wiki/concepts/wu-yu-zhi.md`
+  - `wiki/concepts/xi-fang-jing-tu-de-zhen-zheng-han-yi.md`
+  - `wiki/concepts/xiao-gen-yu-da-gen.md`
+  - `wiki/concepts/yi-hang-san-mei.md`
+  - `wiki/concepts/yi-hua-kai-wu-ye.md`
+  - `wiki/concepts/yi-lao-zhuang-jie-fo.md`
+  - `wiki/concepts/yi-wen-pin.md`
+  - `wiki/concepts/ying-wu-suo-zhu-er-sheng-qi-xin.md`
+  - `wiki/concepts/yuan-qi-xing-kong.md`
+  - `wiki/concepts/zai-jia-xiu-xing-shi-yao-dian.md`
+  - `wiki/concepts/zhen-jia-dong-jing-ji.md`
+  - `wiki/concepts/zheng-fa-yan-zang.md`
+  - `wiki/concepts/zhi-jie-zong-tu.md`
+  - `wiki/concepts/zhong-guo-si-xiang-zhong-zui-de-guan-nian.md`
+  - `wiki/concepts/zhou-xin-shi-dai.md`
+  - `wiki/concepts/zhuan-shi-cheng-zhi.md`
+  - `wiki/concepts/zi-wo-shi-chang-er-fei-shi-ti.md`
+  - `wiki/concepts/zi-xing-bu-dong.md`
+  - `wiki/concepts/zi-xing-ru-jin.md`
+  - `wiki/concepts/zi-xing-san-gui-yi.md`
+  - `wiki/concepts/zi-xing-zhen-fo-ji.md`
+  - `wiki/concepts/zi-xing-zi-du.md`
+  - `wiki/concepts/zi-xing.md`
+  - `wiki/concepts/zuo-chan-pin.md`
+  - `wiki/topics/dan-jian-pin-di-ba.md`
+  - `wiki/topics/tan-jing-zuo-chan-yu-chan-hui-de-xiu-xing-ti-xi.md`
+  - `wiki/sources/tan-jing-jie-du-wang-de-feng.md`
+  - `wiki/analyses/chan-zong-yu-ji-du-jiao-bi-jiao.md`
+- Files deprecated: None.
+- Notes: 94 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
