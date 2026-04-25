@@ -11612,3 +11612,31 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/di-san-shi-jie.md`
 - Files deprecated: None.
 - Notes: 27 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代西方主流学术名著译丛-失控的世界-英-安东尼-吉登斯-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/[当代西方主流学术名著译丛]失控的世界·[英]安东尼·吉登斯 著.pdf
+- Files created:
+  - `wiki/entities/an-dong-ni-ji-deng-si.md`
+  - `wiki/entities/di-san-tiao-dao-lu.md`
+  - `wiki/entities/ji-deng-si.md`
+  - `wiki/entities/jie-gou-hua-li-lun.md`
+  - `wiki/concepts/chuan-tong.md`
+  - `wiki/concepts/dui-hua-min-zhu.md`
+  - `wiki/concepts/feng-xian.md`
+  - `wiki/concepts/hou-kui-fa-she-hui.md`
+  - `wiki/concepts/jie-chuan-tong-hua.md`
+  - `wiki/concepts/jie-fang-zheng-zhi-yu-sheng-huo-zheng-zhi.md`
+  - `wiki/concepts/min-zhu-hua-min-zhu.md`
+  - `wiki/concepts/qing-gan-fang-mian-de-min-zhu.md`
+  - `wiki/concepts/she-hui-tou-zi-guo-jia.md`
+  - `wiki/concepts/sheng-huo-zheng-zhi.md`
+  - `wiki/concepts/shi-jie-zhu-yi-yu-yuan-jiao-zhu-yi.md`
+  - `wiki/concepts/shi-kong-shen-yan.md`
+  - `wiki/concepts/xian-dai-xing.md`
+  - `wiki/sources/shi-kong-de-shi-jie-quan-qiu-hua-ru-he-zhong-su-wo-men-de-sheng-huo.md`
+- Files merged (extended):
+  - `wiki/concepts/jia-ting.md`
+  - `wiki/concepts/quan-qiu-hua.md`
+- Files deprecated: None.
+- Notes: 18 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
