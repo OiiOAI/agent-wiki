@@ -7,6 +7,7 @@ created: '2026-04-25'
 updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p1-507]'
+- '[raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p1-155]'
 confidence: high
 aliases:
 - Ge Zhaoguang
@@ -21,14 +22,15 @@ related:
   - 中国思想史
   - 七世纪知识世界
   - 唐代思想
-  topics: []
+  - 历史记忆
+  - 思想资源
+  - 重新诠释
   entities:
   - 李零
   - 陈来
   - 李学勤
   - 朱维铮
 ---
-
 
 # 葛兆光
 
@@ -44,6 +46,8 @@ related:
 - 葛兆光曾著有《道教与中国文化》《中国禅思想史》等著作. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p503]
 - 葛兆光在写作本书过程中，参与学术讨论的友人包括李零、王守常、陈来、阎步克、陈平原、刘东、梁治平、钱文忠、何怀宏、黄平、汪晖等. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p504]
 - 葛兆光在本书后记中感谢了多位师友，包括李学勤、朱维铮、章培恒、钱理群、兴膳宏等教授. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p504]
+- 葛兆光主张用「历史记忆」「思想资源」和「重新诠释」来部分替代传统的「影响」概念. [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p104]
+- 葛兆光认为，在外来知识、思想与信仰介入和冲击的情况下，这种思想资源的发掘与诠释不仅没有消失，而且常常起着一种比附、转译和理解的作用. [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p104]
 
 ## Inferences
 
@@ -59,6 +63,9 @@ related:
 - Concepts: [[中国思想史]]
 - Concepts: [[七世纪知识世界]]
 - Concepts: [[唐代思想]]
+- Concepts: [[历史记忆]]
+- Concepts: [[思想资源]]
+- Concepts: [[重新诠释]]
 - Entities: [[李零]]
 - Entities: [[陈来]]
 - Entities: [[李学勤]]
@@ -67,7 +74,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p1-507]
+- Additional source: [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p1-155]
 
 ## Change notes
 
 - 2026-04-25 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `中国思想史-全三册-上册`.

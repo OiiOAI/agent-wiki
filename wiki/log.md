@@ -11365,3 +11365,44 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zhou-xin-shi-dai.md`
 - Files deprecated: None.
 - Notes: 81 new + 12 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 中国思想史-全三册-上册
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/中国思想史(全三册) - 上册.pdf
+- Files created:
+  - `wiki/entities/chu-tu-jian-bo-wen-xian.md`
+  - `wiki/entities/edward-w-said.md`
+  - `wiki/entities/gu-shi-bian-yun-dong.md`
+  - `wiki/entities/gu-xie-gang.md`
+  - `wiki/entities/hayden-white.md`
+  - `wiki/entities/joseph-r-levenson.md`
+  - `wiki/entities/michel-foucault.md`
+  - `wiki/entities/paul-a-cohen.md`
+  - `wiki/entities/wang-tong.md`
+  - `wiki/entities/zhang-da-chun.md`
+  - `wiki/concepts/chong-ji-hui-ying-mo-shi.md`
+  - `wiki/concepts/chun-qiu-bi-fa.md`
+  - `wiki/concepts/gong-shi-yu-chang-shi.md`
+  - `wiki/concepts/hou-xian-dai-li-shi-xue.md`
+  - `wiki/concepts/kao-gu-yu-wen-wu.md`
+  - `wiki/concepts/li-shi-ji-yi-de-liang-zhong-qu-xiang.md`
+  - `wiki/concepts/li-shi-ji-yi.md`
+  - `wiki/concepts/liu-jing-jie-shi.md`
+  - `wiki/concepts/qian-li-jie.md`
+  - `wiki/concepts/quan-li-yu-zhi-shi-de-guan-xi.md`
+  - `wiki/concepts/quan-li-yu-zhi-shi.md`
+  - `wiki/concepts/shi-jie-wen-ye.md`
+  - `wiki/concepts/si-xiang-shi-de-lian-xu-xing.md`
+  - `wiki/concepts/si-xiang-zi-yuan.md`
+  - `wiki/concepts/tian.md`
+  - `wiki/concepts/wu-hua-chu-ye-shi-hua.md`
+  - `wiki/concepts/xu-shu.md`
+  - `wiki/concepts/zhi-shi-de-kao-gu-xue.md`
+  - `wiki/concepts/zhi-shi-kao-gu-xue.md`
+  - `wiki/concepts/zhong-jie-yi-ju.md`
+  - `wiki/sources/zhong-guo-si-xiang-shi-quan-san-ce-shang-ce.md`
+- Files merged (extended):
+  - `wiki/entities/ge-zhao-guang.md`
+  - `wiki/entities/zhou-dun-yi.md`
+- Files deprecated: None.
+- Notes: 31 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

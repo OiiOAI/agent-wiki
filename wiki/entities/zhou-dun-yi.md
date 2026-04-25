@@ -4,14 +4,16 @@ title: 周敦颐
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
+- '[raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p1-155]'
 canonical: 周敦颐
 confidence: high
 aliases:
 - 濂溪先生
 - 周濂溪
+- 周敦颐
 tags:
 - 道学家
 - 宋代
@@ -21,13 +23,14 @@ related:
   - 太极
   - 理气
   - 无欲故静
-  topics: []
+  - 叙述与真实
+  - 宋明理学
+  - 思想史书写
   entities:
   - 邵雍
   - 陈抟
   - 朱震
 ---
-
 
 # 周敦颐
 
@@ -46,6 +49,9 @@ related:
 - 太极为理，阴阳五行为气，理气二观念在宋明道学中占甚重要之地位，濂溪盖发其端. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p761]
 - 人性本善，发而不合乎中者即为恶，故君子慎动. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p762]
 - 修养方法在于“无欲故静”，一者无欲也. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p764]
+- 被当作「宋儒之首」的周敦颐在当时虽然收了程颢、程颐两个好学生，却没有什么人会注意到他的言论. [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p123]
+- 周敦颐是因为程颢、程颐这两个好学生，后来在张栻、朱熹的表彰下凸显，这一判断被元人接受下来，写在《宋史》中. [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p123]
+- 邓广铭指出周敦颐在思想史上的位置与历史并不合，其崇高地位多出后人追拟. [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p123]
 
 ## Inferences
 
@@ -65,6 +71,9 @@ related:
 - Concepts: [[太极]]
 - Concepts: [[理气]]
 - Concepts: [[无欲故静]]
+- Concepts: [[叙述与真实]]
+- Concepts: [[宋明理学]]
+- Concepts: [[思想史书写]]
 - Entities: [[邵雍]]
 - Entities: [[陈抟]]
 - Entities: [[朱震]]
@@ -72,7 +81,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
+- Additional source: [raw/books/philosophy/中国思想史(全三册) - 上册.pdf#p1-155]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `中国思想史-全三册-上册`.
