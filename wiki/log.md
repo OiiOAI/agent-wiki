@@ -11198,3 +11198,61 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/long-duan.md`
 - Files deprecated: None.
 - Notes: 27 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 预言与劝说-英-j-m-凯恩斯-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/预言与劝说·[英]J.M.凯恩斯 著.pdf
+- Files created:
+  - `wiki/entities/cai-zheng-bu-xin-tiao.md`
+  - `wiki/entities/dao-wei-si-ji-hua.md`
+  - `wiki/entities/guo-ji-huang-jin-ben-wei-zhi-bi-ji-hua.md`
+  - `wiki/entities/h-g-wei-er-si.md`
+  - `wiki/entities/j-m-kai-en-si.md`
+  - `wiki/entities/jing-ji-wei-yuan-hui.md`
+  - `wiki/entities/kai-en-si.md`
+  - `wiki/entities/r-f-ka-en.md`
+  - `wiki/entities/ying-ge-lan-yin-hang.md`
+  - `wiki/entities/zi-you-dang-ji-hua.md`
+  - `wiki/concepts/cai-zheng-guan-shui.md`
+  - `wiki/concepts/cheng-shu-xiao-ying.md`
+  - `wiki/concepts/de-guo-pei-kuan-wen-ti.md`
+  - `wiki/concepts/ding-liang-pei-gei.md`
+  - `wiki/concepts/gong-chan-zhu-yi-xin-yang.md`
+  - `wiki/concepts/gou-mai-li.md`
+  - `wiki/concepts/guan-li-huo-bi.md`
+  - `wiki/concepts/guo-ji-lian-meng-yu-he-yue-xiu-zheng.md`
+  - `wiki/concepts/ji-ben-diao-zheng.md`
+  - `wiki/concepts/jia-ge-wen-ding-yu-hui-lv-wen-ding.md`
+  - `wiki/concepts/jia-ting-jin-tie.md`
+  - `wiki/concepts/jie-jian-bei-lun.md`
+  - `wiki/concepts/jin-ben-wei-zhi-du.md`
+  - `wiki/concepts/jin-ben-wei-zhi-pi-ping.md`
+  - `wiki/concepts/jin-ben-wei.md`
+  - `wiki/concepts/jin-suo-zheng-ce.md`
+  - `wiki/concepts/kuo-zhang-zheng-ce.md`
+  - `wiki/concepts/qiang-zhi-chu-xu.md`
+  - `wiki/concepts/shi-ye-wen-ti.md`
+  - `wiki/concepts/su-e-jing-ji.md`
+  - `wiki/concepts/tong-huo-jin-su-zheng-ce.md`
+  - `wiki/concepts/tong-huo-peng-zhang-ji-zhi.md`
+  - `wiki/concepts/wen-ding-shi-dai.md`
+  - `wiki/concepts/xie-yue-guo-zhan-zhai-wen-ti.md`
+  - `wiki/concepts/xin-yong-xian-zhi-zheng-ce.md`
+  - `wiki/concepts/yan-qi-zhi-fu-shou-ru-ji-hua.md`
+  - `wiki/concepts/zheng-fu-zhi-ze.md`
+  - `wiki/concepts/zi-ben-ji-lei.md`
+  - `wiki/concepts/zi-ben-zhi-chu-zheng-ce.md`
+  - `wiki/concepts/zi-you-fang-ren-zhu-yi-de-zhong-jie.md`
+  - `wiki/concepts/zi-you-mao-yi-tong-meng-jian-yi.md`
+  - `wiki/concepts/zi-you-zhu-yi.md`
+  - `wiki/topics/1930-nian-dai-da-xiao-huang.md`
+  - `wiki/topics/fan-er-sai-he-yue-de-jing-ji-hou-guo.md`
+  - `wiki/topics/jing-ji-fu-su-fang-an.md`
+  - `wiki/topics/xie-yue-guo-zhan-zhai-yu-de-guo-pei-kuan.md`
+  - `wiki/topics/yin-hang-xi-tong-wei-ji.md`
+  - `wiki/sources/yu-yan-yu-quan-shuo.md`
+  - `wiki/analyses/qiu-ji-er-1925-nian-hui-fu-jin-ben-wei-zheng-ce-de-pi-ping.md`
+- Files merged (extended):
+  - `wiki/concepts/gong-li-zhu-yi.md`
+- Files deprecated: None.
+- Notes: 49 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
