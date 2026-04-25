@@ -6102,3 +6102,79 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/ban-ruo-bo-luo-mi-duo-xin-jing-jian-ti-zhu-yin-ben.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 荀子译注
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/荀子译注.epub
+- Files created:
+  - `wiki/entities/shao-zheng-mao.md`
+  - `wiki/entities/sun-shu-ao.md`
+  - `wiki/entities/ye-gong-zi-gao.md`
+  - `wiki/entities/zeng-zi.md`
+  - `wiki/entities/zhou-gong.md`
+  - `wiki/entities/zi-gong.md`
+  - `wiki/concepts/bian-shuo-zhi-shu.md`
+  - `wiki/concepts/bu-gou.md`
+  - `wiki/concepts/chen-dao.md`
+  - `wiki/concepts/cheng-xiang.md`
+  - `wiki/concepts/dao-de-zhi-wei.md`
+  - `wiki/concepts/fei-shi-er-zi.md`
+  - `wiki/concepts/fei-xiang.md`
+  - `wiki/concepts/fu-xunzi.md`
+  - `wiki/concepts/ji-si.md`
+  - `wiki/concepts/jian-ren-san-shu.md`
+  - `wiki/concepts/jie-bi.md`
+  - `wiki/concepts/jun-zhe-zhou-ye-shu-ren-zhe-shui-ye.md`
+  - `wiki/concepts/jun-zhou-min-shui.md`
+  - `wiki/concepts/li-rites.md`
+  - `wiki/concepts/li-yi.md`
+  - `wiki/concepts/li-zhi-zhu-yi.md`
+  - `wiki/concepts/ming-fen-shi-qun.md`
+  - `wiki/concepts/ming-zhu-ren-ji-bu-xin-nu.md`
+  - `wiki/concepts/neng-qun.md`
+  - `wiki/concepts/niao-qiong-ze-zhuo-shou-qiong-ze-jue-ren-qiong-ze-zha.md`
+  - `wiki/concepts/quan-mou-li-er-wang.md`
+  - `wiki/concepts/quan-xue.md`
+  - `wiki/concepts/ren-dao-you-bian.md`
+  - `wiki/concepts/rong-ru.md`
+  - `wiki/concepts/ru-xiao.md`
+  - `wiki/concepts/san-nian-zhi-sang.md`
+  - `wiki/concepts/sang-li.md`
+  - `wiki/concepts/shang-xian-shi-neng.md`
+  - `wiki/concepts/sheng-wang-zhi-dao.md`
+  - `wiki/concepts/shi-fa.md`
+  - `wiki/concepts/shu.md`
+  - `wiki/concepts/tian-ren-guan-xi-lun.md`
+  - `wiki/concepts/tian-ren-zhi-fen.md`
+  - `wiki/concepts/wang-ba-zhi-bian.md`
+  - `wiki/concepts/wang-dao-yu-ba-dao.md`
+  - `wiki/concepts/wei.md`
+  - `wiki/concepts/xiao-dao-filial-piety.md`
+  - `wiki/concepts/xin-li-er-ba.md`
+  - `wiki/concepts/xing-wei-he.md`
+  - `wiki/concepts/xiu-shen.md`
+  - `wiki/concepts/xu-yi-er-jing.md`
+  - `wiki/concepts/xue-zhi-yu-xing.md`
+  - `wiki/concepts/ya-ru-yu-su-ru.md`
+  - `wiki/concepts/yi-bing.md`
+  - `wiki/concepts/yi-li-er-wang.md`
+  - `wiki/concepts/yu-min.md`
+  - `wiki/concepts/yue-music.md`
+  - `wiki/concepts/zhi-shi.md`
+  - `wiki/concepts/zhi-tian-ming-er-yong-zhi.md`
+  - `wiki/topics/qiang-guo.md`
+  - `wiki/topics/tian-lun.md`
+  - `wiki/topics/zheng-lun.md`
+  - `wiki/topics/zhong-ni-di-qi.md`
+  - `wiki/sources/xun-zi-yi-zhu.md`
+  - `wiki/analyses/ren-de-wu-yi-yong-ren-shi-jun-zi-xian-ren-da-sheng.md`
+- Files merged (extended):
+  - `wiki/entities/kong-zi.md`
+  - `wiki/entities/xun-zi.md`
+  - `wiki/entities/zi-lu.md`
+  - `wiki/concepts/li-ritual.md`
+  - `wiki/concepts/li-yue.md`
+  - `wiki/concepts/xing-e-lun.md`
+  - `wiki/concepts/zheng-ming.md`
+- Files deprecated: None.
+- Notes: 61 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

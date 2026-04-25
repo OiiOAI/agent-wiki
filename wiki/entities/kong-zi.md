@@ -8,12 +8,14 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
+- '[raw/books/philosophy/荀子译注.epub#L1-L1]'
 canonical: 孔子
 confidence: high
 aliases:
 - 孔子
 - 孔丘
 - 孔夫子
+- 仲尼
 tags:
 - 孔子
 - 儒家创始人
@@ -23,6 +25,9 @@ tags:
 - 易学
 - 十翼
 - 六经
+- 儒家
+- 春秋
+- 教育
 related:
   concepts:
   - liu-yi
@@ -33,6 +38,10 @@ related:
   - 三年之丧
   - 易学
   - 六经
+  - 礼
+  - 孝道
+  - 仁
+  - 义
   topics:
   - 中国哲学
   entities:
@@ -42,6 +51,8 @@ related:
   - 孟子
   - 子路
   - 颜渊
+  - 子贡
+  - 少正卯
 ---
 
 # 孔子
@@ -81,6 +92,10 @@ related:
 - 《史记》《汉书》载孔子“序《彖》《系》《象》《说卦》《文言》”，作《易传》，但欧阳修质疑《系辞》《文言》《说卦》而下非一人之言。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p150]
 - 作者认为孔子在前人《易》说基础上对《周易》作过口头阐释，弟子及后人记录加工补充，形成“十翼”，反映孔子思想却是后人托名之作。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p153]
 - 孔子是鲁国人，曾在鲁国做官，应见过韩宣子在鲁国所见的“《易象》与鲁《春秋》”，这是体现周礼的书。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p151]
+- 孔子观看鲁桓公庙中的宥坐之器，领悟到满则覆的道理，提出聪明圣知守之以愚、功被天下守之以让、勇力抚世守之以怯、富有四海守之以谦的持满之道. [raw/books/philosophy/荀子译注.epub#L7965-L7978]
+- 孔子为鲁司寇时，父子讼者拘之三月不别，体现了先教后刑的思想. [raw/books/philosophy/荀子译注.epub#L7993-L8007]
+- 孔子以水为喻阐述君子之德：水遍与诸生而无为似德，流埤下而循理似义，赴百仞之谷不惧似勇. [raw/books/philosophy/荀子译注.epub#L8072-L8082]
+- 孔子困于陈蔡之间七日不火食，仍教导弟子君子博学深谋不遇时者多矣，需修身端行以俟其时. [raw/books/philosophy/荀子译注.epub#L8115-L8130]
 
 ## Inferences
 
@@ -89,6 +104,8 @@ related:
 - Inference: 孔子以六艺教人，注重礼之本及乐之原理，不只讲其形式节奏。
 - Inference: 孔子删《诗》而“述而不作”，对前人《易》注可能也作过口头阐释，故司马迁说“中国言六艺者，折中于夫子”是有根据的。
 - Inference: 正因为孔子研究《周易》，“十翼”被列入经文，西汉人才将《周易》假孔子之名而益高其学术地位，使之成为六经之首。
+- Inference: 《荀子》引用孔子言论，表明荀子对孔子思想的继承和发展，荀子虽主张性恶论，但在礼义教化方面与孔子一脉相承。
+- Inference: 孔子在《荀子》中被塑造为道德典范和智慧象征，其言论多围绕修身、齐家、治国展开。
 
 ## Uncertainties
 
@@ -122,6 +139,10 @@ related:
 - Concepts: [[三年之丧]]
 - Concepts: [[易学]]
 - Concepts: [[六经]]
+- Concepts: [[礼]]
+- Concepts: [[孝道]]
+- Concepts: [[仁]]
+- Concepts: [[义]]
 - Topics: [[中国哲学]]
 - Entities: [[zi-xue-shi-dai]]
 - Entities: [[ru-jia]]
@@ -129,13 +150,17 @@ related:
 - Entities: [[孟子]]
 - Entities: [[子路]]
 - Entities: [[颜渊]]
+- Entities: [[子贡]]
+- Entities: [[少正卯]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
+- Additional source: [raw/books/philosophy/荀子译注.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `周易概论-刘大钧`.
+- 2026-04-25 — merged contributions from `荀子译注`.
