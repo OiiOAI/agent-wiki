@@ -5808,3 +5808,29 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/li-qi.md`
 - Files deprecated: None.
 - Notes: 74 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 王弼周易注-魏-王弼
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub
+- Files created:
+  - `wiki/concepts/da-zhuang-hexagram.md`
+  - `wiki/concepts/dun-hexagram.md`
+  - `wiki/concepts/fu-hexagram.md`
+  - `wiki/concepts/ge-qu-gu-ding-qu-xin.md`
+  - `wiki/concepts/heng-hexagram.md`
+  - `wiki/concepts/jia-ren-hexagram.md`
+  - `wiki/concepts/kan-hexagram.md`
+  - `wiki/concepts/kun-hexagram.md`
+  - `wiki/concepts/li-hexagram.md`
+  - `wiki/concepts/ming-yi-hexagram.md`
+  - `wiki/concepts/qian-hexagram.md`
+  - `wiki/concepts/sun-yi-zhi-dao.md`
+  - `wiki/concepts/wu-wang-hexagram.md`
+  - `wiki/concepts/xian-hexagram.md`
+  - `wiki/concepts/xu-gua.md`
+  - `wiki/concepts/za-gua.md`
+  - `wiki/sources/wang-bi-zhou-yi-zhu.md`
+- Files merged (extended):
+  - `wiki/entities/wang-bi.md`
+- Files deprecated: None.
+- Notes: 17 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

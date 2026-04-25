@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
 - '[raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]'
+- '[raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1-L1]'
 confidence: high
 aliases:
 - 王辅嗣
@@ -20,6 +21,8 @@ tags:
 - 魏晋
 - 易学
 - 玄学
+- 魏晋玄学家
+- 三国
 canonical: true
 related:
   concepts:
@@ -30,9 +33,13 @@ related:
   - 贵无
   - 得意忘言
   - 得象忘言
+  - 以无为本
+  - 正始玄风
   topics:
   - 中国哲学
   - 玄学
+  - 魏晋玄学
+  - 义理派易学
   entities:
   - 孔颖达
   - 韩康伯
@@ -59,11 +66,15 @@ related:
 - 自唐至宋，读书人求取功名皆以王弼注本为标准本. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p183]
 - 王弼（226-249）魏晋时期《易经》阐释家，开启了不需借助占卜、直接通过本体宇宙论理解来把握《易经》的思路. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p166]
 - 王弼在《周易略例》中提出「得象忘言」「得意忘象」. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p175]
+- 王弼字辅嗣，山阳郡人，三国时期魏国玄学家. [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1]
+- 王弼创立「得意忘象」说，对中国哲学史影响深远. [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1]
+- 王弼的代表著作包括《老子注》《周易注》等. [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1]
 
 ## Inferences
 
 - Inference: 王弼虽弃象数不用，但其《易》本于费直，费氏《易》中定有象数之说；且王弼注《复卦》用《易纬》六日七分之义，出字吐语最重阴阳与爻位，心中仍严格掌握卦象，并非完全排斥象数，只是杂入老庄之学，以玄学唯心主义解释《周易》。
 - Inference: 王弼对《易》象认识从“尽意莫若象”到“忘象以求其意”，体现了认识的深化：得“意”后不必拘泥具体“象”而受其拘泥，这是对汉人琐碎比附的批判，在这点上是一个进步，但也给后人的附会打开了方便之门，为宋人以理说《易》奠定了理论基础。
+- Inference: 王弼以老庄思想注解《周易》，一扫两汉象数之学的繁琐，开启了魏晋玄学清谈之风
 
 ## Uncertainties
 
@@ -91,8 +102,12 @@ related:
 - Concepts: [[贵无]]
 - Concepts: [[得意忘言]]
 - Concepts: [[得象忘言]]
+- Concepts: [[以无为本]]
+- Concepts: [[正始玄风]]
 - Topics: [[中国哲学]]
 - Topics: [[玄学]]
+- Topics: [[魏晋玄学]]
+- Topics: [[义理派易学]]
 - Entities: [[孔颖达]]
 - Entities: [[韩康伯]]
 - Entities: [[李鼎祚]]
@@ -101,8 +116,10 @@ related:
 
 - Primary source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
 - Additional source: [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]
+- Additional source: [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `易学本体论-成中英著-成中英`.
+- 2026-04-25 — merged contributions from `王弼周易注-魏-王弼`.
