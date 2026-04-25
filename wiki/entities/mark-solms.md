@@ -8,10 +8,13 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
 - '[raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p1-36]'
+- '[raw/books/psychology/The Revised Standard Edition of The Complete Psychological
+  - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]'
 canonical: Mark Solms
 confidence: high
 aliases:
 - M. Solms
+- Mark Solms
 tags:
 - neuroscientist
 - neuropsychoanalyst
@@ -21,6 +24,9 @@ tags:
 - neuropsychologist
 - researcher
 - dream-research
+- editor
+- revised standard edition
+- neuropsychoanalysis
 related:
   concepts:
   - consciousness
@@ -34,17 +40,25 @@ related:
   - hard problem of consciousness
   - clinico-anatomical-method
   - neuropsychology-of-dreams
+  - Revised Standard Edition
+  - translation
   topics:
   - consciousness-studies
   - affective-neuroscience
   - artificial consciousness
   - neuropsychology
+  - history of psychoanalysis
+  - English translation of Freud
   entities:
   - jaak-panksepp
   - karl-friston
   - oliver-sacks
   - london-hospital-medical-college
   - university-college-london
+  - james-strachey
+  - anna-freud
+  - ilse-grubrich-simitis
+  - riccardo-steiner
 ---
 
 # Mark Solms
@@ -72,6 +86,11 @@ Mark Solms is a South African neuroscientist and neuropsychoanalyst who has spen
 - He conducted a systematic clinico-anatomical study of dreaming over several years starting in 1985, examining 361 neurological and neurosurgical patients. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p21]
 - Solms collaborated with Dr. Karen Kaplan-Solms, who contributed fundamentally to the scientific project. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p19]
 - He acknowledges Professor Michael Saling for helping plan the study and Dr. Oliver Turnbull for assisting in almost every aspect of the research. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p19]
+- Mark Solms was appointed Editor of the Revised Standard Edition in 1995, succeeding Albert Dickson, and incorporated Dickson's extensive editing of Strachey's marked-up copies and notes. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p23]
+- Solms chose to translate 'Trieb' as 'drive' rather than Strachey's 'instinct,' justifying this as an error correction rather than a controversial alternative translation. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p26]
+- Solms decided to underscore all differences between the SE and RSE in the text to ensure transparency about editorial changes, though this policy may be dropped in later editions once the RSE is established. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p29]
+- Solms continued Strachey's policy of not revealing the identities of Freud's patients, on the grounds that to do otherwise would undermine the absolute ethical principle of confidentiality in psychoanalysis. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p30]
+- The RSE was published in 2024, more than three decades after the project was formally announced, due to the gradual expansion of the planned revisions. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p23]
 
 ## Inferences
 
@@ -112,22 +131,32 @@ Mark Solms is a South African neuroscientist and neuropsychoanalyst who has spen
 - Concepts: [[hard problem of consciousness]]
 - Concepts: [[clinico-anatomical-method]]
 - Concepts: [[neuropsychology-of-dreams]]
+- Concepts: [[Revised Standard Edition]]
+- Concepts: [[translation]]
 - Topics: [[consciousness-studies]]
 - Topics: [[affective-neuroscience]]
 - Topics: [[artificial consciousness]]
 - Topics: [[neuropsychology]]
+- Topics: [[history of psychoanalysis]]
+- Topics: [[English translation of Freud]]
 - Entities: [[jaak-panksepp]]
 - Entities: [[karl-friston]]
 - Entities: [[oliver-sacks]]
 - Entities: [[london-hospital-medical-college]]
 - Entities: [[university-college-london]]
+- Entities: [[james-strachey]]
+- Entities: [[anna-freud]]
+- Entities: [[ilse-grubrich-simitis]]
+- Entities: [[riccardo-steiner]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
 - Additional source: [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p1-36]
+- Additional source: [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-neuropsychology-of-dreams-a-clinico-anatomical-study`.
+- 2026-04-25 — merged contributions from `the-revised-standard-edition-of-the-complete-psychological-s`.

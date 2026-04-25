@@ -12,6 +12,8 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/psychology/The Revised Standard Edition of The Complete Psychological
+  - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]'
 confidence: medium
 tags:
 - disorder
@@ -25,9 +27,16 @@ tags:
 - thought-disorder
 - heritable
 - complex-genetics
+- freud
+- psychosis
+- narcissism
+- language
+- repression
 aliases:
 - schizophrenia
 - schizo
+- dementia praecox
+- Bleuler's schizophrenia
 canonical: true
 related:
   concepts:
@@ -47,8 +56,16 @@ related:
   - dopamine-hypothesis
   - brain-development
   - working-memory
+  - the-unconscious
+  - repression
+  - narcissism
+  - word-presentations
+  - organ-speech
+  - reality-testing
   topics:
   - disorders of thought and volition
+  - transference-neuroses
+  - narcissistic-neuroses
   entities:
   - autism spectrum disorder
   - disc1
@@ -87,12 +104,23 @@ A psychiatric disorder discussed in relation to consciousness and unconscious pr
 - Neuroanatomic abnormalities in schizophrenia include loss of gray matter in prefrontal and temporal cortex, ventricular enlargement, and reduced dendritic spine density. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1445-1446]
 - Antipsychotic drugs act on dopaminergic systems in the brain; their potency in treating positive symptoms correlates strongly with D2 dopamine receptor affinity. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1449]
 - The normal loss of gray matter during adolescence through synaptic pruning is accelerated in adolescents who develop schizophrenia. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1448]
+- In schizophrenia, after repression, the libido withdrawn from the real object does not seek a new object but retreats into the ego, giving up object cathexes. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4567]
+- The incapacity of schizophrenic patients for transference, their repudiation of the external world, and hypercathexis of their own ego agree with the assumption that object cathexes have been given up. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4567]
+- In schizophrenia, words are subjected to the same process that makes dream images out of latent dream thoughts—condensation and displacement—transferring cathexes between words in their entirety. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4569]
+- The characteristic strangeness of substitutive formation in schizophrenia results from the predominance of word presentations over thing presentations. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4570]
 
 ## Inferences
 
 - Inference: Schizophrenia may represent a disorder of consciousness signatures, where the brain's ability to generate normal conscious markers is impaired
 - Inference: The overpruning hypothesis suggests schizophrenia may result from abnormal and excessive synaptic pruning during adolescence, supported by the association with complement factor C4.
 - Inference: The correlation between monozygotic twin concordance rates and genetic relatedness suggests genes contribute substantially to schizophrenia risk, but the 48% (not 100%) concordance indicates environmental or stochastic factors also play important roles.
+- Inference: Schizophrenia involves a more radical and profound flight of the ego than the transference neuroses.
+- Inference: The hallucinatory phase of schizophrenia corresponds to a fresh attempt at restitution designed to restore libidinal cathexis to ideas of objects.
+
+## Uncertainties
+
+- Uncertain: The precise relationship between the ego-object relation and the relationships of consciousness in schizophrenia is not fully established.
+- Uncertain: Whether the process termed repression in schizophrenia has anything in common with repression in transference neuroses remains doubtful.
 
 ## Related pages
 
@@ -118,7 +146,15 @@ A psychiatric disorder discussed in relation to consciousness and unconscious pr
 - Concepts: [[dopamine-hypothesis]]
 - Concepts: [[brain-development]]
 - Concepts: [[working-memory]]
+- Concepts: [[the-unconscious]]
+- Concepts: [[repression]]
+- Concepts: [[narcissism]]
+- Concepts: [[word-presentations]]
+- Concepts: [[organ-speech]]
+- Concepts: [[reality-testing]]
 - Topics: [[disorders of thought and volition]]
+- Topics: [[transference-neuroses]]
+- Topics: [[narcissistic-neuroses]]
 - Entities: [[autism spectrum disorder]]
 - Entities: [[disc1]]
 - Entities: [[neuregulin]]
@@ -128,9 +164,11 @@ A psychiatric disorder discussed in relation to consciousness and unconscious pr
 - Primary source: [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p1-411]
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-revised-standard-edition-of-the-complete-psychological-s`.

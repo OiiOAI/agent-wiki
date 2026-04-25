@@ -8,12 +8,17 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]'
 - '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
+- '[raw/books/psychology/The Revised Standard Edition of The Complete Psychological
+  - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]'
 confidence: high
 tags:
 - memory
 - perception
 - phenomenology
 - neuroscience
+- deja-vu
+- unconscious
+- phantasy
 related:
   broader:
   - misattribution
@@ -37,6 +42,10 @@ Déjà vu is a misattribution phenomenon characterized by an intense feeling of 
 - In the 1950s, Wilder Penfield discovered that déjà vu could be artificially generated through electrical brain stimulation. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p112]
 - When Penfield stimulated areas in the temporal lobes, some patients reported déjà vu—one patient said 'things seem familiar,' another felt 'as though I had been through this before.'. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p112]
 - Penfield's findings suggested that the brain can generate an intensely strong feeling of familiarity even if a specific memory does not come to mind. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p112]
+- Freud proposes that déjà vu corresponds to the recollection of an unconscious fantasy rather than an actual previous experience. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2231]
+- A detailed analysis describes a woman who felt she had visited a house before, when in reality she had unconsciously expected her brother to die (like a friend's brother) and dressed for mourning, though the actual visit was for ordinary purposes. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2231]
+- Ferenczi reported that déjà vu can derive not only from daydreams but also from forgotten (repressed) portions of night dreams. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2232]
+- Freud relates his own fleeting déjà vu experiences to emotional constellations of the moment that awakened unconscious phantasies. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2232]
 
 ## Related pages
 
@@ -46,13 +55,20 @@ Déjà vu is a misattribution phenomenon characterized by an intense feeling of 
 - Concepts: [[configural similarity]]
 - Concepts: [[perirhinal-cortex]]
 - Concepts: [[temporal-lobe]]
+- Concepts: [[unconscious-phantasy]]
+- Concepts: [[memory]]
+- Concepts: [[déjà-vu]]
+- Concepts: [[repression]]
+- Topics: [[psychopathology-of-everyday-life]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]
 - Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
+- Additional source: [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.
+- 2026-04-25 — merged contributions from `the-revised-standard-edition-of-the-complete-psychological-s`.

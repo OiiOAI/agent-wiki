@@ -8,6 +8,8 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/Models - Mark Manson.pdf#p1-274]'
 - '[raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]'
+- '[raw/books/psychology/The Revised Standard Edition of The Complete Psychological
+  - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]'
 confidence: high
 tags:
 - anticoncept
@@ -17,6 +19,10 @@ tags:
 - personality
 - self-esteem
 - social-dynamics
+- psychoanalysis
+- libido
+- narcissism
+- concept
 related:
   broader:
   - human-nature
@@ -66,11 +72,17 @@ Narcissism is presented as a form of overcompensation for neediness. When men fi
 - Deep narcissists see others as extensions of themselves (self-objects), instruments for attention and validation. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p64]
 - The book identifies four types of deep narcissists: Complete Control Narcissists, Theatrical Narcissists, Narcissistic Couples, and Narcissistic Leaders. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p74]
 - Healthy narcissists have stronger, more resilient self-esteem and can turn attention outward toward work or people. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p67]
+- Freud borrowed the term 'narcissism' from a perversion described by Paul Näcke (1899) in which an adult treats his own body with caresses usually devoted to an outside sexual object. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p5172]
+- Narcissism is the libidinal complement to egoism—when we speak of egoism we have in view only the individual's advantage, while narcissism also takes libidinal satisfaction into account. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p5173]
+- Primary narcissism is the universal and original state from which object love is later developed without the narcissism necessarily disappearing. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p5172]
+- Auto-erotism is the sexual activity of the narcissistic stage of allocation of the libido. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p5172]
+- Freud compared the ego to an amoeba that puts out pseudopodia (object cathexes) into which it can withdraw its substance and form itself into a globule again (ego libido). [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p5172]
 
 ## Inferences
 
 - Inference: The book changed the term 'False Confidence' to 'narcissism' in revised editions, considering it more precise and comprehensible.
 - Inference: The book suggests that self-love and narcissism exist on a spectrum, with healthy self-esteem being essential for developing empathy rather than being opposed to it.
+- Inference: Narcissism and egoism can be traced separately for quite a distance—egoism is self-evident and constant while narcissism is the variable element
 
 ## Related pages
 
@@ -100,13 +112,20 @@ Narcissism is presented as a form of overcompensation for neediness. When men fi
 - Concepts: [[self-love]]
 - Concepts: [[empathy]]
 - Concepts: [[human-nature]]
+- Concepts: [[libido-theory]]
+- Concepts: [[ego-libido]]
+- Concepts: [[object-libido]]
+- Concepts: [[narcissistic-neuroses]]
+- Concepts: [[auto-erotism]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/Models - Mark Manson.pdf#p1-274]
 - Additional source: [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]
+- Additional source: [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-laws-of-human-nature-robert-greene`.
+- 2026-04-25 — merged contributions from `the-revised-standard-edition-of-the-complete-psychological-s`.

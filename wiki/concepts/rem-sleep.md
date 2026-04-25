@@ -11,6 +11,8 @@ sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]'
+- '[raw/books/psychology/The Revised Standard Edition of The Complete Psychological
+  - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]'
 confidence: high
 tags:
 - REM sleep
@@ -62,6 +64,10 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - During REM sleep, heart rate, blood pressure, and breathing vary widely, and men experience prolonged erections while women experience clitoral swelling. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p48]
 - During REM sleep, the brain exhibits a near-complete loss of muscle tone called atonia, preventing the dreamer from acting out movements. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p55]
 - The first REM period occurs roughly 90 minutes after sleep onset, and REM periods increase in length as the night progresses. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p49]
+- Aserinsky and Kleitman discovered REM sleep in 1953, the same year the Standard Edition was published, showing that most dreams occur during this periodic physiological state of arousal. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1268]
+- Jouvet (1967) found that REM state is generated in the pons, a lowly brainstem structure, seemingly contradicting Freud's view that dreams originate from unconscious wishes. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1268]
+- Solms (1997) established a 'double dissociation' between REM sleep and dreaming through lesion studies, showing that dreaming is only lost with damage to certain forebrain structures, not the pons. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1269]
+- Solms's research confirmed Freud's view that forebrain arousal is necessary for dreaming, while the pons generates automatic REM cycles regardless of wishful content. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1270]
 
 ## Inferences
 
@@ -90,7 +96,10 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - Concepts: [[atonia]]
 - Concepts: [[eye movements]]
 - Concepts: [[sleep cycle]]
+- Concepts: [[dream-interpretation]]
+- Concepts: [[wish-fulfillment]]
 - Topics: [[sleep-and-dreaming]]
+- Topics: [[neuroscience]]
 - Entities: [[pons]]
 - Entities: [[ventrolateral periaqueductal gray]]
 
@@ -99,9 +108,11 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]
+- Additional source: [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `when-brains-dream-antonio-zadra`.
+- 2026-04-25 — merged contributions from `the-revised-standard-edition-of-the-complete-psychological-s`.

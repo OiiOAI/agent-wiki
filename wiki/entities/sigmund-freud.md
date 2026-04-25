@@ -10,6 +10,8 @@ sources:
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
 - '[raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p1-603]'
+- '[raw/books/psychology/The Revised Standard Edition of The Complete Psychological
+  - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]'
 confidence: medium
 tags:
 - scientist
@@ -23,7 +25,10 @@ tags:
 - psychology
 - sense-of-justice
 - envy
-aliases: []
+- vienna
+- lectures
+aliases:
+- Freud, Sigmund
 canonical: true
 related:
   concepts:
@@ -39,6 +44,16 @@ related:
   - envy
   - sense-of-justice
   - resentment
+  - parapraxes
+  - oedipus-complex
+  - unconscious
+  - dreams
+  - neuroses
+  - psychoanalysis
+  - structural-model
+  - ego-psychology
+  topics:
+  - psychoanalysis
   entities:
   - eric-kandel
   - mr-l
@@ -65,6 +80,12 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 - Freud remarks that the sense of justice is the outgrowth of envy and jealousy, with the less favored moved by envy to take away advantages from the more favored. [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p476]
 - Rawls argues that Freud's account assumes an incorrect description of initial attitudes, confusing opposing interests with being moved by envy. [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p477]
 - Rawls distinguishes between envy and resentment, arguing that Freud conflates these and therefore wrongly traces the sense of justice to envy rather than to resentment at unfair treatment. [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p477]
+- Freud was Professor Extraordinarius (assistant professor) at the University of Vienna and gave university lectures from 1885 onward. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4786]
+- Freud decided the 1915/16 lecture series would be his last university lectures, agreeing to publish them at Otto Rank's suggestion. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4786]
+- Freud characterized the Introductory Lectures as a stocktaking of his views and the position of psychoanalysis at the time of the First World War. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p4786]
+- These lectures were delivered fifteen years after Freud's original Introductory Lectures, providing addenda including the structural model of the mind. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p6903]
+- Freud expressed the conviction that no one has a right to join in a discussion of psychoanalysis who has not had particular experiences which can only be obtained by being analysed oneself. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p6903]
+- Freud collaborated with W.C. Bullitt on a draft psychological study of President Wilson, whose political judgement he was highly critical of. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p6907]
 
 ## Inferences
 
@@ -74,7 +95,10 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 
 - Broader: [[neurologists]]
 - Broader: [[psychoanalysts]]
+- Broader: [[psychoanalysis]]
 - Narrower: [[psychoanalysis]]
+- Narrower: [[the-ego-and-the-id]]
+- Narrower: [[new-introductory-lectures]]
 - Adjacent: [[freuds-theory]]
 - Concepts: [[neuroscience]]
 - Concepts: [[neuroanatomy]]
@@ -88,6 +112,15 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 - Concepts: [[envy]]
 - Concepts: [[sense-of-justice]]
 - Concepts: [[resentment]]
+- Concepts: [[parapraxes]]
+- Concepts: [[oedipus-complex]]
+- Concepts: [[unconscious]]
+- Concepts: [[dreams]]
+- Concepts: [[neuroses]]
+- Concepts: [[psychoanalysis]]
+- Concepts: [[structural-model]]
+- Concepts: [[ego-psychology]]
+- Topics: [[psychoanalysis]]
 - Entities: [[eric-kandel]]
 - Entities: [[mr-l]]
 
@@ -96,9 +129,11 @@ Sigmund Freud (1856-1939) was an Austrian neurologist and the founder of psychoa
 - Primary source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
 - Additional source: [raw/books/philosophy/A Theory of Justice_ Original Edition - Rawls, John.pdf#p1-603]
+- Additional source: [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p1-8101]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
 - 2026-04-25 — merged contributions from `a-theory-of-justice-original-edition-rawls-john`.
+- 2026-04-25 — merged contributions from `the-revised-standard-edition-of-the-complete-psychological-s`.
