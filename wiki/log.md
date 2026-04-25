@@ -4051,3 +4051,61 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-hero-with-a-thousand-faces.md`
 - Files deprecated: None.
 - Notes: 63 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-righteous-mind-jonathan-haidt
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf
+- Files created:
+  - `wiki/entities/baruch-spinoza.md`
+  - `wiki/entities/david-sloan-wilson.md`
+  - `wiki/entities/drew-westen.md`
+  - `wiki/entities/eric-schwitzgebel.md`
+  - `wiki/entities/harold-haidt.md`
+  - `wiki/entities/michael-tomasello.md`
+  - `wiki/concepts/anomie.md`
+  - `wiki/concepts/attitude-polarization.md`
+  - `wiki/concepts/collective-effervescence.md`
+  - `wiki/concepts/confirmation-bias.md`
+  - `wiki/concepts/cultural-group-selection.md`
+  - `wiki/concepts/cumulative-culture.md`
+  - `wiki/concepts/durheimian-utilitarianism.md`
+  - `wiki/concepts/fairness-foundation.md`
+  - `wiki/concepts/free-rider-problem.md`
+  - `wiki/concepts/gene-culture-coevolution.md`
+  - `wiki/concepts/grand-narratives-political.md`
+  - `wiki/concepts/hive-hypothesis.md`
+  - `wiki/concepts/hive-switch.md`
+  - `wiki/concepts/homo-duplex.md`
+  - `wiki/concepts/liberty-oppression-foundation.md`
+  - `wiki/concepts/life-narratives.md`
+  - `wiki/concepts/major-transitions.md`
+  - `wiki/concepts/manichaeism-political.md`
+  - `wiki/concepts/moral-capital.md`
+  - `wiki/concepts/moral-dumbfounding.md`
+  - `wiki/concepts/moral-exoskeleton.md`
+  - `wiki/concepts/moral-foundations-theory.md`
+  - `wiki/concepts/moral-systems.md`
+  - `wiki/concepts/motivated-reasoning.md`
+  - `wiki/concepts/multilevel-selection.md`
+  - `wiki/concepts/parochial-altruism.md`
+  - `wiki/concepts/political-polarization.md`
+  - `wiki/concepts/rationalist-delusion.md`
+  - `wiki/concepts/religion-as-team-sport.md`
+  - `wiki/concepts/religion-team-sport.md`
+  - `wiki/concepts/rider-and-elephant-metaphor.md`
+  - `wiki/concepts/shared-intentionality.md`
+  - `wiki/concepts/social-intuitionist-model.md`
+  - `wiki/concepts/superorganism.md`
+  - `wiki/concepts/three-ethics-framework.md`
+  - `wiki/concepts/ultrasociality.md`
+  - `wiki/concepts/weird-populations.md`
+  - `wiki/concepts/yin-and-yang-political.md`
+  - `wiki/topics/morality-binds-and-blinds.md`
+  - `wiki/sources/the-righteous-mind.md`
+- Files merged (extended):
+  - `wiki/entities/emile-durkheim.md`
+  - `wiki/entities/ernst-fehr.md`
+  - `wiki/entities/jonathan-haidt.md`
+  - `wiki/concepts/group-selection.md`
+- Files deprecated: None.
+- Notes: 46 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
