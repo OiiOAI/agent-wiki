@@ -10,6 +10,7 @@ sources:
 - '[raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L1-L1]'
 - '[raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。
   - 王阳明, 黎业明.pdf#p1-466]'
+- '[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]'
 canonical: 王守仁
 confidence: high
 aliases:
@@ -28,6 +29,7 @@ tags:
 - 宋明理学
 - 思想家
 - 军事家
+- 哲学家
 related:
   concepts:
   - 心学
@@ -41,6 +43,11 @@ related:
   - 朱子晚年定论
   - 良知
   - 格物
+  - 本心即佛
+  - 禅悦之风
+  topics:
+  - 明代思想史
+  - 宋明理学
   entities:
   - 陆象山
   - 朱熹
@@ -58,6 +65,9 @@ related:
   - 欧阳崇一
   - 罗钦顺
   - 聂豹
+  - 慧能
+  - 达摩
+  - 陆九渊
 ---
 
 # 王阳明
@@ -101,6 +111,9 @@ related:
 - 王阳明主张良知不滞于见闻，而亦不离于见闻. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p264]
 - 王阳明认为格物者，《大学》之实下手处，彻首彻尾，自始学至圣人，只此工夫而已. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p277]
 - 王阳明编辑《朱子晚年定论》，是不得已而然，主要目的在于委曲调停朱陆论争，以昌明圣学为重. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p280]
+- 王阳明以陆氏心学及禅学为基础建立王氏心学，被称为"阳明禅". [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p71]
+- 王阳明曾与池州太平山禅僧谈禅，作偈语："不向少林面壁，却来九华看山". [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p70]
+- 陈建评价王阳明："一生所尊信者达摩、慧能，而于孔、曾、思、孟皆有所不满". [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p71]
 
 ## Inferences
 
@@ -137,6 +150,10 @@ related:
 - Concepts: [[朱子晚年定论]]
 - Concepts: [[良知]]
 - Concepts: [[格物]]
+- Concepts: [[本心即佛]]
+- Concepts: [[禅悦之风]]
+- Topics: [[明代思想史]]
+- Topics: [[宋明理学]]
 - Entities: [[陆象山]]
 - Entities: [[朱熹]]
 - Entities: [[王龙溪]]
@@ -153,15 +170,20 @@ related:
 - Entities: [[欧阳崇一]]
 - Entities: [[罗钦顺]]
 - Entities: [[聂豹]]
+- Entities: [[慧能]]
+- Entities: [[达摩]]
+- Entities: [[陆九渊]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L1-L1]
 - Additional source: [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p1-466]
+- Additional source: [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `传习录-中华经典名著全本全注全译丛书-陆永胜译注`.
 - 2026-04-25 — merged contributions from `传习录-全本全注全译-了解王阳明的行动哲学-参透知行合一之教-从这本-传习录-译注开始-点校细致-注释妥帖-翻译精确-王`.
+- 2026-04-25 — merged contributions from `禅宗与中国文化-葛兆光著`.

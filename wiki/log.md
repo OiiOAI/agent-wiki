@@ -11443,3 +11443,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/wu-wei.md`
 - Files deprecated: None.
 - Notes: 28 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 禅宗与中国文化-葛兆光著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf
+- Files created:
+  - `wiki/entities/da-guan.md`
+  - `wiki/entities/da-mo.md`
+  - `wiki/entities/dong-qi-chang.md`
+  - `wiki/entities/huang-ting-jian.md`
+  - `wiki/entities/li-zhi.md`
+  - `wiki/entities/pei-xiu.md`
+  - `wiki/entities/tang-xian-zu.md`
+  - `wiki/entities/tao-wang-ling.md`
+  - `wiki/entities/wang-wei.md`
+  - `wiki/entities/yuan-hong-dao.md`
+  - `wiki/concepts/ben-xin-ji-fo.md`
+  - `wiki/concepts/chan-yue-zhi-feng.md`
+  - `wiki/concepts/chan-zong-yi-shu-si-wei.md`
+  - `wiki/concepts/ge-xing-jie-fang.md`
+  - `wiki/concepts/han-xu.md`
+  - `wiki/concepts/huo-can.md`
+  - `wiki/concepts/jian-lian.md`
+  - `wiki/concepts/jian-shan-shi-shan.md`
+  - `wiki/concepts/kuang-chan.md`
+  - `wiki/concepts/nan-bei-zong-lun.md`
+  - `wiki/concepts/ru-chan-hu-bu.md`
+  - `wiki/concepts/san-jiao-he-yi.md`
+  - `wiki/concepts/shi-da-fu-xin-li-jie-gou-bian-hua.md`
+  - `wiki/concepts/shi-yi-ren-sheng-zhe-xue.md`
+  - `wiki/concepts/tong-xin-shuo.md`
+  - `wiki/concepts/wu-ren-zhi-jing.md`
+  - `wiki/concepts/yi-hua-kai-wi-ye.md`
+  - `wiki/concepts/yi-qing-fan-li.md`
+  - `wiki/concepts/yi-shu-gou-si.md`
+  - `wiki/concepts/yi-zhu-si-wei.md`
+  - `wiki/concepts/zhi-jue-guan-zhao.md`
+  - `wiki/concepts/zi-ran-ning-lian-han-xu.md`
+  - `wiki/topics/chan-zong-yu-shi-da-fu-de-jiao-wang.md`
+  - `wiki/topics/ming-dai-yi-duan-si-chao.md`
+  - `wiki/topics/shi-da-fu-de-shen-mei-qing-qu.md`
+  - `wiki/sources/chan-zong-yu-zhong-guo-wen-hua.md`
+- Files merged (extended):
+  - `wiki/entities/hui-neng.md`
+  - `wiki/entities/li-ao.md`
+  - `wiki/entities/shen-xiu.md`
+  - `wiki/entities/su-shi.md`
+  - `wiki/entities/wang-yang-ming.md`
+  - `wiki/concepts/dun-wu.md`
+- Files deprecated: None.
+- Notes: 36 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -10,6 +10,7 @@ sources:
 - '[raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲
   - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]'
 - '[raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p1-507]'
+- '[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]'
 confidence: high
 tags:
 - 禅宗
@@ -23,18 +24,23 @@ tags:
 - 佛教
 - 修行
 - 中国佛教
+- 解脱
 related:
   broader:
   - 东方哲学传统
   - 精神修炼
   - 佛教修行论
   - 佛性论
+  - 禅宗修行方法
+  - 南宗禅
   narrower:
   - 坐禅
   - 瑜伽呼吸
   - 善不受报
   adjacent:
   - 格式塔心理学
+  - 渐悟
+  - 本心即佛
 aliases: []
 ---
 
@@ -70,6 +76,10 @@ aliases: []
 - 竺道生依据《涅槃经》提倡一阐提人皆得佛性和顿悟成佛. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p433]
 - 竺道生提出善不受报、顿悟成佛的惊人想法. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p421]
 - 顿悟使得解脱与超越之路显得十分容易，随其心净则佛土净. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p421]
+- 惠能主张"若起正真般若观照，一剎那间妄念俱灭，若识自性，一悟即至佛"，强调顿悟成佛. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p23]
+- 马祖道一在怀让磨砖点拨下悟得"磨砖岂能成镜，坐禅岂能成佛"，放弃苦修旧法. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p23]
+- 顿悟比渐修更简便易行，"言下领会，更不历阶梯地位"，真正做到"立地成佛". [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p23]
+- 谢灵运《辨宗论》提出"华人易于见理，难于受教"，主张中国人应以"顿了"方式理解佛教解脱. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p15]
 
 ## Inferences
 
@@ -77,6 +87,7 @@ aliases: []
 - Inference: 作者提出，如果同一性能够随时间变化，幻觉理论就是不必要的——自我可以真正发生转变，而非仅仅是认识到一直存在但被遮蔽的真实自我。
 - Inference: 作者引用帕斯卡的赌注比喻，建议人们在面对顿悟的可能性时，既要保持尝试性的开放态度，又要有几分谨慎，以避免两种典型错误——拒绝真实的事物或接受虚假的事物。
 - Inference: 顿悟说的提出使佛教的清规戒律、修行方法与理论分析都处在被瓦解的边缘
+- Inference: 顿悟思想的兴起契合了唐代中后期士大夫追求简便解脱、避免繁琐修行的心理需求。
 
 ## Uncertainties
 
@@ -90,10 +101,14 @@ aliases: []
 - Broader: [[精神修炼]]
 - Broader: [[佛教修行论]]
 - Broader: [[佛性论]]
+- Broader: [[禅宗修行方法]]
+- Broader: [[南宗禅]]
 - Narrower: [[坐禅]]
 - Narrower: [[瑜伽呼吸]]
 - Narrower: [[善不受报]]
 - Adjacent: [[格式塔心理学]]
+- Adjacent: [[渐悟]]
+- Adjacent: [[本心即佛]]
 - Concepts: [[渐悟]]
 - Concepts: [[见性成佛]]
 - Concepts: [[悟缘]]
@@ -119,15 +134,20 @@ aliases: []
 - Entities: [[神秀]]
 - Entities: [[奥罗宾多]]
 - Entities: [[竺道生]]
+- Entities: [[马祖道一]]
+- Entities: [[怀让]]
+- Entities: [[谢灵运]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]
 - Additional source: [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p1-507]
+- Additional source: [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `二十世纪西方哲学经典-套装共10册-上海译文出品-从历史哲学到科学哲学-十本书搭建一世纪的哲学方程式-读懂二十世纪的哲-`.
 - 2026-04-25 — merged contributions from `中国文库-哲学社会科学类-中国思想史-卷一-七世纪前中国的知识-思想与信仰世界-葛兆光-1950`.
+- 2026-04-25 — merged contributions from `禅宗与中国文化-葛兆光著`.

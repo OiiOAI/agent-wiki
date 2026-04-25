@@ -10,6 +10,7 @@ sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]'
 confidence: high
 aliases:
 - 六祖惠能
@@ -29,6 +30,7 @@ tags:
 - 道佛比较
 - 佛教
 - 唐代
+- 顿悟
 canonical: true
 related:
   concepts:
@@ -42,6 +44,9 @@ related:
   - 自性自度
   - 自性
   - 南宗禅
+  - 顿悟成佛
+  - 本心即佛
+  - 佛性清净
   topics:
   - 佛教中国化
   - 禅宗发展
@@ -99,16 +104,31 @@ related:
 - 诸佛妙理，非关文字. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2939-L2940]
 - 我此法门，从上以来，先立无念为宗，无相为体，无住为本. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2539-L2540]
 - 法本一宗，人有南北；法即一种，见有迟疾；法无顿渐，人有利钝，故名顿渐. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L3408-L3409]
+- 惠能俗姓卢，岭南新州樵夫出身，听人诵《金刚经》开悟后前往黄梅拜见五祖弘忍. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p18]
+- 惠能作偈"菩提本无树，明镜亦非台"，以"本来无一物"的顿悟思想胜过神秀的渐修主张. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p19]
+- 惠能主张"自心是佛，更莫狐疑，外无一物而得建立"，强调直指本心、顿悟成佛. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p19]
+- 惠能认为"佛性常清净，何处有尘埃"，彻底否定客观世界的真实性，主张心外无法. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p22]
+- 惠能创立的南宗禅在安史之乱后逐渐兴盛，最终压倒北宗禅，成为中国禅宗的主流. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p27]
 
 ## Inferences
 
 - Inference: 惠能之所以能完成佛学革命，与他不识字的特殊身份密切相关——他必须用最通俗的语言传法，才能让普通百姓理解。
+- Inference: 惠能虽不识字，但其顿悟思想比神秀更彻底地否定了客观世界，更符合中国士大夫追求简便解脱的心理需求。
+
+## Uncertainties
+
+- Uncertain: 惠能得衣钵传法的公案真实性有争议，敦煌本《楞伽师资记》记载神秀为弘忍接班人。
 
 ## Related pages
 
 - Broader: [[禅宗]]
 - Broader: [[南宗]]
 - Broader: [[中国佛教]]
+- Broader: [[南宗禅]]
+- Broader: [[中国禅宗]]
+- Narrower: [[神会]]
+- Narrower: [[怀让]]
+- Narrower: [[马祖道一]]
 - Adjacent: [[弘忍]]
 - Adjacent: [[神秀]]
 - Concepts: [[顿悟]]
@@ -121,6 +141,9 @@ related:
 - Concepts: [[自性自度]]
 - Concepts: [[自性]]
 - Concepts: [[南宗禅]]
+- Concepts: [[顿悟成佛]]
+- Concepts: [[本心即佛]]
+- Concepts: [[佛性清净]]
 - Topics: [[佛教中国化]]
 - Topics: [[禅宗发展]]
 - Topics: [[di-er-jiang-dao-jia-de-bian-zheng-si-xiang]]
@@ -147,6 +170,7 @@ related:
 - Additional source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]
 
 ## Change notes
 
@@ -154,3 +178,4 @@ related:
 - 2026-04-25 — merged contributions from `中国哲学史-套装上下册-冯友兰`.
 - 2026-04-25 — merged contributions from `第二讲精要-王德峰讲-道德经-庄子`.
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
+- 2026-04-25 — merged contributions from `禅宗与中国文化-葛兆光著`.
