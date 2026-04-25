@@ -132,3 +132,34 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/boundaries-cloud-townsend.md`
 - Files deprecated: None.
 - Notes: 15 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | high-output-management
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/High_Output_Management.epub
+- Files created:
+  - `wiki/entities/andrew-s-grove.md`
+  - `wiki/entities/intel-corporation.md`
+  - `wiki/concepts/black-box-model.md`
+  - `wiki/concepts/compensation-feedback.md`
+  - `wiki/concepts/dual-reporting.md`
+  - `wiki/concepts/hybrid-organization.md`
+  - `wiki/concepts/ideal-decision-making-model.md`
+  - `wiki/concepts/interviewing.md`
+  - `wiki/concepts/limiting-step.md`
+  - `wiki/concepts/management-by-objectives.md`
+  - `wiki/concepts/managerial-leverage.md`
+  - `wiki/concepts/managerial-training.md`
+  - `wiki/concepts/maslow-hierarchy.md`
+  - `wiki/concepts/modes-of-control.md`
+  - `wiki/concepts/one-on-one-meeting.md`
+  - `wiki/concepts/output-oriented-management.md`
+  - `wiki/concepts/peer-group-syndrome.md`
+  - `wiki/concepts/performance-appraisal.md`
+  - `wiki/concepts/performance-review-delivery.md`
+  - `wiki/concepts/peter-principle.md`
+  - `wiki/concepts/productivity.md`
+  - `wiki/concepts/task-relevant-maturity.md`
+  - `wiki/concepts/valued-employee-retention.md`
+  - `wiki/sources/high-output-management.md`
+- Files deprecated: None.
+- Notes: 24 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
