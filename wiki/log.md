@@ -9462,3 +9462,25 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/good-strategy-bad-strategy.md`
 - Files deprecated: None.
 - Notes: 49 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | how-to-measure-anything
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/How_to_Measure_Anything.epub
+- Files created:
+  - `wiki/concepts/apgar-score.md`
+  - `wiki/concepts/beaufort-wind-scale.md`
+  - `wiki/concepts/eccentricity.md`
+  - `wiki/concepts/fibonacci-sequence.md`
+  - `wiki/concepts/geological-time-scale.md`
+  - `wiki/concepts/imperial-system.md`
+  - `wiki/concepts/musical-notation.md`
+  - `wiki/concepts/nuclear-physics-units.md`
+  - `wiki/concepts/ohms-law.md`
+  - `wiki/concepts/ph.md`
+  - `wiki/concepts/photography-units.md`
+  - `wiki/concepts/richter-scale.md`
+  - `wiki/concepts/si-base-units.md`
+  - `wiki/concepts/standard-deviation.md`
+  - `wiki/sources/how-to-measure-anything-the-science-of-measurement.md`
+- Files deprecated: None.
+- Notes: 15 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
