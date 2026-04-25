@@ -4,26 +4,33 @@ title: Emotional Granularity
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman
   Barrett.pdf#p1-554]'
+- '[raw/books/psychology/Permission to feel _ unlocking the power of emotions to help
+  - Marc Ph D Brackett; OverDrive, Inc.pdf#p1-259]'
 confidence: high
 tags:
 - emotion
 - individual-differences
 - vocabulary
+- granularity
+- lisa-feldman-barrett
+- emotion-regulation
 related:
   broader:
   - emotion concepts
+  - emotion-labeling
+  - emotion-regulation
   narrower:
   - alexithymia
   - emotion expertise
   adjacent:
   - conceptual combination
   - vocabulary
+aliases: []
 ---
-
 
 # Emotional Granularity
 
@@ -46,11 +53,16 @@ Emotional granularity refers to the variation in how individuals use emotion wor
 - People who exhibit higher emotional granularity go to the doctor less frequently, use medication less frequently, and spend fewer days hospitalized for illness. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p202]
 - People with finely distinguished unpleasant feelings were 30 percent more flexible when regulating their emotions. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p203]
 - Lower emotional granularity is associated with major depressive disorder, social anxiety disorder, eating disorders, autism spectrum disorders, and borderline personality disorder. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p203]
+- Lisa Feldman Barrett defines emotional granularity as the 'adaptive value of putting feelings into words with a high degree of complexity' that mirrors one's inner life. [raw/books/psychology/Permission to feel _ unlocking the power of emotions to help - Marc Ph D Brackett; OverDrive, Inc.pdf#p101]
+- Granular individuals—those who define emotions precisely—are better able to differentiate their emotional experiences and are less likely to 'freak out or abuse alcohol when under stress.'. [raw/books/psychology/Permission to feel _ unlocking the power of emotions to help - Marc Ph D Brackett; OverDrive, Inc.pdf#p101]
+- Clumpers—people low in emotional granularity—score worse on emotion regulation and tend to be physically and psychologically ill at higher rates than granular individuals. [raw/books/psychology/Permission to feel _ unlocking the power of emotions to help - Marc Ph D Brackett; OverDrive, Inc.pdf#p101]
+- If people can define multiple shades of a low-pleasantness, high-energy emotion—such as annoyed, disgusted, irritated, frustrated—they can modulate responses and stop themselves before hitting full-blown rage. [raw/books/psychology/Permission to feel _ unlocking the power of emotions to help - Marc Ph D Brackett; OverDrive, Inc.pdf#p101]
 
 ## Inferences
 
 - Inference: Teaching new emotion concepts (like liget or schadenfreude) could broaden emotional granularity and improve mental health outcomes.
 - Inference: Emotional granularity develops through acquiring new emotion concepts via travel, reading, movies, and learning words from other languages.
+- Inference: Emotional granularity appears to be trainable through exposure to a rich emotion vocabulary, suggesting that education in emotion words can improve emotional regulation outcomes.
 
 ## Uncertainties
 
@@ -59,6 +71,8 @@ Emotional granularity refers to the variation in how individuals use emotion wor
 ## Related pages
 
 - Broader: [[emotion concepts]]
+- Broader: [[emotion-labeling]]
+- Broader: [[emotion-regulation]]
 - Narrower: [[alexithymia]]
 - Narrower: [[emotion expertise]]
 - Adjacent: [[conceptual combination]]
@@ -72,12 +86,17 @@ Emotional granularity refers to the variation in how individuals use emotion wor
 - Concepts: [[body-budget]]
 - Concepts: [[emotional-intelligence]]
 - Concepts: [[recategorization]]
+- Concepts: [[emotion-labeling]]
+- Concepts: [[alexithymia]]
+- Concepts: [[affective-labeling]]
 - Topics: [[constructed-emotion-theory]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p1-554]
+- Additional source: [raw/books/psychology/Permission to feel _ unlocking the power of emotions to help - Marc Ph D Brackett; OverDrive, Inc.pdf#p1-259]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `permission-to-feel-unlocking-the-power-of-emotions-to-help-m`.

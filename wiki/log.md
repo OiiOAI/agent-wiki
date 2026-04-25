@@ -7402,3 +7402,43 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/empathy.md`
 - Files deprecated: None.
 - Notes: 28 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | permission-to-feel-unlocking-the-power-of-emotions-to-help-m
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Permission to feel _ unlocking the power of emotions to help - Marc Ph D Brackett; OverDrive, Inc.pdf
+- Files created:
+  - `wiki/entities/casel.md`
+  - `wiki/entities/celadon-books.md`
+  - `wiki/entities/marc-brackett.md`
+  - `wiki/entities/oji-life-lab.md`
+  - `wiki/entities/ruler-approach.md`
+  - `wiki/entities/yale-center-for-emotional-intelligence.md`
+  - `wiki/concepts/affective-labeling.md`
+  - `wiki/concepts/bullying-and-its-effects.md`
+  - `wiki/concepts/co-regulation.md`
+  - `wiki/concepts/cognitive-reframing.md`
+  - `wiki/concepts/college-student-mental-health.md`
+  - `wiki/concepts/core-relational-themes.md`
+  - `wiki/concepts/emotion-labeling.md`
+  - `wiki/concepts/emotion-regulation.md`
+  - `wiki/concepts/emotion-scientist.md`
+  - `wiki/concepts/emotion-skills.md`
+  - `wiki/concepts/emotional-intelligence-in-the-workplace.md`
+  - `wiki/concepts/family-charter.md`
+  - `wiki/concepts/meta-moment.md`
+  - `wiki/concepts/mindful-breathing.md`
+  - `wiki/concepts/mood-meter.md`
+  - `wiki/concepts/ruler-framework.md`
+  - `wiki/concepts/ruler.md`
+  - `wiki/concepts/social-and-emotional-learning.md`
+  - `wiki/topics/emotions-at-school.md`
+  - `wiki/topics/emotions-at-work.md`
+  - `wiki/sources/permission-to-feel.md`
+- Files merged (extended):
+  - `wiki/concepts/alexithymia.md`
+  - `wiki/concepts/display-rules.md`
+  - `wiki/concepts/emotional-contagion.md`
+  - `wiki/concepts/emotional-granularity.md`
+  - `wiki/concepts/emotional-intelligence.md`
+- Files deprecated: None.
+- Notes: 27 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
