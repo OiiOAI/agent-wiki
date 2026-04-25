@@ -4,9 +4,10 @@ title: Mark Solms
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
+- '[raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p1-36]'
 canonical: Mark Solms
 confidence: high
 aliases:
@@ -17,6 +18,9 @@ tags:
 - dreaming
 - consciousness
 - south-africa
+- neuropsychologist
+- researcher
+- dream-research
 related:
   concepts:
   - consciousness
@@ -28,6 +32,8 @@ related:
   - free energy principle
   - affect
   - hard problem of consciousness
+  - clinico-anatomical-method
+  - neuropsychology-of-dreams
   topics:
   - consciousness-studies
   - affective-neuroscience
@@ -37,8 +43,9 @@ related:
   - jaak-panksepp
   - karl-friston
   - oliver-sacks
+  - london-hospital-medical-college
+  - university-college-london
 ---
-
 
 # Mark Solms
 
@@ -61,12 +68,17 @@ Mark Solms is a South African neuroscientist and neuropsychoanalyst who has spen
 - Solms distinguishes his approach from traditional AI by emphasizing consciousness rather than intelligence, and by engineering a self-evidencing system with no objective goal other than self-preservation. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p256-257]
 - He predicts that consciousness arises only when a system can flexibly prioritise multiple needs through precision optimisation on a contextual basis. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p259]
 - Solms argues that if artificial consciousness can be created, it should not be commercially funded due to risks of exploitation resembling slavery. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p264]
+- Mark Solms was affiliated with London Hospital Medical College and University College London at the time of writing the book. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p4]
+- He conducted a systematic clinico-anatomical study of dreaming over several years starting in 1985, examining 361 neurological and neurosurgical patients. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p21]
+- Solms collaborated with Dr. Karen Kaplan-Solms, who contributed fundamentally to the scientific project. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p19]
+- He acknowledges Professor Michael Saling for helping plan the study and Dr. Oliver Turnbull for assisting in almost every aspect of the research. [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p19]
 
 ## Inferences
 
 - Inference: Solms's career trajectory — from dream research to psychoanalytic training to collaboration with Friston — reflects his commitment to integrating subjective experience into neuroscience rather than excluding it.
 - Inference: Solms's discovery that dreaming is driven by the mesocortical-mesolimbic dopamine circuit rather than cholinergic brainstem mechanisms effectively vindicates Freud's broad claim that dreams are driven by wishes, even though Freud's specific neuroanatomical views were incorrect.
 - Inference: Solms believes that consciousness is not synonymous with intelligence and can exist in rudimentary forms, which informs his strategy of engineering elementary consciousness first.
+- Inference: Solms' background combining neuropsychology and likely psychoanalytic training (given his 1997 publication timing and subject matter) positions him to bridge these traditionally separate disciplines in dream research.
 
 ## Uncertainties
 
@@ -79,6 +91,8 @@ Mark Solms is a South African neuroscientist and neuropsychoanalyst who has spen
 - Broader: [[affective-neuroscience]]
 - Broader: [[neuropsychoanalysis]]
 - Broader: [[affective neuroscience]]
+- Broader: [[neuropsychologists]]
+- Broader: [[dream-researchers]]
 - Narrower: [[three-stage artificial consciousness experiment]]
 - Adjacent: [[jaak-panksepp]]
 - Adjacent: [[karl-friston]]
@@ -96,6 +110,8 @@ Mark Solms is a South African neuroscientist and neuropsychoanalyst who has spen
 - Concepts: [[free energy principle]]
 - Concepts: [[affect]]
 - Concepts: [[hard problem of consciousness]]
+- Concepts: [[clinico-anatomical-method]]
+- Concepts: [[neuropsychology-of-dreams]]
 - Topics: [[consciousness-studies]]
 - Topics: [[affective-neuroscience]]
 - Topics: [[artificial consciousness]]
@@ -103,11 +119,15 @@ Mark Solms is a South African neuroscientist and neuropsychoanalyst who has spen
 - Entities: [[jaak-panksepp]]
 - Entities: [[karl-friston]]
 - Entities: [[oliver-sacks]]
+- Entities: [[london-hospital-medical-college]]
+- Entities: [[university-college-london]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
+- Additional source: [raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf#p1-36]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-neuropsychology-of-dreams-a-clinico-anatomical-study`.

@@ -3545,3 +3545,14 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-reinterpretation-of-dreams-an-evolutionary-hypothesis-of-the-function-of-dreaming.md`
 - Files deprecated: None.
 - Notes: 5 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-neuropsychology-of-dreams-a-clinico-anatomical-study
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The_Neuropsychology_of_Dreams_A Clinico - Anatomical Study.pdf
+- Files created:
+  - `wiki/concepts/charcot-wilbrand-syndrome.md`
+  - `wiki/sources/the-neuropsychology-of-dreams-a-clinico-anatomical-study.md`
+- Files merged (extended):
+  - `wiki/entities/mark-solms.md`
+- Files deprecated: None.
+- Notes: 2 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
