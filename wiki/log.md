@@ -11162,3 +11162,39 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/wan-quan-jing-zheng.md`
 - Files deprecated: None.
 - Notes: 54 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 资本主义与自由-美-米尔顿-弗里德曼-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/资本主义与自由·[美]米尔顿·弗里德曼 著.pdf
+- Files created:
+  - `wiki/entities/gong-zheng-jiu-ye-shi-shi-wei-yuan-hui.md`
+  - `wiki/entities/mi-er-dun-fu-li-de-man.md`
+  - `wiki/concepts/fu-dong-hui-shuai.md`
+  - `wiki/concepts/fu-suo-de-shui.md`
+  - `wiki/concepts/gong-gong-zhu-fang.md`
+  - `wiki/concepts/guo-ji-shou-zhi-diao-zheng-ji-zhi.md`
+  - `wiki/concepts/huo-bi-kong-zhi.md`
+  - `wiki/concepts/huo-bi-shu-liang-gui-zhang.md`
+  - `wiki/concepts/jing-ji-zi-you-yu-zheng-zhi-zi-you-de-guan-xi.md`
+  - `wiki/concepts/jing-zheng-xing-zi-ben-zhu-yi.md`
+  - `wiki/concepts/kai-en-si-zhu-yi-cheng-shu-fen-xi.md`
+  - `wiki/concepts/lao-nian-he-yi-zu-bao-xian.md`
+  - `wiki/concepts/lian-bang-chu-bei-xi-tong.md`
+  - `wiki/concepts/nong-chan-pin-jia-ge-zhi-chi.md`
+  - `wiki/concepts/qi-ye-de-she-hui-ze-ren.md`
+  - `wiki/concepts/ren-li-zi-ben-tou-zi.md`
+  - `wiki/concepts/xin-zi-you-zhu-yi.md`
+  - `wiki/concepts/xue-xiao-jiao-yu-quan.md`
+  - `wiki/concepts/zheng-fu-jiao-yu-jin-tie.md`
+  - `wiki/concepts/zhi-ye-zhao-zhao.md`
+  - `wiki/concepts/zi-you-she-hui-zhong-zheng-fu-de-zuo-yong.md`
+  - `wiki/concepts/zi-you-zhu-yi-he-ping-jun-zhu-yi.md`
+  - `wiki/concepts/zui-di-gong-zi-fa.md`
+  - `wiki/sources/zi-ben-zhu-yi-yu-zi-you.md`
+  - `wiki/analyses/lei-jin-shui-de-xiao-guo-ping-gu.md`
+  - `wiki/analyses/shou-ru-fen-pei-de-yuan-ze-yu-shi-shi.md`
+  - `wiki/analyses/zhi-zhao-zhi-du-dui-yi-liao-fu-wu-de-ying-xiang.md`
+- Files merged (extended):
+  - `wiki/concepts/long-duan.md`
+- Files deprecated: None.
+- Notes: 27 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
