@@ -10,6 +10,8 @@ sources:
   - Antonio R_ Damasio,pdf.pdf#p1-332]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian,
+  Oshin.pdf#p1-500]'
 canonical: Phineas P. Gage (1823–1861), American railroad construction foreman famous
   for surviving a traumatic brain injury
 confidence: high
@@ -27,11 +29,18 @@ tags:
 - historical-case
 - decision-making
 - frontal-lobe
+- phineas-gage
+- prefrontal-cortex
+- history-neuroscience
 related:
   concepts:
   - frontal-cortex
   - decision-making-deficits
   - brain-lesions
+  - ventromedial-prefrontal-cortex
+  - decision-making
+  - social-behavior
+  - frontal-lobe
   topics:
   - neurology
   - cognitive-neuroscience
@@ -40,6 +49,7 @@ related:
   - david-ferrier
   - antonio-damasio
   - antoine-bechara
+  - damasio
 ---
 
 # Phineas Gage
@@ -61,6 +71,11 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 - After his brain was penetrated by a steel rod in 1848, Gage exhibited a drastic change in personality and decision-making ability. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p6]
 - The systematic study of decision-making deficits following brain damage was initially undertaken in the 1990s by Antonio Damasio and colleagues using a card-sorting experiment. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p6]
 - Gage's case provided early evidence that frontal cortical areas are crucial for decision-making and social behavior. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p6]
+- In 1848, Phineas Gage survived an explosion that blasted an iron-tamping bar through the front of his head, entering below his left eye and exiting through the top of his skull. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
+- Before the accident, Gage was described as a man of normal intelligence, energetic and persistent, responsible, sociable, and popular among peers and friends. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
+- After the accident, Gage became irresponsible, untrustworthy, and impatient of restraint or advice when it conflicted with his desires. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
+- Modern neuroimaging studies using Gage's skull (kept at Harvard) showed the lesion was most likely in the ventral and medial region of the prefrontal cortex on both sides. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
+- Despite normal intelligence, memory, speech, sensation, and movement after the accident, Gage's behavior changed completely in personal and social domains. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p107]
 
 ## Inferences
 
@@ -73,25 +88,37 @@ Phineas P. Gage (1823–1861) was a railroad construction foreman who survived a
 
 - Broader: [[history of neuroscience]]
 - Broader: [[case studies in neurology]]
+- Broader: [[frontal-lobe-syndrome]]
+- Broader: [[history-of-neuroscience]]
 - Narrower: [[elliot-patient]]
+- Narrower: [[ventromedial-prefrontal-cortex]]
+- Narrower: [[somatic-marker-hypothesis]]
+- Narrower: [[patient-ev]]
 - Adjacent: [[john-harlow]]
 - Adjacent: [[david-ferrier]]
 - Concepts: [[frontal-cortex]]
 - Concepts: [[decision-making-deficits]]
 - Concepts: [[brain-lesions]]
+- Concepts: [[ventromedial-prefrontal-cortex]]
+- Concepts: [[decision-making]]
+- Concepts: [[social-behavior]]
+- Concepts: [[frontal-lobe]]
 - Topics: [[neurology]]
 - Topics: [[cognitive-neuroscience]]
 - Entities: [[john-harlow]]
 - Entities: [[david-ferrier]]
 - Entities: [[antonio-damasio]]
 - Entities: [[antoine-bechara]]
+- Entities: [[damasio]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain - Antonio R_ Damasio,pdf.pdf#p1-332]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.

@@ -2029,3 +2029,69 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/theory-of-mind.md`
 - Files deprecated: None.
 - Notes: 106 new + 21 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | neuroscience-of-decision-making-mandel-david-r-vartanian-osh
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf
+- Files created:
+  - `wiki/entities/alan-sanfey.md`
+  - `wiki/entities/antoine-bechara.md`
+  - `wiki/entities/ap-dijksterhuis.md`
+  - `wiki/entities/base-rate-problems.md`
+  - `wiki/entities/colin-martindale.md`
+  - `wiki/entities/david-r-mandel.md`
+  - `wiki/entities/dorsolateral-striatum.md`
+  - `wiki/entities/head-of-caudate-nucleus.md`
+  - `wiki/entities/jorge-moll.md`
+  - `wiki/entities/kalina-christoff.md`
+  - `wiki/entities/mariano-sigman.md`
+  - `wiki/entities/oshin-vartanian.md`
+  - `wiki/entities/vinod-goel.md`
+  - `wiki/entities/vm-prefrontal-cortex.md`
+  - `wiki/concepts/acetylcholine-uncertainty.md`
+  - `wiki/concepts/anhedonia.md`
+  - `wiki/concepts/cognitive-disinhibition-hypothesis.md`
+  - `wiki/concepts/content-effects-on-decision-making.md`
+  - `wiki/concepts/creative-thought.md`
+  - `wiki/concepts/creativity-hierarchical-mental-activity.md`
+  - `wiki/concepts/default-network.md`
+  - `wiki/concepts/dual-process-theory.md`
+  - `wiki/concepts/emotion-expression-punishment.md`
+  - `wiki/concepts/error-related-negativity.md`
+  - `wiki/concepts/game-theory.md`
+  - `wiki/concepts/goal-directed-thought.md`
+  - `wiki/concepts/hemispheric-specialization-problem-solving.md`
+  - `wiki/concepts/hidden-markov-model-attention.md`
+  - `wiki/concepts/instrumental-conditioning.md`
+  - `wiki/concepts/match-problems.md`
+  - `wiki/concepts/mind-wandering.md`
+  - `wiki/concepts/novel-idea-generation.md`
+  - `wiki/concepts/oxytocin-and-trust.md`
+  - `wiki/concepts/planning.md`
+  - `wiki/concepts/prediction-error-signals.md`
+  - `wiki/concepts/psychological-refractory-period.md`
+  - `wiki/concepts/reciprocal-exchange.md`
+  - `wiki/concepts/reward-processing-striatum.md`
+  - `wiki/concepts/social-decision-making.md`
+  - `wiki/concepts/spontaneous-thought.md`
+  - `wiki/concepts/tower-tasks.md`
+  - `wiki/concepts/unconscious-thought.md`
+  - `wiki/sources/neuroscience-of-decision-making.md`
+- Files merged (extended):
+  - `wiki/entities/amygdala.md`
+  - `wiki/entities/phineas-gage.md`
+  - `wiki/entities/stanislas-dehaene.md`
+  - `wiki/entities/ventral-striatum.md`
+  - `wiki/concepts/altruistic-punishment.md`
+  - `wiki/concepts/anterior-insula.md`
+  - `wiki/concepts/framing-effects.md`
+  - `wiki/concepts/global-workspace-theory.md`
+  - `wiki/concepts/inequity-aversion.md`
+  - `wiki/concepts/iowa-gambling-task.md`
+  - `wiki/concepts/memory-consolidation.md`
+  - `wiki/concepts/neuroeconomics.md`
+  - `wiki/concepts/somatic-marker-hypothesis.md`
+  - `wiki/concepts/temporal-difference-learning.md`
+  - `wiki/concepts/ultimatum-game.md`
+- Files deprecated: None.
+- Notes: 43 new + 15 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -10,6 +10,8 @@ sources:
   - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian,
+  Oshin.pdf#p1-500]'
 confidence: high
 related:
   broader:
@@ -27,6 +29,10 @@ tags:
 - prediction-error
 - dopamine
 - machine-learning
+- temporal difference
+- computational model
+- reward learning
+- prediction
 aliases: []
 ---
 
@@ -44,11 +50,16 @@ Temporal Difference (TD) Learning is a reinforcement learning algorithm where th
 - TD learning updates value estimates according to V(St)new = V(St)old + η[rt + γV(St+1) - V(St)], where δ = rt + γV(St+1) - V(St) is the temporal difference prediction error. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p334]
 - The temporal difference prediction error δ(t) is a natural error signal for improving estimates of value functions, reducing discrepancy between predicted and actual outcomes. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p335]
 - TD learning was derived as a normative prediction learning rule related to dynamic programming methods. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p334]
+- The TD model estimates predicted reward at discrete time points within a trial, unlike trial-based models that only estimate reward pertaining to a particular stimulus across trials. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p262]
+- In the TD model, the prediction error updates predictions by computing the difference between successive predictions of reward within a trial. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p262]
+- The TD prediction error signal would first generate a strong positive signal at the time of reward presentation before learning, shifting back to the earliest predictive cue after learning is complete. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p262]
+- Human neuroimaging studies reveal correlations with TD prediction error signals in the ventral striatum bilaterally and in the orbitofrontal cortex. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p263]
 
 ## Inferences
 
 - Inference: The TD learning algorithm solves the problem of learning without knowing the dynamics of the environment in advance, by using actual experienced rewards and state transitions as samples.
 - Inference: The recursive relationship V(St) = Pr(St) + γΣ P(St+1|St)V(St+1) forms the consistency condition that TD learning seeks to satisfy.
+- Inference: The correspondence between TD model predictions and neural activity suggests that temporal difference learning provides a computationally accurate account of how the brain implements reward learning.
 
 ## Uncertainties
 
@@ -68,13 +79,22 @@ Temporal Difference (TD) Learning is a reinforcement learning algorithm where th
 - Concepts: [[prediction-error]]
 - Concepts: [[reward-learning]]
 - Concepts: [[actor-critic-model]]
+- Concepts: [[prediction error signals]]
+- Concepts: [[rescorla-wagner model]]
+- Concepts: [[actor-critic model]]
+- Topics: [[computational neuroscience]]
+- Topics: [[reward learning]]
+- Entities: [[ventral striatum]]
+- Entities: [[orbitofrontal cortex]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
