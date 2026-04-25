@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 - '[raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p1-160]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 坛经
@@ -16,6 +17,7 @@ tags:
 - 禅修
 - 修行方法
 - 佛教
+- 南宗禅
 related:
   broader:
   - 禅宗
@@ -38,6 +40,10 @@ aliases: []
 - 禅那是获得禅的基础经验即「心灵洞察力」而进行的有组织训练. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p44]
 - 坐禅是日语对禅那的称呼. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p44]
 - 禅宗的精神训练方式是非常实际而且有组织的. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p44]
+- 外于一切善恶境界心念不起名为坐，内见自性不动名为禅. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p203]
+- 外离相为禅，内不乱为定，外禅内定是为禅定. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p203]
+- 执心看净却生净妄，即是净缚，非是清净. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p203]
+- 迷人身虽不动开口便说他人是非长短好恶，与道违背. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p204]
 
 ## Related pages
 
@@ -46,6 +52,7 @@ aliases: []
 - Concepts: [[自性]]
 - Concepts: [[定慧]]
 - Concepts: [[无相]]
+- Concepts: [[无念]]
 - Topics: [[南宗禅]]
 - Topics: [[北宗禅]]
 - Entities: [[惠能]]
@@ -56,8 +63,10 @@ aliases: []
 
 - Primary source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 - Additional source: [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p1-160]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `通向禅学之路-铃木大拙著-葛兆光译`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

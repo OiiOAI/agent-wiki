@@ -11531,3 +11531,48 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zuo-chan.md`
 - Files deprecated: None.
 - Notes: 27 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 金刚经-心经-坛经-陈秋平-尚荣译注
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf
+- Files created:
+  - `wiki/entities/fa-hai-2.md`
+  - `wiki/entities/zhi-che-xing-chang.md`
+  - `wiki/entities/zhi-huang-chan-shi.md`
+  - `wiki/concepts/fan-nao-ji-pu-ti.md`
+  - `wiki/concepts/jin-gang-jing.md`
+  - `wiki/concepts/kai-fo-zhi-jian.md`
+  - `wiki/concepts/shi-xiang.md`
+  - `wiki/concepts/wu-suo-zhu-er-sheng-qi-xin.md`
+  - `wiki/concepts/wu-xiang-san-gui-yi-jie.md`
+  - `wiki/concepts/yi-xiang-san-mei-yi-xing-san-mei.md`
+  - `wiki/concepts/zi-xing-wu-fen-fa-shen-xiang.md`
+  - `wiki/concepts/zuo-chan-dao-you-xin-wu.md`
+  - `wiki/topics/nan-neng-bei-xiu.md`
+- Files merged (extended):
+  - `wiki/entities/fa-da.md`
+  - `wiki/entities/huai-rang-chan-shi.md`
+  - `wiki/entities/hui-neng.md`
+  - `wiki/entities/jiu-mo-luo-shi.md`
+  - `wiki/entities/shen-hui.md`
+  - `wiki/entities/wu-jin-cang.md`
+  - `wiki/entities/xing-si-chan-shi.md`
+  - `wiki/entities/xu-pu-ti.md`
+  - `wiki/entities/xue-jian.md`
+  - `wiki/entities/yong-jia-xuan-jue.md`
+  - `wiki/concepts/ban-ruo.md`
+  - `wiki/concepts/bu-shi.md`
+  - `wiki/concepts/ding-hui.md`
+  - `wiki/concepts/ren-ru-bo-luo-mi.md`
+  - `wiki/concepts/san-shen-si-zhi.md`
+  - `wiki/concepts/san-shi-liu-dui-fa.md`
+  - `wiki/concepts/si-hong-shi-yuan.md`
+  - `wiki/concepts/wu-nian.md`
+  - `wiki/concepts/wu-xiang-chan-hui.md`
+  - `wiki/concepts/wu-xiang.md`
+  - `wiki/concepts/wu-zhu.md`
+  - `wiki/concepts/yi-ti-san-shen-zi-xing-fo.md`
+  - `wiki/concepts/zuo-chan.md`
+  - `wiki/sources/jin-gang-jing-xin-jing-tan-jing.md`
+- Files deprecated: None.
+- Notes: 13 new + 24 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -4,14 +4,18 @@ title: 三身四智
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 佛教
 - 唯识
 - 三身四智
+- 坛经
+- 禅宗
+- 佛教哲学
 related:
   broader:
   - 成佛
@@ -25,8 +29,8 @@ related:
   adjacent:
   - 转识成智
   - 阿赖耶识
+aliases: []
 ---
-
 
 # 三身四智
 
@@ -41,10 +45,15 @@ related:
 - 转识成智中，第六识和第七识是「因上转」，第五识和第八识是「果上转」. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p317]
 - 惠能偈句：「五八六七果因转，但用名言无实性，若于转处不留情，繁兴永处那伽定」. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p315]
 - 阿赖耶识是种子识，累世流转由其连缀而成，转成大圆镜智后业力消除. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p316]
+- 三身者：清净法身，汝之性也；圆满报身，汝之智也；千百亿化身，汝之行也. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p236]
+- 若离本性别说三身，即名有身无智；若悟三身无有自性，即明四智菩提. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p236]
+- 四智：大圆镜智性清净，平等性智心无病，妙观察智见非功，成所作智同圆镜. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p237]
+- 五八六七果因转：前五识及第八识属果上转，第六识、第七识属因中转. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p237]
 
 ## Inferences
 
 - Inference: 末那识转为平等性智后，小我放下，即众生平等；意识转为妙观察智后，认识事物无需费力，如神通一般。
+- Inference: 惠能将三身四智从法相宗的复杂名相转化为自性本具的简易义理，强调悟者自心本有
 
 ## Related pages
 
@@ -60,6 +69,9 @@ related:
 - Concepts: [[法身]]
 - Concepts: [[报身]]
 - Concepts: [[化身]]
+- Concepts: [[开佛知見]]
+- Concepts: [[自性]]
+- Concepts: [[戒定慧]]
 - Entities: [[智通]]
 - Entities: [[惠能]]
 - Entities: [[玄奘]]
@@ -68,7 +80,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

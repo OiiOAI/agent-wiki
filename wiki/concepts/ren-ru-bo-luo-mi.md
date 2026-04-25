@@ -4,18 +4,22 @@ title: 忍辱波罗密
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 六度
 - 忍
 - 修行
 - 金刚经
+- 忍辱
+- 大乘
 related:
   broader:
   - 六度
+  - 六波罗密
   narrower:
   - 生忍
   - 法忍
@@ -24,8 +28,10 @@ related:
   - 布施
   - 持戒
   - 般若
+  - 精进
+  - 禅定
+aliases: []
 ---
-
 
 # 忍辱波罗密
 
@@ -39,6 +45,10 @@ related:
 - 忍辱波罗密须与般若相应，才能了悟能忍的我、所忍的境与忍法都不可得. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L617-L618]
 - 佛陀过去被歌利王割截身体时，无我相、人相、众生相、寿者相，故心不生嗔恨. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L620-L625]
 - 佛念过去五百世作忍辱仙人，于尔所世无四相. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L628-L630]
+- 忍辱波罗密是六波罗密之一. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p56]
+- 忍有三种：生忍、法忍、无生忍. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p58]
+- 佛陀过去世被歌利王割截身体时，无我相、人相、众生相、寿者相，故不生嗔恨. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p56]
+- 释迦牟尼过去五百世作忍辱仙人，于尔所世无我相、人相、众生相、寿者相. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p59]
 
 ## Inferences
 
@@ -47,21 +57,29 @@ related:
 ## Related pages
 
 - Broader: [[六度]]
+- Broader: [[六波罗密]]
 - Narrower: [[生忍]]
 - Narrower: [[法忍]]
 - Narrower: [[无生忍]]
 - Adjacent: [[布施]]
 - Adjacent: [[持戒]]
 - Adjacent: [[般若]]
+- Adjacent: [[精进]]
+- Adjacent: [[禅定]]
 - Concepts: [[四相]]
 - Concepts: [[嗔恨]]
 - Concepts: [[大悲]]
+- Concepts: [[无我]]
+- Concepts: [[无相]]
 - Entities: [[歌利王]]
+- Entities: [[释迦牟尼]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]'
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 佛教哲学
@@ -20,6 +21,8 @@ tags:
 - 坛经
 - 核心概念
 - 禅法
+- 南宗禅
+- 禅宗核心概念
 related:
   broader:
   - 禅宗修行法
@@ -51,6 +54,11 @@ aliases: []
 - 无念者，于念而无念；于自念上，常离诸境，不于境上生心. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2555-L2556]
 - 若只百物不思，念尽除却，一念绝即死，别处受生，是为大错. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2560-L2561]
 - 真如自性起念，非眼耳鼻舌能念. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2567-L2568]
+- 无念为宗，无相为体，无住为本. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p198]
+- 无念者，于念而无念，不起诳妄，用自真如性，以智慧观照，于一切法不取不舍. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p168]
+- 无念者无诸尘劳之心，念真如本性，真如即是念之体，念即是真如之用. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p200]
+- 悟无念法者，万法尽通；见诸佛境界；至佛地位. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p177]
+- 百物不思、念尽除却、一念绝即死是大错，并非无念. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p200]
 
 ## Inferences
 
@@ -70,6 +78,8 @@ aliases: []
 - Concepts: [[一行三昧]]
 - Concepts: [[自性]]
 - Concepts: [[定慧]]
+- Concepts: [[真如]]
+- Concepts: [[般若]]
 - Topics: [[南宗禅法门]]
 - Entities: [[慧能]]
 - Entities: [[神会]]
@@ -80,9 +90,11 @@ aliases: []
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `佛教十三经-中华书局`.
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

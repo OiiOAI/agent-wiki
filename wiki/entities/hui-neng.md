@@ -12,6 +12,7 @@ sources:
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 - '[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]'
 - '[raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p1-160]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 aliases:
 - 六祖惠能
@@ -33,6 +34,7 @@ tags:
 - 唐代
 - 顿悟
 - 中国佛教
+- 坛经
 canonical: true
 related:
   concepts:
@@ -49,11 +51,14 @@ related:
   - 顿悟成佛
   - 本心即佛
   - 佛性清净
+  - 识心见性
+  - 顿教法门
   topics:
   - 佛教中国化
   - 禅宗发展
   - di-er-jiang-dao-jia-de-bian-zheng-si-xiang
   - 禅宗
+  - 中国禅宗史
   entities:
   - 弘忍
   - 神秀
@@ -70,6 +75,8 @@ related:
   - 智通
   - 志道
   - 志诚
+  - 达磨
+  - 中宗
 ---
 
 # 惠能
@@ -114,11 +121,23 @@ related:
 - 惠能（638-713）是六祖，被认为是中国禅宗的实际创始人. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p61]
 - 惠能以「本来无一物，何处惹尘埃」一偈获得五祖弘忍认可，继承衣钵. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p61]
 - 这首偈语纯正地表达了禅宗的信仰. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p61]
+- 惠能于先天二年（713年）三更时分端坐圆寂，时有奇香满室、白虹贯林、禽鸟哀嚎等异象. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p309]
+- 韶州、广州、新州三州官员及门人争迎惠能真身，香烟飘向曹溪方向而得归葬. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 弟子方辩以香泥包裹惠能肉身，门人恐有人取首级，乃以铁叶漆布固护其颈后入塔. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 入塔后塔内白光冲天三日始散，韶州刺史奏闻朝廷，奉敕立碑纪师道行. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 惠能享年七十六岁，二十四岁得传法衣，三十九岁剃度出家，说法利生三十七年. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 嗣法弟子四十三人，悟道超凡者莫知其数. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 达磨所传信衣、中宗赐磨衲宝钵、方辩所塑惠能真相及道具永镇宝林道场. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 《法宝坛经》以显宗旨，兴隆佛法僧三宝，普利群生. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p310]
+- 惠能圆寂前告诫弟子：不要像世间人那样悲伤哭泣、身穿孝服，只要识见自心本性的动静、生灭、来去. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p309]
 
 ## Inferences
 
 - Inference: 惠能之所以能完成佛学革命，与他不识字的特殊身份密切相关——他必须用最通俗的语言传法，才能让普通百姓理解。
 - Inference: 惠能虽不识字，但其顿悟思想比神秀更彻底地否定了客观世界，更符合中国士大夫追求简便解脱的心理需求。
+- Inference: 惠能强调"识心见性"，反对形式化的丧葬礼仪，表明其禅法注重内心觉悟而非外在仪轨
+- Inference: 惠能圆寂后出现诸多瑞相（香满室内、白虹、白光冲天），传统记载中将其视为高僧道德感通之象
+- Inference: 《坛经》被明确指为"以显宗旨"、"兴隆三宝"的根本典籍，确立其在中国禅宗史上的核心地位
 
 ## Uncertainties
 
@@ -137,6 +156,7 @@ related:
 - Narrower: [[禅学正道]]
 - Adjacent: [[弘忍]]
 - Adjacent: [[神秀]]
+- Adjacent: [[方辩]]
 - Concepts: [[顿悟]]
 - Concepts: [[见性成佛]]
 - Concepts: [[禅宗]]
@@ -150,10 +170,13 @@ related:
 - Concepts: [[顿悟成佛]]
 - Concepts: [[本心即佛]]
 - Concepts: [[佛性清净]]
+- Concepts: [[识心见性]]
+- Concepts: [[顿教法门]]
 - Topics: [[佛教中国化]]
 - Topics: [[禅宗发展]]
 - Topics: [[di-er-jiang-dao-jia-de-bian-zheng-si-xiang]]
 - Topics: [[禅宗]]
+- Topics: [[中国禅宗史]]
 - Entities: [[弘忍]]
 - Entities: [[神秀]]
 - Entities: [[达摩]]
@@ -169,6 +192,8 @@ related:
 - Entities: [[智通]]
 - Entities: [[志道]]
 - Entities: [[志诚]]
+- Entities: [[达磨]]
+- Entities: [[中宗]]
 
 ## Provenance
 
@@ -178,6 +203,7 @@ related:
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 - Additional source: [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]
 - Additional source: [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p1-160]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
@@ -187,3 +213,4 @@ related:
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
 - 2026-04-25 — merged contributions from `禅宗与中国文化-葛兆光著`.
 - 2026-04-25 — merged contributions from `通向禅学之路-铃木大拙著-葛兆光译`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

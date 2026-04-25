@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 坛经
@@ -18,6 +19,8 @@ tags:
 - 禅宗
 - 自性
 - 六祖坛经
+- 南宗禅
+- 菩萨行愿
 related:
   broader:
   - 忏悔品
@@ -65,6 +68,11 @@ aliases: []
 - 自性法门无尽誓愿学：须自见性，常行正法，是名真学. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3341-L3342]
 - 自性无上佛道誓愿成：常能下心，行于真正，离迷离觉，常生般若，除真除妄，即见佛性. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3342-L3344]
 - 惠能强调「恁么道，且不是惠能度」，众生各须自性自度. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3336-L3337]
+- 自心众生无边誓愿度：心中邪见烦恼愚痴等众生皆自性自度. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p211]
+- 自心烦恼无边誓愿断：将自性般若智除却虚妄心. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p212]
+- 自性法门无尽誓愿学：须自见性，常行正法. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p212]
+- 自性无上佛道誓愿成：常下心行于真正，离迷离觉，常生般若. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p212]
+- 自性自度是名真度，邪来正度、迷来悟度、愚来智度、恶来善度. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p212]
 
 ## Inferences
 
@@ -97,6 +105,10 @@ aliases: []
 - Concepts: [[忏悔品]]
 - Concepts: [[般若智]]
 - Concepts: [[成正觉]]
+- Concepts: [[自性]]
+- Concepts: [[自性五分法身香]]
+- Concepts: [[无相三皈依戒]]
+- Concepts: [[一体三身自性佛]]
 - Entities: [[王阳明]]
 - Entities: [[卢梭]]
 - Entities: [[康德]]
@@ -105,8 +117,10 @@ aliases: []
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `佛教十三经-中华书局`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

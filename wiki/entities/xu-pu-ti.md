@@ -4,9 +4,10 @@ title: 须菩提
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 canonical: 须菩提
 confidence: high
 aliases:
@@ -14,21 +15,24 @@ aliases:
 - 善现
 - 善吉
 - 空生
+- 解空第一
+- 苏补底
 tags:
 - 佛弟子
 - 解空第一
 - 阿罗汉
+- 声闻
 related:
   concepts:
   - 解空
   - 无诤三昧
   - 阿罗汉
-  topics: []
+  - 阿罗汉果
   entities:
   - 佛
   - 金刚经
+  - 佛陀
 ---
-
 
 # 须菩提
 
@@ -46,6 +50,10 @@ related:
 - 须菩提为佛陀十大弟子之一，以解空第一著称. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
 - 须菩提与目犍连被称为佛陀弘法的左右手. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
 - 须菩提在《金刚经》中多次向佛请示云何应住、云何降伏其心. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L706-L1405]
+- 须菩提是佛陀十大弟子中解空第一者. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p27]
+- 须菩提是大乘诸部般若经中佛陀说空义时的当机者. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p27]
+- 须菩提向佛请问「发阿耨多罗三藐三菩提心，云何住？云何降伏其心？」. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p29]
+- 佛说须菩提得无诤三昧，人中最为第一，是第一离欲阿罗汉. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p43]
 
 ## Inferences
 
@@ -56,6 +64,8 @@ related:
 - Broader: [[佛陀十大弟子]]
 - Broader: [[佛教]]
 - Broader: [[佛弟子]]
+- Broader: [[佛陀弟子]]
+- Broader: [[声闻乘]]
 - Adjacent: [[舍利弗]]
 - Adjacent: [[目犍连]]
 - Adjacent: [[阿难]]
@@ -63,13 +73,17 @@ related:
 - Concepts: [[解空]]
 - Concepts: [[无诤三昧]]
 - Concepts: [[阿罗汉]]
+- Concepts: [[阿罗汉果]]
 - Entities: [[佛]]
 - Entities: [[金刚经]]
+- Entities: [[佛陀]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

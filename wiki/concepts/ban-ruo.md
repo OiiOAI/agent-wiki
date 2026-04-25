@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 佛教哲学
@@ -16,14 +17,18 @@ tags:
 - 六度
 - 大乘
 - 佛母
+- 佛教
 related:
   broader:
   - 六度
   - 波罗密
+  - 六波罗密
+  - 大乘佛教
   narrower:
   - 实相般若
   - 观照般若
   - 文字般若
+  - 般若波罗密
   adjacent:
   - 布施
   - 持戒
@@ -51,14 +56,22 @@ aliases: []
 - 般若被称为诸佛之母. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L56-L57]
 - 《金刚经》以空慧为主要内容，探讨了一切法无我之理. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L44-L45]
 - "一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出". [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L421-L422]
+- 般那意译为智慧，明见一切事物及道理之高深智慧. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p13]
+- 般若波罗密在六度波罗密中起关键作用，称般若为诸佛之母. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p13]
+- 般若能破坏一切戏论妄执，不为妄执所坏. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p13]
+- 《金刚经》强调般若智慧是佛门修行解脱的最高智慧. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p22]
+- 一切诸佛及诸佛阿耨多罗三藐三菩提法，皆从此经出. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p41]
 
 ## Related pages
 
 - Broader: [[六度]]
 - Broader: [[波罗密]]
+- Broader: [[六波罗密]]
+- Broader: [[大乘佛教]]
 - Narrower: [[实相般若]]
 - Narrower: [[观照般若]]
 - Narrower: [[文字般若]]
+- Narrower: [[般若波罗密]]
 - Adjacent: [[布施]]
 - Adjacent: [[持戒]]
 - Adjacent: [[忍辱]]
@@ -72,13 +85,17 @@ aliases: []
 - Concepts: [[空]]
 - Concepts: [[无我]]
 - Concepts: [[到彼岸]]
+- Concepts: [[诸佛之母]]
+- Entities: [[金刚经]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

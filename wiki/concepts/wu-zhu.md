@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/第四讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-5]'
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 道家
@@ -17,6 +18,7 @@ tags:
 - 禅宗
 - 修行
 - 布施
+- 南宗禅
 related:
   broader:
   - dao-jia-si-xiang
@@ -51,6 +53,8 @@ aliases: []
 - 三轮体空指内不住能施我相，外不住受施人相，中间不住所施财法等相. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L293-L294]
 - 无住者，人之本性；于诸法上念念不住，即无缚也，此是以无住为本. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2546-L2548]
 - 于世间善恶好丑，乃至冤之与亲，言语触刺欺争之时，并将为空，不思酬害. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2544-L2545]
+- 无住者，人之本性，于世间善恶好丑乃至冤亲言语欺争之时皆视为空，不思酬害. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p198]
+- 前念今念念念相续不断，名为系缚；于诸法上念念不住，即无缚，此是以无住为本. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p199]
 
 ## Inferences
 
@@ -72,6 +76,8 @@ aliases: []
 - Concepts: [[清净心]]
 - Concepts: [[自性]]
 - Concepts: [[系缚]]
+- Concepts: [[无念]]
+- Concepts: [[无相]]
 - Topics: [[南宗禅法门]]
 - Entities: [[dao-de-jing]]
 - Entities: [[惠能]]
@@ -80,8 +86,10 @@ aliases: []
 
 - Primary source: [raw/books/philosophy/第四讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-5]
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.

@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]'
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
+- '[raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]'
 confidence: high
 tags:
 - 坛经
@@ -20,6 +21,8 @@ tags:
 - 六祖坛经
 - 核心概念
 - 忏悔法门
+- 南宗禅
+- 修行法门
 related:
   broader:
   - 忏悔品
@@ -57,6 +60,9 @@ aliases: []
 - 惠能偈颂：「努力自见莫悠悠，后念忽绝一世休；若悟大乘得见性，虔恭合掌至心求」. [raw/books/philosophy/佛教十三经 - 中华书局.epub#L3405-L3406]
 - 忏者，忏其前愆；悔者，悔其后过. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2792-L2793]
 - 弟子等，从前念、今念及后念，念念不被愚迷染；从前所有恶业，悉皆尽忏，永不复起. [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L2777-L2778]
+- 忏者，坦白承认从前所有恶业、愚迷、嫉妒等罪过，永不复起. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p211]
+- 悔者，追悔以断今后所造之罪业. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p211]
+- 无相忏悔能灭过去、现在、未来三世罪，令身、口、意三业清净. [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p209]
 
 ## Related pages
 
@@ -78,6 +84,8 @@ aliases: []
 - Concepts: [[四弘誓愿]]
 - Concepts: [[三皈依]]
 - Concepts: [[自性]]
+- Concepts: [[自性五分法身香]]
+- Concepts: [[无相三皈依戒]]
 - Topics: [[南宗禅]]
 - Entities: [[惠能]]
 
@@ -86,9 +94,11 @@ aliases: []
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/佛教十三经 - 中华书局.epub#L1-L1]
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
+- Additional source: [raw/books/philosophy/金刚经 心经 坛经 - 陈秋平,尚荣译注.pdf#p1-313]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `佛教十三经-中华书局`.
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
+- 2026-04-25 — merged contributions from `金刚经-心经-坛经-陈秋平-尚荣译注`.
