@@ -3917,3 +3917,32 @@ This file is the append-only operational history of the wiki.
   - `wiki/analyses/ying-zong-feng-bing-shi-mo.md`
 - Files deprecated: None.
 - Notes: 76 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | finite-and-infinite-games-a-vision-of-life-as-play-and-carse
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/Finite and Infinite Games_ A Vision of Life as Play and - Carse, James.pdf
+- Files created:
+  - `wiki/entities/copernicus.md`
+  - `wiki/entities/julius-caesar.md`
+  - `wiki/concepts/amplification.md`
+  - `wiki/concepts/evil.md`
+  - `wiki/concepts/finite-games.md`
+  - `wiki/concepts/garden.md`
+  - `wiki/concepts/horizon.md`
+  - `wiki/concepts/human-freedom-nature.md`
+  - `wiki/concepts/infinite-games.md`
+  - `wiki/concepts/machine.md`
+  - `wiki/concepts/myth.md`
+  - `wiki/concepts/nature-unspeakable.md`
+  - `wiki/concepts/poiesis.md`
+  - `wiki/concepts/power-strength.md`
+  - `wiki/concepts/resonance.md`
+  - `wiki/concepts/self-veiling.md`
+  - `wiki/concepts/society-culture.md`
+  - `wiki/concepts/theatrical-dramatic.md`
+  - `wiki/concepts/touch.md`
+  - `wiki/concepts/travel-distance.md`
+  - `wiki/concepts/waste.md`
+  - `wiki/sources/finite-and-infinite-games.md`
+- Files deprecated: None.
+- Notes: 22 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
