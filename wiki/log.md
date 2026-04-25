@@ -60,9 +60,9 @@ This file is the append-only operational history of the wiki.
 
 ## [2026-04-21 16:20] migrate | Anti-OS books → raw/books/
 
-- Trigger: 用户指定把旧 Anti-OS 知识库（`/Users/moondy/Desktop/Anti-OS`，2.2G、9069 文件）的**原始资料**复制进新框架；旧库保持原位不动；拒绝迁移旧 wiki/schema/scripts（避免旧 SOP 污染新框架）。
+- Trigger: 用户指定把旧知识库（约 2.2G、9069 文件）的**原始资料**复制进新框架；旧库保持原位不动；拒绝迁移旧 wiki/schema/scripts（避免旧 SOP 污染新框架）。
 - Sources:
-  - `/Users/moondy/Desktop/Anti-OS/raw/` —— 仅 `*.pdf` + `*.epub`
+  - 旧知识库的 `raw/` 目录 —— 仅 `*.pdf` + `*.epub`
 - Files created:
   - `raw/books/neuroscience/` — 43 files
   - `raw/books/philosophy/` — 42 files
