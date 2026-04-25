@@ -6579,3 +6579,27 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/intentionality.md`
 - Files deprecated: None.
 - Notes: 12 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | mastery-the-keys-to-success-and-long-term-fulfillment-george
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub
+- Files created:
+  - `wiki/entities/abraham-maslow.md`
+  - `wiki/entities/jigoro-kano.md`
+  - `wiki/concepts/balancing-and-centering.md`
+  - `wiki/concepts/five-keys-to-mastery.md`
+  - `wiki/concepts/five-master-keys.md`
+  - `wiki/concepts/leonard-energy-training.md`
+  - `wiki/concepts/neoteny.md`
+  - `wiki/concepts/relaxing-for-power.md`
+  - `wiki/concepts/the-dabbler-the-obsessive-and-the-hacker.md`
+  - `wiki/concepts/the-master-and-the-fool.md`
+  - `wiki/concepts/the-plateau.md`
+  - `wiki/sources/mastery-the-keys-to-success-and-long-term-fulfillment.md`
+- Files merged (extended):
+  - `wiki/entities/george-leonard.md`
+  - `wiki/concepts/homeostasis.md`
+  - `wiki/concepts/ki.md`
+  - `wiki/concepts/mastery.md`
+- Files deprecated: None.
+- Notes: 12 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

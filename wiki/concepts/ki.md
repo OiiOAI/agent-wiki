@@ -4,9 +4,11 @@ title: Ki
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p1-116]'
+- '[raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment
+  - George Leonard.epub#L1-L1]'
 confidence: medium
 tags:
 - energy
@@ -14,12 +16,13 @@ tags:
 - aiki
 - mind-body
 - eastern-philosophy
-related:
-  broader: []
-  narrower: []
-  adjacent: []
+- ki
+- ch'i
+- prana
+- Eastern-philosophy
+related: {}
+aliases: []
 ---
-
 
 # Ki
 
@@ -35,27 +38,37 @@ Ki is the fundamental energy of the universe that connects all things and underg
 - Ki has proved difficult to measure scientifically, and skeptics attribute its powers to suggestion or a dynamic placebo effect. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p107]
 - George Leonard found a strong correlation between his perception of personal ki and the effectiveness of his aikido techniques. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p107]
 - According to the best thinking on the subject, ki was already there; it is everywhere. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p108]
+- According to the tradition, ki comes from the notion of breath and is considered the fundamental energy of the universe connecting all things. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L921-L923]
+- Ki has proved difficult to measure, and skeptics attribute its powers to suggestion or a dynamic placebo effect. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L932-L934]
+- According to the best thinking on this subject, ki was already there—it's everywhere. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L955-L956]
 
 ## Inferences
 
 - Inference: Whether ki is 'real' or psychological may be less important than the practical results achieved through its visualization and use.
+- Inference: Leonard found a strong correlation between his perception of personal ki and the effectiveness of his aikido techniques.
 
 ## Uncertainties
 
 - Uncertain: The scientific validity of ki remains uncertain; the text acknowledges skeptics who attribute its powers to suggestion.
+- Uncertain: The actual measurable existence of ki beyond psychological effects remains scientifically unverified.
 
 ## Related pages
 
 - Concepts: [[intentionality]]
 - Concepts: [[relaxation-for-power]]
 - Concepts: [[balancing-and-centering]]
+- Concepts: [[leonard-energy-training]]
+- Concepts: [[relaxing-for-power]]
 - Topics: [[mastery-journey]]
 - Topics: [[leonard-energy-training]]
+- Entities: [[jigoro-kano]]
 
 ## Provenance
 
 - Primary source: [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p1-116]
+- Additional source: [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L1-L1]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `mastery-the-keys-to-success-and-long-term-fulfillment-george`.

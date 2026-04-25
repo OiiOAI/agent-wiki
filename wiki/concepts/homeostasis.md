@@ -14,6 +14,8 @@ sources:
   Damasio.pdf#p1-323]'
 - '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
 - '[raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p1-116]'
+- '[raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment
+  - George Leonard.epub#L1-L1]'
 confidence: high
 related:
   broader:
@@ -49,6 +51,7 @@ tags:
 - change
 - resistance
 - backslide
+- self-improvement
 aliases: []
 ---
 
@@ -90,11 +93,21 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Homeostasis works to keep things as they are even if they aren't very good, resisting all change equally. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p75]
 - The book presents five guidelines for dealing with homeostasis: awareness, negotiation, support systems, regular practice, and lifelong learning. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p78-80]
 - Homeostasis applies to families and organizations as well as individuals, meaning entire systems resist change when any part changes. [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p76-77]
+- Homeostasis is defined as the body's, brain's, and behavior's built-in tendency to stay the same within narrow limits and snap back when changed. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L518-L519]
+- Leonard provides the example of a heating thermostat to illustrate how homeostasis maintains equilibrium through feedback loops. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L523-L526]
+- Homeostasis applies to psychological states and social systems, not just physical functioning. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L520-L521]
+- Homeostasis does not distinguish between change for the better and change for the worse—it resists all significant change. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L549-L550]
+- Resistance to organizational or cultural reform is proportionate to the size and speed of change, suggesting trivial change is easier to accept. [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L567-L569]
 
 ## Inferences
 
 - Inference: Damasio's framework suggests consciousness evolved as an extension of homeostatic regulation, making awareness fundamentally about survival rather than pure cognition.
 - Inference: Since affect is a form of homeostasis, and homeostasis is reducible to physical laws, the phenomena of consciousness must be lawfully explicable [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p142-143]
+- Inference: Understanding homeostasis suggests that mastery practitioners should expect resistance and backlash when making significant changes, and view alarm signals not as failure but as evidence that meaningful change is occurring.
+
+## Uncertainties
+
+- Uncertain: Leonard mentions the hypothalamus as the location of a key thermostat but does not cite specific neuroscience sources for this claim.
 
 ## Related pages
 
@@ -136,12 +149,18 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Concepts: [[mastery]]
 - Concepts: [[practice]]
 - Concepts: [[plateau]]
+- Concepts: [[the-plateau]]
+- Concepts: [[the-dabbler]]
+- Concepts: [[the-obsessive]]
+- Concepts: [[the-hacker]]
 - Topics: [[hypothalamus]]
 - Topics: [[autonomic-nervous-system]]
 - Topics: [[neuroendocrine-system]]
 - Topics: [[homeostasis-motivation-addictive-states]]
 - Topics: [[neurobiology]]
 - Topics: [[evolution]]
+- Topics: [[psychology]]
+- Topics: [[self-improvement]]
 - Entities: [[hypothalamus]]
 
 ## Provenance
@@ -151,6 +170,7 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
 - Additional source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
 - Additional source: [raw/books/productivity/Mastery - The Keys To Success And Long - Ter - George Leonard.pdf#p1-116]
+- Additional source: [raw/books/productivity/Mastery - The Keys To Success And Long - Term Fulfillment - George Leonard.epub#L1-L1]
 
 ## Change notes
 
@@ -159,3 +179,4 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.
 - 2026-04-25 — merged contributions from `the-hidden-spring-mark-solms`.
 - 2026-04-25 — merged contributions from `mastery-the-keys-to-success-and-long-ter-george-leonard`.
+- 2026-04-25 — merged contributions from `mastery-the-keys-to-success-and-long-term-fulfillment-george`.
