@@ -9063,3 +9063,81 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/prisoners-dilemma.md`
 - Files deprecated: None.
 - Notes: 9 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | antifragile-things-that-gain-from-disorde-taleb-nassim-nicho
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf
+- Files created:
+  - `wiki/entities/alan-greenspan.md`
+  - `wiki/entities/bent-flyvbjerg.md`
+  - `wiki/entities/cato-the-elder.md`
+  - `wiki/entities/fannie-mae.md`
+  - `wiki/entities/fat-tony-and-nero-tulip.md`
+  - `wiki/entities/fat-tony.md`
+  - `wiki/entities/james-clerk-maxwell.md`
+  - `wiki/entities/jerome-kerviel.md`
+  - `wiki/entities/nassim-nicholas-taleb.md`
+  - `wiki/entities/nietzsche-and-antifragility.md`
+  - `wiki/entities/seneca.md`
+  - `wiki/entities/switzerland.md`
+  - `wiki/entities/thales-of-miletus.md`
+  - `wiki/concepts/agency-problem.md`
+  - `wiki/concepts/annealing.md`
+  - `wiki/concepts/baconian-linear-model.md`
+  - `wiki/concepts/barbell-strategy.md`
+  - `wiki/concepts/black-swan.md`
+  - `wiki/concepts/bottom-up-variations.md`
+  - `wiki/concepts/bricolage.md`
+  - `wiki/concepts/buridans-donkey.md`
+  - `wiki/concepts/convexity-and-concavity-effects.md`
+  - `wiki/concepts/convexity-and-concavity.md`
+  - `wiki/concepts/convexity-bias.md`
+  - `wiki/concepts/convexity-concavity.md`
+  - `wiki/concepts/domain-dependence.md`
+  - `wiki/concepts/empedocles-dog.md`
+  - `wiki/concepts/epiphenomena.md`
+  - `wiki/concepts/fourth-quadrant.md`
+  - `wiki/concepts/fragility-detection.md`
+  - `wiki/concepts/fragility.md`
+  - `wiki/concepts/green-lumber-fallacy.md`
+  - `wiki/concepts/history-written-by-losers.md`
+  - `wiki/concepts/iatrogenics.md`
+  - `wiki/concepts/incerto.md`
+  - `wiki/concepts/inverse-turkey-problem.md`
+  - `wiki/concepts/jensens-inequality.md`
+  - `wiki/concepts/lindy-effect.md`
+  - `wiki/concepts/maxwells-governors.md`
+  - `wiki/concepts/mediocristan-vs-extremistan.md`
+  - `wiki/concepts/mithridatization.md`
+  - `wiki/concepts/modernity.md`
+  - `wiki/concepts/naive-interventionism.md`
+  - `wiki/concepts/neomania.md`
+  - `wiki/concepts/optionality.md`
+  - `wiki/concepts/overcompensation.md`
+  - `wiki/concepts/philosopher-s-stone.md`
+  - `wiki/concepts/political-annealing.md`
+  - `wiki/concepts/post-traumatic-growth.md`
+  - `wiki/concepts/prometheus-and-epimetheus.md`
+  - `wiki/concepts/researchers-option.md`
+  - `wiki/concepts/skin-in-the-game.md`
+  - `wiki/concepts/soviet-harvard-delusion.md`
+  - `wiki/concepts/stiglitz-syndrome.md`
+  - `wiki/concepts/stochastic-resonance.md`
+  - `wiki/concepts/sucker-nonsucker-distinction.md`
+  - `wiki/concepts/the-black-swan-problem.md`
+  - `wiki/concepts/the-extended-disorder-family.md`
+  - `wiki/concepts/the-fragilista.md`
+  - `wiki/concepts/the-lucretius-problem.md`
+  - `wiki/concepts/the-triad.md`
+  - `wiki/concepts/touristification.md`
+  - `wiki/concepts/turkey-problem.md`
+  - `wiki/concepts/via-negativa.md`
+  - `wiki/concepts/wheel-on-suitcase-problem.md`
+  - `wiki/topics/chapter-23-skin-in-the-game.md`
+  - `wiki/sources/antifragile-things-that-gain-from-disorder.md`
+- Files merged (extended):
+  - `wiki/entities/hydra.md`
+  - `wiki/concepts/antifragility.md`
+  - `wiki/concepts/hormesis.md`
+- Files deprecated: None.
+- Notes: 67 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
