@@ -4109,3 +4109,58 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/group-selection.md`
 - Files deprecated: None.
 - Notes: 46 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | zen-and-the-art-of-motorcycle-maintenance-robert-m-pirsig
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig.pdf
+- Files created:
+  - `wiki/entities/albert-einstein.md`
+  - `wiki/entities/chris.md`
+  - `wiki/entities/david-hume.md`
+  - `wiki/entities/immanuel-kant.md`
+  - `wiki/entities/john-sutherland.md`
+  - `wiki/entities/ph-drus.md`
+  - `wiki/entities/phadrus.md`
+  - `wiki/entities/phaedrus.md`
+  - `wiki/entities/robert-deweese.md`
+  - `wiki/entities/robert-m-pirsig.md`
+  - `wiki/entities/sophists.md`
+  - `wiki/entities/sylvia-sutherland.md`
+  - `wiki/entities/the-chairman.md`
+  - `wiki/concepts/a-priori-knowledge.md`
+  - `wiki/concepts/arete.md`
+  - `wiki/concepts/church-of-reason.md`
+  - `wiki/concepts/classic-romantic-divide.md`
+  - `wiki/concepts/classical-and-romantic-understanding.md`
+  - `wiki/concepts/classical-romantic-dichotomy.md`
+  - `wiki/concepts/culture-bearing-books.md`
+  - `wiki/concepts/ego-climbing-vs-selfless-climbing.md`
+  - `wiki/concepts/ghost-of-rationality.md`
+  - `wiki/concepts/ghosts-and-scientific-laws.md`
+  - `wiki/concepts/gumption-traps.md`
+  - `wiki/concepts/gumption.md`
+  - `wiki/concepts/hierarchy-of-knowledge.md`
+  - `wiki/concepts/high-country-of-the-mind.md`
+  - `wiki/concepts/hypotheses.md`
+  - `wiki/concepts/lateral-truth.md`
+  - `wiki/concepts/motorcycle-maintenance.md`
+  - `wiki/concepts/mu.md`
+  - `wiki/concepts/muscle-traps.md`
+  - `wiki/concepts/peace-of-mind.md`
+  - `wiki/concepts/quality.md`
+  - `wiki/concepts/rhetoric-versus-dialectic.md`
+  - `wiki/concepts/scientific-materialism-vs-classic-formalism.md`
+  - `wiki/concepts/scientific-method.md`
+  - `wiki/concepts/stuckness.md`
+  - `wiki/concepts/subjectivity-objectivity-dilemma.md`
+  - `wiki/concepts/technology-rejection.md`
+  - `wiki/concepts/train-of-knowledge-analogy.md`
+  - `wiki/concepts/value-rigidity.md`
+  - `wiki/topics/bozeman-montana.md`
+  - `wiki/topics/rhetoric-teaching-methods.md`
+  - `wiki/topics/the-journey-to-bozeman.md`
+  - `wiki/sources/zen-and-the-art-of-motorcycle-maintenance.md`
+- Files merged (extended):
+  - `wiki/entities/henri-poincare.md`
+- Files deprecated: None.
+- Notes: 46 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
