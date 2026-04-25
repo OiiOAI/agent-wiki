@@ -3556,3 +3556,49 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/mark-solms.md`
 - Files deprecated: None.
 - Notes: 2 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | when-brains-dream-antonio-zadra
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf
+- Files created:
+  - `wiki/entities/calkins-mary-whiton.md`
+  - `wiki/entities/de-sanctis-sante.md`
+  - `wiki/entities/erin-wamsley.md`
+  - `wiki/entities/imagery-rehearsal-therapy.md`
+  - `wiki/entities/maury-alfred.md`
+  - `wiki/entities/prazosin.md`
+  - `wiki/entities/rem-sleep-behavior-disorder.md`
+  - `wiki/entities/saint-denys.md`
+  - `wiki/entities/sleepwalking.md`
+  - `wiki/concepts/activation-synthesis-hypothesis.md`
+  - `wiki/concepts/activation-synthesis-model.md`
+  - `wiki/concepts/cognitive-experiential-dream-model.md`
+  - `wiki/concepts/continuity-hypothesis.md`
+  - `wiki/concepts/dream-bizarreness.md`
+  - `wiki/concepts/dream-incubation.md`
+  - `wiki/concepts/dreamwork.md`
+  - `wiki/concepts/epic-dreaming.md`
+  - `wiki/concepts/freud-dream-theory.md`
+  - `wiki/concepts/hall-and-van-de-castle-system.md`
+  - `wiki/concepts/idiopathic-nightmares.md`
+  - `wiki/concepts/jung-dream-theory.md`
+  - `wiki/concepts/lucid-dreaming.md`
+  - `wiki/concepts/nextup-dream-function-theory.md`
+  - `wiki/concepts/nextup-model.md`
+  - `wiki/concepts/nextup-theory.md`
+  - `wiki/concepts/nightmares.md`
+  - `wiki/concepts/non-rem-sleep.md`
+  - `wiki/concepts/ptsd-and-sleep.md`
+  - `wiki/concepts/ptsed-nightmares.md`
+  - `wiki/concepts/semantic-priming.md`
+  - `wiki/concepts/sleep-dependent-memory-consolidation.md`
+  - `wiki/concepts/sleep-paralysis.md`
+  - `wiki/concepts/telepathic-and-precognitive-dreams.md`
+  - `wiki/concepts/threat-simulation-theory.md`
+  - `wiki/concepts/typical-dreams.md`
+  - `wiki/sources/when-brains-dream.md`
+- Files merged (extended):
+  - `wiki/concepts/narcolepsy.md`
+  - `wiki/concepts/rem-sleep.md`
+- Files deprecated: None.
+- Notes: 36 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

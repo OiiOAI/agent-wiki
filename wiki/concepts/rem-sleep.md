@@ -10,6 +10,7 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]'
 confidence: high
 tags:
 - REM sleep
@@ -25,8 +26,13 @@ related:
   broader:
   - sleep stages
   - sleep-wake cycle
+  - dreaming
   narrower:
   - REM sleep behavior disorder
+  - non-rem-sleep
+  - sleep-paralysis
+  - rem-behavior-disorder
+  - narcolepsy
   adjacent:
   - non-rem-sleep
   - sleep-spindles
@@ -51,16 +57,27 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - In adults REM sleep occupies approximately 25% of total sleep time. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1194]
 - During REM sleep temperature regulation is at a low point and body temperature begins to fall further still. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1193]
 - Ponto-geniculo-occipital (PGO) waves during REM sleep appear to be initiated by phasic discharge of brain stem cholinergic neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1200]
+- Eugene Aserinsky and Nathaniel Kleitman discovered REM sleep in 1953 and published their findings in Science. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p48]
+- When participants were awakened from non-REM sleep, coherent dream reports were obtained only 7 percent of the time, compared to 80 percent from REM awakenings. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p48]
+- During REM sleep, heart rate, blood pressure, and breathing vary widely, and men experience prolonged erections while women experience clitoral swelling. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p48]
+- During REM sleep, the brain exhibits a near-complete loss of muscle tone called atonia, preventing the dreamer from acting out movements. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p55]
+- The first REM period occurs roughly 90 minutes after sleep onset, and REM periods increase in length as the night progresses. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p49]
 
 ## Inferences
 
 - Inference: The loss of motor atonia during REM sleep in REM sleep behavior disorder suggests the subceruleus neurons or their descending projections to medullary inhibitory interneurons are damaged.
+- Inference: The discovery of REM sleep established a biological basis for dreaming, linking specific brain states to reported dream experiences.
 
 ## Related pages
 
 - Broader: [[sleep stages]]
 - Broader: [[sleep-wake cycle]]
+- Broader: [[dreaming]]
 - Narrower: [[REM sleep behavior disorder]]
+- Narrower: [[non-rem-sleep]]
+- Narrower: [[sleep-paralysis]]
+- Narrower: [[rem-behavior-disorder]]
+- Narrower: [[narcolepsy]]
 - Adjacent: [[non-rem-sleep]]
 - Adjacent: [[sleep-spindles]]
 - Concepts: [[subceruleus]]
@@ -70,6 +87,9 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 - Concepts: [[PGO-waves]]
 - Concepts: [[muscle-atonía]]
 - Concepts: [[cholinergic-neurons]]
+- Concepts: [[atonia]]
+- Concepts: [[eye movements]]
+- Concepts: [[sleep cycle]]
 - Topics: [[sleep-and-dreaming]]
 - Entities: [[pons]]
 - Entities: [[ventrolateral periaqueductal gray]]
@@ -78,8 +98,10 @@ REM (Rapid Eye Movement) sleep is a distinctive sleep stage characterized by EEG
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `when-brains-dream-antonio-zadra`.
