@@ -7507,3 +7507,44 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/paul-ekman.md`
 - Files deprecated: None.
 - Notes: 37 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-chimp-paradox-how-our-impulses-and-emotions-can-peters-d
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Chimp Paradox_ How Our Impulses and Emotions Can - Peters, Dr Steve.pdf
+- Files created:
+  - `wiki/entities/dr-steve-peters.md`
+  - `wiki/concepts/alpha-wolf-mindset.md`
+  - `wiki/concepts/assertiveness.md`
+  - `wiki/concepts/autopilots.md`
+  - `wiki/concepts/chimp-management.md`
+  - `wiki/concepts/chronic-stress-from-self.md`
+  - `wiki/concepts/chronic-stress-management.md`
+  - `wiki/concepts/commitment-screen.md`
+  - `wiki/concepts/core-principle.md`
+  - `wiki/concepts/dream-machine.md`
+  - `wiki/concepts/emotional-thinking.md`
+  - `wiki/concepts/fight-flight-or-freeze.md`
+  - `wiki/concepts/goblins.md`
+  - `wiki/concepts/gremlins.md`
+  - `wiki/concepts/instant-stress-management.md`
+  - `wiki/concepts/logical-thinking.md`
+  - `wiki/concepts/moon-of-carrots.md`
+  - `wiki/concepts/moon-of-security.md`
+  - `wiki/concepts/mushroom-syndrome.md`
+  - `wiki/concepts/personality-chimp-paradox.md`
+  - `wiki/concepts/planet-of-happiness.md`
+  - `wiki/concepts/planet-of-shadows.md`
+  - `wiki/concepts/planet-of-success.md`
+  - `wiki/concepts/psychological-mind.md`
+  - `wiki/concepts/regal-moon.md`
+  - `wiki/concepts/snow-white-mindset.md`
+  - `wiki/concepts/square-of-communication.md`
+  - `wiki/concepts/stone-of-life.md`
+  - `wiki/concepts/the-troop.md`
+  - `wiki/concepts/three-states-of-mind.md`
+  - `wiki/concepts/two-options-for-confidence.md`
+  - `wiki/concepts/worthless-stones-monkey-analogy.md`
+  - `wiki/topics/part-2-day-to-day-functioning.md`
+  - `wiki/sources/the-chimp-paradox.md`
+- Files deprecated: None.
+- Notes: 34 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
