@@ -4,9 +4,11 @@ title: Lisa Feldman Barrett
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]'
+- '[raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman
+  Barrett.pdf#p1-554]'
 canonical: Lisa Feldman Barrett
 confidence: high
 tags:
@@ -14,7 +16,12 @@ tags:
 - emotion
 - psychology
 - neuroscience
-aliases: []
+- psychologist
+- neuroscientist
+- author
+aliases:
+- Barrett
+- Feldman Barrett
 related:
   concepts:
   - body budgeting
@@ -24,15 +31,19 @@ related:
   - body-budgeting
   - affective-realism-effects
   - depression-as-body-budgeting-disorder
+  - theory-of-constructed-emotion
+  - emotional-granularity
+  - theory of constructed emotion
+  - emotional granularity
+  - body budget
   topics:
   - psychology
   - neuroscience
   - emotion
   - predictive-brain
   - embodied-emotion
-  entities: []
+  - affective-science
 ---
-
 
 # Lisa Feldman Barrett
 
@@ -48,6 +59,13 @@ Lisa Feldman Barrett is a psychologist and neuroscientist whose groundbreaking b
 - Barrett proposes that every brain region central to the generation and experience of emotion is a body-budgeting region. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p98]
 - Barrett describes depression as a disorder of allostasis involving inefficient energy regulation. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p105]
 - Barrett coined the term affective realism to describe how inner bodily sensations may be taken as evidence for active threat in perception. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p128]
+- Barrett is a Distinguished University Professor at Northeastern University and directs the Interdisciplinary Affective Science Laboratory. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p14]
+- Her graduate research initially failed to replicate well-established findings, but she discovered that people often cannot distinguish between feeling anxious and depressed, leading to her concept of emotional granularity. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p14]
+- Barrett proposes that the theory of constructed emotion incorporates elements of social construction, psychological construction, and neuroconstruction. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p49]
+- Lisa Feldman Barrett is a University Distinguished Professor of Psychology at Northeastern University. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p546]
+- She holds appointments at Harvard Medical School and Massachusetts General Hospital in psychiatry and radiology. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p546]
+- She received an NH Director's Pioneer Award for groundbreaking research on emotion in the brain. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p546]
+- She authored the book 'How Emotions Are Made: The Secret Life of the Brain' published by HMH. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p547]
 
 ## Inferences
 
@@ -66,16 +84,24 @@ Lisa Feldman Barrett is a psychologist and neuroscientist whose groundbreaking b
 - Concepts: [[body-budgeting]]
 - Concepts: [[affective-realism-effects]]
 - Concepts: [[depression-as-body-budgeting-disorder]]
+- Concepts: [[theory-of-constructed-emotion]]
+- Concepts: [[emotional-granularity]]
+- Concepts: [[theory of constructed emotion]]
+- Concepts: [[emotional granularity]]
+- Concepts: [[body budget]]
 - Topics: [[psychology]]
 - Topics: [[neuroscience]]
 - Topics: [[emotion]]
 - Topics: [[predictive-brain]]
 - Topics: [[embodied-emotion]]
+- Topics: [[affective-science]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]
+- Additional source: [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p1-554]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `how-emotions-are-made-the-secret-life-of-lisa-feldman-barret`.

@@ -11,6 +11,8 @@ sources:
 - '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 - '[raw/books/productivity/Stolen Focus _ Why You Can''t Pay Attention - and How to
   Think.pdf#p1-417]'
+- '[raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman
+  Barrett.pdf#p1-554]'
 confidence: high
 tags:
 - neuroscience
@@ -21,6 +23,10 @@ tags:
 - memory
 - networks
 - attention
+- intrinsic networks
+- prediction
+- concepts
+- future thinking
 related:
   broader:
   - brain activation during sleep
@@ -28,9 +34,13 @@ related:
   - brain
   - memory
   - schemas
+  - interoceptive network
+  - constructed emotion
   narrower:
   - DMN and dreaming
   - schemas
+  - concepts
+  - mental inference
   adjacent:
   - hippocampus
   - episodic-memory
@@ -58,6 +68,17 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - The hippocampus activates and communicates with the DMN at event boundaries to store memories for specific events. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p69]
 - Marcus Raichle discovered the default mode network in the 1980s using PET scan technology, observing that the brain remains highly active during mind-wandering. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p103]
 - Nathan Spreng noted that the default mode network can be 'suppressed' by constant digital interruption, with the brain in a 'constant stimulus-driven, stimulus-bound environment.'. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p107]
+- The default mode network is an intrinsic brain network that lies within the interoceptive network. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p337]
+- The default mode network was the first intrinsic network to be discovered, observed as increased activity when subjects were at rest. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p337]
+- Scientists originally believed the default mode network activity was aimless mind-wandering, but it is actually at the core of every prediction in the brain. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p337]
+- A prediction originates as a multisensory summary representing the goal of the concept in a portion of the interoceptive network known as the default mode network. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p337]
+- Concepts do not live wholesale in the default mode network; it simulates only part of the concept, namely the efficient multisensory summaries without sensory details. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p337]
+- The default mode network supports mental inference, allowing categorization of another person's thoughts and feelings with mental concepts. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p339]
+- The default mode network allows simulation of how the world might be different, including remembering the past and imagining the future from different points of view. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p339]
+- Jeffrey R. Binder and colleagues demonstrated that the default mode network represents key portions of concepts through brain-scanning experiments. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p338]
+- Binder's findings have been replicated by a meta-analysis of 120 similar brain-imaging experiments. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p339]
+- Daniel T. Gilbert calls the default mode network an 'experience simulator' akin to flight simulators for training pilots. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p339]
+- Newborns do not have a fully formed default mode network, resulting in their inability to predict and their diffuse 'lantern' of attention. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p340]
 
 ## Inferences
 
@@ -76,8 +97,12 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - Broader: [[brain]]
 - Broader: [[memory]]
 - Broader: [[schemas]]
+- Broader: [[interoceptive network]]
+- Broader: [[constructed emotion]]
 - Narrower: [[DMN and dreaming]]
 - Narrower: [[schemas]]
+- Narrower: [[concepts]]
+- Narrower: [[mental inference]]
 - Adjacent: [[hippocampus]]
 - Adjacent: [[episodic-memory]]
 - Concepts: [[nextup model]]
@@ -88,18 +113,26 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - Concepts: [[chunking]]
 - Concepts: [[neural-plasticity]]
 - Concepts: [[mind-wandering]]
+- Concepts: [[prediction]]
+- Concepts: [[concept cascade]]
+- Concepts: [[degeneracy]]
+- Concepts: [[mental simulation]]
 - Entities: [[marcus-raichle]]
 - Entities: [[maureen-ritchey]]
 - Entities: [[nathan-spreng]]
+- Entities: [[Jeffrey R. Binder]]
+- Entities: [[Daniel T. Gilbert]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p1-341]
 - Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 - Additional source: [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p1-417]
+- Additional source: [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p1-554]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.
 - 2026-04-25 — merged contributions from `stolen-focus-why-you-can-t-pay-attention-and-how-to-think`.
+- 2026-04-25 — merged contributions from `how-emotions-are-made-the-secret-life-of-lisa-feldman-barret`.

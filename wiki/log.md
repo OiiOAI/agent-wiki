@@ -7093,3 +7093,81 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/mindfulness.md`
 - Files deprecated: None.
 - Notes: 32 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | how-emotions-are-made-the-secret-life-of-lisa-feldman-barret
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf
+- Files created:
+  - `wiki/entities/batja-mesquita.md`
+  - `wiki/entities/dominic-cinelli-case.md`
+  - `wiki/entities/dzhokhar-tsarnaev.md`
+  - `wiki/entities/fei-xu.md`
+  - `wiki/entities/floyd-allport.md`
+  - `wiki/entities/gerald-l-clore.md`
+  - `wiki/entities/gordon-patterson-case.md`
+  - `wiki/entities/helen-mayberg.md`
+  - `wiki/entities/helen-s-mayberg.md`
+  - `wiki/entities/henry-louis-gates-jr-case.md`
+  - `wiki/entities/james-a-russell.md`
+  - `wiki/entities/jean-banks-case.md`
+  - `wiki/entities/judy-norman-case.md`
+  - `wiki/entities/lawrence-w-barsalou.md`
+  - `wiki/entities/naoki-higashida.md`
+  - `wiki/entities/robert-elliott-case.md`
+  - `wiki/entities/stand-your-ground-law-origin.md`
+  - `wiki/entities/stefania-albertani-case.md`
+  - `wiki/entities/temple-grandin.md`
+  - `wiki/entities/vestigial-expressions.md`
+  - `wiki/concepts/affective-niche.md`
+  - `wiki/concepts/affective-realism.md`
+  - `wiki/concepts/anxiety-insufficient-prediction.md`
+  - `wiki/concepts/autism-prediction-breakdown.md`
+  - `wiki/concepts/awe-self-deconstruction.md`
+  - `wiki/concepts/chronic-pain-prediction-error.md`
+  - `wiki/concepts/classical-view-of-emotion.md`
+  - `wiki/concepts/co-construction-emotion.md`
+  - `wiki/concepts/collective-intentionality.md`
+  - `wiki/concepts/concept-cascade.md`
+  - `wiki/concepts/concepts-psychology.md`
+  - `wiki/concepts/conceptual-combination.md`
+  - `wiki/concepts/darwins-magical-cloak.md`
+  - `wiki/concepts/degeneracy-neural-representation.md`
+  - `wiki/concepts/degeneracy.md`
+  - `wiki/concepts/depression-body-budget.md`
+  - `wiki/concepts/discomfort-vs-suffering.md`
+  - `wiki/concepts/emotion-acculturation.md`
+  - `wiki/concepts/emotion-concepts.md`
+  - `wiki/concepts/emotional-granularity.md`
+  - `wiki/concepts/emotional-intelligence.md`
+  - `wiki/concepts/goal-based-concepts.md`
+  - `wiki/concepts/heat-of-passion-defense.md`
+  - `wiki/concepts/induction-essentialism-children.md`
+  - `wiki/concepts/inflammation-body-budget.md`
+  - `wiki/concepts/interoceception.md`
+  - `wiki/concepts/limbic-system-fiction.md`
+  - `wiki/concepts/mental-inference-fallacy.md`
+  - `wiki/concepts/population-thinking.md`
+  - `wiki/concepts/prediction-loops.md`
+  - `wiki/concepts/reasonable-person-standard.md`
+  - `wiki/concepts/recategorization.md`
+  - `wiki/concepts/self-as-concept.md`
+  - `wiki/concepts/simulation.md`
+  - `wiki/concepts/social-reality.md`
+  - `wiki/concepts/statistical-learning.md`
+  - `wiki/concepts/the-lost-chorus.md`
+  - `wiki/concepts/theory-of-constructed-emotion.md`
+  - `wiki/topics/animal-emotion.md`
+  - `wiki/topics/brain-basics.md`
+  - `wiki/topics/emotion-and-law.md`
+  - `wiki/topics/predicting-brain.md`
+  - `wiki/sources/how-emotions-are-made-barrett.md`
+- Files merged (extended):
+  - `wiki/entities/lisa-feldman-barrett.md`
+  - `wiki/concepts/affect.md`
+  - `wiki/concepts/body-budgeting.md`
+  - `wiki/concepts/default-mode-network.md`
+  - `wiki/concepts/essentialism.md`
+  - `wiki/concepts/interoception.md`
+  - `wiki/concepts/nocebo-effect.md`
+- Files deprecated: None.
+- Notes: 63 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
