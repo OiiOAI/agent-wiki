@@ -5665,3 +5665,43 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/xing-er-shang-xia.md`
 - Files deprecated: None.
 - Notes: 23 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 周易概论-刘大钧
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/周易概论 - 刘大钧.pdf
+- Files created:
+  - `wiki/entities/chen-tuan.md`
+  - `wiki/entities/he-tu.md`
+  - `wiki/entities/hu-wei.md`
+  - `wiki/entities/huang-zong-xi.md`
+  - `wiki/entities/hui-dong.md`
+  - `wiki/entities/kong-ying-da.md`
+  - `wiki/entities/lai-zhi-de.md`
+  - `wiki/entities/li-ding-zuo.md`
+  - `wiki/entities/li-guang-di.md`
+  - `wiki/entities/luo-shu.md`
+  - `wiki/entities/wang-bi.md`
+  - `wiki/entities/yang-wan-li.md`
+  - `wiki/entities/yu-fan.md`
+  - `wiki/entities/zhang-hui-yan.md`
+  - `wiki/concepts/bian-zhan-fa.md`
+  - `wiki/concepts/gua-bian.md`
+  - `wiki/concepts/gua-cuo.md`
+  - `wiki/concepts/gua-zong.md`
+  - `wiki/concepts/hu-gua.md`
+  - `wiki/concepts/yi-li-shi-yi.md`
+  - `wiki/concepts/yi-xiang.md`
+  - `wiki/concepts/zhan-bu.md`
+  - `wiki/topics/da-yan-zhi-shu-yu-shi-cao-zhan-shi.md`
+  - `wiki/topics/li-dai-yi-xue-gai-lun.md`
+  - `wiki/topics/li-dai-yi-xue-yan-jiu-gai-lun.md`
+  - `wiki/topics/zuo-zhuan-guo-yu-shi-li.md`
+  - `wiki/sources/zhou-yi-gai-lun.md`
+  - `wiki/analyses/qing-ru-ji-yi-han-yi.md`
+- Files merged (extended):
+  - `wiki/entities/cheng-yi.md`
+  - `wiki/entities/kong-zi.md`
+  - `wiki/entities/zhang-zai.md`
+  - `wiki/entities/zhu-xi.md`
+- Files deprecated: None.
+- Notes: 28 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

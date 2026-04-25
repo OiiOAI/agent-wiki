@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理;
   朱熹; 柯誉.epub#L1-L1]'
+- '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
 canonical: 朱熹
 confidence: high
 aliases:
@@ -18,6 +19,7 @@ aliases:
 - 仲晦
 - 晦庵
 - 紫阳
+- 朱文公
 tags:
 - 宋明理学
 - 道学家
@@ -25,6 +27,11 @@ tags:
 - 南宋
 - 哲学家
 - 教育家
+- 朱熹
+- 宋代理学
+- 易学
+- 挂扐法
+- 变占法
 related:
   concepts:
   - 理学
@@ -33,6 +40,12 @@ related:
   - 理气关系
   - 天理
   - 人欲
+  - 挂扐法
+  - 变占法
+  - 过揲法
+  - 象数
+  - 河图洛书
+  - 周易本义
   topics:
   - 宋明理学
   - 儒家哲学
@@ -43,6 +56,9 @@ related:
   - 张栻
   - 吕祖谦
   - 程颐
+  - 邵雍
+  - 王应麟
+  - 蔡元定
 ---
 
 # 朱熹
@@ -66,19 +82,49 @@ related:
 - 朱熹二十四岁时问学于程颐的三传弟子李侗，得承袭其易学正统. [raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub#L38-L39]
 - 朱熹与张栻、吕祖谦同出其时，人称"东南三贤". [raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub#L39-L40]
 - 朱熹提出"存天理，灭人欲"的客观唯心主义思想. [raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub#L42-L43]
+- 朱熹在《易学启蒙》中创“挂扐法”，以蓍草余数中含有几个四（象征四时）来定奇偶，再以奇偶之数定阴阳老少。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p108]
+- 朱熹贬抑“过揲法”，认为“挂扐之数，乃七、八、九、六之原，而过揲之数，乃七、八、九、六之委”，此说被作者认为不符合《系辞》中有关筮法的论述。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p110]
+- 朱熹定“变占”之法：六爻皆不变占本卦彖辞，一爻变以本卦变爻辞占，二爻变以本卦二变爻辞占，以上爻为主等。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p111]
+- 朱熹的“变占”之法与春秋筮法有出入，考之《左传》《国语》筮例，二爻变、四爻变、五爻变、六爻变之例皆无记载，恐怕只是朱熹的个人推测。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p141]
+- 朱熹最主要的《易》学著作为《周易本义》. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p205]
+- 王应麟以为朱熹与程颐的不同在于'程子言《易》，谓得其义，则象数在其中。朱子以为先见象数，方得说理'. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p206]
+- 朱熹注《乾》卦'元亨利贞'解'元'为'大'，'贞'为'正而固'. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p206]
+- 朱熹在注释《周易》时，对不明白的就说不明白，有疑问的就提出疑问，表现出'多闻阙疑，慎言其余'的求实态度. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p208]
+- 朱熹相信'图''书'之说，在《本义》列了河图、洛书等九副《易》图. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p209]
+- 朱熹在《本义》中特别说明《周易》原是古代筮书，以此来正《周易》之本义. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p209]
 
 ## Inferences
 
 - Inference: 朱熹四岁时问天之问，显示出其早慧的特质，为其日后成为理学大家埋下伏笔
+- Inference: 朱熹强调“挂扐法”而贬抑“过揲法”，但实际上两种方法求得的结果相同，朱熹不能明察《系辞》以揲数定阴阳老少的本意，将挂扐余数看作七、八、九、六之原，此说违背《系辞》之旨。
+- Inference: 朱熹的“变占”之法对宋以后的人只起参考作用，并不为解占者当法式遵循，因为古人解占“筮无定法”，并不受框框限制。
+
+## Uncertainties
+
+- Uncertain: 朱熹的“变占”之法究竟有多少符合春秋实际筮法，因文献记载有限，难以完全确定。
 
 ## Related pages
 
+- Broader: [[宋代理学]]
+- Broader: [[易学家]]
+- Narrower: [[易学启蒙]]
+- Narrower: [[挂扐法]]
+- Narrower: [[变占法]]
+- Adjacent: [[王弼]]
+- Adjacent: [[欧阳修]]
+- Adjacent: [[程颐]]
 - Concepts: [[理学]]
 - Concepts: [[性即理]]
 - Concepts: [[格物致知]]
 - Concepts: [[理气关系]]
 - Concepts: [[天理]]
 - Concepts: [[人欲]]
+- Concepts: [[挂扐法]]
+- Concepts: [[变占法]]
+- Concepts: [[过揲法]]
+- Concepts: [[象数]]
+- Concepts: [[河图洛书]]
+- Concepts: [[周易本义]]
 - Topics: [[宋明理学]]
 - Topics: [[儒家哲学]]
 - Entities: [[陆象山]]
@@ -87,13 +133,18 @@ related:
 - Entities: [[张栻]]
 - Entities: [[吕祖谦]]
 - Entities: [[程颐]]
+- Entities: [[邵雍]]
+- Entities: [[王应麟]]
+- Entities: [[蔡元定]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub#L1-L1]
+- Additional source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `周易本义-original-meaning-of-the-book-of-changes-朱熹著-柯誉整理-朱熹-柯誉`.
+- 2026-04-25 — merged contributions from `周易概论-刘大钧`.

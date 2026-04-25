@@ -4,9 +4,10 @@ title: 孔子
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
+- '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
 canonical: 孔子
 confidence: high
 aliases:
@@ -19,6 +20,9 @@ tags:
 - 教育家
 - 六艺
 - 有教无类
+- 易学
+- 十翼
+- 六经
 related:
   concepts:
   - liu-yi
@@ -27,6 +31,8 @@ related:
   - 述而不作
   - 六艺
   - 三年之丧
+  - 易学
+  - 六经
   topics:
   - 中国哲学
   entities:
@@ -37,7 +43,6 @@ related:
   - 子路
   - 颜渊
 ---
-
 
 # 孔子
 
@@ -71,33 +76,52 @@ related:
 - 孔子一贯之道为忠恕，亦即谓孔子一贯之道为仁也。. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p111]
 - 孔子极少言利，主张"君子喻于义，小人喻于利"。. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p114]
 - 孔子说"性相近也，习相远也"。. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p115]
+- 《论语·述而》载孔子言：“加我数年，五十以学易，可以无大过矣！”这是“晚而好《易》”的证据。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p152]
+- 《论语·子路》载孔子引用《恒》卦九三爻辞“不恒其德，或承之羞”，并说“不占而已矣”，证明孔子曾研究《周易》并实际占筮过。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p152]
+- 《史记》《汉书》载孔子“序《彖》《系》《象》《说卦》《文言》”，作《易传》，但欧阳修质疑《系辞》《文言》《说卦》而下非一人之言。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p150]
+- 作者认为孔子在前人《易》说基础上对《周易》作过口头阐释，弟子及后人记录加工补充，形成“十翼”，反映孔子思想却是后人托名之作。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p153]
+- 孔子是鲁国人，曾在鲁国做官，应见过韩宣子在鲁国所见的“《易象》与鲁《春秋》”，这是体现周礼的书。. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p151]
 
 ## Inferences
 
 - Inference: 孔子开战国讲学游说之风，创立中国之士人阶级，其影响堪比苏格拉底之于西洋
 - Inference: 孔子虽可靠国君之养，但其弟子之多未尝不是其有受养资格之一。
 - Inference: 孔子以六艺教人，注重礼之本及乐之原理，不只讲其形式节奏。
+- Inference: 孔子删《诗》而“述而不作”，对前人《易》注可能也作过口头阐释，故司马迁说“中国言六艺者，折中于夫子”是有根据的。
+- Inference: 正因为孔子研究《周易》，“十翼”被列入经文，西汉人才将《周易》假孔子之名而益高其学术地位，使之成为六经之首。
+
+## Uncertainties
+
+- Uncertain: “十翼”究竟有多少内容真正出自孔子之手，学界尚无定论，作者认为可能经过战国至汉的不断加工补充，已非全出孔子之手，但反映了孔子思想。
 
 ## Related pages
 
 - Broader: [[zi-xue-shi-dai]]
 - Broader: [[ru-jia]]
 - Broader: [[儒家]]
+- Broader: [[春秋思想家]]
 - Narrower: [[zheng-ming-zhu-yi]]
 - Narrower: [[shu-wei-zuo]]
 - Narrower: [[正名]]
 - Narrower: [[仁]]
 - Narrower: [[忠恕]]
+- Narrower: [[十翼]]
+- Narrower: [[易传]]
 - Adjacent: [[mo-zi]]
 - Adjacent: [[meng-zi]]
 - Adjacent: [[xun-zi]]
 - Adjacent: [[苏格拉底]]
+- Adjacent: [[孟子]]
+- Adjacent: [[荀子]]
+- Adjacent: [[董仲舒]]
 - Concepts: [[liu-yi]]
 - Concepts: [[you-jiao-wu-lei]]
 - Concepts: [[shu-er-zuo-zuo-xin-er-hao-gu]]
 - Concepts: [[述而不作]]
 - Concepts: [[六艺]]
 - Concepts: [[三年之丧]]
+- Concepts: [[易学]]
+- Concepts: [[六经]]
 - Topics: [[中国哲学]]
 - Entities: [[zi-xue-shi-dai]]
 - Entities: [[ru-jia]]
@@ -109,7 +133,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
+- Additional source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `周易概论-刘大钧`.
