@@ -233,3 +233,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/rework-book.md`
 - Files deprecated: None.
 - Notes: 18 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | team-topologies
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/Team_Topologies.epub
+- Files created:
+  - `wiki/entities/adaptive-structuration-theory.md`
+  - `wiki/entities/bruce-tuckman.md`
+  - `wiki/entities/cybernetics.md`
+  - `wiki/entities/dave-snowden.md`
+  - `wiki/entities/devops-topologies.md`
+  - `wiki/entities/five-dysfunctions-of-a-team.md`
+  - `wiki/entities/james-lewis.md`
+  - `wiki/entities/john-sweller.md`
+  - `wiki/entities/manuel-pais.md`
+  - `wiki/entities/matthew-skelton.md`
+  - `wiki/entities/mel-conway.md`
+  - `wiki/entities/norbert-wiener.md`
+  - `wiki/entities/patrick-lencioni.md`
+  - `wiki/entities/robin-dunbar.md`
+  - `wiki/entities/ruth-malan.md`
+  - `wiki/concepts/cognitive-load-management.md`
+  - `wiki/concepts/cognitive-load.md`
+  - `wiki/concepts/collaboration-mode.md`
+  - `wiki/concepts/complicated-subsystem-team.md`
+  - `wiki/concepts/complicated-subsystem-teams.md`
+  - `wiki/concepts/conways-law.md`
+  - `wiki/concepts/dunbars-number.md`
+  - `wiki/concepts/enabling-team.md`
+  - `wiki/concepts/enabling-teams.md`
+  - `wiki/concepts/evolution-of-team-topologies.md`
+  - `wiki/concepts/facilitating-mode.md`
+  - `wiki/concepts/fracture-plane.md`
+  - `wiki/concepts/hidden-monoliths.md`
+  - `wiki/concepts/organizational-sensing.md`
+  - `wiki/concepts/platform-team.md`
+  - `wiki/concepts/platform-teams.md`
+  - `wiki/concepts/reverse-conway-maneuver.md`
+  - `wiki/concepts/stream-aligned-team.md`
+  - `wiki/concepts/stream-aligned-teams.md`
+  - `wiki/concepts/team-anti-patterns.md`
+  - `wiki/concepts/team-api.md`
+  - `wiki/concepts/team-first-thinking.md`
+  - `wiki/concepts/team-topologies-framework.md`
+  - `wiki/concepts/x-as-a-service-mode.md`
+  - `wiki/topics/four-fundamental-team-topologies.md`
+  - `wiki/topics/team-interaction-modes.md`
+  - `wiki/topics/team-topology-design-principles-ch4.md`
+  - `wiki/sources/team-topologies.md`
+- Files deprecated: None.
+- Notes: 43 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
