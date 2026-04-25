@@ -3533,3 +3533,15 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/giulio-tononi.md`
 - Files deprecated: None.
 - Notes: 7 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-reinterpretation-of-dreams-an-evolutionary-hypothesis-of
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The reinterpretation of dreams - An evolutionary hypothesis of the function of dreaming.pdf
+- Files created:
+  - `wiki/entities/antti-revonsuo.md`
+  - `wiki/concepts/biological-function-of-dreaming.md`
+  - `wiki/concepts/dream-consciousness.md`
+  - `wiki/concepts/threat-simulation-theory-of-dreaming.md`
+  - `wiki/sources/the-reinterpretation-of-dreams-an-evolutionary-hypothesis-of-the-function-of-dreaming.md`
+- Files deprecated: None.
+- Notes: 5 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
