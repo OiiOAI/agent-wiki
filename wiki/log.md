@@ -10218,3 +10218,31 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/recognition-primed-decision-model.md`
 - Files deprecated: None.
 - Notes: 29 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-checklist-manifesto-how-to-get-things-right-atul-gawande
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/The checklist manifesto _ how to get things right - Atul Gawande.pdf
+- Files created:
+  - `wiki/entities/boeing-model-299.md`
+  - `wiki/entities/dan-boorman.md`
+  - `wiki/entities/keystone-initiative.md`
+  - `wiki/entities/peter-pronovost.md`
+  - `wiki/entities/stephen-luby.md`
+  - `wiki/entities/who-safe-surgery-checklist.md`
+  - `wiki/concepts/checklist-design-principles.md`
+  - `wiki/concepts/checklist.md`
+  - `wiki/concepts/do-confirm-vs-read-do-checklists.md`
+  - `wiki/concepts/four-big-killers-in-surgery.md`
+  - `wiki/concepts/ignorance-vs-ineptitude.md`
+  - `wiki/concepts/master-builder-model.md`
+  - `wiki/concepts/simple-complicated-complex-problems.md`
+  - `wiki/concepts/team-briefing-in-surgery.md`
+  - `wiki/concepts/teamwork-failures-in-surgery.md`
+  - `wiki/topics/checklists-in-investment.md`
+  - `wiki/topics/heroism-in-the-age-of-checklists.md`
+  - `wiki/topics/who-safe-surgery-saves-lives.md`
+  - `wiki/sources/the-checklist-manifesto-how-to-get-things-right.md`
+- Files merged (extended):
+  - `wiki/entities/atul-gawande.md`
+- Files deprecated: None.
+- Notes: 19 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
