@@ -8780,3 +8780,20 @@ This file is the append-only operational history of the wiki.
   - `wiki/analyses/shi-dai-ji-ti-zhong-de-qin-zi-chong-tu-fen-xi.md`
 - Files deprecated: None.
 - Notes: 135 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 方正证券-计算机行业-解析chatgpt背后的技术演进-230322
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/方正证券 - 计算机行业：解析ChatGPT背后的技术演进 - 230322.pdf
+- Files created:
+  - `wiki/entities/bert.md`
+  - `wiki/entities/gpt-xi-lie.md`
+  - `wiki/entities/wen-xin-yi-yan.md`
+  - `wiki/concepts/aigc.md`
+  - `wiki/concepts/da-yu-yan-mo-xing.md`
+  - `wiki/concepts/in-context-xue-xi.md`
+  - `wiki/concepts/transformer.md`
+  - `wiki/concepts/zhu-yi-li-ji-zhi.md`
+  - `wiki/concepts/zi-ran-yu-yan-chu-li.md`
+  - `wiki/sources/fang-zheng-zheng-quan-ji-suan-ji-hang-ye-jie-xi-chatgpt-bei-hou-de-ji-zhu-yan-jin-230322.md`
+- Files deprecated: None.
+- Notes: 10 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
