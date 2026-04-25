@@ -6307,3 +6307,15 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zi-xing.md`
 - Files deprecated: None.
 - Notes: 49 new + 15 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | atomic-habits
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Atomic Habits_ The life - changing million copy bestseller - James Clear.pdf
+- Files created:
+  - `wiki/concepts/four-laws-of-behavior-change.md`
+  - `wiki/concepts/identity-based-habits.md`
+  - `wiki/concepts/reflection-and-review.md`
+  - `wiki/concepts/the-goldilocks-rule.md`
+  - `wiki/sources/atomic-habits.md`
+- Files deprecated: None.
+- Notes: 5 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
