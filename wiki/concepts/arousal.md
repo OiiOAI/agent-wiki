@@ -4,9 +4,10 @@ title: Arousal
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
+- '[raw/books/psychology/Models - Mark Manson.pdf#p1-274]'
 confidence: high
 tags:
 - neuroscience
@@ -14,16 +15,19 @@ tags:
 - consciousness
 - brain
 - psychology
+- sexuality
+- attraction
 related:
-  broader: []
-  narrower: []
   adjacent:
   - consciousness
   - reticular-activating-system
   - periaqueductal-grey
   - neuromodulators
+  - Sexual Intent
+  - Flirting
+  - Courage
+aliases: []
 ---
-
 
 # Arousal
 
@@ -41,6 +45,8 @@ Arousal is the brain's fundamental mechanism generated mainly in the brainstem a
 - Arousal states inscribe lessons more deeply in the channels of our brains; you are more likely to remember a journey when anxiously trying to find an unfamiliar destination than when on autopilot. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p123]
 - The shift from vegetative wakefulness to affective arousal depends upon the integrity of the PAG. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p126]
 - Affective arousal enables volition—this is what the PAG adds to automatic, vegetative functioning. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p127]
+- Arousal is defined as the process in which someone is sexually stimulated, physically, psychologically or emotionally. [raw/books/psychology/Models - Mark Manson.pdf#p265]
+- Current research posits women are primarily aroused through displays of sexual intent and bold behaviors. [raw/books/psychology/Models - Mark Manson.pdf#p265]
 
 ## Inferences
 
@@ -52,6 +58,9 @@ Arousal is the brain's fundamental mechanism generated mainly in the brainstem a
 - Adjacent: [[reticular-activating-system]]
 - Adjacent: [[periaqueductal-grey]]
 - Adjacent: [[neuromodulators]]
+- Adjacent: [[Sexual Intent]]
+- Adjacent: [[Flirting]]
+- Adjacent: [[Courage]]
 - Concepts: [[affect]]
 - Concepts: [[sleep]]
 - Concepts: [[wakefulness]]
@@ -60,7 +69,9 @@ Arousal is the brain's fundamental mechanism generated mainly in the brainstem a
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
+- Additional source: [raw/books/psychology/Models - Mark Manson.pdf#p1-274]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `models-mark-manson`.

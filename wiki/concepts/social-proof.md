@@ -4,23 +4,29 @@ title: Social Proof
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]'
+- '[raw/books/psychology/Models - Mark Manson.pdf#p1-274]'
 confidence: high
 tags:
 - social-influence
 - conformity
 - peer-pressure
+- psychology
+- social psychology
+- attraction
 related:
   broader:
   - influence principles
   - persuasion
   narrower:
   - pluralistic ignorance
-  adjacent: []
+  adjacent:
+  - Social Circle
+  - Attractive Behavior
+aliases: []
 ---
-
 
 # Social Proof
 
@@ -37,6 +43,9 @@ Social proof is a psychological principle stating that one means we use to deter
 - When one person stares at an empty spot in the sky, most passersby walk past without glancing up and virtually no one stops to stare. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p255]
 - When four people stare upward together, within sixty seconds a crowd of passersby will have stopped to crane their necks skyward with the group. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p255]
 - The sky-staring experiment by Milgram, Bickman, and Berkowitz (1967) caused 80 percent of all passersby to lift their gaze to the empty spot when four people were already staring. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p255]
+- Social Proof is defined as the psychological mechanism where if many other people value something, then we will value it as well. [raw/books/psychology/Models - Mark Manson.pdf#p271]
+- In attraction, if a number of other people or women are attracted to you, then one specific woman will become more attracted to you. [raw/books/psychology/Models - Mark Manson.pdf#p271]
+- Social Proof is only applicable in social circle situations, not with strangers. [raw/books/psychology/Models - Mark Manson.pdf#p271]
 
 ## Inferences
 
@@ -47,6 +56,8 @@ Social proof is a psychological principle stating that one means we use to deter
 - Broader: [[influence principles]]
 - Broader: [[persuasion]]
 - Narrower: [[pluralistic ignorance]]
+- Adjacent: [[Social Circle]]
+- Adjacent: [[Attractive Behavior]]
 - Concepts: [[pluralistic-ignorance]]
 - Concepts: [[bystander-effect]]
 - Concepts: [[werther-effect]]
@@ -60,7 +71,9 @@ Social proof is a psychological principle stating that one means we use to deter
 ## Provenance
 
 - Primary source: [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]
+- Additional source: [raw/books/psychology/Models - Mark Manson.pdf#p1-274]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `models-mark-manson`.

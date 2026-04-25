@@ -7301,3 +7301,67 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/mating-in-captivity-unlocking-erotic-intelligence.md`
 - Files deprecated: None.
 - Notes: 30 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | models-mark-manson
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Models - Mark Manson.pdf
+- Files created:
+  - `wiki/entities/mark-manson.md`
+  - `wiki/concepts/anxiety.md`
+  - `wiki/concepts/assortment-effect.md`
+  - `wiki/concepts/attractive-behavior.md`
+  - `wiki/concepts/boldness.md`
+  - `wiki/concepts/boundaries.md`
+  - `wiki/concepts/cold-reading.md`
+  - `wiki/concepts/confidence.md`
+  - `wiki/concepts/courage.md`
+  - `wiki/concepts/creepiness.md`
+  - `wiki/concepts/creepy.md`
+  - `wiki/concepts/dating-success.md`
+  - `wiki/concepts/defense-mechanisms.md`
+  - `wiki/concepts/emotional-connection.md`
+  - `wiki/concepts/emotional-investment.md`
+  - `wiki/concepts/finding-your-truth.md`
+  - `wiki/concepts/flake.md`
+  - `wiki/concepts/flaking.md`
+  - `wiki/concepts/flirting.md`
+  - `wiki/concepts/friction-and-projection.md`
+  - `wiki/concepts/friction.md`
+  - `wiki/concepts/friend-zone.md`
+  - `wiki/concepts/honest-action.md`
+  - `wiki/concepts/honest-communication.md`
+  - `wiki/concepts/honest-living.md`
+  - `wiki/concepts/lifestyle.md`
+  - `wiki/concepts/limiting-beliefs.md`
+  - `wiki/concepts/narcissism.md`
+  - `wiki/concepts/neediness.md`
+  - `wiki/concepts/non-neediness.md`
+  - `wiki/concepts/objectification.md`
+  - `wiki/concepts/pain-period.md`
+  - `wiki/concepts/pick-up-artist.md`
+  - `wiki/concepts/polarization.md`
+  - `wiki/concepts/projection.md`
+  - `wiki/concepts/rejection.md`
+  - `wiki/concepts/seduction.md`
+  - `wiki/concepts/self-esteem.md`
+  - `wiki/concepts/self-selection.md`
+  - `wiki/concepts/sexual-escalation.md`
+  - `wiki/concepts/sexual-intent.md`
+  - `wiki/concepts/sexual-motivation.md`
+  - `wiki/concepts/sexual-tension.md`
+  - `wiki/concepts/social-circle.md`
+  - `wiki/concepts/stair-step-approach.md`
+  - `wiki/concepts/stories-we-tell-ourselves.md`
+  - `wiki/concepts/sub-communication.md`
+  - `wiki/concepts/three-categories-of-women.md`
+  - `wiki/concepts/three-fundamentals.md`
+  - `wiki/concepts/truth-telling.md`
+  - `wiki/concepts/unconditionality.md`
+  - `wiki/concepts/vulnerability.md`
+  - `wiki/sources/models-attract-women-through-honesty.md`
+- Files merged (extended):
+  - `wiki/concepts/arousal.md`
+  - `wiki/concepts/demographics.md`
+  - `wiki/concepts/social-proof.md`
+- Files deprecated: None.
+- Notes: 53 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
