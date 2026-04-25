@@ -9672,3 +9672,100 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/social-proof.md`
 - Files deprecated: None.
 - Notes: 80 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf
+- Files created:
+  - `wiki/entities/benjamin-franklin.md`
+  - `wiki/entities/grant-mcfadyen.md`
+  - `wiki/entities/henry-e-singleton.md`
+  - `wiki/entities/jim-sinegal.md`
+  - `wiki/entities/joe-flom.md`
+  - `wiki/entities/john-gutfreund.md`
+  - `wiki/entities/john-kenneth-galbraith.md`
+  - `wiki/entities/john-patterson.md`
+  - `wiki/entities/johnny-carson.md`
+  - `wiki/entities/long-term-capital-management.md`
+  - `wiki/entities/lou-simpson.md`
+  - `wiki/entities/munger-tolles-olson.md`
+  - `wiki/entities/wheeler-munger-co.md`
+  - `wiki/concepts/advantages-of-scale.md`
+  - `wiki/concepts/berkshire-hathaway-investment-approach.md`
+  - `wiki/concepts/competitive-destruction.md`
+  - `wiki/concepts/derivatives-risks.md`
+  - `wiki/concepts/disliking-hating-tendency.md`
+  - `wiki/concepts/doubt-avoidance-tendency.md`
+  - `wiki/concepts/envy-as-deadly-sin.md`
+  - `wiki/concepts/envy-jealousy-tendency.md`
+  - `wiki/concepts/excessive-self-regard-tendency.md`
+  - `wiki/concepts/foundation-investment-practices.md`
+  - `wiki/concepts/full-attribution-ethos.md`
+  - `wiki/concepts/grannys-rule.md`
+  - `wiki/concepts/hard-science-organizing-ethos.md`
+  - `wiki/concepts/inconsistency-avoidance-tendency.md`
+  - `wiki/concepts/influence-from-mere-association-tendency.md`
+  - `wiki/concepts/intrinsic-value.md`
+  - `wiki/concepts/inversion-technique.md`
+  - `wiki/concepts/know-what-you-dont-know.md`
+  - `wiki/concepts/liking-loving-tendency.md`
+  - `wiki/concepts/limits-to-compounding.md`
+  - `wiki/concepts/lollapalooza-effects.md`
+  - `wiki/concepts/ltcm-overconfidence.md`
+  - `wiki/concepts/man-with-a-hammer-tendency.md`
+  - `wiki/concepts/milgram-experiment.md`
+  - `wiki/concepts/moat.md`
+  - `wiki/concepts/navy-captain-model.md`
+  - `wiki/concepts/pari-mutuel-market-model.md`
+  - `wiki/concepts/pension-fund-accounting.md`
+  - `wiki/concepts/pilot-training-model.md`
+  - `wiki/concepts/reading-for-wisdom.md`
+  - `wiki/concepts/reward-super-response-tendency.md`
+  - `wiki/concepts/simple-pain-avoiding-psychological-denial.md`
+  - `wiki/concepts/sit-on-your-ass-investing.md`
+  - `wiki/concepts/stock-options-criticism.md`
+  - `wiki/concepts/surfing-model.md`
+  - `wiki/concepts/whats-wrong-with-economics.md`
+  - `wiki/concepts/worldly-wisdom.md`
+  - `wiki/analyses/coca-cola-case-study-multidisciplinary-thinking.md`
+  - `wiki/analyses/mad-hatters-tea-party-metaphor.md`
+  - `wiki/analyses/salomon-general-counsel-failure-persuasion-lesson.md`
+- Files merged (extended):
+  - `wiki/entities/benjamin-graham.md`
+  - `wiki/entities/berkshire-hathaway.md`
+  - `wiki/entities/carl-braun.md`
+  - `wiki/entities/charles-t-munger.md`
+  - `wiki/entities/charlie-munger.md`
+  - `wiki/entities/judith-rich-harris.md`
+  - `wiki/entities/les-schwab.md`
+  - `wiki/entities/robert-woodruff.md`
+  - `wiki/entities/warren-buffett.md`
+  - `wiki/concepts/authority-misinfluence-tendency.md`
+  - `wiki/concepts/circle-of-competence.md`
+  - `wiki/concepts/commitment-and-consistency-tendency.md`
+  - `wiki/concepts/contrast-misreaction-tendency.md`
+  - `wiki/concepts/deprival-super-reaction-syndrome.md`
+  - `wiki/concepts/deprival-super-reaction-tendency.md`
+  - `wiki/concepts/febezzlement.md`
+  - `wiki/concepts/focus-investing.md`
+  - `wiki/concepts/incentive-caused-bias.md`
+  - `wiki/concepts/inversion.md`
+  - `wiki/concepts/latticework-of-mental-models.md`
+  - `wiki/concepts/lollapalooza-effect.md`
+  - `wiki/concepts/lollapalooza-tendency.md`
+  - `wiki/concepts/man-with-a-hammer-syndrome.md`
+  - `wiki/concepts/margin-of-safety.md`
+  - `wiki/concepts/mental-models.md`
+  - `wiki/concepts/mr-market.md`
+  - `wiki/concepts/multidisciplinary-thinking.md`
+  - `wiki/concepts/multiple-mental-models.md`
+  - `wiki/concepts/operant-conditioning.md`
+  - `wiki/concepts/pavlovian-conditioning.md`
+  - `wiki/concepts/psychology-of-human-misjudgment.md`
+  - `wiki/concepts/psychology-of-misjudgment.md`
+  - `wiki/concepts/reciprocation-tendency.md`
+  - `wiki/concepts/social-proof-tendency.md`
+  - `wiki/concepts/social-proof.md`
+  - `wiki/sources/poor-charlies-almanack.md`
+- Files deprecated: None.
+- Notes: 53 new + 36 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -4,16 +4,19 @@ title: Psychology of Misjudgment
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 confidence: high
 tags:
 - psychology
 - decision-making
 - bias
 - cognitive-science
+- cognitive-bias
 related:
   broader:
   - mental-models-latticework
@@ -29,8 +32,8 @@ related:
   adjacent:
   - milgram-experiment
   - pavlovs-dog-experiments
+aliases: []
 ---
-
 
 # Psychology of Misjudgment
 
@@ -53,14 +56,21 @@ The psychology of misjudgment refers to the systematic cognitive errors that hum
 - Psychology professors cannot adequately demonstrate denial experiments without ethical violations, leading them to assume 'if I can't demonstrate it, it doesn't exist'—a conclusion Munger calls asinine. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p232]
 - Pavlov's decade of dog experiments on misery-caused mental misfunction have never appeared in introductory psychology books. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p232]
 - Munger advocates learning all 20 important models and using them as a checklist, not just relying on formal academic coverage. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p233]
+- The most useful and practical part of psychology—which Munger believes can be taught to any intelligent person in a week—is ungodly important. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p171]
+- Very smart people make totally bonkers mistakes by failing to pay heed to the psychology of misjudgment. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p172]
+- Pascal said, 'The mind of man at one and the same time is both the glory and the shame of the universe.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p172]
+- The basic neural network of the brain uses a crude, shortcut-type approximation, not the precise calculations of Fermat/Pascal. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p166]
+- Someone who knows how to take advantage of shortcuts in the perceptual apparatus can cause you to see things that aren't there. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p170]
 
 ## Inferences
 
 - Inference: Munger considers the psychology of misjudgment essential for anyone making important decisions, as combining four or five forces from these models creates lollapalooza effects that can make or destroy fortunes.
+- Inference: Munger considers psychology so important that he likens the field to physics before Maxwell—discoveries have been made but no one mind has put it all together properly yet.
 
 ## Uncertainties
 
 - Uncertain: The exact list of 20 psychological principles is not enumerated in this chunk; it references content discussed in other talks.
+- Uncertain: Munger mentions approximately twenty little principles but does not enumerate or name all of them in this chunk.
 
 ## Related pages
 
@@ -79,6 +89,7 @@ The psychology of misjudgment refers to the systematic cognitive errors that hum
 - Concepts: [[cognitive-bias]]
 - Concepts: [[persuasion]]
 - Concepts: [[incentives]]
+- Concepts: [[milgram-experiment]]
 - Entities: [[charles-t-munger]]
 - Entities: [[carl-braun]]
 - Entities: [[william-paley]]
@@ -87,7 +98,9 @@ The psychology of misjudgment refers to the systematic cognitive errors that hum
 ## Provenance
 
 - Primary source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

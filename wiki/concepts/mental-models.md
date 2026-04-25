@@ -11,6 +11,8 @@ sources:
   Debra G_; Endsley, Mica R.pdf#p1-394]'
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 confidence: high
 tags:
 - thinking
@@ -20,10 +22,15 @@ tags:
 - memory
 - information-processing
 - multidisciplinary
+- decision making
+- multidisciplinary thinking
+- philosophy
 related:
   broader:
   - cognition
   - situation-awareness
+  - decision making
+  - wisdom
   narrower:
   - schema
   - scripts
@@ -61,11 +68,22 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - Munger describes the elementary psychology of misjudgment as 'terribly important' with about twenty little principles. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p163]
 - He advocates using decision trees and the mathematics of permutations and combinations (Fermat/Pascal) routinely in life. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p157]
 - Poetry professors are described as 'so unwise in a worldly sense' because they don't have enough models in their heads. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p156]
+- You must know the big ideas in the big disciplines and use them routinely, all of them, not just a few. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p136]
+- Most people are trained in one model (economics) and try to solve all problems in one way. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p136]
+- You need a different checklist and different mental models for different companies. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p136]
+- You can't learn the 100 big ideas the way many students do (cramming for grades then emptying them like a bathtub) and expect to succeed in life. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p136]
+- Munger says there is no rule that you can't add another model even fairly late in life. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p136]
+
+## Inferences
+
+- Inference: Munger's approach to mental models reflects his broader interdisciplinary education and his view that wisdom comes from synthesizing knowledge across fields rather than specializing narrowly
 
 ## Related pages
 
 - Broader: [[cognition]]
 - Broader: [[situation-awareness]]
+- Broader: [[decision making]]
+- Broader: [[wisdom]]
 - Narrower: [[schema]]
 - Narrower: [[scripts]]
 - Narrower: [[pattern-matching]]
@@ -78,6 +96,9 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - Concepts: [[psychology-of-misjudgment]]
 - Concepts: [[decision-trees]]
 - Concepts: [[feynman-problem-solving]]
+- Concepts: [[inversion]]
+- Concepts: [[checklists]]
+- Concepts: [[first principles thinking]]
 - Entities: [[charles-t-munger]]
 - Entities: [[isaac-newton]]
 
@@ -86,9 +107,11 @@ Mental models are principles that help with memory prediction. Naval recommends 
 - Primary source: [raw/books/philosophy/The Almanack of Naval Ravikant_ A Guide to - Eric Jorgenson.pdf#p1-203]
 - Additional source: [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p1-394]
 - Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `designing-for-situation-awareness-an-approach-to-jones-debra`.
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

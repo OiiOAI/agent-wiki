@@ -4,24 +4,26 @@ title: Lollapalooza Tendency
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 confidence: high
 tags:
 - psychology
 - cognitive-bias
 - confluence
 - extreme-outcomes
+- combined-effects
 related:
   broader:
   - psychology-of-human-misjudgment
-  narrower: []
   adjacent:
   - reason-respecting-tendency
+aliases: []
 ---
-
 
 # Lollapalooza Tendency
 
@@ -39,6 +41,9 @@ The tendency for multiple psychological tendencies acting in confluence to produ
 - It accounts for the extreme result in the Milgram experiment. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p597]
 - It accounts for the extreme success of some cults that bring pressure from many psychological tendencies to bear at the same time on conversion targets. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p597]
 - Some minds targeted by cults 'simply snap into zombiedom' under cult pressure, which one cult calls 'snapping.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p597]
+- Milgram's experiment involved about six powerful psychological tendencies acting in confluence to bring about his extreme experimental result, yet the psychology professoriate did not immediately recognize this. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p593]
+- Some minds targeted by cults simply snap into zombiedom under cult pressure; cults use the term 'snapping' for this conversion phenomenon. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p599]
+- Munger suggests that Availability-Misweighing Tendency and Envy/Jealousy Tendency may have contributed to early psychology professors adopting an over-restricted approach to psychology. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p600]
 
 ## Inferences
 
@@ -51,11 +56,14 @@ The tendency for multiple psychological tendencies acting in confluence to produ
 - Concepts: [[authority-misinfluence-tendency]]
 - Concepts: [[social-proof-tendency]]
 - Concepts: [[milgram-experiment]]
+- Concepts: [[reciprocation-tendency]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

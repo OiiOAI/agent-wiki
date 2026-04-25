@@ -4,10 +4,12 @@ title: Charles T. Munger
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 canonical: Charles T. Munger
 confidence: high
 aliases:
@@ -17,6 +19,7 @@ tags:
 - investor
 - berkshire-hathaway
 - multidisciplinary-thinking
+- philosopher
 related:
   concepts:
   - multiple-mental-models
@@ -33,7 +36,12 @@ related:
   - multidisciplinary-thinking
   - psychology-of-human-misjudgment
   - lifetime-learning
-  topics: []
+  - inversion-method
+  - Multiple Mental Models
+  - Lollapalooza Effect
+  - Focus Investing
+  - Rationality
+  - Margin of Safety
   entities:
   - warren-buffett
   - peter-d-kaufman
@@ -56,8 +64,14 @@ related:
   - jim-sinegal
   - sam-walton
   - henry-e-singleton
+  - john-maynard-keynes
+  - cicero
+  - demsthenes
+  - Berkshire Hathaway
+  - Benjamin Franklin
+  - Munger Tolles & Olson
+  - benjamin-franklin
 ---
-
 
 # Charles T. Munger
 
@@ -106,6 +120,26 @@ Charles T. Munger (1924-2023) was an American investor, businessman, and philant
 - Munger came to law school having already learned 'the method of learning,' which served him better than anything else in his long life. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p433]
 - Munger believes his multidisciplinary approach 'made me richer than can be explained by any genetic gifts.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p435]
 - Munger practiced his multidisciplinary approach throughout life 'like a concert pianist' who must continuously practice to perform well. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p435]
+- Munger stated his guiding philosophy: 'Acquire worldly wisdom and adjust your behavior accordingly. If your new behavior gives you a little temporary unpopularity with your peer group... then to hell with them.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p3]
+- Munger modestly claimed he received more credit than he deserved regarding influencing Warren Buffett, stating 'If Charlie Munger had never lived, the Buffett record would still be pretty much what it is.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p3]
+- Munger had a background working under Ben Graham alongside Warren Buffett. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p3]
+- Munger described himself as a 'counting horse' in self-deprecating humor. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p4]
+- Munger cited sources ranging from classical orators (Demosthenes, Cicero) to European literati of the eighteenth and nineteenth centuries to pop culture icons. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p4]
+- Munger proposed 'Glotz's sugared, caffeinated water' as a marketing-bereft label for Coca-Cola to illustrate business concepts. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p4]
+- Munger used the Jacobi directive of 'Invert, always invert' as a problem-solving approach. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p5]
+- Munger said he wanted to get rich to be independent, 'like Lord John Maynard Keynes.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p5]
+- Munger employed mental models drawn from every discipline, focusing on fundamental truth, human accomplishment, human foibles, and the path to wisdom—not on 'business portfolio strategy' or 'beta' or 'Cap M.'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p5]
+- Munger believed that for deep 'fluency,' repetition is the heart of instruction. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p7]
+- Charles Thomas Munger was born on January 1, 1924 in Omaha, Nebraska. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p9]
+- Munger worked as a young boy at Buffett and Son grocery store, owned by Warren Buffett's grandfather Ernest. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p9]
+- He attended University of Michigan, majoring in mathematics, then studied at Caltech before serving in the Army Air Corps as a meteorologist. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p14]
+- He co-founded the law firm that became Munger Tolles & Olson in 1962. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p18]
+- Munger built Wheeler, Munger & Co. investment partnership from 1962-1975, achieving 19.8% compounded annual returns vs. 5.0% for the Dow. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p26]
+- Berkshire Hathaway's market value increased 13,500 times from $10 million to roughly $135 billion from 1964 under Buffett and Munger's leadership. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p8]
+- Munger considers Benjamin Franklin his greatest hero and modeled much of his life and approach on Franklin's principles. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p28]
+- Munger delivered his Psychology of Human Misjudgment speech at Harvard Law School in 1986 and revised it multiple times over the following decades. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p513]
+- Munger believes psychological knowledge can prevent much trouble that would otherwise occur, stating 'Tendency is not always destiny, and knowing the tendencies and their antidotes can often help prevent trouble'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p605]
+- Munger declined to buy additional Belridge Oil shares at $115 because he would have needed to sell something or borrow $173,000, losing approximately $5.4 million when Shell bought Belridge at $3,700 per share. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p571]
 
 ## Inferences
 
@@ -115,22 +149,44 @@ Charles T. Munger (1924-2023) was an American investor, businessman, and philant
 - Inference: The Mungers' ability to weather the Great Depression through mutual support shaped Munger's later philosophy of partnership and long-term relationships.
 - Inference: Munger's approach to raising his eight children included using moral tales and 'downward spiral' stories to teach ethics and consequences.
 - Inference: Munger's influence on Buffett's investment philosophy was significant but Munger himself downplays this credit, stating the Buffett record would have been similar without him.
+- Inference: Munger's quoted philosophy about temporary unpopularity suggests he valued objectivity and correct thinking over social acceptance.
+- Inference: His comparison to Lord John Maynard Keynes indicates admiration for intellectual independence over mere wealth accumulation.
+- Inference: Munger's multidisciplinary approach to investing stems from his diverse educational background spanning mathematics, physics, law, and his extensive self-directed reading across disciplines.
+- Inference: His partnership with Buffett was solidified through shared Midwestern values including honesty, integrity, and keeping one's word.
 
 ## Uncertainties
 
 - Uncertain: The exact amount of the fee Al Munger received from the Supreme Court case is not disclosed.
 - Uncertain: The specific date when Munger formally left active partnership at Munger Tolles & Olson is noted as 1965 but not the exact date.
 - Uncertain: The exact year of some specific quotes is uncertain as the text combines remarks from multiple annual meetings.
+- Uncertain: The exact fee Al Munger received from the Supreme Court case involving the soap-making company was never revealed (p13).
 
 ## Related pages
 
 - Broader: [[Berkshire Hathaway]]
 - Broader: [[berkshire-hathaway]]
+- Broader: [[investment strategy]]
+- Broader: [[poor-charlies-almanack]]
 - Narrower: [[Munger Tolles & Olson]]
 - Narrower: [[Wheeler Munger & Co.]]
+- Narrower: [[poor-charlies-almanack]]
+- Narrower: [[the-psychology-of-human-misjudgment]]
+- Narrower: [[multiple-mental-models]]
+- Narrower: [[Multiple Mental Models]]
+- Narrower: [[Lollapalooza Effect]]
+- Narrower: [[Focus Investing]]
+- Narrower: [[Circle of Competence]]
+- Narrower: [[Moat investing concept]]
 - Adjacent: [[Warren Buffett]]
 - Adjacent: [[Benjamin Franklin]]
 - Adjacent: [[Cicero]]
+- Adjacent: [[warren-buffett]]
+- Adjacent: [[peter-d-kaufman]]
+- Adjacent: [[ben-graham]]
+- Adjacent: [[michael-broggie]]
+- Adjacent: [[whitney-tilson]]
+- Adjacent: [[Munger Tolles & Olson]]
+- Adjacent: [[Wheeler Munger & Co.]]
 - Concepts: [[multiple-mental-models]]
 - Concepts: [[latticework-of-knowledge]]
 - Concepts: [[worldly-wisdom]]
@@ -145,6 +201,12 @@ Charles T. Munger (1924-2023) was an American investor, businessman, and philant
 - Concepts: [[multidisciplinary-thinking]]
 - Concepts: [[psychology-of-human-misjudgment]]
 - Concepts: [[lifetime-learning]]
+- Concepts: [[inversion-method]]
+- Concepts: [[Multiple Mental Models]]
+- Concepts: [[Lollapalooza Effect]]
+- Concepts: [[Focus Investing]]
+- Concepts: [[Rationality]]
+- Concepts: [[Margin of Safety]]
 - Entities: [[warren-buffett]]
 - Entities: [[peter-d-kaufman]]
 - Entities: [[berkshire-hathaway]]
@@ -166,11 +228,20 @@ Charles T. Munger (1924-2023) was an American investor, businessman, and philant
 - Entities: [[jim-sinegal]]
 - Entities: [[sam-walton]]
 - Entities: [[henry-e-singleton]]
+- Entities: [[john-maynard-keynes]]
+- Entities: [[cicero]]
+- Entities: [[demsthenes]]
+- Entities: [[Berkshire Hathaway]]
+- Entities: [[Benjamin Franklin]]
+- Entities: [[Munger Tolles & Olson]]
+- Entities: [[benjamin-franklin]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

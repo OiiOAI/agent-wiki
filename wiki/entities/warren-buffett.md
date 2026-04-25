@@ -11,6 +11,8 @@ sources:
 - '[raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p1-248]'
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 canonical: Warren Buffett
 confidence: high
 tags:
@@ -20,9 +22,13 @@ tags:
 - business
 - finance
 - berkshire-hathaway
+- Berkshire Hathaway
+- business magnate
 aliases:
 - Warren Buffett
 - Buffett
+- Warren
+- Oracle of Omaha
 related:
   concepts:
   - trust
@@ -34,6 +40,9 @@ related:
   - focus-investing
   - circle-of-competence
   - value-investing
+  - Value investing
+  - Moat
+  - Focus Investing
   entities:
   - berkshire-hathaway
   - richard-koch
@@ -41,6 +50,9 @@ related:
   - ben-graham
   - wesco-financial
   - benjamin-graham
+  - Charles T. Munger
+  - Berkshire Hathaway
+  - Benjamin Graham
 ---
 
 # Warren Buffett
@@ -66,15 +78,26 @@ Warren Buffett is the CEO of Berkshire Hathaway and one of the most successful i
 - Buffett is described as getting better with each passing year in his seventies. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p96]
 - Buffett humorously calibrates Munger's responses: 'If you ask Charlie something and he says no, then we put all of our money in it.'. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p98]
 - Buffett admits they don't know their cost of capital and are skeptical of the concept taught at business schools. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p106]
+- Buffett first met Charlie Munger in 1959 at a dinner arranged by the Davis family in Omaha. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p19]
+- Buffett described Munger as his friend, lawyer, adviser, devil's advocate, and one of the largest stockholders in Berkshire Hathaway. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p8]
+- Under Buffett and Munger's leadership, Berkshire Hathaway's market value increased from $10 million to roughly $135 billion. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p8]
+- Buffett credited Munger with convincing him to shift from pure Benjamin Graham-style investing to focusing on great businesses like the Washington Post and Coca-Cola. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p75]
+- Buffett said Munger can analyze and evaluate any deal faster and more accurately than any man alive and sees any valid weakness in sixty seconds. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p60]
 
 ## Inferences
 
 - Inference: Buffett's reputation for integrity provided him 'the benefit of the doubt' during the AIG/General Re investigation, demonstrating how credibility serves as a defensive asset.
 - Inference: Munger's characterization of Buffett as continuing to improve into his seventies suggests a belief in lifelong learning and adaptation, consistent with Munger's own philosophy.
+- Inference: The partnership between Buffett and Munger was based on mutual intellectual respect, with both considering each other the smartest person they had ever met (p22).
 
 ## Related pages
 
 - Broader: [[berkshire-hathaway]]
+- Broader: [[Berkshire Hathaway]]
+- Broader: [[investment strategy]]
+- Adjacent: [[Charles T. Munger]]
+- Adjacent: [[Benjamin Franklin]]
+- Adjacent: [[Charlie Munger]]
 - Concepts: [[trust]]
 - Concepts: [[integrity]]
 - Concepts: [[leadership]]
@@ -84,21 +107,29 @@ Warren Buffett is the CEO of Berkshire Hathaway and one of the most successful i
 - Concepts: [[focus-investing]]
 - Concepts: [[circle-of-competence]]
 - Concepts: [[value-investing]]
+- Concepts: [[Value investing]]
+- Concepts: [[Moat]]
+- Concepts: [[Focus Investing]]
 - Entities: [[berkshire-hathaway]]
 - Entities: [[richard-koch]]
 - Entities: [[charles-t-munger]]
 - Entities: [[ben-graham]]
 - Entities: [[wesco-financial]]
 - Entities: [[benjamin-graham]]
+- Entities: [[Charles T. Munger]]
+- Entities: [[Berkshire Hathaway]]
+- Entities: [[Benjamin Graham]]
 
 ## Provenance
 
 - Primary source: [raw/books/business/The SPEED of Trust _ The One Thing that Ch - Covey, Stephen M.R.pdf#p1-439]
 - Additional source: [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p1-248]
 - Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `essentialism-the-disciplined-pursuit-of-l-mckeown-greg`.
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

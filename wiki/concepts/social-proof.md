@@ -10,6 +10,8 @@ sources:
 - '[raw/books/psychology/Models - Mark Manson.pdf#p1-274]'
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 confidence: high
 tags:
 - social-influence
@@ -20,11 +22,14 @@ tags:
 - attraction
 - consumer-behavior
 - marketing
+- influence
 related:
   broader:
   - influence principles
   - persuasion
   - psychology-of-misjudgment
+  - psychological tendencies
+  - consumer psychology
   narrower:
   - pluralistic ignorance
   adjacent:
@@ -32,6 +37,9 @@ related:
   - Attractive Behavior
   - pavlovian-conditioning
   - operant-conditioning
+  - Pavlovian conditioning
+  - operant conditioning
+  - social proof
 aliases: []
 ---
 
@@ -56,21 +64,34 @@ Social proof is a psychological principle stating that one means we use to deter
 - Social proof is the 'monkey-see, monkey-do' aspect of human nature—people are heavily influenced by what others think and what others do, some of it on a subconscious level. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p273]
 - In Coca-Cola's strategy, social proof means increased selling power comes from each increase in sales—consumption begets more consumption. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p295]
 - Social proof from mere association is used to choose flavor, texture, and color—exotic names and premium-looking packaging trigger Pavlovian and social-proof effects. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p295]
+- Social proof is a subconscious and conscious influence—we see others do and approve of things, therefore if everybody's buying something, we think it's better. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p176]
+- Consciously and rationally, people think, 'God, I didn't know much about this, they know more than I do, therefore why shouldn't I follow them?'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p176]
+- Social proof gives huge advantages to scale, for example with very wide distribution like Coca-Cola being available almost everywhere in the world. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p176]
+- The Milgram experiment demonstrated that authority can manipulate high-grade people into doing clearly wrong things partly through social proof dynamics. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p242]
+- There is a powerful 'monkey-see, monkey-do' aspect of human nature that psychologists call 'social proof'—imitative consumption triggered by mere sight of consumption. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p309]
+- Social proof will not only help induce trial of a beverage but will also bolster perceived rewards from consumption. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p309]
+- Increased selling power comes from each increase in sales, more than with most other products, due to social proof effects. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p309]
 
 ## Inferences
 
 - Inference: The effectiveness of social proof increases with the number of people performing the behavior, making a group of four dramatically more influential than a single individual.
+- Inference: Social proof explains why branding and market share create self-reinforcing advantages—being widely known and used makes products appear objectively better to new customers.
 
 ## Related pages
 
 - Broader: [[influence principles]]
 - Broader: [[persuasion]]
 - Broader: [[psychology-of-misjudgment]]
+- Broader: [[psychological tendencies]]
+- Broader: [[consumer psychology]]
 - Narrower: [[pluralistic ignorance]]
 - Adjacent: [[Social Circle]]
 - Adjacent: [[Attractive Behavior]]
 - Adjacent: [[pavlovian-conditioning]]
 - Adjacent: [[operant-conditioning]]
+- Adjacent: [[Pavlovian conditioning]]
+- Adjacent: [[operant conditioning]]
+- Adjacent: [[social proof]]
 - Concepts: [[pluralistic-ignorance]]
 - Concepts: [[bystander-effect]]
 - Concepts: [[werther-effect]]
@@ -80,17 +101,27 @@ Social proof is a psychological principle stating that one means we use to deter
 - Concepts: [[filmed social proof]]
 - Concepts: [[herd-behavior]]
 - Concepts: [[bandwagon-effect]]
+- Concepts: [[psychology-of-misjudgment]]
+- Concepts: [[incentive-caused-bias]]
+- Concepts: [[advantages-of-scale]]
+- Concepts: [[Pavlovian conditioning]]
+- Concepts: [[operant conditioning]]
+- Concepts: [[lollapalooza effects]]
 - Topics: [[compliance-psychology]]
 - Entities: [[milgram bickman berkowitz 1967]]
+- Entities: [[coca-cola]]
+- Entities: [[wal-mart]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]
 - Additional source: [raw/books/psychology/Models - Mark Manson.pdf#p1-274]
 - Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `models-mark-manson`.
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

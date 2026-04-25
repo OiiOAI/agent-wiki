@@ -4,23 +4,24 @@ title: Deprival-Super Reaction Tendency
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 confidence: high
 tags:
 - psychology
 - loss-aversion
 - gambling
 - decision-making
+- resistance-to-change
 related:
   broader:
   - psychology-of-human-misjudgment
-  narrower: []
-  adjacent: []
+aliases: []
 ---
-
 
 # Deprival-Super Reaction Tendency
 
@@ -35,6 +36,9 @@ Man reacts much more strongly to loss than to equivalent gain. This includes bot
 - Deprival-Super Reaction Tendency causes much labor resistance to wage reductions, even when survival of the business requires them. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p559]
 - Slot machine creators exploit this weakness by producing meaningless near-miss results that greatly increase play by fools who think they have nearly won. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p560]
 - Buffett's antidote to open-outcry auctions is simply not to attend them. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p560]
+- A man with $10 million in his brokerage account will often be extremely irritated by the accidental loss of $100 out of the $300 in his wallet, demonstrating misframing of problems by comparing what is near instead of what really matters. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p565]
+- Deprival-Super Reaction Tendency causes gamblers to have a passion to get even once they have suffered loss, and this passion grows with the loss; slot machine creators exploit this weakness by providing near misses that trigger the tendency. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p569]
+- The best antidote to being triggered into paying foolish prices at open-outcry auctions is Buffett's practice of not going to such auctions. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p570]
 
 ## Inferences
 
@@ -45,11 +49,16 @@ Man reacts much more strongly to loss than to equivalent gain. This includes bot
 - Broader: [[psychology-of-human-misjudgment]]
 - Concepts: [[gambling-folly]]
 - Concepts: [[loss-aversion]]
+- Concepts: [[inconsistency-avoidance-tendency]]
+- Concepts: [[social-proof-tendency]]
+- Concepts: [[envy-jealousy-tendency]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.

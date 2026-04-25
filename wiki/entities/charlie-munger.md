@@ -10,6 +10,8 @@ sources:
   - Sönke Ahrens.pdf#p1-157]'
 - '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
   Peter D. Kaufman, Ed We.pdf#p1-623]'
+- '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
+  Ed Wexler, Warren E_pdf.pdf#p1-619]'
 confidence: high
 aliases:
 - Charles Munger
@@ -24,6 +26,8 @@ tags:
 - Berkshire Hathaway
 - multidisciplinary thinking
 - value investing
+- wisdom
+- law
 canonical: true
 related:
   concepts:
@@ -32,11 +36,15 @@ related:
   - Circle of Competence
   - Moat
   - Fat Pitch Investing
+  - multidisciplinary thinking
+  - hard-science organizing ethos
+  - investment philosophy
   entities:
   - warren-buffett
   - Warren Buffett
   - Bill Gross
   - Ted Williams
+  - Berkshire Hathaway
 ---
 
 # Charlie Munger
@@ -57,6 +65,11 @@ Charlie Munger is Warren Buffett's business partner and vice chairman of Berkshi
 - He believes a portfolio of three companies is sufficient diversification. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p60]
 - Munger has never taken any course in chemistry, economics, psychology, or business, yet psychology forms a foundation of his system. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p59]
 - He believes temperament (inborn tendencies) combined with hard work, intellect, and experience are all needed to become a great investor. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p61]
+- Munger came to Harvard Law School very poorly educated, with desultory work habits and no college degree, admitted over the objection of Warren Abner Seavey through family friend Roscoe Pound. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p341]
+- To this day, Munger has never taken any course, anywhere, in chemistry, economics, psychology, or business. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p341]
+- Munger assimilated the fundamental organizing ethos of hard science through elementary physics and math, which he thereafter pushed further into softer and softer fare as his organizing guide. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p341]
+- Munger describes his life as a sort of accidental educational experiment with respect to feasibility and utility of very gross academic extension of the fundamental organizing ethos. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p342]
+- Munger does not use a computer and has never turned one on, dealing with most questions using a $40 adding machine and dog-eared compound interest table. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p320]
 
 ## Inferences
 
@@ -76,17 +89,23 @@ Charlie Munger is Warren Buffett's business partner and vice chairman of Berkshi
 - Concepts: [[Circle of Competence]]
 - Concepts: [[Moat]]
 - Concepts: [[Fat Pitch Investing]]
+- Concepts: [[multidisciplinary thinking]]
+- Concepts: [[hard-science organizing ethos]]
+- Concepts: [[investment philosophy]]
 - Entities: [[warren-buffett]]
 - Entities: [[Warren Buffett]]
 - Entities: [[Bill Gross]]
 - Entities: [[Ted Williams]]
+- Entities: [[Berkshire Hathaway]]
 
 ## Provenance
 
 - Primary source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
 - Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
+- Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.
