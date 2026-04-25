@@ -1528,3 +1528,59 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/metacognition.md`
 - Files deprecated: None.
 - Notes: 343 new + 12 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | free-agents-how-evolution-gave-us-free-will-kevin-j-mitchell
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf
+- Files created:
+  - `wiki/entities/arthur-schopenhauer.md`
+  - `wiki/entities/c-elegans.md`
+  - `wiki/entities/erwin-schrodinger.md`
+  - `wiki/entities/george-ellis.md`
+  - `wiki/entities/hydra.md`
+  - `wiki/entities/kevin-j-mitchell.md`
+  - `wiki/entities/lynn-margulis.md`
+  - `wiki/entities/sam-harris.md`
+  - `wiki/concepts/action-selection.md`
+  - `wiki/concepts/agency-biological.md`
+  - `wiki/concepts/aristotles-four-causes.md`
+  - `wiki/concepts/big-five-personality-traits.md`
+  - `wiki/concepts/causal-slack.md`
+  - `wiki/concepts/character.md`
+  - `wiki/concepts/characteristic-adaptations.md`
+  - `wiki/concepts/chemotaxis.md`
+  - `wiki/concepts/compatibilism.md`
+  - `wiki/concepts/consciousness.md`
+  - `wiki/concepts/determinism.md`
+  - `wiki/concepts/endosymbiosis.md`
+  - `wiki/concepts/exaptation.md`
+  - `wiki/concepts/free-will-in-humans.md`
+  - `wiki/concepts/heisenberg-uncertainty-principle.md`
+  - `wiki/concepts/information-biological.md`
+  - `wiki/concepts/ion-channels.md`
+  - `wiki/concepts/libet-experiments.md`
+  - `wiki/concepts/life-definition.md`
+  - `wiki/concepts/meaning-value-biology.md`
+  - `wiki/concepts/meaning.md`
+  - `wiki/concepts/mental-causation.md`
+  - `wiki/concepts/multicellularity.md`
+  - `wiki/concepts/multiple-realizability.md`
+  - `wiki/concepts/neurons.md`
+  - `wiki/concepts/quantum-indeterminacy.md`
+  - `wiki/concepts/reductionism.md`
+  - `wiki/concepts/spiral-causation.md`
+  - `wiki/concepts/top-down-causation.md`
+  - `wiki/concepts/two-stage-model-of-free-will.md`
+  - `wiki/concepts/visual-processing.md`
+  - `wiki/sources/free-agents-how-evolution-gave-us-free-will.md`
+- Files merged (extended):
+  - `wiki/entities/benjamin-libet.md`
+  - `wiki/entities/prefrontal-cortex.md`
+  - `wiki/entities/william-james.md`
+  - `wiki/concepts/basal-ganglia.md`
+  - `wiki/concepts/cognitive-control.md`
+  - `wiki/concepts/hippocampus.md`
+  - `wiki/concepts/metacognition.md`
+  - `wiki/concepts/neocortex.md`
+- Files deprecated: None.
+- Notes: 40 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
