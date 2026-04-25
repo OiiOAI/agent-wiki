@@ -163,3 +163,48 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/high-output-management.md`
 - Files deprecated: None.
 - Notes: 24 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | profit-first-mike-michalowicz
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/Profit First - Mike Michalowicz.pdf
+- Files created:
+  - `wiki/entities/anjanette-harper.md`
+  - `wiki/entities/greg-crabtree.md`
+  - `wiki/entities/jesse-cole.md`
+  - `wiki/entities/jorge-morales-jose-pain.md`
+  - `wiki/entities/jorge-morales.md`
+  - `wiki/entities/keith-fear.md`
+  - `wiki/entities/laurie-dutcher.md`
+  - `wiki/entities/mike-michalowicz.md`
+  - `wiki/entities/rick-barry.md`
+  - `wiki/concepts/accountability-buddy.md`
+  - `wiki/concepts/bank-balance-accounting.md`
+  - `wiki/concepts/current-allocation-percentages.md`
+  - `wiki/concepts/debt-freeze.md`
+  - `wiki/concepts/debt-snowball.md`
+  - `wiki/concepts/endowment-effect.md`
+  - `wiki/concepts/instant-assessment.md`
+  - `wiki/concepts/loss-aversion.md`
+  - `wiki/concepts/mini-power-tactics.md`
+  - `wiki/concepts/owners-compensation.md`
+  - `wiki/concepts/pareto-overlap.md`
+  - `wiki/concepts/parkinsons-law.md`
+  - `wiki/concepts/primacy-effect.md`
+  - `wiki/concepts/profit-distribution.md`
+  - `wiki/concepts/profit-first-kids.md`
+  - `wiki/concepts/profit-first-lifestyle.md`
+  - `wiki/concepts/profit-first-quick-setup-guide.md`
+  - `wiki/concepts/profit-first-system.md`
+  - `wiki/concepts/profit-squeeze.md`
+  - `wiki/concepts/required-income-for-allocation.md`
+  - `wiki/concepts/small-plates-principle.md`
+  - `wiki/concepts/survival-trap.md`
+  - `wiki/concepts/target-allocation-percentages.md`
+  - `wiki/concepts/wedge-system.md`
+  - `wiki/topics/advanced-profit-first-accounts.md`
+  - `wiki/topics/entrepreneurial-profitability.md`
+  - `wiki/topics/expense-cutting.md`
+  - `wiki/topics/profit-first-implementation-timeline.md`
+  - `wiki/sources/profit-first.md`
+- Files deprecated: None.
+- Notes: 38 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
