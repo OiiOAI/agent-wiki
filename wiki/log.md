@@ -9844,3 +9844,117 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/ooda-loop.md`
 - Files deprecated: None.
 - Notes: 56 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | situation-awareness-analysis-and-measurement-edited-by-mica-
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf
+- Files created:
+  - `wiki/entities/31-behavioral-elements-of-sa.md`
+  - `wiki/entities/cheryl-a-bolstad.md`
+  - `wiki/entities/christopher-d-wickens.md`
+  - `wiki/entities/christopher-wickens.md`
+  - `wiki/entities/daniel-j-garland.md`
+  - `wiki/entities/don-r-lyon.md`
+  - `wiki/entities/gary-klein.md`
+  - `wiki/entities/glenn-f-wilson.md`
+  - `wiki/entities/herbert-h-bell.md`
+  - `wiki/entities/klein-gary.md`
+  - `wiki/entities/northwest-airlines-flight-255.md`
+  - `wiki/entities/oe-severity-and-sa-study-1993.md`
+  - `wiki/entities/operational-error-severity-classification.md`
+  - `wiki/entities/operational-error.md`
+  - `wiki/entities/richard-w-pew.md`
+  - `wiki/entities/sa-rating-scales-sars.md`
+  - `wiki/entities/sagat-situation-awareness-global-assessment-technique.md`
+  - `wiki/entities/satori-system.md`
+  - `wiki/entities/satori.md`
+  - `wiki/entities/team-sa-training-course.md`
+  - `wiki/entities/thomas-m-hess.md`
+  - `wiki/entities/usair-flight-1016.md`
+  - `wiki/entities/wayne-l-shebilske.md`
+  - `wiki/concepts/active-interlocked-modeling-dyad-protocol.md`
+  - `wiki/concepts/aircraft-accident-investigation.md`
+  - `wiki/concepts/attention-management-strategies.md`
+  - `wiki/concepts/causal-factors.md`
+  - `wiki/concepts/cognitive-slowing.md`
+  - `wiki/concepts/crew-resource-management.md`
+  - `wiki/concepts/critical-decision-method.md`
+  - `wiki/concepts/critical-incident-technique.md`
+  - `wiki/concepts/decision-making-process.md`
+  - `wiki/concepts/decreasing-processing-resources.md`
+  - `wiki/concepts/design-tradeoffs-routine-unexpected.md`
+  - `wiki/concepts/disinhibition.md`
+  - `wiki/concepts/erp-event-related-potential.md`
+  - `wiki/concepts/event-related-desynchronization.md`
+  - `wiki/concepts/functional-state-assessment.md`
+  - `wiki/concepts/global-hazard-awareness.md`
+  - `wiki/concepts/human-error.md`
+  - `wiki/concepts/individual-sa-training-techniques.md`
+  - `wiki/concepts/interactive-iterative-model-of-skill-acquisition.md`
+  - `wiki/concepts/knowledge-based-measures.md`
+  - `wiki/concepts/level-1-sa-perception.md`
+  - `wiki/concepts/level-2-sa-comprehension.md`
+  - `wiki/concepts/level-3-sa-projection.md`
+  - `wiki/concepts/local-guidance.md`
+  - `wiki/concepts/local-scene-comprehension.md`
+  - `wiki/concepts/measuring-sa-in-older-adults.md`
+  - `wiki/concepts/mental-model.md`
+  - `wiki/concepts/moderating-role-of-experience.md`
+  - `wiki/concepts/multiple-emphasis-on-components-training-protocol.md`
+  - `wiki/concepts/observer-ratings-for-sa-assessment.md`
+  - `wiki/concepts/observer-ratings-of-situation-awareness.md`
+  - `wiki/concepts/operational-errors.md`
+  - `wiki/concepts/p300.md`
+  - `wiki/concepts/performance-based-measurement.md`
+  - `wiki/concepts/performance-based-sa-inference.md`
+  - `wiki/concepts/process-tracing.md`
+  - `wiki/concepts/psychophysiological-assessment-sa.md`
+  - `wiki/concepts/psychophysiological-measures-of-sa.md`
+  - `wiki/concepts/recognition-primed-decision-model.md`
+  - `wiki/concepts/sa-errors-aviation.md`
+  - `wiki/concepts/sa-level-classification.md`
+  - `wiki/concepts/sa-mental-workload-relation.md`
+  - `wiki/concepts/sa-metrics-sensitivity.md`
+  - `wiki/concepts/sa-probe-technique.md`
+  - `wiki/concepts/sa-queries.md`
+  - `wiki/concepts/sa-requirements-analysis.md`
+  - `wiki/concepts/sa-sword-situation-awareness-subjective-workload-dominance.md`
+  - `wiki/concepts/sars-situational-awareness-rating-scale.md`
+  - `wiki/concepts/sart-situation-awareness-rating-technique.md`
+  - `wiki/concepts/scene-perception-and-projection.md`
+  - `wiki/concepts/sector-complexity.md`
+  - `wiki/concepts/self-ratings-of-situation-awareness.md`
+  - `wiki/concepts/situation-awareness-global-assessment-technique.md`
+  - `wiki/concepts/situation-awareness-klein.md`
+  - `wiki/concepts/situation-awareness-measurement.md`
+  - `wiki/concepts/situation-awareness-rating-technique.md`
+  - `wiki/concepts/situation-model.md`
+  - `wiki/concepts/systems-approach-to-error.md`
+  - `wiki/concepts/systems-awareness.md`
+  - `wiki/concepts/task-awareness.md`
+  - `wiki/concepts/taxonomy-of-sa-measurement-methods.md`
+  - `wiki/concepts/team-sa-training.md`
+  - `wiki/concepts/team-situation-awareness.md`
+  - `wiki/concepts/testable-responses.md`
+  - `wiki/concepts/three-stages-of-sa-acquisition.md`
+  - `wiki/concepts/timesharing-ability.md`
+  - `wiki/concepts/unidimensional-sa-scales.md`
+  - `wiki/concepts/verbalization-measures.md`
+  - `wiki/concepts/vote-counting-procedure.md`
+  - `wiki/concepts/working-memory-capacity-situation-awareness.md`
+  - `wiki/topics/individual-differences-in-situation-awareness.md`
+  - `wiki/topics/post-hoc-assessment-of-sa-in-atc.md`
+  - `wiki/topics/situation-awareness-and-aging.md`
+  - `wiki/sources/situation-awareness-analysis-and-measurement.md`
+  - `wiki/analyses/aircraft-profile-oe-severity.md`
+  - `wiki/analyses/controller-awareness-oe-severity.md`
+  - `wiki/analyses/workload-situation-awareness.md`
+- Files merged (extended):
+  - `wiki/entities/mica-r-endsley.md`
+  - `wiki/concepts/goal-directed-task-analysis.md`
+  - `wiki/concepts/information-gap.md`
+  - `wiki/concepts/levels-of-automation.md`
+  - `wiki/concepts/mental-models.md`
+  - `wiki/concepts/situation-awareness.md`
+- Files deprecated: None.
+- Notes: 100 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

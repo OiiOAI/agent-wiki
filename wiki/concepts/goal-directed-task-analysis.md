@@ -4,16 +4,21 @@ title: Goal-Directed Task Analysis
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones,
   Debra G_; Endsley, Mica R.pdf#p1-394]'
+- '[raw/books/strategy/Situation awareness _ analysis and measurement - edited by
+  Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]'
 confidence: high
 tags:
 - methodology
 - task-analysis
 - sa-requirements
 - interviews
+- cognitive-task-analysis
+- situation-awareness
+- requirements-analysis
 related:
   broader:
   - cognitive-task-analysis
@@ -32,8 +37,8 @@ related:
   - mental-models
   - sa-oriented-design-synergy
   - system-evaluation-sa
+aliases: []
 ---
-
 
 # Goal-Directed Task Analysis
 
@@ -62,10 +67,22 @@ Goal-Directed Task Analysis (GDTA) is a form of cognitive task analysis used to 
 - Goal 4.0 involves satisfying the customer through providing safety and security and providing customer service. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p318]
 - The GDTA addresses abnormal situations including bird strikes, runway excursions, fuel mismanagement, unusual attitudes, stalls, overspeed, structural damage, and medical emergencies. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p318]
 - The GDTA addresses abnormal ATC situations including ATC outage, loss of communication, busted clearances, and aircraft in distress. [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p318]
+- Goal-Directed Task Analysis identifies major goals of a job class along with major subgoals necessary for meeting each goal. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p164]
+- GDTA is based on goals or objectives, not tasks, because goals form the basis for decision making and tasks tend to be technology dependent. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p165]
+- SA requirements are defined as dynamic information needs associated with major goals or subgoals, excluding static knowledge such as rules, procedures, and general system knowledge. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p164]
+- The analysis strives to be technology-free, not addressing how information is acquired since this can vary from person to person, system to system, and time to time. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p165]
+- Analyses can take as much as a person-year of effort to complete for a given domain but need not be repeated unless goals and objectives change radically. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p167]
+- GDTA has been completed for en route air traffic control, TRACON air traffic control, fighter pilots, bomber pilots, commercial transport pilots, aircraft mechanics, and airway facilities maintenance. [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p167]
 
 ## Inferences
 
 - Inference: The GDTA provides the SA information requirements analysis that forms the basis for SAGAT query development in system evaluation
+- Inference: The technology-free nature of GDTA makes the resulting SA requirements analysis applicable across different system implementations, enabling comparison of design alternatives.
+- Inference: Because goals and objectives change less frequently than technology, the investment in GDTA provides long-term value for multiple system evaluations.
+
+## Uncertainties
+
+- Uncertain: The precise amount of person-year effort required varies by domain complexity; the text indicates this as a general guideline rather than a precise measure.
 
 ## Related pages
 
@@ -86,11 +103,16 @@ Goal-Directed Task Analysis (GDTA) is a form of cognitive task analysis used to 
 - Concepts: [[situation-awareness]]
 - Concepts: [[mental-models]]
 - Concepts: [[cognitive-task-analysis]]
+- Concepts: [[sagat-situation-awareness-global-assessment-technique]]
+- Concepts: [[sa-requirements-analysis]]
+- Entities: [[mica-r-endsley]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Designing for Situation Awareness _ An Approach to - Jones, Debra G_; Endsley, Mica R.pdf#p1-394]
+- Additional source: [raw/books/strategy/Situation awareness _ analysis and measurement - edited by Mica R_ Endsley, Daniel J_ Garland.pdf#p1-392]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `situation-awareness-analysis-and-measurement-edited-by-mica-`.
