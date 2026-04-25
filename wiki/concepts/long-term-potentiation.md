@@ -13,6 +13,8 @@ sources:
   - Suzanne Corkin.pdf#p1-402]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The forgetting machine _ memory, perception, and the -
+  Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]'
 confidence: high
 tags:
 - synaptic-plasticity
@@ -20,6 +22,8 @@ tags:
 - memory
 - hippocampus
 - LTP
+- synaptic plasticity
+- neuroscience
 related:
   broader:
   - synaptic-plasticity
@@ -81,6 +85,8 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Mice lacking the NR1 subunit of the NMDA receptor in CA1 pyramidal neurons fail to show LTP and have impaired spatial memory in the Morris water maze. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1559]
 - Mice that overexpress the NR2B subunit of the NMDA receptor show enhanced LTP and improved spatial learning and memory. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1560]
 - LTP is thought to be required not only for memory formation but also for the long-term stabilization of place fields in hippocampal neurons. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1563]
+- Bliss and Lømo's work on LTP was published as 'Long-lasting potentiation of synaptic transmission in the dentate area of the anaesthetized rabbit following stimulation of the perforant path' in Journal of Physiology 232 (1973): 331-356. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p169]
+- Morris, Anderson, Lynch and Baudry demonstrated that selective impairment of learning and blockade of LTP occurs with the N-methyl-D-aspartate receptor antagonist AP5. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p169]
 
 ## Inferences
 
@@ -133,12 +139,16 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Concepts: [[CaMKII]]
 - Concepts: [[place cells]]
 - Concepts: [[spatial memory]]
+- Concepts: [[memory formation]]
+- Concepts: [[synaptic transmission]]
 - Topics: [[cellular-neuroscience]]
 - Topics: [[explicit memory]]
 - Topics: [[hippocampal memory systems]]
 - Entities: [[CA1 pyramidal neuron]]
 - Entities: [[CA3 pyramidal neuron]]
 - Entities: [[dentate gyrus]]
+- Entities: [[tim-bliss]]
+- Entities: [[terje-lomo]]
 
 ## Provenance
 
@@ -146,6 +156,7 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]
 
 ## Change notes
 
@@ -153,3 +164,4 @@ Long-term potentiation (LTP) is a long-lasting increase in synaptic strength ind
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-forgetting-machine-memory-perception-and-the-rodrigo-qui`.

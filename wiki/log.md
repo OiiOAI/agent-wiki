@@ -3465,3 +3465,55 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/prosopagnosia.md`
 - Files deprecated: None.
 - Notes: 21 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-forgetting-machine-memory-perception-and-the-rodrigo-qui
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf
+- Files created:
+  - `wiki/entities/claude-shannon.md`
+  - `wiki/entities/florida-scrub-jay.md`
+  - `wiki/entities/frances-yates.md`
+  - `wiki/entities/halle-berry-neuron.md`
+  - `wiki/entities/jennifer-aniston-neuron.md`
+  - `wiki/entities/jennifer-thompson-ronald-cotton-case.md`
+  - `wiki/entities/john-hopfield.md`
+  - `wiki/entities/luke-skywalker-neuron.md`
+  - `wiki/entities/rodrigo-quian-quiroga.md`
+  - `wiki/entities/simonides-of-ceos.md`
+  - `wiki/entities/suzana-herculano-houzel.md`
+  - `wiki/entities/tsai-lun.md`
+  - `wiki/concepts/associative-memory-model.md`
+  - `wiki/concepts/binary-numbers.md`
+  - `wiki/concepts/childhood-amnesia.md`
+  - `wiki/concepts/concept-cells.md`
+  - `wiki/concepts/concept-neurons.md`
+  - `wiki/concepts/declarative-vs-procedural-memory.md`
+  - `wiki/concepts/echoic-memory.md`
+  - `wiki/concepts/eye-tracking.md`
+  - `wiki/concepts/eyewitness-testimony.md`
+  - `wiki/concepts/hm-henry-molaison.md`
+  - `wiki/concepts/hopfield-networks.md`
+  - `wiki/concepts/iconic-memory.md`
+  - `wiki/concepts/language-and-concept-formation.md`
+  - `wiki/concepts/materialism.md`
+  - `wiki/concepts/memory-capacity.md`
+  - `wiki/concepts/memory-malleability.md`
+  - `wiki/concepts/mirror-test.md`
+  - `wiki/concepts/neuron-count-comparisons.md`
+  - `wiki/concepts/philosophical-zombie.md`
+  - `wiki/concepts/savant-syndrome.md`
+  - `wiki/sources/the-forgetting-machine-rodrigo-quian-quiroga.md`
+  - `wiki/analyses/museum-viewing-memory-study.md`
+- Files merged (extended):
+  - `wiki/entities/elizabeth-loftus.md`
+  - `wiki/entities/henry-molaison.md`
+  - `wiki/entities/hermann-von-helmholtz.md`
+  - `wiki/concepts/bayesian-inference.md`
+  - `wiki/concepts/center-surround-organization.md`
+  - `wiki/concepts/chinese-room-argument.md`
+  - `wiki/concepts/long-term-potentiation.md`
+  - `wiki/concepts/method-of-loci.md`
+  - `wiki/concepts/neural-plasticity.md`
+  - `wiki/concepts/turing-test.md`
+- Files deprecated: None.
+- Notes: 34 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

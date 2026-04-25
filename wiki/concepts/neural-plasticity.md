@@ -4,23 +4,28 @@ title: Neural Plasticity
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The forgetting machine _ memory, perception, and the -
+  Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]'
 confidence: high
 related:
   broader:
   - neuroscience
   - learning and memory
+  - memory
   narrower:
   - synaptic plasticity
   - short-term plasticity
   - long-term plasticity
-  adjacent: []
-tags: []
+tags:
+- synapses
+- learning
+- memory-formation
+aliases: []
 ---
-
 
 # Neural Plasticity
 
@@ -39,6 +44,10 @@ The capacity of the nervous system to modify its structure and function in respo
 - GABAergic neurotransmission influences the timing of critical period closure for ocular dominance plasticity. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1721]
 - Synaptic plasticity includes long-term potentiation (LTP) and long-term depression (LTD), with NMDA receptors playing critical roles in both. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1721]
 - Dendritic spine plasticity and changes in spine number occur during critical periods, particularly in visual cortex. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1721]
+- Santiago Ramón y Cajal first proposed in the 19th century that memories relate to neural connectivity. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p23]
+- Donald Hebb in 1949 formulated the principle that joint activation of neurons reinforces their connections, summarized as 'neurons that fire together wire together.'. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p23]
+- Tim Bliss and Terje Lømo experimentally verified Hebb's theory by observing that co-activation of neurons produced long-term potentiation (LTP) lasting weeks or months. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p23]
+- Experiments blocking LTP mechanisms inhibit the formation of memories. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p24]
 
 ## Inferences
 
@@ -48,6 +57,7 @@ The capacity of the nervous system to modify its structure and function in respo
 
 - Broader: [[neuroscience]]
 - Broader: [[learning and memory]]
+- Broader: [[memory]]
 - Narrower: [[synaptic plasticity]]
 - Narrower: [[short-term plasticity]]
 - Narrower: [[long-term plasticity]]
@@ -56,15 +66,21 @@ The capacity of the nervous system to modify its structure and function in respo
 - Concepts: [[long-term potentiation]]
 - Concepts: [[learning and memory]]
 - Concepts: [[neural development]]
+- Concepts: [[hebbian-learning]]
+- Concepts: [[hopfield-networks]]
+- Concepts: [[memory-consolidation]]
 - Topics: [[developmental neuroscience]]
 - Topics: [[cognitive neuroscience]]
 - Entities: [[Santiago Ramón y Cajal]]
 - Entities: [[Jerzy Konorski]]
+- Entities: [[Donald Hebb]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-forgetting-machine-memory-perception-and-the-rodrigo-qui`.

@@ -4,10 +4,12 @@ title: Henry Molaison
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
   - Suzanne Corkin.pdf#p1-402]'
+- '[raw/books/neuroscience/The forgetting machine _ memory, perception, and the -
+  Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]'
 canonical: Henry Molaison
 confidence: high
 aliases:
@@ -20,6 +22,8 @@ tags:
 - neuroscience
 - memory
 - H.M.
+- hippocampus
+- case-study
 related:
   concepts:
   - amnesia
@@ -37,6 +41,7 @@ related:
   - semantic-memory-in-amnesia
   - schema-theory
   - priming
+  - memory-systems
   topics:
   - memory
   - neuroscience
@@ -48,8 +53,8 @@ related:
   - wilder-penfield
   - william-scoville
   - bickford-nursing-home
+  - larry-squire
 ---
-
 
 # Henry Molaison
 
@@ -97,6 +102,9 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 - His preoperative semantic memory remained intact and stable over 48 years of testing, but he could not acquire new semantic knowledge. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p244]
 - Henry's dream reports were highly realistic and lacked the disjointed quality of most dreams, likely consisting of preoperative memories rather than genuine dreams. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p232]
 - He could not mentally travel forward in time to imagine future experiences; asked what he would do tomorrow, he answered 'Whatever is beneficial.'. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p236]
+- Patient H.M. had bilateral hippocampal lesions that caused loss of recent memory. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#L5349-L5357]
+- The case of H.M. was first described by William Scoville and Brenda Milner in a 1957 paper in the Journal of Neurology, Neurosurgery, and Psychiatry. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#L5352-L5357]
+- Larry Ryan Squire wrote a 2009 review article titled 'The legacy of patient H.M. for neuroscience' in Neuron, highlighting the continued importance of H.M.'s case for neuroscience research. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#L5354-L5357]
 
 ## Inferences
 
@@ -107,6 +115,7 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 - Inference: Henry's preserved ability to learn motor skills while unable to form new declarative memories provided the first clear evidence that memory is not a single faculty but comprises multiple independent systems.
 - Inference: Henry's preserved nondeclarative memory (skills, priming) contrasted sharply with his impaired declarative memory, demonstrating that different memory systems rely on distinct brain structures.
 - Inference: His ability to learn crossword puzzle solutions that linked new information to preexisting schemas showed that some semantic learning can occur without hippocampal function when anchored to existing knowledge.
+- Inference: The enduring significance of H.M.'s case, evidenced by a 2009 review article, demonstrates that his condition provided fundamental insights into the neural basis of memory formation and the specific role of the hippocampus.
 
 ## Uncertainties
 
@@ -123,6 +132,7 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 - Broader: [[memory-research]]
 - Broader: [[amnesic-patients]]
 - Broader: [[neuroscience-research]]
+- Broader: [[memory]]
 - Narrower: [[scoville-surgery]]
 - Adjacent: [[brenda-milner]]
 - Adjacent: [[william-beecher-scoville]]
@@ -141,6 +151,7 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 - Concepts: [[semantic-memory-in-amnesia]]
 - Concepts: [[schema-theory]]
 - Concepts: [[priming]]
+- Concepts: [[memory-systems]]
 - Topics: [[memory]]
 - Topics: [[neuroscience]]
 - Topics: [[brain-preservation-of-h-m]]
@@ -150,11 +161,14 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 - Entities: [[wilder-penfield]]
 - Entities: [[william-scoville]]
 - Entities: [[bickford-nursing-home]]
+- Entities: [[larry-squire]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
+- Additional source: [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-forgetting-machine-memory-perception-and-the-rodrigo-qui`.
