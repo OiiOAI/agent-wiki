@@ -4,18 +4,31 @@ title: Narcissism
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/Models - Mark Manson.pdf#p1-274]'
+- '[raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]'
 confidence: high
 tags:
 - anticoncept
 - relationships
 - psychology
 - toxic-behavior
+- personality
+- self-esteem
+- social-dynamics
 related:
-  broader: []
-  narrower: []
+  broader:
+  - human-nature
+  - empathy
+  narrower:
+  - deep-narcissism
+  - functional-narcissist
+  - healthy-narcissist
+  - complete-control-narcissist
+  - theatrical-narcissist
+  - narcissistic-couple
+  - narcissistic-leader
   adjacent:
   - non-neediness
   - neediness
@@ -23,8 +36,11 @@ related:
   - Self-Esteem
   - Non-neediness
   - Objectification
+  - empathy
+  - self-esteem
+  - emotional-self
+aliases: []
 ---
-
 
 # Narcissism
 
@@ -44,29 +60,53 @@ Narcissism is presented as a form of overcompensation for neediness. When men fi
 - Narcissism is often preoccupied with sleeping with as many women as possible. [raw/books/psychology/Models - Mark Manson.pdf#p268]
 - Narcissistic behavior can come across as confident but is still low-status behavior because it is over-invested in the perceptions of others. [raw/books/psychology/Models - Mark Manson.pdf#p268]
 - Men who are narcissistic experience short-term sexual success but long-term emotional failure. [raw/books/psychology/Models - Mark Manson.pdf#p268]
+- From birth, humans feel a never-ending need for attention that drives narcissistic behavior. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p60]
+- Deep narcissists experience a sharp break in early self-development between ages two and five, never constructing a realistic, cohesive sense of self. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p62]
+- Deep narcissists' mothers are often either deep narcissists themselves (abandonment) or enmeshers who overinvolve the child (enmeshment). [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p62]
+- Deep narcissists see others as extensions of themselves (self-objects), instruments for attention and validation. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p64]
+- The book identifies four types of deep narcissists: Complete Control Narcissists, Theatrical Narcissists, Narcissistic Couples, and Narcissistic Leaders. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p74]
+- Healthy narcissists have stronger, more resilient self-esteem and can turn attention outward toward work or people. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p67]
 
 ## Inferences
 
 - Inference: The book changed the term 'False Confidence' to 'narcissism' in revised editions, considering it more precise and comprehensible.
+- Inference: The book suggests that self-love and narcissism exist on a spectrum, with healthy self-esteem being essential for developing empathy rather than being opposed to it.
 
 ## Related pages
 
+- Broader: [[human-nature]]
+- Broader: [[empathy]]
+- Narrower: [[deep-narcissism]]
+- Narrower: [[functional-narcissist]]
+- Narrower: [[healthy-narcissist]]
+- Narrower: [[complete-control-narcissist]]
+- Narrower: [[theatrical-narcissist]]
+- Narrower: [[narcissistic-couple]]
+- Narrower: [[narcissistic-leader]]
 - Adjacent: [[non-neediness]]
 - Adjacent: [[neediness]]
 - Adjacent: [[vulnerability]]
 - Adjacent: [[Self-Esteem]]
 - Adjacent: [[Non-neediness]]
 - Adjacent: [[Objectification]]
+- Adjacent: [[empathy]]
+- Adjacent: [[self-esteem]]
+- Adjacent: [[emotional-self]]
 - Concepts: [[overcompensation]]
 - Concepts: [[selfishness]]
 - Concepts: [[domination]]
 - Concepts: [[self-aggrandizement]]
 - Concepts: [[Pick Up Artist]]
+- Concepts: [[self-love]]
+- Concepts: [[empathy]]
+- Concepts: [[human-nature]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/Models - Mark Manson.pdf#p1-274]
+- Additional source: [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-laws-of-human-nature-robert-greene`.

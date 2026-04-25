@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1-469]'
 - '[raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost
   - Sönke Ahrens.pdf#p1-157]'
+- '[raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]'
 confidence: high
 tags:
 - reasoning
@@ -19,15 +20,24 @@ tags:
 - cognitive-bias
 - critical-thinking
 - academic-writing
+- cognition
+- thinking
 related:
   broader:
   - cognitive-bias
   - critical-thinking
   - research-methods
+  - irrationality
+  - low-grade-irrationality
   adjacent:
   - bottom-up-topics
   - growth-mindset
   - deliberate-practice
+  - conviction-bias
+  - group-bias
+  - superiority-bias
+  - appearance-bias
+  - blame-bias
 aliases: []
 ---
 
@@ -49,6 +59,9 @@ Confirmation bias is the tendency to seek out and interpret evidence in ways tha
 - The linear writing model (decide hypothesis first, then research) structurally amplifies confirmation bias by priming perception in one direction before collecting evidence. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p77]
 - In the slip-box method, dis-confirming data becomes attractive because it opens more possible connections and discussions, reversing the incentive away from confirmation. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p78]
 - If insight becomes a threat to academic or writing success, the workflow is designed incorrectly. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p77]
+- People go in search of evidence to support their view while remaining unaware of the pleasure principle guiding their selection. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p44]
+- When people ask for advice, they typically want their own ideas and preferences confirmed by expert opinion. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p44]
+- The book recommends examining evidence in 'the cold light of day' and actively seeking disconfirming evidence for cherished beliefs. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p44]
 
 ## Inferences
 
@@ -59,14 +72,23 @@ Confirmation bias is the tendency to seek out and interpret evidence in ways tha
 - Broader: [[cognitive-bias]]
 - Broader: [[critical-thinking]]
 - Broader: [[research-methods]]
+- Broader: [[irrationality]]
+- Broader: [[low-grade-irrationality]]
 - Adjacent: [[bottom-up-topics]]
 - Adjacent: [[growth-mindset]]
 - Adjacent: [[deliberate-practice]]
+- Adjacent: [[conviction-bias]]
+- Adjacent: [[group-bias]]
+- Adjacent: [[superiority-bias]]
+- Adjacent: [[appearance-bias]]
+- Adjacent: [[blame-bias]]
 - Concepts: [[social-intuitionist-model]]
 - Concepts: [[rider-and-elephant-metaphor]]
 - Concepts: [[bottom-up-topics]]
 - Concepts: [[critical-thinking]]
 - Concepts: [[cognitive-bias]]
+- Concepts: [[irrationality]]
+- Concepts: [[decision-making]]
 - Entities: [[peter-wason]]
 - Entities: [[deanna-kuhn]]
 - Entities: [[david-perkins]]
@@ -78,8 +100,10 @@ Confirmation bias is the tendency to seek out and interpret evidence in ways tha
 
 - Primary source: [raw/books/philosophy/The Righteous Mind - Jonathan Haidt.pdf#p1-469]
 - Additional source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
+- Additional source: [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `how-to-take-smart-notes-one-simple-technique-to-boost-so-nke`.
+- 2026-04-25 — merged contributions from `the-laws-of-human-nature-robert-greene`.

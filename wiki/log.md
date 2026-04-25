@@ -7636,3 +7636,99 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/self-compassion.md`
 - Files deprecated: None.
 - Notes: 35 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-laws-of-human-nature-robert-greene
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf
+- Files created:
+  - `wiki/entities/anton-chekhov.md`
+  - `wiki/entities/caterina-sforza.md`
+  - `wiki/entities/coco-channel.md`
+  - `wiki/entities/erich-fromm.md`
+  - `wiki/entities/ernest-shackleton.md`
+  - `wiki/entities/flannery-oconnor.md`
+  - `wiki/entities/gao-yuan.md`
+  - `wiki/entities/georges-jacques-danton.md`
+  - `wiki/entities/howard-hughes.md`
+  - `wiki/entities/jane-williams.md`
+  - `wiki/entities/jeanne-de-belciel.md`
+  - `wiki/entities/john-blunt.md`
+  - `wiki/entities/john-d-rockefeller.md`
+  - `wiki/entities/joseph-stalin.md`
+  - `wiki/entities/king-louis-xvi.md`
+  - `wiki/entities/leo-tolstoy-and-sonya.md`
+  - `wiki/entities/lyndon-b-johnson.md`
+  - `wiki/entities/martin-luther-king-jr.md`
+  - `wiki/entities/maximilien-robespierre.md`
+  - `wiki/entities/melanie-klein.md`
+  - `wiki/entities/michael-eisner.md`
+  - `wiki/entities/milton-erickson.md`
+  - `wiki/entities/pericles.md`
+  - `wiki/entities/queen-elizabeth-i.md`
+  - `wiki/entities/richard-nixon.md`
+  - `wiki/concepts/amor-fati.md`
+  - `wiki/concepts/anima-animus.md`
+  - `wiki/concepts/attitude.md`
+  - `wiki/concepts/beyond-envy.md`
+  - `wiki/concepts/conformity-individual-effects.md`
+  - `wiki/concepts/constricted-attitude.md`
+  - `wiki/concepts/controlled-aggression.md`
+  - `wiki/concepts/courtier-types.md`
+  - `wiki/concepts/emphatic-traits.md`
+  - `wiki/concepts/entitlement-curse.md`
+  - `wiki/concepts/envier-types.md`
+  - `wiki/concepts/expansive-attitude.md`
+  - `wiki/concepts/exploiting-zeitgeist.md`
+  - `wiki/concepts/false-purposes.md`
+  - `wiki/concepts/five-strategies-for-life-through-death.md`
+  - `wiki/concepts/gender-projection-types.md`
+  - `wiki/concepts/generational-myopia.md`
+  - `wiki/concepts/grandiose-leader.md`
+  - `wiki/concepts/grandiosity.md`
+  - `wiki/concepts/grass-is-always-greener-syndrome.md`
+  - `wiki/concepts/group-dynamics.md`
+  - `wiki/concepts/human-aggression.md`
+  - `wiki/concepts/human-ambivalence.md`
+  - `wiki/concepts/human-nature.md`
+  - `wiki/concepts/induction-principle.md`
+  - `wiki/concepts/inner-authority.md`
+  - `wiki/concepts/irrationality.md`
+  - `wiki/concepts/law-of-defensiveness.md`
+  - `wiki/concepts/law-of-fickleness.md`
+  - `wiki/concepts/law-of-gender-rigidity.md`
+  - `wiki/concepts/law-of-shortsightedness.md`
+  - `wiki/concepts/lifes-work.md`
+  - `wiki/concepts/mortality-awareness.md`
+  - `wiki/concepts/nonverbal-communication.md`
+  - `wiki/concepts/paradoxical-death-effect.md`
+  - `wiki/concepts/passive-aggression.md`
+  - `wiki/concepts/practical-grandiosity.md`
+  - `wiki/concepts/rationality.md`
+  - `wiki/concepts/reality-group.md`
+  - `wiki/concepts/role-playing.md`
+  - `wiki/concepts/self-opinion.md`
+  - `wiki/concepts/self-sabotage.md`
+  - `wiki/concepts/shadow.md`
+  - `wiki/concepts/signs-of-envy.md`
+  - `wiki/concepts/social-force.md`
+  - `wiki/concepts/sophisticated-aggressor.md`
+  - `wiki/concepts/stimulating-desire.md`
+  - `wiki/concepts/strategies-for-establishing-authority.md`
+  - `wiki/concepts/the-integrated-human.md`
+  - `wiki/concepts/the-law-of-envy.md`
+  - `wiki/concepts/the-law-of-grandiosity.md`
+  - `wiki/concepts/the-shadow.md`
+  - `wiki/concepts/the-sublime.md`
+  - `wiki/topics/human-beyond-time-and-death.md`
+  - `wiki/topics/laws-of-human-nature-chapters.md`
+  - `wiki/topics/the-law-of-conformity.md`
+  - `wiki/topics/toxic-personality-types.md`
+  - `wiki/sources/the-laws-of-human-nature.md`
+- Files merged (extended):
+  - `wiki/entities/carl-jung.md`
+  - `wiki/concepts/character.md`
+  - `wiki/concepts/confirmation-bias.md`
+  - `wiki/concepts/empathy.md`
+  - `wiki/concepts/narcissism.md`
+- Files deprecated: None.
+- Notes: 83 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

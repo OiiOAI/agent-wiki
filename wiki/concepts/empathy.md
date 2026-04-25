@@ -12,6 +12,7 @@ sources:
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B.
   Rosenberg.pdf#p1-338]'
+- '[raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]'
 confidence: high
 related:
   broader:
@@ -21,6 +22,9 @@ related:
   - social cognition
   - affective neuroscience
   - social-neuroscience
+  - human-nature
+  - narcissism
+  - social-psychology
   narrower:
   - reiterated-empathy
   - moral-perception
@@ -30,6 +34,7 @@ related:
   - compassion
   - empathy-for-pain
   - empathic-resonance
+  - nonverbal-communication
   adjacent:
   - emotion
   - embodiment
@@ -39,11 +44,21 @@ related:
   - prosocial behavior
   - social emotions
   - conflict-resolution-nvc
+  - narcissism
+  - emotional-attunement
+  - mirror-neurons
+  - visceral-empathy
+  - analytic-empathy
+  - character
 tags:
 - emotion
 - social cognition
 - shared neural networks
 - perspective-taking
+- psychology
+- social-skills
+- emotional-intelligence
+- interpersonal
 aliases: []
 ---
 
@@ -78,6 +93,18 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - To bring a conversation back to life: interrupt with empathy. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p167]
 - When we listen for feelings and needs, we no longer see people as monsters. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p165]
 - People do not hear our pain when they believe they are at fault. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p206]
+- Empathy represents the realm beyond healthy narcissism—complete absorption in others. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p67]
+- Humans have natural abilities to understand people from the inside out, largely dormant due to self-absorption. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p68]
+- The empathic attitude requires assuming ignorance and bias, seeing people as undiscovered countries requiring exploration. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p69]
+- Visceral empathy involves detecting feeling tones in others' voices, gestures, and postures before processing their words. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p70]
+- Mirror neurons allow people to put themselves in others' shoes and feel what others are feeling. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p71]
+- Analytic empathy involves gathering information about people's early years, values, and family relationships to understand their unique psychology. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p72]
+- Studies indicate increasing self-absorption and narcissism in young people since the late 1970s, attributed partly to technology reducing face-to-face interaction. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p68]
+- What makes a relationship narcissistic is the lack of empathy that makes partners retreat deeper into defensive positions. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p89]
+- Empathy from one side tends to soften the other and invite their empathy in return; it is hard to stay defensive when the other person sees and expresses your side. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p90]
+- Understanding others' value systems—which are largely formed in early childhood and not consciously created—allows you to enter their spirit precisely when you would normally turn defensive. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p90]
+- Shackleton rediscovered 'ancient empathic skills that lie dormant in us all' because necessity forced him to read the moods and minds of his men for survival. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p95]
+- What develops empathic powers is necessity—when we feel survival depends on gauging others' moods, we find focus and tap into latent abilities. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p95]
 
 ## Inferences
 
@@ -87,6 +114,8 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Inference: Empathy and theory of mind represent two distinct capacities relying on different circuitries that usually work together in normal individuals.
 - Inference: The automaticity of empathic resonance creates a link between our own and others' needs, desires, and emotions, implying motives are not only self-interested but also automatically other-regarding.
 - Inference: Empathy is presented as having healing power, with people transcending psychological pain when they have sufficient contact with someone who can hear them empathically.
+- Inference: The book suggests that empathy creates positive momentum—as attention turns outward, people want to be around you more, improving relationships and work, which in turn provides the validation that reduces the need for narcissistic self-absorption.
+- Inference: The text suggests that empathy is not an inherent trait but a skill that can be developed through practice and conscious attention to others' nonverbal cues.
 
 ## Uncertainties
 
@@ -100,6 +129,9 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Broader: [[social cognition]]
 - Broader: [[affective neuroscience]]
 - Broader: [[social-neuroscience]]
+- Broader: [[human-nature]]
+- Broader: [[narcissism]]
+- Broader: [[social-psychology]]
 - Narrower: [[reiterated-empathy]]
 - Narrower: [[moral-perception]]
 - Narrower: [[joint-attention]]
@@ -108,6 +140,7 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Narrower: [[compassion]]
 - Narrower: [[empathy-for-pain]]
 - Narrower: [[empathic-resonance]]
+- Narrower: [[nonverbal-communication]]
 - Adjacent: [[emotion]]
 - Adjacent: [[embodiment]]
 - Adjacent: [[intersubjective-openness]]
@@ -116,6 +149,12 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Adjacent: [[prosocial behavior]]
 - Adjacent: [[social emotions]]
 - Adjacent: [[conflict-resolution-nvc]]
+- Adjacent: [[narcissism]]
+- Adjacent: [[emotional-attunement]]
+- Adjacent: [[mirror-neurons]]
+- Adjacent: [[visceral-empathy]]
+- Adjacent: [[analytic-empathy]]
+- Adjacent: [[character]]
 - Concepts: [[empathic-transposition]]
 - Concepts: [[sensual-empathy]]
 - Concepts: [[body-schema]]
@@ -129,17 +168,23 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Concepts: [[prosocial-behavior]]
 - Concepts: [[receiving-empathically]]
 - Concepts: [[paraphrasing]]
+- Concepts: [[narcissism]]
+- Concepts: [[human-connection]]
+- Concepts: [[social-skills]]
 - Entities: [[anterior-cingulate-cortex]]
 - Entities: [[singer-tania]]
+- Entities: [[ernest-shackleton]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p1-535]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p1-338]
+- Additional source: [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `nonviolent-communication-a-language-of-li-marshall-b-rosenbe`.
+- 2026-04-25 — merged contributions from `the-laws-of-human-nature-robert-greene`.

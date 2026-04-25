@@ -9,11 +9,13 @@ sources:
 - '[raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]'
 - '[raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World
   - Cal Newport.pdf#p1-191]'
+- '[raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]'
 canonical: Carl Gustav Jung
 confidence: medium
 aliases:
 - Carl Gustav Jung
 - 卡尔·荣格
+- Carl Jung
 tags:
 - 心理学家
 - 精神分析
@@ -21,6 +23,10 @@ tags:
 - psychology
 - deep-work
 - historical-figure
+- psychoanalysis
+- shadow
+- attitude
+- Carl Jung
 related:
   concepts:
   - 集体无意识
@@ -28,6 +34,12 @@ related:
   - 西方易学
   - deep-work
   - bimodal-deep-work
+  - shadow
+  - attitude
+  - repression
+  - projection
+  - constricted-attitude
+  - expansive-attitude
   topics:
   - analytical-psychology
 ---
@@ -48,6 +60,10 @@ related:
 - At Bollingen, Jung would rise at seven a.m. and after breakfast spend two hours of undistracted writing in his private office. [raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World - Cal Newport.pdf#p4]
 - Jung published Psychological Types in 1921, solidifying differences with Sigmund Freud. [raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World - Cal Newport.pdf#p4]
 - Jung practiced the bimodal philosophy of deep work, alternating between monastic deep work periods at Bollingen and his busy clinical practice in Zurich. [raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World - Cal Newport.pdf#p64]
+- Jung defined attitude as 'a readiness of the psyche to act or react in a certain way,' meaning that people are unconsciously oriented toward certain stimuli before conscious thought occurs. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p265]
+- Jung used the analogy of people encountering a brook to illustrate how different attitudes cause different responses to identical stimuli—some leap joyfully, others calculate cautiously, and others turn back entirely. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p266]
+- Jung originated the concept of the Shadow—the dark side of personality containing repressed qualities that people conceal from public view but which leak out in behavior. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p299]
+- According to Jung, the Shadow has varying thickness depending on the depth of repression and number of traits being concealed. [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p299]
 
 ## Inferences
 
@@ -64,14 +80,22 @@ related:
 - Concepts: [[西方易学]]
 - Concepts: [[deep-work]]
 - Concepts: [[bimodal-deep-work]]
+- Concepts: [[shadow]]
+- Concepts: [[attitude]]
+- Concepts: [[repression]]
+- Concepts: [[projection]]
+- Concepts: [[constricted-attitude]]
+- Concepts: [[expansive-attitude]]
 - Topics: [[analytical-psychology]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]
 - Additional source: [raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World - Cal Newport.pdf#p1-191]
+- Additional source: [raw/books/psychology/The Laws of Human Nature - Robert Greene.pdf#p1-753]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `deep-work-rules-for-focused-success-in-a-distracted-world-ca`.
+- 2026-04-25 — merged contributions from `the-laws-of-human-nature-robert-greene`.
