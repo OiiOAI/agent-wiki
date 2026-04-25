@@ -4,23 +4,31 @@ title: Dunbar's Number
 type: concept
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/business/Team_Topologies.epub#L1-L1]'
+- '[raw/books/neuroscience/Human _ the science behind what makes us unique - Michael
+  S_ Gazzaniga.pdf#p1-461]'
 confidence: high
 tags:
 - dunbars-number
 - team-size
 - trust
 - group-limits
+- social-groups
+- cognition
+- primates
+- human-evolution
 related:
-  broader: []
-  narrower: []
+  broader:
+  - social-brain-hypothesis
   adjacent:
   - team-first-thinking
   - trust
+  - social-grooming
+  - gossip
+aliases: []
 ---
-
 
 # Dunbar's Number
 
@@ -39,19 +47,28 @@ Dunbar's number, after anthropologist Robin Dunbar, identifies natural limits on
 - Effective software teams should have a maximum size of around seven to nine people. [raw/books/business/Team_Topologies.epub#L858-L859]
 - Groupings of teams (tribes) should be limited to no more than fifty people. [raw/books/business/Team_Topologies.epub#L881-L882]
 - High-trust organizations may sustain larger teams of up to around fifteen people, but such organizations are rare. [raw/books/business/Team_Topologies.epub#L867-L869]
+- Dunbar calculated from human neocortex ratios that the social group size is approximately 150, confirmed by studies of hunter-gatherer clans and horticultural societies. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p103]
+- Dunbar's number matches traditional Christmas card list sizes, military unit organization sizes, and upper limits of informally-run businesses. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p103]
+- Conversation groups self-limit to about four individuals, which Dunbar correlates with chimp grooming where one grooms three others simultaneously, explaining the 3 × 55 = 165 calculation. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p105]
 
 ## Related pages
 
+- Broader: [[social-brain-hypothesis]]
 - Adjacent: [[team-first-thinking]]
 - Adjacent: [[trust]]
+- Adjacent: [[social-grooming]]
+- Adjacent: [[gossip]]
 - Concepts: [[team-size]]
 - Concepts: [[group-dynamics]]
 - Concepts: [[organizational-limits]]
+- Entities: [[robin-dunbar]]
 
 ## Provenance
 
 - Primary source: [raw/books/business/Team_Topologies.epub#L1-L1]
+- Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.

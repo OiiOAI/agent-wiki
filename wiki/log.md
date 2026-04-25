@@ -1584,3 +1584,82 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/neocortex.md`
 - Files deprecated: None.
 - Notes: 40 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | human-the-science-behind-what-makes-us-unique-michael-s-gazz
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf
+- Files created:
+  - `wiki/entities/andrew-meltzoff.md`
+  - `wiki/entities/asp.md`
+  - `wiki/entities/blue-brain-project.md`
+  - `wiki/entities/brian-hare.md`
+  - `wiki/entities/daniel-povinelli.md`
+  - `wiki/entities/elinor-ostrom.md`
+  - `wiki/entities/foxp2.md`
+  - `wiki/entities/giacomo-rizzolatti.md`
+  - `wiki/entities/james-watson.md`
+  - `wiki/entities/jonathan-haidt.md`
+  - `wiki/entities/leda-cosmides.md`
+  - `wiki/entities/michael-s-gazzaniga.md`
+  - `wiki/entities/microcephalin.md`
+  - `wiki/entities/nicola-clayton.md`
+  - `wiki/entities/richard-wrangham.md`
+  - `wiki/entities/robert-trivers.md`
+  - `wiki/entities/william-hamilton.md`
+  - `wiki/concepts/aesthetics-evolutionary-origins.md`
+  - `wiki/concepts/artificial-intelligence.md`
+  - `wiki/concepts/bipedalism.md`
+  - `wiki/concepts/brain-lateralization.md`
+  - `wiki/concepts/cheater-detection.md`
+  - `wiki/concepts/cochlear-implant.md`
+  - `wiki/concepts/cognitive-niche.md`
+  - `wiki/concepts/comparative-neuroanatomy.md`
+  - `wiki/concepts/consciousness-core-extended.md`
+  - `wiki/concepts/cortical-minicolumns.md`
+  - `wiki/concepts/emotional-contagion.md`
+  - `wiki/concepts/episodic-memory-in-animals.md`
+  - `wiki/concepts/episodic-memory.md`
+  - `wiki/concepts/essentialism.md`
+  - `wiki/concepts/fyborg.md`
+  - `wiki/concepts/genetic-enhancement.md`
+  - `wiki/concepts/germ-line-therapy.md`
+  - `wiki/concepts/hemineglect.md`
+  - `wiki/concepts/human-brain-uniqueness.md`
+  - `wiki/concepts/interpreter-left-hemisphere.md`
+  - `wiki/concepts/intuitive-biology.md`
+  - `wiki/concepts/intuitive-physics.md`
+  - `wiki/concepts/intuitive-psychology.md`
+  - `wiki/concepts/kin-selection.md`
+  - `wiki/concepts/language-evolution.md`
+  - `wiki/concepts/memory-prediction-theory.md`
+  - `wiki/concepts/metacognition-in-animals.md`
+  - `wiki/concepts/moral-modules.md`
+  - `wiki/concepts/moral-sense-animals.md`
+  - `wiki/concepts/music-and-the-brain.md`
+  - `wiki/concepts/negativity-bias.md`
+  - `wiki/concepts/neural-correlates-of-beauty.md`
+  - `wiki/concepts/perspective-taking.md`
+  - `wiki/concepts/planum-temporale.md`
+  - `wiki/concepts/primate-communication.md`
+  - `wiki/concepts/processing-fluency-theory-beauty.md`
+  - `wiki/concepts/reciprocal-altruism.md`
+  - `wiki/concepts/savanna-hypothesis.md`
+  - `wiki/concepts/self-deception.md`
+  - `wiki/concepts/split-brain-self-recognition.md`
+  - `wiki/concepts/teleological-thinking.md`
+  - `wiki/concepts/tragedy-free-for-alls.md`
+  - `wiki/sources/human-the-science-behind-what-makes-us-unique.md`
+- Files merged (extended):
+  - `wiki/entities/capgras-syndrome.md`
+  - `wiki/entities/paul-ekman.md`
+  - `wiki/entities/robin-dunbar.md`
+  - `wiki/concepts/brain-computer-interface.md`
+  - `wiki/concepts/dunbars-number.md`
+  - `wiki/concepts/mirror-neurons.md`
+  - `wiki/concepts/mirror-self-recognition.md`
+  - `wiki/concepts/neocortex.md`
+  - `wiki/concepts/prefrontal-cortex.md`
+  - `wiki/concepts/social-brain-hypothesis.md`
+  - `wiki/concepts/theory-of-mind.md`
+- Files deprecated: None.
+- Notes: 60 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

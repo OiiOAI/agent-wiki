@@ -10,6 +10,8 @@ sources:
   Hawkins; Richard Dawkins; Basic Books.pdf#p1-242]'
 - '[raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_
   Mitchell.pdf#p1-354]'
+- '[raw/books/neuroscience/Human _ the science behind what makes us unique - Michael
+  S_ Gazzaniga.pdf#p1-461]'
 confidence: high
 tags:
 - neocortex
@@ -18,14 +20,22 @@ tags:
 - cognition
 - neuroscience
 - perception
+- neuroanatomy
+- brain-structure
+- evolution
 related:
   broader:
   - brain
   - brain-structure
   - forebrain
+  - human-brain-uniqueness
+  - cerebral-cortex
   narrower:
   - cortical-columns
   - neocortical-regions
+  - prefrontal-cortex
+  - frontal-lobe
+  - temporal-lobe
   adjacent:
   - old-brain
   - brain-stem
@@ -53,6 +63,9 @@ The neocortex ('new outer layer') is the newest part of the brain, found only in
 - Each cortical column receives inputs from thalamus and other brain regions, integrates information from neighboring columns, and sends outputs to other cortical areas and the brain. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p128]
 - In mammals, many cortical areas are devoted to vision, with information processed through a hierarchy from V1 to V2, V3, V4, and many other visual areas. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p130]
 - Higher-order features are extracted through successive cortical areas: neurons become responsive to lines, then shapes, then larger objects, and even specialize for types of objects like faces. [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p131]
+- The neocortex is 16% of brain weight in hedgehogs, 46% in Galagos (small monkeys), 76% in chimpanzees, and even larger in humans. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p26]
+- 75% of all brain connections are within the cortex; the other 25% are input and output connections to other parts of the nervous system. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p25]
+- The neocortex is divided into four lobes: frontal, parietal, temporal, and occipital. [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p26]
 
 ## Inferences
 
@@ -64,8 +77,13 @@ The neocortex ('new outer layer') is the newest part of the brain, found only in
 - Broader: [[brain]]
 - Broader: [[brain-structure]]
 - Broader: [[forebrain]]
+- Broader: [[human-brain-uniqueness]]
+- Broader: [[cerebral-cortex]]
 - Narrower: [[cortical-columns]]
 - Narrower: [[neocortical-regions]]
+- Narrower: [[prefrontal-cortex]]
+- Narrower: [[frontal-lobe]]
+- Narrower: [[temporal-lobe]]
 - Adjacent: [[old-brain]]
 - Adjacent: [[brain-stem]]
 - Adjacent: [[hippocampus]]
@@ -86,13 +104,16 @@ The neocortex ('new outer layer') is the newest part of the brain, found only in
 - Entities: [[thalamus]]
 - Entities: [[basal-ganglia]]
 - Entities: [[hippocampus]]
+- Entities: [[cerebral-cortex]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/A Thousand Brains _ A New Theory of Intelligence - Jeff Hawkins; Richard Dawkins; Basic Books.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
+- Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `free-agents-how-evolution-gave-us-free-will-kevin-j-mitchell`.
+- 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
