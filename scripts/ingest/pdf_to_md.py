@@ -27,7 +27,7 @@ from pathlib import Path
 
 MARKER_BIN = os.environ.get(
     "MARKER_BIN",
-    "/Users/moondy/Library/Python/3.10/bin/marker_single",
+    shutil.which("marker_single") or "",
 )
 PDFTOTEXT_BIN = shutil.which("pdftotext") or "pdftotext"
 PANDOC_BIN = shutil.which("pandoc") or "pandoc"

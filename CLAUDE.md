@@ -39,5 +39,5 @@
 
 ## 参考
 - 页面模板：`schema/templates/*.template.md`（entity / concept / topic / source / analysis / conflict）
-- 首次使用流程：`scripts/bootstrap/BOOTSTRAP_RUNBOOK.md`
-- 系统优化方案（2026-04-21 制定、分阶段实施中）：`~/.claude/plans/partitioned-bouncing-piglet.md`
+- 端用户文档：`README.md` + `USAGE.md`（非 agent 路径）
+- Pipeline 内部：`scripts/ingest/README.md`

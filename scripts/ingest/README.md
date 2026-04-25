@@ -1,8 +1,8 @@
 # scripts/ingest — agent-wiki auto-ingest pipeline
 
-Eight phases A→H, each a module you can run standalone. See
-`~/.claude/plans/partitioned-bouncing-piglet.md` for the full design; this
-README is an operator crib sheet.
+Eight phases A→H, each a module you can run standalone. This README is an
+operator crib sheet — for end-user docs see [`../../README.md`](../../README.md)
+and [`../../USAGE.md`](../../USAGE.md).
 
 ## Quick verification
 

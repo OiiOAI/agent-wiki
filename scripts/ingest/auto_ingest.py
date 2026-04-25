@@ -98,14 +98,33 @@ def _derive_stem(path: Path) -> str:
 
 
 def discover_books(
-    repo_root: Path, disc_filter: str | None = None
+    repo_root: Path,
+    disc_filter: str | None = None,
+    books_dir: Path | None = None,
+    default_discipline: str = "general",
 ) -> list[tuple[str, str]]:
-    """Return [(stem, source_rel_path), ...] for every PDF/EPUB under raw/books/.
+    """Return [(stem, source_rel_path), ...] for every PDF/EPUB under `books_dir`.
 
-    Dedupes by stem; if a collision happens, the second-seen book is suffixed
-    with its discipline to disambiguate.
+    By default `books_dir = repo_root/raw/books`, which is the in-repo
+    convention used by this project's authors. External users can point
+    `--books-dir` at any folder (e.g. `~/Documents/Library`); when the
+    folder does NOT live under `repo_root/raw/books`, paths recorded in
+    progress.json/provenance use the **absolute** path.
+
+    Discipline assignment:
+      - if `books_dir` has subdirectories, the first dir component under
+        `books_dir` is treated as the discipline (preserves the original
+        layout convention);
+      - if a book sits at the top level of `books_dir` with no parent
+        category, `default_discipline` is used.
+
+    Dedupes by stem; collisions get a `-<discipline>` or numeric suffix.
     """
-    books_dir = repo_root / "raw" / "books"
+    if books_dir is None:
+        books_dir = repo_root / "raw" / "books"
+    books_dir = books_dir.resolve()
+    inside_repo = books_dir.is_relative_to(repo_root)
+
     files: list[Path] = []
     for ext in ("*.pdf", "*.epub"):
         files.extend(books_dir.rglob(ext))
@@ -113,10 +132,14 @@ def discover_books(
     seen: set[str] = set()
     out: list[tuple[str, str]] = []
     for p in files:
-        disc = p.relative_to(books_dir).parts[0]
+        rel_under_books = p.relative_to(books_dir)
+        disc = rel_under_books.parts[0] if len(rel_under_books.parts) > 1 else default_discipline
         if disc_filter and disc != disc_filter:
             continue
-        rel = p.relative_to(repo_root)
+        # Source paths recorded in provenance: relative to repo_root when
+        # the books live inside the repo, absolute otherwise. Either form
+        # is round-trippable when the orchestrator joins with repo_root.
+        rel = str(p.relative_to(repo_root)) if inside_repo else str(p)
         stem = _derive_stem(p)
         candidate = stem
         suffix = 2
@@ -124,7 +147,7 @@ def discover_books(
             candidate = f"{stem}-{disc}" if suffix == 2 else f"{stem}-{suffix}"
             suffix += 1
         seen.add(candidate)
-        out.append((candidate, str(rel)))
+        out.append((candidate, rel))
     return out
 
 
@@ -316,6 +339,22 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--limit", type=int, default=None, help="only process first N pending")
     ap.add_argument("--disc", type=str, default=None, help="only process this discipline")
     ap.add_argument(
+        "--books-dir",
+        type=str,
+        default=None,
+        help=(
+            "scan this folder for PDF/EPUB instead of raw/books/. The "
+            "first subdirectory component is treated as the 'discipline'; "
+            "files at the top level use --default-discipline."
+        ),
+    )
+    ap.add_argument(
+        "--default-discipline",
+        type=str,
+        default="general",
+        help="discipline label for books at the top level of --books-dir",
+    )
+    ap.add_argument(
         "--dry-discover", action="store_true",
         help="print discovered books and exit, do not run pipeline",
     )
@@ -333,7 +372,13 @@ def main(argv: list[str] | None = None) -> int:
     md_cache_dir.mkdir(parents=True, exist_ok=True)
     log_dir.mkdir(parents=True, exist_ok=True)
 
-    books = discover_books(REPO_ROOT, disc_filter=args.disc)
+    books_dir = Path(args.books_dir).expanduser().resolve() if args.books_dir else None
+    books = discover_books(
+        REPO_ROOT,
+        disc_filter=args.disc,
+        books_dir=books_dir,
+        default_discipline=args.default_discipline,
+    )
     if args.dry_discover:
         for stem, src in books:
             print(f"{stem}\t{src}")
