@@ -4,23 +4,41 @@ title: Autopoiesis
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
+- '[raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences
+  of - Evan Thompson.pdf#p1-535]'
 confidence: high
 tags:
 - autopoiesis
 - biology
 - consciousness
 - self-organization
+- self-production
+- living-systems
+- biological-autonomy
+- maturana
+- varela
 related:
   broader:
   - systems-biology
   - consciousness-theory
-  narrower: []
-  adjacent: []
+  - autonomy
+  - life-and-mind
+  - deep-continuity-thesis
+  narrower:
+  - minimal-autopoiesis
+  - sense-making
+  - autonomous-system
+  adjacent:
+  - self-organization
+  - emergence
+  - adaptivity
+  - cognitive-system
+  - organism
+aliases: []
 ---
-
 
 # Autopoiesis
 
@@ -36,21 +54,63 @@ Autopoiesis (pronounced 'auto-poi-ee-sis') is a concept developed by Chilean bio
 - Both autopoiesis and free energy principle suggest a strong continuity between 'life' and 'mind'. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p250]
 - This continuity implies that there is more to mind and consciousness than simply what a system 'does'. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p250]
 - Humberto Maturana died in May 2021 at the age of ninety-two. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p250]
+- Autopoiesis was introduced by Maturana and Varela to describe the minimal organization of living systems. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p53]
+- An autopoietic system dynamically produces its own material boundary (membrane) that demarcates inside from outside. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p55]
+- Metabolic processes construct the membrane boundary, but are made possible by those very boundaries. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p55]
+- Should the process of self-production be interrupted, cellular components no longer form a unity, gradually diffusing back into molecular soup. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p55]
+- Autopoiesis provides the core 'biologic' of all life on Earth. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p53]
+- Autopoiesis is the paradigm case of biological autonomy and is the best understood case empirically. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p53]
+- The concept of autopoiesis was formulated by Maturana and Varela to characterize the minimal organization of living systems at the cellular level. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p102]
+- A cell is spatially formed by a semipermeable membrane establishing a boundary between inside and outside environment. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p103]
+- Autopoiesis captures the minimal organization of a cell without invoking the notion of life or defining life in terms of the cell. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p106]
+- Viruses are not autopoietic because they lack an internal reaction network and do not produce their own components from within themselves. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p125]
+- Maturana and Varela originally proposed that autopoiesis is necessary and sufficient to characterize living systems. [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p125]
+
+## Inferences
+
+- Inference: The nervous system elaborates the basic autopoietic organization by adding a 'neurologic' that couples movement and sensory activity.
+- Inference: Autopoiesis provides the minimal form of 'bodily self' while sensorimotor closure produces a 'sensorimotor self.'
+- Inference: Autopoiesis entails both identity (self-production) and sense-making (adaptive relation to environment), representing a twofold purposiveness.
+- Inference: The theory of autopoiesis offers a naturalized, biological account of Kant's notion of a natural purpose.
+
+## Uncertainties
+
+- Uncertain: Whether autopoiesis is sufficient for life remains debated; Bitbol and Luisi argue it is necessary but not sufficient without cognition.
 
 ## Related pages
 
 - Broader: [[systems-biology]]
 - Broader: [[consciousness-theory]]
+- Broader: [[autonomy]]
+- Broader: [[life-and-mind]]
+- Broader: [[deep-continuity-thesis]]
+- Narrower: [[minimal-autopoiesis]]
+- Narrower: [[sense-making]]
+- Narrower: [[autonomous-system]]
+- Adjacent: [[self-organization]]
+- Adjacent: [[emergence]]
+- Adjacent: [[adaptivity]]
+- Adjacent: [[cognitive-system]]
+- Adjacent: [[organism]]
 - Concepts: [[free-energy-principle]]
 - Concepts: [[life-mind-continuity]]
 - Concepts: [[self-maintenance]]
+- Concepts: [[autonomy]]
+- Concepts: [[membrane]]
+- Concepts: [[metabolism]]
+- Concepts: [[self-organization]]
+- Concepts: [[circular-causality]]
+- Concepts: [[organizational-closure]]
 - Entities: [[humberto-maturana]]
 - Entities: [[francisco-varela]]
+- Entities: [[pier-luigi-luisi]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
+- Additional source: [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p1-535]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `mind-in-life-biology-phenomenology-and-the-sciences-of-evan-`.

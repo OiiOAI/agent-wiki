@@ -1824,3 +1824,73 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/working-memory.md`
 - Files deprecated: None.
 - Notes: 88 new + 16 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | mind-in-life-biology-phenomenology-and-the-sciences-of-evan-
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf
+- Files created:
+  - `wiki/entities/edmund-husserl.md`
+  - `wiki/entities/evan-thompson.md`
+  - `wiki/entities/francisco-varela.md`
+  - `wiki/entities/hans-jonas.md`
+  - `wiki/entities/hox-genes.md`
+  - `wiki/entities/j-scott-kelso.md`
+  - `wiki/entities/maurice-merleau-ponty.md`
+  - `wiki/concepts/affordance.md`
+  - `wiki/concepts/analytical-isomorphism.md`
+  - `wiki/concepts/autonomy.md`
+  - `wiki/concepts/biological-naturalism.md`
+  - `wiki/concepts/body-body-problem.md`
+  - `wiki/concepts/cognitivism.md`
+  - `wiki/concepts/connectionism.md`
+  - `wiki/concepts/deep-continuity-thesis.md`
+  - `wiki/concepts/deep-enculturation.md`
+  - `wiki/concepts/descartes-legacy.md`
+  - `wiki/concepts/developmental-systems-theory.md`
+  - `wiki/concepts/downward-causation.md`
+  - `wiki/concepts/dynamic-co-emergence.md`
+  - `wiki/concepts/dynamic-sensorimotor-approach.md`
+  - `wiki/concepts/embodied-dynamicism.md`
+  - `wiki/concepts/emergence.md`
+  - `wiki/concepts/emotion.md`
+  - `wiki/concepts/empathy.md`
+  - `wiki/concepts/enactive-approach.md`
+  - `wiki/concepts/enactive-evolution.md`
+  - `wiki/concepts/enculturation.md`
+  - `wiki/concepts/epigenetic-inheritance.md`
+  - `wiki/concepts/evo-devo.md`
+  - `wiki/concepts/explanatory-gap.md`
+  - `wiki/concepts/genetic-phenomenology.md`
+  - `wiki/concepts/genocentrism.md`
+  - `wiki/concepts/heterophenomenology.md`
+  - `wiki/concepts/immanent-purposiveness.md`
+  - `wiki/concepts/intentional-arc.md`
+  - `wiki/concepts/intentionality.md`
+  - `wiki/concepts/intersubjectivity.md`
+  - `wiki/concepts/joint-attention.md`
+  - `wiki/concepts/large-scale-integration.md`
+  - `wiki/concepts/life-can-be-known-only-by-life.md`
+  - `wiki/concepts/life-world.md`
+  - `wiki/concepts/motor-intentionality.md`
+  - `wiki/concepts/natural-purpose.md`
+  - `wiki/concepts/needful-freedom.md`
+  - `wiki/concepts/neurophenomenology.md`
+  - `wiki/concepts/phenomenological-analysis-mental-imagery.md`
+  - `wiki/concepts/phenomenological-reduction.md`
+  - `wiki/concepts/phylotypic-body-plan.md`
+  - `wiki/concepts/prereflective-bodily-self-consciousness.md`
+  - `wiki/concepts/prereflective-self-awareness.md`
+  - `wiki/concepts/role-reversal-imitation.md`
+  - `wiki/concepts/self-transcendence.md`
+  - `wiki/concepts/sense-making.md`
+  - `wiki/concepts/time-consciousness-husserl.md`
+  - `wiki/concepts/time-consciousness.md`
+  - `wiki/concepts/transparency-of-experience.md`
+  - `wiki/concepts/weismann-doctrine.md`
+  - `wiki/concepts/zombies-phenomenological-critique.md`
+  - `wiki/topics/life-and-mind.md`
+  - `wiki/sources/mind-in-life.md`
+- Files merged (extended):
+  - `wiki/concepts/autopoiesis.md`
+- Files deprecated: None.
+- Notes: 61 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
