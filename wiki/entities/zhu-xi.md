@@ -10,6 +10,7 @@ sources:
 - '[raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理;
   朱熹; 柯誉.epub#L1-L1]'
 - '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
+- '[raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]'
 canonical: 朱熹
 confidence: high
 aliases:
@@ -20,6 +21,7 @@ aliases:
 - 晦庵
 - 紫阳
 - 朱文公
+- Zhu Xi
 tags:
 - 宋明理学
 - 道学家
@@ -32,6 +34,7 @@ tags:
 - 易学
 - 挂扐法
 - 变占法
+- 朱熹著作
 related:
   concepts:
   - 理学
@@ -46,6 +49,9 @@ related:
   - 象数
   - 河图洛书
   - 周易本义
+  - 遁卦
+  - 家人卦
+  - 易学
   topics:
   - 宋明理学
   - 儒家哲学
@@ -92,27 +98,39 @@ related:
 - 朱熹在注释《周易》时，对不明白的就说不明白，有疑问的就提出疑问，表现出'多闻阙疑，慎言其余'的求实态度. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p208]
 - 朱熹相信'图''书'之说，在《本义》列了河图、洛书等九副《易》图. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p209]
 - 朱熹在《本义》中特别说明《周易》原是古代筮书，以此来正《周易》之本义. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p209]
+- 朱熹于庆元元年（1195年）四月后以周易筮卜，得遁之家人卦，为遁尾好遁之占. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p249]
+- 朱熹在致刘清修书中明确指出所得之卦为遁之家人，并点出为遁尾、好遁之占. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p248]
+- 朱熹占得遁卦后，乃默然退，取奏稿焚之，更号遁翁，以疾乞休致. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p249]
+- 朱熹在《本义》中释遁卦为退避之意，卦辞为'遁，亨，小利贞'. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p249]
+- 初六遁尾爻辞为'遁尾厉，勿用有攸往'，朱子释为危之道，当晦处静候可免灾. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p249]
+- 九四好遁爻辞为'君子吉，小人否'，象征君子能绝去所好而遁. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p250]
 
 ## Inferences
 
 - Inference: 朱熹四岁时问天之问，显示出其早慧的特质，为其日后成为理学大家埋下伏笔
 - Inference: 朱熹强调“挂扐法”而贬抑“过揲法”，但实际上两种方法求得的结果相同，朱熹不能明察《系辞》以揲数定阴阳老少的本意，将挂扐余数看作七、八、九、六之原，此说违背《系辞》之旨。
 - Inference: 朱熹的“变占”之法对宋以后的人只起参考作用，并不为解占者当法式遵循，因为古人解占“筮无定法”，并不受框框限制。
+- Inference: 朱熹取名遁翁，取遁卦退而避之之意，拟遁自己于家中
+- Inference: 遁之家人卦的卦义与朱子当时的政治处境若合符节
 
 ## Uncertainties
 
 - Uncertain: 朱熹的“变占”之法究竟有多少符合春秋实际筮法，因文献记载有限，难以完全确定。
+- Uncertain: 朱熹具体于六月何日占卜的确切日期存疑
 
 ## Related pages
 
 - Broader: [[宋代理学]]
 - Broader: [[易学家]]
+- Broader: [[易学]]
 - Narrower: [[易学启蒙]]
 - Narrower: [[挂扐法]]
 - Narrower: [[变占法]]
 - Adjacent: [[王弼]]
 - Adjacent: [[欧阳修]]
 - Adjacent: [[程颐]]
+- Adjacent: [[王懋竑]]
+- Adjacent: [[陈荣捷]]
 - Concepts: [[理学]]
 - Concepts: [[性即理]]
 - Concepts: [[格物致知]]
@@ -125,6 +143,9 @@ related:
 - Concepts: [[象数]]
 - Concepts: [[河图洛书]]
 - Concepts: [[周易本义]]
+- Concepts: [[遁卦]]
+- Concepts: [[家人卦]]
+- Concepts: [[易学]]
 - Topics: [[宋明理学]]
 - Topics: [[儒家哲学]]
 - Entities: [[陆象山]]
@@ -142,9 +163,11 @@ related:
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/周易本义 (Original Meaning of the Book of Changes) - 朱熹著 ; 柯誉整理; 朱熹; 柯誉.epub#L1-L1]
 - Additional source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
+- Additional source: [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `周易本义-original-meaning-of-the-book-of-changes-朱熹著-柯誉整理-朱熹-柯誉`.
 - 2026-04-25 — merged contributions from `周易概论-刘大钧`.
+- 2026-04-25 — merged contributions from `易学本体论-成中英著-成中英`.

@@ -4,9 +4,10 @@ title: 王弼
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
+- '[raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]'
 confidence: high
 aliases:
 - 王辅嗣
@@ -15,6 +16,10 @@ tags:
 - 魏晋易学
 - 得意忘象
 - 义理易学
+- 哲学家
+- 魏晋
+- 易学
+- 玄学
 canonical: true
 related:
   concepts:
@@ -23,13 +28,16 @@ related:
   - 象数
   - 玄学
   - 贵无
-  topics: []
+  - 得意忘言
+  - 得象忘言
+  topics:
+  - 中国哲学
+  - 玄学
   entities:
   - 孔颖达
   - 韩康伯
   - 李鼎祚
 ---
-
 
 # 王弼
 
@@ -49,6 +57,8 @@ related:
 - 王弼注《易》主张'得意忘象'，具有积极正确的一面. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p186]
 - 王弼贵'无'论可能从《易纬》中吸收过思想营养. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p185]
 - 自唐至宋，读书人求取功名皆以王弼注本为标准本. [raw/books/philosophy/周易概论 - 刘大钧.pdf#p183]
+- 王弼（226-249）魏晋时期《易经》阐释家，开启了不需借助占卜、直接通过本体宇宙论理解来把握《易经》的思路. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p166]
+- 王弼在《周易略例》中提出「得象忘言」「得意忘象」. [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p175]
 
 ## Inferences
 
@@ -63,6 +73,7 @@ related:
 
 - Broader: [[魏晋玄学]]
 - Broader: [[易学家]]
+- Broader: [[中国哲学史]]
 - Narrower: [[周易注]]
 - Narrower: [[周易略例]]
 - Narrower: [[得意忘象]]
@@ -70,11 +81,18 @@ related:
 - Adjacent: [[荀爽]]
 - Adjacent: [[欧阳修]]
 - Adjacent: [[程颐]]
+- Adjacent: [[郭象]]
+- Adjacent: [[宋明理学]]
+- Adjacent: [[新道家]]
 - Concepts: [[得意忘象]]
 - Concepts: [[义理]]
 - Concepts: [[象数]]
 - Concepts: [[玄学]]
 - Concepts: [[贵无]]
+- Concepts: [[得意忘言]]
+- Concepts: [[得象忘言]]
+- Topics: [[中国哲学]]
+- Topics: [[玄学]]
 - Entities: [[孔颖达]]
 - Entities: [[韩康伯]]
 - Entities: [[李鼎祚]]
@@ -82,7 +100,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
+- Additional source: [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `易学本体论-成中英著-成中英`.

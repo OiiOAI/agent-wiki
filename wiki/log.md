@@ -5723,3 +5723,88 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/wo-you-yi-dian-huan-xi-ni-guan-yu-ai.md`
 - Files deprecated: None.
 - Notes: 11 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 易学本体论-成中英著-成中英
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf
+- Files created:
+  - `wiki/entities/ba-gua.md`
+  - `wiki/entities/carl-jung.md`
+  - `wiki/entities/chen-rong-jie.md`
+  - `wiki/entities/cheng-zhong-ying.md`
+  - `wiki/entities/gottfried-wilhelm-leibniz.md`
+  - `wiki/entities/guan-hexagram.md`
+  - `wiki/entities/james-legge.md`
+  - `wiki/entities/liu-da-jun.md`
+  - `wiki/entities/liu-shi-si-gua.md`
+  - `wiki/entities/richard-wilhelm.md`
+  - `wiki/entities/rong-ge.md`
+  - `wiki/entities/tang-li-quan.md`
+  - `wiki/entities/tuo-ma-si-kai-lai-lie.md`
+  - `wiki/entities/wang-mao-hong.md`
+  - `wiki/concepts/ben-ti-quan-shi-xue.md`
+  - `wiki/concepts/ben-ti-shi-jie.md`
+  - `wiki/concepts/ben-ti-yu-zhou-lun.md`
+  - `wiki/concepts/bu-ke-yan-yu-zhi-ben-ti-lun.md`
+  - `wiki/concepts/chuang-zao-xing-yuan-li.md`
+  - `wiki/concepts/dao-de-xing-shang-xue.md`
+  - `wiki/concepts/g-li-lun.md`
+  - `wiki/concepts/guan-observation.md`
+  - `wiki/concepts/guan-zhe-xue-gai-nian.md`
+  - `wiki/concepts/guan.md`
+  - `wiki/concepts/guo-ji-yi-jing-yan-jiu-de-shi-ge-ji-ben-ke-ti.md`
+  - `wiki/concepts/han-xue-xing-yi-jing-yan-jiu.md`
+  - `wiki/concepts/he-tu-luo-shu.md`
+  - `wiki/concepts/he-xie-bian-zheng-fa.md`
+  - `wiki/concepts/jian-yi-bian-yi-bu-yi.md`
+  - `wiki/concepts/ren-ji-sheng.md`
+  - `wiki/concepts/san-yi.md`
+  - `wiki/concepts/sheng-ji-li.md`
+  - `wiki/concepts/shi-zhong.md`
+  - `wiki/concepts/ti-zheng-luo-ji.md`
+  - `wiki/concepts/wu-yi-zheng-he-tu.md`
+  - `wiki/concepts/xiang-shu-yi-li-yi-ti-tong-yuan-lun.md`
+  - `wiki/concepts/xin-ji-shu.md`
+  - `wiki/concepts/xin-ke-xue.md`
+  - `wiki/concepts/xin-lun-li.md`
+  - `wiki/concepts/xin-shi-jie.md`
+  - `wiki/concepts/yi-dao.md`
+  - `wiki/concepts/yi-de-si-zhong-yong-tu.md`
+  - `wiki/concepts/yi-de-ti-xi-wu-xiang-du.md`
+  - `wiki/concepts/yi-de-wu-ge-shi-jie.md`
+  - `wiki/concepts/yi-jing-de-guan-li-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-ke-xue-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-li-shi-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-luo-ji-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-min-su-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-wen-shi-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-yi-shu-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-yi-xue-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-yu-yan-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-zhe-xue-yan-jiu-2.md`
+  - `wiki/concepts/yi-jing-de-zhe-xue-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-zi-ran-ke-xue-yan-jiu.md`
+  - `wiki/concepts/yi-jing-de-zong-jiao-yan-jiu.md`
+  - `wiki/concepts/yi-jing-si-wei-mo-shi.md`
+  - `wiki/concepts/yi-jing-wen-ben-xing-cheng-de-wu-ge-jie-duan.md`
+  - `wiki/concepts/yi-jing-yan-jiu-de-xian-dai-hua.md`
+  - `wiki/concepts/yi-wen-hua-quan.md`
+  - `wiki/concepts/yi-xue-wu-hui.md`
+  - `wiki/concepts/yi-zhan-de-ben-ti-quan-shi-xing.md`
+  - `wiki/concepts/yi-zhi-wu-yi.md`
+  - `wiki/concepts/you-wu.md`
+  - `wiki/concepts/yu-zhou-jiao-yu.md`
+  - `wiki/concepts/zhen-zhi-wu-yi.md`
+  - `wiki/concepts/zhi-hui-ji-zhen-li.md`
+  - `wiki/concepts/zhong-zheng.md`
+  - `wiki/concepts/zhou-yi-ke-xue-guan-yu-zong-jiao-guan.md`
+  - `wiki/concepts/zhou-yi-wei-yu-shi-lun.md`
+  - `wiki/topics/guo-ji-yi-jing-yan-jiu.md`
+  - `wiki/sources/yi-xue-ben-ti-lun.md`
+  - `wiki/analyses/zhu-xi-yu-dun-zhi-jia-ren-bo-bian-zheng.md`
+- Files merged (extended):
+  - `wiki/entities/wang-bi.md`
+  - `wiki/entities/zhu-xi.md`
+  - `wiki/concepts/li-qi.md`
+- Files deprecated: None.
+- Notes: 74 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
