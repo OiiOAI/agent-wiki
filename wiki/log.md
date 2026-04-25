@@ -6664,3 +6664,27 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/purposeful-curiosity-the-power-of-asking.md`
 - Files deprecated: None.
 - Notes: 24 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | show-your-work-10-ways-to-share-your-cre-austin-kleon
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Show Your Work!_ 10 Ways to Share Your Cre - Austin Kleon.pdf
+- Files created:
+  - `wiki/entities/aaron-franklin.md`
+  - `wiki/entities/austin-kleon.md`
+  - `wiki/entities/brian-eno.md`
+  - `wiki/entities/chris-hadfield.md`
+  - `wiki/entities/r-a-dickey.md`
+  - `wiki/concepts/amateur-spirit.md`
+  - `wiki/concepts/cabinet-of-curiosities.md`
+  - `wiki/concepts/chain-smoking.md`
+  - `wiki/concepts/daily-dispatch.md`
+  - `wiki/concepts/practical-sabbatical.md`
+  - `wiki/concepts/process-versus-product.md`
+  - `wiki/concepts/scenius.md`
+  - `wiki/concepts/so-what-test.md`
+  - `wiki/concepts/stock-and-flow.md`
+  - `wiki/concepts/three-act-pitch.md`
+  - `wiki/concepts/vampire-test.md`
+  - `wiki/sources/show-your-work.md`
+- Files deprecated: None.
+- Notes: 17 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
