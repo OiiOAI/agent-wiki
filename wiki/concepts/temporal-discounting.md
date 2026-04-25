@@ -4,28 +4,39 @@ title: Temporal Discounting
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean
   - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]'
+- '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
+  Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 confidence: high
 tags:
 - temporal-discounting
 - delay-discounting
 - impulsive-choice
 - reward
+- temporal discounting
+- delayed reward
+- impulsivity
+- reward prediction
 related:
   broader:
   - impulsivity
   - decision-making
   - decision-neuroscience
   - value-based-decision-making
-  narrower: []
+  - reward learning
+  - decision making
+  narrower:
+  - delay discounting
+  - intertemporal choice
+  - reward prediction
   adjacent:
   - probabilistic-discounting
   - risk-taking
+aliases: []
 ---
-
 
 # Temporal Discounting
 
@@ -44,11 +55,16 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 - One fMRI model proposes that 'now' options engage the medial OFC, VMPFC, and ventral striatum, while 'later' options involve lateral prefrontal cortex and parietal areas. [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p274]
 - A lesion study found no systematic effect of regional frontal damage on temporal discounting rate, failing to support the two-system model. [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p274]
 - VMF patients showed significantly shorter future time perspective compared to other frontal damage groups, despite intact temporal discounting. [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p274]
+- The discount factor gamma defines the temporal focus of cumulative reward prediction: gamma = 0 considers only immediate reward, while gamma close to 1 includes long-delayed rewards. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p410]
+- A ventromedial-to-dorsolateral gradient in the striatum corresponds to short-to-long timescales of reward prediction. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p411]
+- A low setting of gamma can lead to short-sighted, impulsive behaviors. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p410]
 
 ## Inferences
 
 - Inference: The hyperbolic discounting function suggests that the subjective value of future rewards decreases non-linearly with delay.
 - Inference: The dissociation between preserved temporal discounting but reduced future time perspective in VMF patients suggests these are dissociable constructs with different neural substrates.
+- Inference: The anatomical organization of temporal discounting in the striatum suggests that different subregions are specialized for different time horizons of reward prediction.
+- Inference: This gradient organization may explain individual differences in impulsivity and self-control, which depend on the relative engagement of ventromedial versus dorsolateral striatal regions.
 
 ## Uncertainties
 
@@ -60,12 +76,22 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 - Broader: [[decision-making]]
 - Broader: [[decision-neuroscience]]
 - Broader: [[value-based-decision-making]]
+- Broader: [[reward learning]]
+- Broader: [[decision making]]
+- Narrower: [[delay discounting]]
+- Narrower: [[intertemporal choice]]
+- Narrower: [[reward prediction]]
 - Adjacent: [[probabilistic-discounting]]
 - Adjacent: [[risk-taking]]
 - Concepts: [[waiting-impulsivity]]
 - Concepts: [[reward-value]]
 - Concepts: [[vmf-decision-making]]
 - Concepts: [[reward-prediction]]
+- Concepts: [[gamma]]
+- Concepts: [[future reward]]
+- Concepts: [[impulsivity]]
+- Concepts: [[ventral striatum]]
+- Concepts: [[dorsal striatum]]
 - Topics: [[decision-neuroscience]]
 - Entities: [[nucleus-accumbens]]
 - Entities: [[prefrontal-cortex]]
@@ -75,7 +101,9 @@ Temporal discounting is a measure of impulsive choice reflecting the devaluation
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]
+- Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.

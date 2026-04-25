@@ -8,12 +8,17 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
+  Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 confidence: high
 tags:
 - amygdala
 - fear circuit
 - defensive behavior
 - threat detection
+- limbic-system
+- emotion
+- pavlovian-learning
 related:
   broader:
   - fear
@@ -36,6 +41,9 @@ related:
   - hippocampus
   - prefrontal-cortex
   - periaqueductal-gray
+  - orbitofrontal-cortex
+  - ventral-striatum
+  - pavlovian-conditioning
 aliases: []
 ---
 
@@ -61,6 +69,9 @@ The amygdala is traditionally described as the seat of fear in the brain and a k
 - Damage to the amygdala disrupts the ability of an emotionally charged stimulus to elicit an emotional response; damage to the hippocampus interferes with the ability to remember the context in which the stimulus occurred. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p351]
 - The lateral nucleus of the amygdala mobilizes adaptive responses through connections with the hypothalamus (for fight-or-flight response) and the cingulate cortex (for conscious fear evaluation). [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p354]
 - The neural systems that store unconscious emotionally charged memories are different from those that generate conscious feeling states. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p351]
+- Single-unit recordings in both rodents and non-human primates have implicated neurons in the amygdala in encoding stimulus-reward associations. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p378]
+- Lesions of the amygdala and orbitofrontal cortex or crossed unilateral lesions of both structures result in impairments in modulation of conditioned Pavlovian responses following outcome devaluation. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p378]
+- Amygdala receives dopaminergic input and is one of the major targets of midbrain dopamine neurons, alongside the ventral striatum and orbitofrontal cortex. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p379]
 
 ## Inferences
 
@@ -94,6 +105,9 @@ The amygdala is traditionally described as the seat of fear in the brain and a k
 - Adjacent: [[hippocampus]]
 - Adjacent: [[prefrontal-cortex]]
 - Adjacent: [[periaqueductal-gray]]
+- Adjacent: [[orbitofrontal-cortex]]
+- Adjacent: [[ventral-striatum]]
+- Adjacent: [[pavlovian-conditioning]]
 - Concepts: [[fear]]
 - Concepts: [[anxiety]]
 - Concepts: [[threat detection]]
@@ -109,13 +123,17 @@ The amygdala is traditionally described as the seat of fear in the brain and a k
 - Concepts: [[hippocampus]]
 - Concepts: [[learned-fear]]
 - Concepts: [[hypothalamus]]
+- Concepts: [[pavlovian-values]]
+- Concepts: [[stimulus-reward]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.

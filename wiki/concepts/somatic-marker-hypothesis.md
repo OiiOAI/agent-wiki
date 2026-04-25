@@ -10,6 +10,8 @@ sources:
 - '[raw/books/neuroscience/Descartes'' error _ emotion, reason, and the human brain
   - Antonio R_ Damasio,pdf.pdf#p1-332]'
 - '[raw/books/neuroscience/Descartes'' error _ emotion, reason, and the human brain.pdf#p1-332]'
+- '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
+  Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 confidence: medium
 tags:
 - neuroscience
@@ -21,6 +23,7 @@ tags:
 - somatic markers
 - rationality
 - hypothesis
+- prefrontal-cortex
 related:
   broader:
   - emotion
@@ -32,6 +35,10 @@ related:
   - rationality
   - neurobiology
   - neurobiology-of-reason
+  - decision-neuroscience
+  - emotion-theory
+  - decision neuroscience
+  - emotion and decision making
   narrower:
   - insula
   - sensory-feedback
@@ -40,6 +47,9 @@ related:
   - secondary emotions
   - dispositional representations
   - ventromedial prefrontal cortex
+  - gut-feelings
+  - emotional-feeling
+  - Iowa Gambling Task
   adjacent:
   - damasio
   - emotion-command-systems
@@ -49,6 +59,13 @@ related:
   - body-brain interaction
   - feeling
   - somatic marker hypothesis
+  - homeostasis
+  - biological-value
+  - ventromedial-prefrontal-cortex
+  - emotion
+  - VMPFC
+  - somatic signals
+  - arousal
 aliases: []
 ---
 
@@ -98,6 +115,14 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - The covert somatic-marker mechanism operating outside consciousness is proposed as the source of intuition—the mysterious mechanism by which we arrive at solutions without reasoning toward them. [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain.pdf#p208]
 - Somatic markers do not deliberate; they assist deliberation by highlighting some options and eliminating them rapidly from subsequent consideration, functioning as a system for automated qualification of predictions. [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain.pdf#p194]
 - The critical neural system for somatic-marker signaling is in the prefrontal cortices, where it is largely coextensive with the system critical for secondary emotions. [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain.pdf#p201]
+- Patients with bilateral ventromedial prefrontal damage exhibit marked defects in decision making and social behavior despite preserved intellect. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p209]
+- The somatic marker is a memory trace learned through past experiences where certain situations, options, and outcomes were associated with particular emotional states. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p211]
+- Somatic markers influence decision making either consciously (as 'gut feelings') or non-consciously through neuromodulators acting on neural circuitry. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p211]
+- The somatic marker hypothesis distinguishes emotion (an action program) from feeling (the conscious perceptual experience of emotion). [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p211]
+- Biological value originates from the physiological state of living tissue within a homeostatic range; states closer to viability decline or tissue flourishing determine their relative value. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p212]
+- Patients with ventromedial prefrontal cortex damage fail to learn to select advantageous decks in the Iowa Gambling Task and also fail to generate anticipatory arousal responses. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p243]
+- Higher physiological arousal (SCR) was observed prior to selecting from disadvantageous decks in the Iowa Gambling Task, preceding explicit knowledge about deck reinforcement properties. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p243]
+- The somatic marker hypothesis proposes that bodily states and emotional responses play a fundamental role in driving choice behavior. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p243]
 
 ## Inferences
 
@@ -112,6 +137,8 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Inference: The hypothesis explains why Phineas Gage and patient Elliot could reason logically in abstract contexts but failed in personal life decisions—they had lost the capacity to generate somatic markers.
 - Inference: Somatic markers were acquired by experience, under the control of an internal preference system (innate regulatory dispositions for survival) and under the influence of an external set of circumstances including social conventions and ethical rules.
 - Inference: The buildup of adaptive somatic markers requires both normal brain and normal culture; defects in either result in non-adaptive somatic markers.
+- Inference: The emotional defect in prefrontal patients alters cognitive processing, not just adding emotional noise—the emotional malfunction is rooted in a cognitive malfunction.
+- Inference: The somatic marker hypothesis challenges purely rational models of decision making by proposing that bodily signals provide critical guidance that may not be accessible to conscious deliberation
 
 ## Uncertainties
 
@@ -121,6 +148,7 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Uncertain: The specific methodologies or results of the gambling experiments are not provided in this chunk.
 - Uncertain: The precise neural mechanisms by which somatic markers influence conscious deliberation remain to be fully elucidated.
 - Uncertain: To what extent humans depend on 'as if' symbolic processing rather than real somatic states varies widely from person to person and topic to topic.
+- Uncertain: The precise neural mechanisms and whether somatic markers are necessary for all adaptive decision making remain debated; some studies suggest explicit knowledge may substitute for somatic signals in certain tasks
 
 ## Related pages
 
@@ -133,6 +161,10 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Broader: [[rationality]]
 - Broader: [[neurobiology]]
 - Broader: [[neurobiology-of-reason]]
+- Broader: [[decision-neuroscience]]
+- Broader: [[emotion-theory]]
+- Broader: [[decision neuroscience]]
+- Broader: [[emotion and decision making]]
 - Narrower: [[insula]]
 - Narrower: [[sensory-feedback]]
 - Narrower: [[somatic-markers]]
@@ -140,6 +172,9 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Narrower: [[secondary emotions]]
 - Narrower: [[dispositional representations]]
 - Narrower: [[ventromedial prefrontal cortex]]
+- Narrower: [[gut-feelings]]
+- Narrower: [[emotional-feeling]]
+- Narrower: [[Iowa Gambling Task]]
 - Adjacent: [[damasio]]
 - Adjacent: [[emotion-command-systems]]
 - Adjacent: [[body-feedback]]
@@ -148,6 +183,13 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Adjacent: [[body-brain interaction]]
 - Adjacent: [[feeling]]
 - Adjacent: [[somatic marker hypothesis]]
+- Adjacent: [[homeostasis]]
+- Adjacent: [[biological-value]]
+- Adjacent: [[ventromedial-prefrontal-cortex]]
+- Adjacent: [[emotion]]
+- Adjacent: [[VMPFC]]
+- Adjacent: [[somatic signals]]
+- Adjacent: [[arousal]]
 - Concepts: [[emotion]]
 - Concepts: [[feeling]]
 - Concepts: [[body]]
@@ -178,6 +220,11 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Concepts: [[primary-emotion]]
 - Concepts: [[secondary-emotion]]
 - Concepts: [[working-memory]]
+- Concepts: [[reward]]
+- Concepts: [[punishment]]
+- Concepts: [[body-budgeting]]
+- Concepts: [[visceral control]]
+- Concepts: [[emotional decision making]]
 - Topics: [[descartes-error]]
 - Topics: [[decision-making]]
 - Topics: [[emotion and reason]]
@@ -202,9 +249,11 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain - Antonio R_ Damasio,pdf.pdf#p1-332]
 - Additional source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain.pdf#p1-332]
+- Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `descartes-error-emotion-reason-and-the-human-brain-antonio-r`.
 - 2026-04-25 — merged contributions from `descartes-error-emotion-reason-and-the-human-brain`.
+- 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.

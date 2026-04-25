@@ -10,6 +10,8 @@ sources:
   - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]'
 - '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
+- '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
+  Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 confidence: high
 tags:
 - computational-neuroscience
@@ -18,6 +20,9 @@ tags:
 - models
 - perceptual-decisions
 - drift-diffusion
+- perceptual-decision
+- reaction-time
+- accumulator-model
 related:
   broader:
   - sequential-sampling-models
@@ -48,10 +53,17 @@ The drift-diffusion model (DDM) is a sequential sampling model that describes pe
 - Tight stopping bounds lead to fast but error-prone decisions, while distant bounds lead to slower but more accurate decisions. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1401]
 - Neurons in the lateral intraparietal area (LIP) represent the accumulation of evidence, with firing rates reaching a common threshold level just before a decision is executed. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1406]
 - Microstimulation of direction-selective neurons in area MT biases perceptual decisions in favor of the preferred direction of the stimulated neurons. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1400]
+- The drift-diffusion model uses dX/dt = μ + w(t), where X represents accumulated evidence difference, μ is the drift rate (bias), and w(t) is zero-mean white noise. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p490]
+- Integration terminates when X reaches threshold θ (choice A) or -θ (choice B), and the time to reach threshold is read out as the response time. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p490]
+- The drift-diffusion model is the continuous-time equivalent of the Sequential Probability Ratio Test (SPRT), which is optimal for minimizing mean decision time for a given error rate. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p490]
+- The leaky competing accumulator model extends drift-diffusion by incorporating leak and mutual inhibition between competing dynamical variables. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p491]
+- Long integration times can be realized biophysically in decision neural networks through recurrent excitation, creating attractor dynamics. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p491]
+- In monkeys performing random-dot motion discrimination, LIP neurons display slow ramping activity correlated with perceptual decision about direction, with slower ramping at lower motion coherence. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p493]
 
 ## Inferences
 
 - Inference: The DDM provides a computational framework linking neural activity (such as the buildup of firing rates in LIP) to behavioral parameters like drift rate and decision boundaries.
+- Inference: The ramping-to-threshold activity observed in LIP neurons during decision tasks likely reflects reverberating excitation in recurrent cortical circuits rather than perfect integration.
 
 ## Uncertainties
 
@@ -72,6 +84,10 @@ The drift-diffusion model (DDM) is a sequential sampling model that describes pe
 - Concepts: [[perceptual-decision]]
 - Concepts: [[evidence-accumulation]]
 - Concepts: [[lateral-intraparietal-area]]
+- Concepts: [[softmax-function]]
+- Concepts: [[attractor-network]]
+- Concepts: [[sequential-sampling]]
+- Concepts: [[leaky-competing-accumulator]]
 - Entities: [[William Newsome]]
 - Entities: [[Michael Shadlen]]
 
@@ -79,8 +95,10 @@ The drift-diffusion model (DDM) is a sequential sampling model that describes pe
 
 - Primary source: [raw/books/neuroscience/Decision Neuroscience _ An Integrative Perspective - Jean - Claude Dreher; Léon Tremblay; Institut de sciences.pdf#p1-401]
 - Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
+- Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
+- 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
