@@ -601,3 +601,45 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/sleep-the-myth-of-8-hours-nick-littlehales.md`
 - Files deprecated: None.
 - Notes: 8 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | spark-the-revolutionary-new-science-of-exercise-and-the-john
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf
+- Files created:
+  - `wiki/entities/bdnf.md`
+  - `wiki/entities/carl-cotman.md`
+  - `wiki/entities/dean-karnazes.md`
+  - `wiki/entities/john-j-ratey-md.md`
+  - `wiki/entities/naperville-district-203.md`
+  - `wiki/entities/paul-zientarski.md`
+  - `wiki/entities/phil-lawler.md`
+  - `wiki/concepts/aerobic-exercise-and-aging.md`
+  - `wiki/concepts/anxiety-disorders.md`
+  - `wiki/concepts/brain-derived-neurotrophic-factor.md`
+  - `wiki/concepts/cerebellum.md`
+  - `wiki/concepts/dopamine.md`
+  - `wiki/concepts/endocannabinoid-system.md`
+  - `wiki/concepts/exercise-academic-performance.md`
+  - `wiki/concepts/exercise-and-addiction-recovery.md`
+  - `wiki/concepts/exercise-and-women-s-hormonal-changes.md`
+  - `wiki/concepts/fear-extinction.md`
+  - `wiki/concepts/fight-or-flight-response.md`
+  - `wiki/concepts/hippocampus.md`
+  - `wiki/concepts/neurogenesis.md`
+  - `wiki/concepts/prefrontal-cortex.md`
+  - `wiki/concepts/runner-s-high.md`
+  - `wiki/concepts/self-regulation-and-exercise.md`
+  - `wiki/concepts/social-exercise-and-neurogenesis.md`
+  - `wiki/concepts/stress-inoculation.md`
+  - `wiki/topics/exercise-and-addiction.md`
+  - `wiki/topics/exercise-and-adhd.md`
+  - `wiki/topics/exercise-and-depression.md`
+  - `wiki/topics/exercise-anxiety-treatment.md`
+  - `wiki/topics/exercise-regimen-for-brain-health.md`
+  - `wiki/topics/glossary-brain-science-terms.md`
+  - `wiki/sources/spark-ratey-hagerman.md`
+- Files merged (extended):
+  - `wiki/concepts/cortisol.md`
+  - `wiki/concepts/neuroplasticity.md`
+- Files deprecated: None.
+- Notes: 32 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
