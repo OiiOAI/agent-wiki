@@ -10627,3 +10627,33 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/wai-bu-xing.md`
 - Files deprecated: None.
 - Notes: 132 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 二十世纪文库-人力投资-人口质量经济学-美-西奥多-w-舒尔茨-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[二十世纪文库]人力投资 - 人口质量经济学·[美]西奥多·W.舒尔茨 著.pdf
+- Files created:
+  - `wiki/entities/bi-en.md`
+  - `wiki/entities/bu-lu-jin-si-xue-hui.md`
+  - `wiki/entities/guo-jia-jing-ji-yan-jiu-ju.md`
+  - `wiki/entities/mei-guo-lao-dong-li-jiao-yu-zi-ben-cun-liang.md`
+  - `wiki/entities/wei-lai-zi-yuan-yan-jiu-suo.md`
+  - `wiki/entities/xi-ao-duo-duo-w-shu-er-ci.md`
+  - `wiki/concepts/biao-zhun-gong-zi.md`
+  - `wiki/concepts/er-tong-zhi-liang-tou-zi.md`
+  - `wiki/concepts/guo-ji-juan-zeng-tuan-ti-zao-cheng-de-niu-qu.md`
+  - `wiki/concepts/jian-kang-zi-ben.md`
+  - `wiki/concepts/jiao-yu-de-niu-qu.md`
+  - `wiki/concepts/jiao-yu-jing-ji-xue.md`
+  - `wiki/concepts/ke-yan-de-niu-qu.md`
+  - `wiki/concepts/ku-zi-nie-ci.md`
+  - `wiki/concepts/pin-kun-jing-ji-xue.md`
+  - `wiki/concepts/qi-ye-jia-cai-neng.md`
+  - `wiki/concepts/ren-kou-zhi-liang-jing-ji-xue.md`
+  - `wiki/concepts/shi-chang-shi-bai-jiao-tiao.md`
+  - `wiki/concepts/shi-jian-jia-zhi-jing-ji-xue.md`
+  - `wiki/sources/ren-li-tou-zi-ren-kou-zhi-liang-jing-ji-xue.md`
+  - `wiki/analyses/di-shou-ru-guo-jia-ren-kou-zhi-liang-tou-zi-de-li-shi-cheng-jiu.md`
+- Files merged (extended):
+  - `wiki/concepts/ren-li-zi-ben.md`
+- Files deprecated: None.
+- Notes: 21 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
