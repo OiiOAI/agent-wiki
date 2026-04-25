@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]'
 - '[raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]'
 - '[raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1-L1]'
+- '[raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p1-507]'
 confidence: high
 aliases:
 - 王辅嗣
@@ -23,6 +24,8 @@ tags:
 - 玄学
 - 魏晋玄学家
 - 三国
+- 正始玄学
+- 魏晋思想
 canonical: true
 related:
   concepts:
@@ -35,15 +38,22 @@ related:
   - 得象忘言
   - 以无为本
   - 正始玄风
+  - 言意之辩
+  - 有无之辨
+  - 自然与名教
   topics:
   - 中国哲学
   - 玄学
   - 魏晋玄学
   - 义理派易学
+  - 魏晋思想史
   entities:
   - 孔颖达
   - 韩康伯
   - 李鼎祚
+  - 何晏
+  - 荀粲
+  - 裴徽
 ---
 
 # 王弼
@@ -69,12 +79,17 @@ related:
 - 王弼字辅嗣，山阳郡人，三国时期魏国玄学家. [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1]
 - 王弼创立「得意忘象」说，对中国哲学史影响深远. [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1]
 - 王弼的代表著作包括《老子注》《周易注》等. [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1]
+- 王弼主张「无」为宇宙本原，提出「道者何？无之称也，无不通也，无不由也」. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p338]
+- 王弼在《论语释疑》中注解「性与天道」时，将「性」解为「人所受以生」，将「天道」理解为「元亨日新之道，深微」. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p335]
+- 王弼注解《论语》「大哉问」时提出「时人弃本崇末，故大其能寻本礼义也」，以道家「本」的概念诠释儒家「礼」. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p335]
+- 王弼在正始十年（249年）何晏案受牵连，病死于狱中，年仅二十三岁. [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p348]
 
 ## Inferences
 
 - Inference: 王弼虽弃象数不用，但其《易》本于费直，费氏《易》中定有象数之说；且王弼注《复卦》用《易纬》六日七分之义，出字吐语最重阴阳与爻位，心中仍严格掌握卦象，并非完全排斥象数，只是杂入老庄之学，以玄学唯心主义解释《周易》。
 - Inference: 王弼对《易》象认识从“尽意莫若象”到“忘象以求其意”，体现了认识的深化：得“意”后不必拘泥具体“象”而受其拘泥，这是对汉人琐碎比附的批判，在这点上是一个进步，但也给后人的附会打开了方便之门，为宋人以理说《易》奠定了理论基础。
 - Inference: 王弼以老庄思想注解《周易》，一扫两汉象数之学的繁琐，开启了魏晋玄学清谈之风
+- Inference: 王弼以注解儒家经典的方式阐发道家玄理，巧妙地借用儒家经典的权威性为道家思想提供合法性，这一「移花接木」的手法成为魏晋玄学的普遍方式
 
 ## Uncertainties
 
@@ -104,22 +119,31 @@ related:
 - Concepts: [[得象忘言]]
 - Concepts: [[以无为本]]
 - Concepts: [[正始玄风]]
+- Concepts: [[言意之辩]]
+- Concepts: [[有无之辨]]
+- Concepts: [[自然与名教]]
 - Topics: [[中国哲学]]
 - Topics: [[玄学]]
 - Topics: [[魏晋玄学]]
 - Topics: [[义理派易学]]
+- Topics: [[魏晋思想史]]
 - Entities: [[孔颖达]]
 - Entities: [[韩康伯]]
 - Entities: [[李鼎祚]]
+- Entities: [[何晏]]
+- Entities: [[荀粲]]
+- Entities: [[裴徽]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/周易概论 - 刘大钧.pdf#p1-272]
 - Additional source: [raw/books/philosophy/易学本体论 - 成中英著; 成中英.pdf#p1-428]
 - Additional source: [raw/books/philosophy/王弼周易注 - 〔魏〕王弼.epub#L1-L1]
+- Additional source: [raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf#p1-507]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `易学本体论-成中英著-成中英`.
 - 2026-04-25 — merged contributions from `王弼周易注-魏-王弼`.
+- 2026-04-25 — merged contributions from `中国文库-哲学社会科学类-中国思想史-卷一-七世纪前中国的知识-思想与信仰世界-葛兆光-1950`.

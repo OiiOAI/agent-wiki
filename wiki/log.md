@@ -11264,3 +11264,104 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/art-as-therapy-alain-de-botton-john-armstrong.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 中国文库-哲学社会科学类-中国思想史-卷一-七世纪前中国的知识-思想与信仰世界-葛兆光-1950
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 卷一_七世纪前中国的知识、思想与信仰世界 - 葛兆光, 1950.pdf
+- Files created:
+  - `wiki/entities/bai-hu-tong.md`
+  - `wiki/entities/chun-qiu-fan-lu.md`
+  - `wiki/entities/dao-an.md`
+  - `wiki/entities/di.md`
+  - `wiki/entities/dong-zhong-shu.md`
+  - `wiki/entities/ge-zhao-guang.md`
+  - `wiki/entities/huang-di-zhi-xue.md`
+  - `wiki/entities/huang-lao-zhi-xue.md`
+  - `wiki/entities/kong-zi-confucius.md`
+  - `wiki/entities/lao-zi-laozi.md`
+  - `wiki/entities/lu-shi-chun-qiu.md`
+  - `wiki/entities/mo-zi-mozi.md`
+  - `wiki/entities/shi.md`
+  - `wiki/entities/wu.md`
+  - `wiki/entities/yu-cong.md`
+  - `wiki/entities/zheng-xuan.md`
+  - `wiki/entities/zhi-dun.md`
+  - `wiki/concepts/cheng-fu-shuo.md`
+  - `wiki/concepts/da-chuan-tong-yu-xiao-chuan-tong.md`
+  - `wiki/concepts/dang-gu-zhi-huo.md`
+  - `wiki/concepts/dao-fa-zhuan-huan.md`
+  - `wiki/concepts/dao-jia-daoism.md`
+  - `wiki/concepts/dao-jiao-jie-lu.md`
+  - `wiki/concepts/dao-jiao-mo-shi-lun.md`
+  - `wiki/concepts/dao-jiao-shen-gui-pu-xi.md`
+  - `wiki/concepts/dao-jiao-su-shi-hua.md`
+  - `wiki/concepts/du-hua-yu-xuan-ming-zhi-jing.md`
+  - `wiki/concepts/fa-jia-si-xiang.md`
+  - `wiki/concepts/fang-zhu.md`
+  - `wiki/concepts/fo-jiao-yu-lun-li-xin-tiao-de-chong-tu.md`
+  - `wiki/concepts/fo-jiao-yu-min-zu-wen-hua-de-chong-tu.md`
+  - `wiki/concepts/fo-jiao-yu-shi-su-quan-li-de-chong-tu.md`
+  - `wiki/concepts/fo-xing.md`
+  - `wiki/concepts/ge-yi.md`
+  - `wiki/concepts/han-zi-gui-lei-yu-si-wei-fen-lei.md`
+  - `wiki/concepts/han-zi-yu-si-wei-de-ju-ti-gan-xing.md`
+  - `wiki/concepts/he-ben-zi-zhu.md`
+  - `wiki/concepts/ji-si-yi-shi.md`
+  - `wiki/concepts/li-fa-he-yi.md`
+  - `wiki/concepts/li-yu-yu-zhou-zhi-xu.md`
+  - `wiki/concepts/ming-bian-zhi-xue.md`
+  - `wiki/concepts/ming-names-rectification.md`
+  - `wiki/concepts/mo-jia-mohism.md`
+  - `wiki/concepts/qi-shi-ji-zhi-shi-yu-si-xiang-shi-jie-de-zheng-he.md`
+  - `wiki/concepts/qin-han-pu-pu-zhi-shi-bei-jing.md`
+  - `wiki/concepts/qing-zheng-dao-jiao.md`
+  - `wiki/concepts/ren-benevolence.md`
+  - `wiki/concepts/ren-xing-lun.md`
+  - `wiki/concepts/san-gang-liu-ji.md`
+  - `wiki/concepts/she-hui-zhi-xu.md`
+  - `wiki/concepts/shen-mi-li-liang.md`
+  - `wiki/concepts/shi-de-jue-qi-yu-si-xiang-bian-yi.md`
+  - `wiki/concepts/shu-zi-hua-shi-jie-zhi-xu.md`
+  - `wiki/concepts/si-fang-guan-nian.md`
+  - `wiki/concepts/si-xiang-shi.md`
+  - `wiki/concepts/tian-ren-gan-ying.md`
+  - `wiki/concepts/tian-yuan-di-fang.md`
+  - `wiki/concepts/wei-shu.md`
+  - `wiki/concepts/wu-de-zhong-shi.md`
+  - `wiki/concepts/wu-jing-zheng-yi.md`
+  - `wiki/concepts/wu-xing-si-xiang.md`
+  - `wiki/concepts/xian-dao-gui-sheng.md`
+  - `wiki/concepts/xuan-xue.md`
+  - `wiki/concepts/yan-yi-zhi-bian.md`
+  - `wiki/concepts/yi-shi-yu-xiang-zheng.md`
+  - `wiki/concepts/yi-wei-jing-de-chu-xian-yu-fo-jiao-zhong-guo-hua.md`
+  - `wiki/concepts/yi-wen-lei-ju.md`
+  - `wiki/concepts/yin-yang-si-xiang.md`
+  - `wiki/concepts/yin-zhou-lian-xu-xing.md`
+  - `wiki/concepts/yu-zhou-shi-kong-guan.md`
+  - `wiki/concepts/zhe-li-zong-he.md`
+  - `wiki/concepts/zhi-shi-xi-tong.md`
+  - `wiki/concepts/zhong-gou-shang-gu-si-xiang-shi-jie.md`
+  - `wiki/concepts/zi-ran-yu-ming-jiao.md`
+  - `wiki/concepts/zong-fa-zhi-du.md`
+  - `wiki/concepts/zu-ling-chong-bai.md`
+  - `wiki/topics/dao-jiao-jing-dian-hua.md`
+  - `wiki/topics/fo-jiao-dong-chuan-ji-si-xiang-shi-yi-yi.md`
+  - `wiki/topics/fo-jiao-dong-chuan.md`
+  - `wiki/topics/guo-jia-yi-shi-xing-tai-de-que-li.md`
+  - `wiki/sources/zhong-guo-si-xiang-shi-juan-yi-qi-shi-ji-qian-zhong-guo-de-zhi-shi-si-xiang-yu-xin-yang-shi-jie.md`
+- Files merged (extended):
+  - `wiki/entities/dao-sheng.md`
+  - `wiki/entities/gongsun-long.md`
+  - `wiki/entities/huai-nan-zi.md`
+  - `wiki/entities/hui-shi.md`
+  - `wiki/entities/seng-zhao.md`
+  - `wiki/entities/wang-bi.md`
+  - `wiki/entities/yang-zhu.md`
+  - `wiki/entities/zou-yan.md`
+  - `wiki/concepts/dun-wu.md`
+  - `wiki/concepts/li-ritual.md`
+  - `wiki/concepts/liu-jia-qi-zong.md`
+  - `wiki/concepts/zhou-xin-shi-dai.md`
+- Files deprecated: None.
+- Notes: 81 new + 12 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
