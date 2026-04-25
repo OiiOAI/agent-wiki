@@ -832,3 +832,59 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/gaba.md`
 - Files deprecated: None.
 - Notes: 71 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | anxious-joseph-ledoux
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Anxious - Joseph LeDoux.pdf
+- Files created:
+  - `wiki/entities/aaron-beck.md`
+  - `wiki/entities/antonio-damasio.md`
+  - `wiki/entities/d-cycloserine.md`
+  - `wiki/entities/joseph-ledoux.md`
+  - `wiki/entities/marie-monfils.md`
+  - `wiki/entities/paul-ekman.md`
+  - `wiki/entities/peter-lang.md`
+  - `wiki/entities/the-amygdaloids.md`
+  - `wiki/entities/tom-insel.md`
+  - `wiki/concepts/amygdala-threat-processing.md`
+  - `wiki/concepts/amygdala.md`
+  - `wiki/concepts/animal-consciousness.md`
+  - `wiki/concepts/basic-emotions-theory.md`
+  - `wiki/concepts/cognitive-behavioral-therapy.md`
+  - `wiki/concepts/conscious-feeling-of-fear.md`
+  - `wiki/concepts/defensive-behavior-trio.md`
+  - `wiki/concepts/emotion-command-systems.md`
+  - `wiki/concepts/emotional-consciousness.md`
+  - `wiki/concepts/exposure-therapy.md`
+  - `wiki/concepts/extended-amygdala.md`
+  - `wiki/concepts/extinction.md`
+  - `wiki/concepts/fear-structures.md`
+  - `wiki/concepts/fear-vs-anxiety-distinction.md`
+  - `wiki/concepts/first-order-theory-of-consciousness.md`
+  - `wiki/concepts/four-ways-to-be-anxious.md`
+  - `wiki/concepts/global-organismic-state.md`
+  - `wiki/concepts/global-workspace-theory.md`
+  - `wiki/concepts/higher-order-theories-of-consciousness.md`
+  - `wiki/concepts/instrumental-avoidance-learning.md`
+  - `wiki/concepts/memory-and-consciousness.md`
+  - `wiki/concepts/memory-reconsolidation.md`
+  - `wiki/concepts/pavlovian-threat-conditioning.md`
+  - `wiki/concepts/perceptual-consciousness.md`
+  - `wiki/concepts/predatory-imminence-theory.md`
+  - `wiki/concepts/prediction-error.md`
+  - `wiki/concepts/proactive-avoidance.md`
+  - `wiki/concepts/research-domain-criteria-rdoc.md`
+  - `wiki/concepts/somatic-marker-hypothesis.md`
+  - `wiki/concepts/survival-circuits.md`
+  - `wiki/concepts/sympathoadrenal-system.md`
+  - `wiki/concepts/threat-conditioning.md`
+  - `wiki/concepts/threat-processing.md`
+  - `wiki/concepts/working-memory.md`
+  - `wiki/topics/anxiety-disorders-brain.md`
+  - `wiki/sources/anxious-ledoux-2015.md`
+- Files merged (extended):
+  - `wiki/entities/jaak-panksepp.md`
+  - `wiki/concepts/anxiety-disorders.md`
+  - `wiki/concepts/qualia.md`
+- Files deprecated: None.
+- Notes: 45 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

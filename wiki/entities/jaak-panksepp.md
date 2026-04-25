@@ -4,28 +4,34 @@ title: Jaak Panksepp
 type: entity
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal
   - Panksepp, Jaak.pdf#p1-242]'
+- '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
 canonical: Jaak Panksepp
 confidence: high
 aliases:
 - J. Panksepp
 - Jaak Panksepp PhD
+- Panksepp
 tags:
 - neuroscientist
 - psychologist
 - emotions
 - affective neuroscience
+- emotion
+- affective-neuroscience
+- limbic-system
 related:
   concepts:
   - affective neuroscience
   - emotional operating systems
-  topics: []
-  entities: []
+  - emotion-command-systems
+  - basic-emotions-theory
+  - limbic-system
+  - affective-neuroscience
 ---
-
 
 # Jaak Panksepp
 
@@ -39,6 +45,13 @@ Jaak Panksepp (1943-2017) was an Estonian-American neuroscientist and psychologi
 - He authored over 200 scientific publications and wrote this book as a comprehensive text on affective neuroscience. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p3]
 - Panksepp advocated for over 25 years that animal brain research combined with psychological analysis could reveal the neural foundations of emotions. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p21]
 - He corresponded with B.F. Skinner and argued that psychology needed to integrate brain science, behavioral science, and experiential science. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p12]
+- Panksepp proposed that the same neural circuits control both emotional behaviors in animals and emotional feelings in humans because these circuits are conserved across mammals. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p186]
+- Using electrical stimulation in rats, Panksepp mapped areas from which behaviors related to fear, rage, and other emotions could be elicited. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p188]
+- Panksepp distinguished primary process affective states (primitive conscious feelings) from cognitively elaborated conscious feelings created through memory, attention, and language. [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p186]
+
+## Uncertainties
+
+- Uncertain: Whether electrical stimulation actually elicits conscious emotional states in animals, as Panksepp claimed, is disputed by LeDoux and others.
 
 ## Related pages
 
@@ -52,11 +65,17 @@ Jaak Panksepp (1943-2017) was an Estonian-American neuroscientist and psychologi
 - Adjacent: [[Paul MacLean]]
 - Concepts: [[affective neuroscience]]
 - Concepts: [[emotional operating systems]]
+- Concepts: [[emotion-command-systems]]
+- Concepts: [[basic-emotions-theory]]
+- Concepts: [[limbic-system]]
+- Concepts: [[affective-neuroscience]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
+- Additional source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `anxious-joseph-ledoux`.
