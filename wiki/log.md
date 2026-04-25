@@ -110,3 +110,25 @@ This file is the append-only operational history of the wiki.
 2. Record every ingest, major query-save, lint pass, merge, rename, rollback, or schema change.
 3. Keep titles short and parseable.
 4. If an operation is uncertain or partially failed, state that explicitly.
+
+## [2026-04-25] ingest | boundaries-henry-cloud-john-townsend
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/Boundaries - Henry Cloud & John Townsend.pdf
+- Files created:
+  - `wiki/entities/sherrie-case-study.md`
+  - `wiki/concepts/age-appropriate-boundary-training.md`
+  - `wiki/concepts/boundary-conflicts-friends.md`
+  - `wiki/concepts/boundary-conflicts-marriage.md`
+  - `wiki/concepts/boundary-development-children.md`
+  - `wiki/concepts/common-boundary-myths.md`
+  - `wiki/concepts/discipline-vs-punishment.md`
+  - `wiki/concepts/eleven-steps-boundary-development.md`
+  - `wiki/concepts/internal-boundary-problems.md`
+  - `wiki/concepts/law-of-activity.md`
+  - `wiki/concepts/law-of-envy.md`
+  - `wiki/concepts/law-of-exposure.md`
+  - `wiki/concepts/resistance-to-boundaries.md`
+  - `wiki/concepts/triangulation.md`
+  - `wiki/sources/boundaries-cloud-townsend.md`
+- Files deprecated: None.
+- Notes: 15 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
