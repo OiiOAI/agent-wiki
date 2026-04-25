@@ -11097,3 +11097,68 @@ This file is the append-only operational history of the wiki.
   - `wiki/analyses/ao-di-li-xue-pai-shi-fou-shi-bian-ji-zhu-yi-zhe.md`
 - Files deprecated: None.
 - Notes: 48 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 经济政策的原则-德-瓦尔特-欧根-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf
+- Files created:
+  - `wiki/entities/fu-lai-bao-xue-pai.md`
+  - `wiki/entities/wa-er-te-ou-gen.md`
+  - `wiki/concepts/bian-ji-cheng-ben-yuan-ze.md`
+  - `wiki/concepts/bu-wen-ding-de-zhi-xu.md`
+  - `wiki/concepts/chong-fen-jiu-ye-zheng-ce.md`
+  - `wiki/concepts/fa-zhan-bi-ran-xing-de-shen-hua.md`
+  - `wiki/concepts/fa-zhi-guo-jia-yu-jing-ji-guo-cheng-tiao-jie.md`
+  - `wiki/concepts/fa-zhi-guo-jia.md`
+  - `wiki/concepts/fan-long-duan-ji-gou.md`
+  - `wiki/concepts/ge-ti-li-yi-yu-ji-ti-li-yi.md`
+  - `wiki/concepts/huo-bi-zhi-xu-de-wen-ding-yin-su.md`
+  - `wiki/concepts/ji-shu-qiang-hua-jing-zheng.md`
+  - `wiki/concepts/ji-ti-suo-you-zhi-yu-jing-ji-tiao-jie.md`
+  - `wiki/concepts/ji-zhong-guan-li-jing-ji.md`
+  - `wiki/concepts/ji-zhong-ling-dao-de-jing-ji-zheng-ce.md`
+  - `wiki/concepts/jia-ge-ti-zhi.md`
+  - `wiki/concepts/jian-li-xing-yuan-ze.md`
+  - `wiki/concepts/jian-li-zhi-xu-de-li-liang.md`
+  - `wiki/concepts/jing-ji-ji-suan.md`
+  - `wiki/concepts/jing-ji-quan-li-wen-ti.md`
+  - `wiki/concepts/jing-ji-xian-fa.md`
+  - `wiki/concepts/jing-ji-zheng-ce-de-ren-wu.md`
+  - `wiki/concepts/jing-ji-zheng-ce-shi-yan.md`
+  - `wiki/concepts/jing-ji-zheng-ce-wen-ding-xing.md`
+  - `wiki/concepts/jing-ji-zheng-ce-yuan-ze-de-xiang-hu-yi-lai-xing.md`
+  - `wiki/concepts/jing-ji-zhi-xu-yu-guo-jia-zhi-xu-de-xiang-hu-yi-lai.md`
+  - `wiki/concepts/jing-ji-zhi-xu.md`
+  - `wiki/concepts/jing-zheng-zhi-xu.md`
+  - `wiki/concepts/kai-fang-shi-chang-yuan-ze.md`
+  - `wiki/concepts/ling-xing-zhu-yi.md`
+  - `wiki/concepts/long-duan-dou-zheng.md`
+  - `wiki/concepts/qi-ye-ji-zhong-yu-chan-shang-ji-zhong.md`
+  - `wiki/concepts/qi-yue-zi-you.md`
+  - `wiki/concepts/san-zhong-jing-ji-tiao-jie-lei-xing.md`
+  - `wiki/concepts/she-hui-wen-ti.md`
+  - `wiki/concepts/she-hui-zheng-ce-yu-jing-ji-zhi-xu-de-xiang-hu-yi-lai.md`
+  - `wiki/concepts/shou-ru-zheng-ce.md`
+  - `wiki/concepts/si-you-zhi-yu-jing-zheng-zhi-xu.md`
+  - `wiki/concepts/tiao-jie-ti-xi-de-biao-zhun.md`
+  - `wiki/concepts/tiao-jie-yuan-ze.md`
+  - `wiki/concepts/tou-zi-guo-cheng.md`
+  - `wiki/concepts/wu-zi-shu-liang-ping-heng-biao.md`
+  - `wiki/concepts/xiao-lu-jing-zheng.md`
+  - `wiki/concepts/xing-tai-xue.md`
+  - `wiki/concepts/yi-shi-xing-tai.md`
+  - `wiki/concepts/ze-ren-yuan-ze.md`
+  - `wiki/concepts/zhi-xu-de-xiang-hu-yi-lai-xing.md`
+  - `wiki/concepts/zhi-xu-li-lun.md`
+  - `wiki/concepts/zhi-ye-jie-ceng-zhi-xu.md`
+  - `wiki/concepts/zi-you-fang-ren-zheng-ce.md`
+  - `wiki/concepts/zi-you-yu-bao-zhang-de-guan-xi.md`
+  - `wiki/concepts/zi-you.md`
+  - `wiki/concepts/zui-di-xian-du-gong-ying.md`
+  - `wiki/sources/jing-ji-zheng-ce-de-yuan-ze.md`
+- Files merged (extended):
+  - `wiki/concepts/bian-ji-cheng-ben.md`
+  - `wiki/concepts/long-duan.md`
+  - `wiki/concepts/wan-quan-jing-zheng.md`
+- Files deprecated: None.
+- Notes: 54 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

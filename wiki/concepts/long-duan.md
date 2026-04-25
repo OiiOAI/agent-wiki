@@ -7,11 +7,15 @@ created: '2026-04-25'
 updated: '2026-04-25'
 sources:
 - '[raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p1-709]'
+- '[raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf#p1-429]'
 confidence: high
 tags:
 - 微观经济学
 - 市场结构
 - 价格决定
+- 市场形式
+- 垄断
+- 经济调节
 related:
   broader:
   - shi-chang-jie-gou
@@ -19,9 +23,8 @@ related:
   - zi-ran-long-duan
   - jia-ge-qi-shi
   - ka-te-er
-  adjacent: []
+aliases: []
 ---
-
 
 # 垄断
 
@@ -40,6 +43,10 @@ related:
 - 垄断者不会无限制地索取最高价格，因为提高价格会减少销量，导致内缘产量损失. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p469]
 - 需求价格弹性越小，垄断均衡价格与边际成本之间的缺口越大. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p469]
 - 利润最大化垄断者不会在需求无弹性的产量区间生产，因为提价会增加利润. [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p469]
+- 垄断者知道，当供应更多时，价格就会下降，他按照这一市场策略行事。. [raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf#p73]
+- 在从属于供给垄断的企业里，生产设施不能被充分利用，不会为尽可能彻底地克服短缺所必要的那样，调节尽可能多的劳动力和原料进入这些企业。. [raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf#p75]
+- 垄断造成了部分投资不足或过度投资的情况。. [raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf#p77]
+- 垄断价格具有僵化性质，在给定条件迅速变化的现代工业经济中，物品的短缺程度不断改变，但垄断者不必使自己适应。. [raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf#p80]
 
 ## Inferences
 
@@ -55,12 +62,19 @@ related:
 - Concepts: [[jia-ge-jue-ding-zhe]]
 - Concepts: [[shi-chang-shi-li]]
 - Concepts: [[wu-wu-sun-shi]]
+- Concepts: [[自由放任政策]]
+- Concepts: [[垄断斗争]]
+- Concepts: [[效率竞争]]
+- Concepts: [[边际成本]]
 - Topics: [[jing-zheng-fen-xi]]
+- Topics: [[市场形式]]
 
 ## Provenance
 
 - Primary source: [raw/books/economics/[MBA教材精品译丛]微观经济学.pdf#p1-709]
+- Additional source: [raw/books/economics/经济政策的原则·[德]瓦尔特·欧根 著.pdf#p1-429]
 
 ## Change notes
 
 - 2026-04-25 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `经济政策的原则-德-瓦尔特-欧根-著`.
