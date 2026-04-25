@@ -8,12 +8,6 @@ updated: '2026-04-24'
 sources:
 - '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
   M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
-source_kind: book
-source_path: raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst
-  - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf
-source_date: '2017'
-source_author: Robert M. Sapolsky
-reliability: high
 tags:
 - Sapolsky
 - psychology

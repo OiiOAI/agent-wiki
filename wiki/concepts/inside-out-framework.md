@@ -37,7 +37,7 @@ The inside-out framework is Buzsáki's proposed complementary strategy for under
 ## Key facts
 
 - In the inside-out framework, the thing-to-be-explained should be the activities of the brain, not invented mental terms like emotions, memory, and planning. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p7]
-- The inside-out approach takes brain mechanisms as independent variables, as opposed to attempting to find correspondences between subjectively derived categories and brain responses. [raw/books/neurosaki MD, PhD.pdf#p21]
+- The inside-out approach takes brain mechanisms as independent variables, as opposed to attempting to find correspondences between subjectively derived categories and brain responses. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p21]
 - A major advantage of the inside-out approach is that it is free of philosophical connotations and treats the brain as an independent variable because behavior and cognition depend on brain activity, not the other way around. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p21]
 - In the inside-out framework, the brain's outputs, reflected by the animal's actions, influence incoming signals, and the goal is how downstream networks make use of messages from upstream partners. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p21]
 - The inside-out approach emphasizes that no meaning or advantage emerges for the brain without the ability to calibrate neural patterns by behavior-induced consequences. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p22]

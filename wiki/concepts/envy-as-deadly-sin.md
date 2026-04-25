@@ -31,11 +31,11 @@ Munger identifies envy as one of the deadly sins and the most foolish one becaus
 
 ## Key facts
 
-- The idea of caring that someone is making money faster than you is one of the deadly sins. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
-- Envy is described as a really stupid sin because it's the only one you could never possibly have any fun at—there's a lot of pain and no fun. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
-- Soros couldn't bear to see others make money in the technology sector without him and got killed; Druckenmiller suffered large losses trying to beat tech and biotech stocks. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
-- Munger says it doesn't bother him at all that others are making money in the tech sector. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
-- If you are comfortable and rich and someone else is getting richer faster, Munger says 'so what'—someone will always be getting richer than you. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
+- The idea of caring that someone is making money faster than you is one of the deadly sins. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
+- Envy is described as a really stupid sin because it's the only one you could never possibly have any fun at—there's a lot of pain and no fun. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
+- Soros couldn't bear to see others make money in the technology sector without him and got killed; Druckenmiller suffered large losses trying to beat tech and biotech stocks. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
+- Munger says it doesn't bother him at all that others are making money in the tech sector. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
+- If you are comfortable and rich and someone else is getting richer faster, Munger says 'so what'—someone will always be getting richer than you. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p140]
 
 ## Inferences
 

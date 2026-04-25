@@ -35,7 +35,7 @@ related:
 - 神宗于治平四年正月初八即位，年仅二十岁. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf#p94]
 - 神宗废除了驸马升行制度，以英宗遗愿为名纠正扭曲人伦秩序的做法. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf#p96]
 - 神宗亲政后第一件事是让参知政事欧阳修罢政外放，欧阳修因被诬蔑与长媳私通而离开中央. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf#p97]
-- 神宗任命王陶为御史中丞，王陶随即攻击宰相不臣之心. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Gen - Zhao Dong Mei.pdf#p100]
+- 神宗任命王陶为御史中丞，王陶随即攻击宰相不臣之心. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf#p100]
 - 神宗任命司马光为御史中丞，但因司马光劝他尊重舆论、挽留吴奎而感到不高兴. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf#p104]
 - 神宗承认'公私困竭'的现状，削减了英宗的皇陵预算规模和遗爱赏赐额度. [raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf#p96]
 

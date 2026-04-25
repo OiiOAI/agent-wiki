@@ -32,7 +32,7 @@ A pathology arising from the belief that ultimate, all-embracing solutions can b
 ## Key facts
 
 - The utopia syndrome involves believing in ultimate, all-embracing solutions that are in fact unattainable. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
-- Introjective form: personal inadequacy and depression from failing to reach utopian goals. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakmann, Richard Fisch; foreword.epub#L107-L686]
+- Introjective form: personal inadequacy and depression from failing to reach utopian goals. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
 - Procrastination form: focusing on the journey rather than arrival to avoid confronting whether goals are attainable. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
 - Projective form: moral righteousness and missionary responsibility leading to blaming society when utopian goals are unmet. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]
 - The utopia syndrome treats premises (how things should be) as more real than actuality, creating a discrepancy that cannot be resolved by first-order change. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L107-L686]

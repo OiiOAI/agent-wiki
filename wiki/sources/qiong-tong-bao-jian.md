@@ -37,7 +37,7 @@ source_author: ''
 - 五行者春夏秋冬之气候也，流行于天地之间，循环不断，故谓之行. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p4]
 - 北方阴极生寒，寒生水；南方阳极生热，热生火；东方阳散以泄而生风，风生木；西方阴止以收而生燥，燥生金；中央阴阳交而生温，温生土. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p4]
 - 五行之性，水者其性智，火者其性礼，木其性仁，金其性义，土主信. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p5]
-- 本书优点有四：一为凭八字五行阐述生克制化，断语爽利；一为根据取用贵乎提纲之宗旨分论十二个月之十个日干；一为列举实验命造为例；一为徐乐吾先生评注如画龙点睛. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#2]
+- 本书优点有四：一为凭八字五行阐述生克制化，断语爽利；一为根据取用贵乎提纲之宗旨分论十二个月之十个日干；一为列举实验命造为例；一为徐乐吾先生评注如画龙点睛. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p2]
 - 《穷通宝鉴》系统论述十天干在不同月份的用神取用方法. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p49]
 - 本书强调三冬（十月、十一月、十二月）甲木以庚劈甲引丁火为核心用神. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p49]
 - 乙木四季皆以丙癸为用，春夏丙癸齐透科甲有望，秋冬丙癸各有先后之分. [raw/books/philosophy/穷通宝鉴 - Owner.pdf#p50]

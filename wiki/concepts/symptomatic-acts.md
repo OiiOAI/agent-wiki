@@ -35,9 +35,9 @@ Actions that reveal unconscious repressed material, distinguished from bungled a
 
 ## Key facts
 
-- Symptomatic acts are distinguished from bungled actions by their more complex psychological determination. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2267]
-- They occur regularly under certain conditions or sporadically, often during psychoanalysis. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2273]
-- Symptomatic acts can express repressed material through symbolic representation. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2273]
+- Symptomatic acts are distinguished from bungled actions by their more complex psychological determination. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2267]
+- They occur regularly under certain conditions or sporadically, often during psychoanalysis. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2273]
+- Symptomatic acts can express repressed material through symbolic representation. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2273]
 - Symptomatic acts are performed unconsciously, without attention, or 'as if in a moment of distraction'. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2358]
 - People typically deny any significance to symptomatic acts and explain them as indifferent or accidental. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2358]
 - Symptomatic acts express unconscious thoughts and impulses, making them valuable manifestations of the unconscious. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2358]

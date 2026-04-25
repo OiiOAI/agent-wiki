@@ -40,12 +40,12 @@ The 'Little Hans' case (1909) is Freud's analysis of a horse phobia in a five-ye
 
 ## Key facts
 
-- The boy (born April 10, 1903) was raised with minimal coercion to observe his natural sexual development. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3167]
-- At age 3, Hans showed intense interest in 'widdlers' (genitals) and asked his mother if she had one too. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3168]
-- At age 3.5, his mother threatened to have his penis cut off if he continued masturbating, which later contributed to his castration complex. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3169]
-- When his sister Hanna was born, Hans showed jealousy but later accepted her, noting her 'tiny widdler' which he believed would grow like a horse's. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3169-p3170]
-- The phobia broke out in January 1908 after Hans witnessed a horse fall down in the street. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3198]
-- Freud explained to Hans that he feared horses because he was really afraid of his father, being so fond of his mother. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3194]
+- The boy (born April 10, 1903) was raised with minimal coercion to observe his natural sexual development. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3167]
+- At age 3, Hans showed intense interest in 'widdlers' (genitals) and asked his mother if she had one too. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3168]
+- At age 3.5, his mother threatened to have his penis cut off if he continued masturbating, which later contributed to his castration complex. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3169]
+- When his sister Hanna was born, Hans showed jealousy but later accepted her, noting her 'tiny widdler' which he believed would grow like a horse's. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3169-p3170]
+- The phobia broke out in January 1908 after Hans witnessed a horse fall down in the street. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3198]
+- Freud explained to Hans that he feared horses because he was really afraid of his father, being so fond of his mother. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3194]
 
 ## Inferences
 

@@ -37,11 +37,11 @@ Lou Simpson is a highly intelligent and honorable investment manager who ran the
 
 ## Key facts
 
-- Lou Simpson ran the equity investment portfolio for GEICO and later Berkshire Hathaway. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
-- Over 25 years, Lou Simpson beat the S&P 500 by an average annual gain of 6.8 percent. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
-- During the dot-com boom of the late 1990s, Simpson correctly avoided the bubble by staying true to fundamentals. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
-- Charlie Munger describes Lou Simpson as one of the greatest investment minds of our time and a shoo-in for the investment Hall of Fame. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
-- Lou Simpson faced significant pressure during the dot-com boom as others made enormous gains while he avoided the speculative stocks. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
+- Lou Simpson ran the equity investment portfolio for GEICO and later Berkshire Hathaway. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
+- Over 25 years, Lou Simpson beat the S&P 500 by an average annual gain of 6.8 percent. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
+- During the dot-com boom of the late 1990s, Simpson correctly avoided the bubble by staying true to fundamentals. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
+- Charlie Munger describes Lou Simpson as one of the greatest investment minds of our time and a shoo-in for the investment Hall of Fame. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
+- Lou Simpson faced significant pressure during the dot-com boom as others made enormous gains while he avoided the speculative stocks. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p147]
 
 ## Inferences
 

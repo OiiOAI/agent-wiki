@@ -37,7 +37,7 @@ The next-action decision is the core technique of GTD—determining the specific
 - Dean Acheson taught David Allen this technique over thirty years ago, having developed it through executive consulting work. [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p310]
 - Defining what real doing looks like at the most basic level and organizing trusted reminders are master keys to productivity enhancement. [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p313]
 - Without a next action, there remains a potentially infinite gap between current reality and what you need to do. [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p313]
-- Most people wait to make next-action decisions until situations blow up, rather than when things first appear on their radar. [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, Allen, David.pdf#p318]
+- Most people wait to make next-action decisions until situations blow up, rather than when things first appear on their radar. [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p318]
 - Asking 'What's the next action?' undermines the victim mentality by presupposing that change is possible and that something can be done. [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p322]
 
 ## Inferences

@@ -241,6 +241,21 @@ def check_provenance_format(
 # ------------------------- 3. inference/uncertain syntax -------------------------
 
 
+_QUOTED_TITLE_RE = re.compile(
+    # Heuristic: a title-cased phrase ending with a colon, surrounded by
+    # quotes (single, double, or curly). Catches `'Active Inference:` /
+    # `"Active Inference:` / `'Inference:` inside book/paper titles, which
+    # is normal English and not a prefix marker.
+    r"['\"‘“]\s*[A-Z][\w\s\-]*?(?:Inference|Uncertain):"
+)
+_PROPER_NOUN_TITLE_RE = re.compile(
+    # Catches the same as a proper noun in prose: `... in Active Inference:`
+    # or as a heading: `# Active Inference: ...`. The keyword must be
+    # preceded by a single capitalized adjacent word (the modifier).
+    r"\b[A-Z][a-z]+\s+(?:Inference|Uncertain):"
+)
+
+
 def check_inference_uncertain_syntax(
     md_text: str, *, page_path: str | None = None
 ) -> list[ValidationError]:
@@ -248,10 +263,18 @@ def check_inference_uncertain_syntax(
     body = _body_without_frontmatter(md_text)
     # If the body contains 'Inference:' or 'Uncertain:', they must be line-
     # level prefixes — free-floating 'Inference ' mid-sentence is a smell.
-    for bad in re.finditer(r"(?<!^)(?<!\-\s)Inference:\s", body):
+    # Exception: when the colon is part of a quoted title like
+    # `'Active Inference: The Free Energy...'`, it's an English book title
+    # and not a prefix marker. Pre-mask those before scanning.
+    def _mask(m: re.Match) -> str:
+        return m.group(0).replace("Inference:", "InferenceX").replace("Uncertain:", "UncertainX")
+
+    masked = _QUOTED_TITLE_RE.sub(_mask, body)
+    masked = _PROPER_NOUN_TITLE_RE.sub(_mask, masked)
+    for bad in re.finditer(r"(?<!^)(?<!\-\s)Inference:\s", masked):
         # allow after newline + bullet
         start = bad.start()
-        prefix = body[max(0, start - 3) : start]
+        prefix = masked[max(0, start - 3) : start]
         if "\n" not in prefix and "- " not in prefix and start > 0:
             errs.append(
                 ValidationError(
@@ -262,9 +285,9 @@ def check_inference_uncertain_syntax(
             )
             break
     # Symmetric check for Uncertain
-    for bad in re.finditer(r"(?<!^)(?<!\-\s)Uncertain:\s", body):
+    for bad in re.finditer(r"(?<!^)(?<!\-\s)Uncertain:\s", masked):
         start = bad.start()
-        prefix = body[max(0, start - 3) : start]
+        prefix = masked[max(0, start - 3) : start]
         if "\n" not in prefix and "- " not in prefix and start > 0:
             errs.append(
                 ValidationError(

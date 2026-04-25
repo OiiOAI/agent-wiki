@@ -28,9 +28,9 @@ Flight into illness (Flucht in die Krankheit) is a primary purpose of neurotic s
 
 ## Key facts
 
-- The attack as 'flight into illness' serves the primary purpose of consolation when reality becomes distressing or frightening. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3109]
-- Secondary purposes arise when the patient achieves useful aims through producing an attack, directed at particular individuals. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3109]
-- This appears to be the first appearance of the term 'flight into illness' though the notion was old; the distinction between 'primary' and 'secondary' gain is first made clearly here. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p3109]
+- The attack as 'flight into illness' serves the primary purpose of consolation when reality becomes distressing or frightening. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3109]
+- Secondary purposes arise when the patient achieves useful aims through producing an attack, directed at particular individuals. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3109]
+- This appears to be the first appearance of the term 'flight into illness' though the notion was old; the distinction between 'primary' and 'secondary' gain is first made clearly here. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p3109]
 
 ## Related pages
 

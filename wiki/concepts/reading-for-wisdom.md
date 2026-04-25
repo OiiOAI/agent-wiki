@@ -29,10 +29,10 @@ Munger strongly advocates for continuous reading as essential to wisdom and succ
 
 ## Key facts
 
-- In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time—none, zero. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
-- Munger notes he reads a lot and Warren Buffett reads even more, with Munger's children thinking he is 'a book with a couple of legs sticking out'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
-- Munger recommends making Adam Smith your friend in learning economics, and going through life making friends with eminent dead who had the right ideas. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
-- Reading biographies and tying great concepts to the lives of people who developed them helps in learning and education. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
+- In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time—none, zero. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
+- Munger notes he reads a lot and Warren Buffett reads even more, with Munger's children thinking he is 'a book with a couple of legs sticking out'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
+- Munger recommends making Adam Smith your friend in learning economics, and going through life making friends with eminent dead who had the right ideas. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
+- Reading biographies and tying great concepts to the lives of people who developed them helps in learning and education. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p141]
 
 ## Inferences
 

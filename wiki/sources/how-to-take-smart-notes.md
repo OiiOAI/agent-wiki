@@ -36,7 +36,7 @@ This book presents the slip-box (Zettelkasten) method developed by sociologist N
 - The book targets three audiences: students, academics, and nonfiction book writers. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p8]
 - Ahrens argues that most self-help books on academic writing start too late, after the horse has already escaped, because they begin at the blank page rather than at note-taking. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p9]
 - There is no measurable correlation between a high IQ above 120 and academic success; what distinguishes performers across the intelligence spectrum is self-discipline and self-control. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p10]
-- The book combines two ideas: the slip-box technique and the holistic workflow insight from David Allen's Getting Things Done. [raw/books/productality/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p15]
+- The book combines two ideas: the slip-box technique and the holistic workflow insight from David Allen's Getting Things Done. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p15]
 - Ahrens strongly recommends Zotero for reference management and Zettelkasten (by Daniel Lüdecke) as the slip-box program, both of which are free. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p32-33]
 - The book is structured around four underlying principles (Chapters 5–8) and six practical steps (Chapters 9–14). [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p7]
 

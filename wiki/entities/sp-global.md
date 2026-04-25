@@ -41,7 +41,7 @@ S&P Global (formerly McGraw-Hill) underwent a dramatic transformation from 2008-
 - McGraw-Hill sold its education business to Apollo Global Management in late 2012 for about $2.5 billion. [raw/books/strategy/The Crux - Richard Rumelt.pdf#p93]
 - The concentration process dropped revenues from $6.2 billion to $4.2 billion by 2012. [raw/books/strategy/The Crux - Richard Rumelt.pdf#p94]
 - Margins in financial information services rose to 40 percent in 2015 and up to 50 percent by 2019. [raw/books/strategy/The Crux - Richard Rumelt.pdf#p94]
-- From the 2012 low to 2019, revenue grew at a compound growth rate of 7 percent per year. [raw/books/strategy/The Crux - Richard Rumxelt.pdf#p94]
+- From the 2012 low to 2019, revenue grew at a compound growth rate of 7 percent per year. [raw/books/strategy/The Crux - Richard Rumelt.pdf#p94]
 - EBITDA grew at a compound 19 percent per year from 2012 to 2019. [raw/books/strategy/The Crux - Richard Rumelt.pdf#p94]
 - The company's stock price grew by 24 percent per year over the same period. [raw/books/strategy/The Crux - Richard Rumelt.pdf#p94]
 

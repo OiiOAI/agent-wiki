@@ -37,7 +37,7 @@ The four-step procedure for practical problem management consists of: (1) a clea
 - The second step investigates attempted solutions, revealing not only what kind of change must not be attempted but also what maintains the situation to be changed. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L111-112]
 - The third step sets a concrete, reachable goal with a time limit (typically a maximum of ten sessions) to prevent utopian or vague goals from becoming their own pathology. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L112-115]
 - The target of change in step four is the attempted solution, and the tactic must be translated into the person's own 'language'—their way of conceptualizing reality. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L115-117]
-- The authors later realized they had plagiarized the Four Noble Truths of Buddhism without malicious aforethought: of suffering, of origin of suffering, of cessation of suffering, and of the path. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L109n]
+- The authors later realized they had plagiarized the Four Noble Truths of Buddhism without malicious aforethought: of suffering, of origin of suffering, of cessation of suffering, and of the path. [raw/books/strategy/Change _ principles of problem formulation and problem - Paul Watzlawick, John H_ Weakland, Richard Fisch; foreword.epub#L109]
 
 ## Related pages
 

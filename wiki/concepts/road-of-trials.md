@@ -36,7 +36,7 @@ Once having traversed the threshold, the hero moves in a dream landscape of flui
 
 - Once having traversed the threshold, the hero moves in a dream landscape of curiously fluid, ambiguous forms, where he must survive a succession of trials. [raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf#p80]
 - The hero is covertly aided by the advice, amulets, and secret agents of the supernatural helper whom he met before his entrance into this region. [raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf#p80]
-- The shaman's journey to recover lost souls illustrates the dangerous voyage through underworld kingdoms, encountering obstacles and the Lord of the Underworld Erlik. [raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf#81-82]
+- The shaman's journey to recover lost souls illustrates the dangerous voyage through underworld kingdoms, encountering obstacles and the Lord of the Underworld Erlik. [raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf#p81-82]
 - In every primitive tribe the medicine man is a neurotic or psychotic whose art is based on the same mechanisms as neurosis—lightning conductors of common anxiety. [raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf#p82]
 - The ordeal is a deepening of the problem of the first threshold; dragons have now to be slain and surprising barriers passed—again, again, and again. [raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf#p89]
 

@@ -34,8 +34,8 @@ LLM Wiki 指一种个人知识库**模式**：由 LLM agent 主动、增量地�
 - 三层架构：**raw**（immutable）/ **wiki**（LLM 写）/ **schema**（配置文件如 CLAUDE.md）。 [raw/inbox/karpathy-llm-wiki.md#L29-L33]
 - 三个核心操作：**Ingest** / **Query** / **Lint**；好的 Query 答案应能 fileback 为 durable wiki 页面。 [raw/inbox/karpathy-llm-wiki.md#L37-L41]
 - 两个特殊文件驱动导航：**index.md**（内容目录，query 的第一入口）与 **log.md**（时间流水，append-only）。 [raw/inbox/karpathy-llm-wiki.md#L47-L49]
-- 中等规模下 index.md 已够做 routing，无需 embedding 基础设施；大规模时再引入本地搜索（如 qmd）。 [raw/inbox/karpathy-llm-wiki.md#L47, #L53]
-- 人机分工：人负责 sourcing、探索、提问；LLM 负责 summarizing / cross-referencing / bookkeeping。 [raw/inbox/karpathy-llm-wiki.md#L15, #L68]
+- 中等规模下 index.md 已够做 routing，无需 embedding 基础设施；大规模时再引入本地搜索（如 qmd）。 [raw/inbox/karpathy-llm-wiki.md#L47-L53]
+- 人机分工：人负责 sourcing、探索、提问；LLM 负责 summarizing / cross-referencing / bookkeeping。 [raw/inbox/karpathy-llm-wiki.md#L15-L68]
 - wiki 自身是 git repo，版本与分支能力天然具备。 [raw/inbox/karpathy-llm-wiki.md#L62]
 
 ## Boundaries
@@ -47,7 +47,7 @@ LLM Wiki 指一种个人知识库**模式**：由 LLM agent 主动、增量地�
 ## Distinctions
 
 - 与 **[[Retrieval-Augmented Generation]]**（未建页）：RAG 只在 query 时检索与生成；LLM Wiki 在 ingest 时就完成编译，query 只读。 [raw/inbox/karpathy-llm-wiki.md#L9-L13]
-- 与 **传统人工 wiki**（如 Tolkien Gateway）：传统 wiki 靠人类志愿者维护；LLM Wiki 把维护成本降到趋近于零。 [raw/inbox/karpathy-llm-wiki.md#L21, #L66]
+- 与 **传统人工 wiki**（如 Tolkien Gateway）：传统 wiki 靠人类志愿者维护；LLM Wiki 把维护成本降到趋近于零。 [raw/inbox/karpathy-llm-wiki.md#L21-L66]
 - 与 **[[Memex]]**（未建页）：思路血缘上接近 —— 私人、策划、文档间关联轨迹；差异在于 Memex 未解决"谁来维护连接"，LLM 补上了这块。 [raw/inbox/karpathy-llm-wiki.md#L70]
 
 ## Examples

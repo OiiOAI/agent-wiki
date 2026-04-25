@@ -73,7 +73,7 @@ tags:
 - Adjacent: [[老庄哲学]]
 - Adjacent: [[魏晋玄学]]
 - Adjacent: [[理学]]
-- Adjacent: [[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf]]
+- Adjacent: [[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#L1]]
 - Concepts: [[梵我合一]]
 - Concepts: [[顿悟]]
 - Concepts: [[本心即佛]]

@@ -1,14 +1,15 @@
 ---
 id: zi-guan-xin-gui
 title: 资管新规
-type: policy
+type: entity
 status: draft
 created: '2026-04-24'
 updated: '2026-04-24'
 sources:
 - '[raw/books/sociology/置身事内.epub#L1-L1]'
+aliases: []
+canonical: true
 confidence: high
-date: '2018'
 tags:
 - 资产管理
 - 金融监管

@@ -30,7 +30,7 @@ Mindness is the class of all functional brain states in which sensorimotor image
 ## Key facts
 
 - Mindness is defined as the class of all functional brain states in which sensorimotor images, including self-awareness, are generated. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p7]
-- The brain generates other global functional states—such as sleep, anesthesia, and grand mal seizures—that occupy the same brain mass but do not support awareness. [raw/books/neuroscos Llinás.pdf#p7]
+- The brain generates other global functional states—such as sleep, anesthesia, and grand mal seizures—that occupy the same brain mass but do not support awareness. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p7]
 - Dreaming is considered a cognitive state but not with respect to co-existing external reality because it is not directly modulated by one's senses; rather it draws from past experiences stored in the brain or intrinsic workings of the brain itself. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p8]
 - The mind is co-dimensional with the brain, occupying all of the brain's nooks and crannies, but at any given time represents only those storms isomorphic with the state of the local surrounding world when awake. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p8]
 

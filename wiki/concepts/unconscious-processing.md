@@ -47,7 +47,7 @@ Unconscious processing encompasses all mental operations that occur outside cons
 ## Key facts
 
 - Unconscious perception can process abstract properties: priming works equally whether the same physical word is repeated (radio-radio) or the case changes (radio-RADIO). [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p78]
-- The fusiform gyrus, part of the ventral visual cortex, can process word identity unconsciously and is sensitive to abstract letter string representations. [raw/books/nehasene.pdf#p78]
+- The fusiform gyrus, part of the ventral visual cortex, can process word identity unconsciously and is sensitive to abstract letter string representations. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p78]
 - Unconscious processing can bind letters into words: subliminal priming distinguishes RANGE preceded by range from RANGE preceded by anger (which shares most letters but not arrangement). [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p80]
 - The unconscious mind processes all possible meanings of ambiguous words in parallel, while consciousness selects among them. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p88]
 - Subliminal number priming varies as a function of semantic distance, proving unconscious extraction of number meaning. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p94]

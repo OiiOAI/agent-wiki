@@ -34,7 +34,7 @@ Neuropeptides are short chains of amino acids (typically 3-40) that serve as neu
 
 ## Key facts
 
-- The brain contains several hundred different neuropeptides, typically ranging from 3 to 40 amino acids in length. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp.pdf#p59]
+- The brain contains several hundred different neuropeptides, typically ranging from 3 to 40 amino acids in length. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p59]
 - Major neuropeptides include brain opioids (endorphins, enkephalins, dynorphins), hypothalamic releasing hormones (CRF, LH-RH, TRH), and peptides like oxytocin, vasopressin, CCK, and substance P. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p59]
 - Many neuropeptides provide specific control over basic psychological functions such as appetite, stress, separation distress, and maternal and sexual feelings. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p59]
 - Most peptides cannot cross the blood-brain barrier and must be administered directly into the brain to study their cerebral functions. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p62]

@@ -28,9 +28,9 @@ A pathologically intensified train of thought that cannot be resolved by conscio
 
 ## Key facts
 
-- Supervalent thoughts are pathologically reinforced trains of thought that conscious effort cannot remove. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2340]
-- They owe their reinforcement to unconscious repressed material. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2340]
-- Reactive reinforcement occurs when the thought contrary to the repressed one becomes excessively intensified to maintain repression. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2341]
+- Supervalent thoughts are pathologically reinforced trains of thought that conscious effort cannot remove. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2340]
+- They owe their reinforcement to unconscious repressed material. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2340]
+- Reactive reinforcement occurs when the thought contrary to the repressed one becomes excessively intensified to maintain repression. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2341]
 
 ## Related pages
 

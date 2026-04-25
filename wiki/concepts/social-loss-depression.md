@@ -43,7 +43,7 @@ The major life factor precipitating depression in humans is social loss. The neu
 - Social contact is sometimes sufficient to cure depressive responses in young animals after isolation. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p147]
 - All antidepressants facilitate synaptic activity of biogenic amine systems, whether by blockade of synaptic reuptake or inhibition of degradation. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p147]
 - Harlow's research showed isolated rhesus monkey babies preferred inanimate 'terry-cloth mothers' over hard wire ones providing only nourishment. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p147]
-- Isolated females became poor and abusive mothers, especially toward firstborn, but subsequent offspring received better treatment from learning. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#147]
+- Isolated females became poor and abusive mothers, especially toward firstborn, but subsequent offspring received better treatment from learning. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p147]
 
 ## Inferences
 

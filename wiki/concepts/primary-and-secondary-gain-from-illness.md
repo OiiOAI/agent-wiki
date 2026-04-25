@@ -28,9 +28,9 @@ Primary gain refers to the internal psychological relief from conflict achieved 
 
 ## Key facts
 
-- Primary gain from illness includes the psychological relief achieved when falling ill resolves an internal conflict. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2332]
-- Secondary gain involves external benefits obtained through illness such as sympathy, attention, or escape from obligations. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2332]
-- In Dora's case, her illness served to influence her father and detach him from Frau K., representing a secondary gain. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2331]
+- Primary gain from illness includes the psychological relief achieved when falling ill resolves an internal conflict. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2332]
+- Secondary gain involves external benefits obtained through illness such as sympathy, attention, or escape from obligations. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2332]
+- In Dora's case, her illness served to influence her father and detach him from Frau K., representing a secondary gain. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2331]
 
 ## Related pages
 

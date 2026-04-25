@@ -42,9 +42,9 @@ Conversion refers to the process by which psychical excitation is transformed in
 - Freud proposed the name 'conversion' for the process by which the sum of excitation attached to an incompatible idea is transformed into something somatic. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p941]
 - Conversion may be either total or partial, proceeding along the line of motor or sensory innervation related to the traumatic experience. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p941]
 - The ego succeeds in freeing itself from the contradiction but burdens itself with a mnemic symbol which persists as an unresolvable motor innervation or recurring hallucinatory sensation. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p941]
-- Conversion is the process of translating psychical excitation into physical symptoms in hysteria. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2340]
-- Conversion depends on somatic compliance - a readiness of certain organ systems to express unconscious material. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2329]
-- The production of hysterical symptoms is difficult because conversion requires favorable conditions and somatic compliance. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological Works of Sigmund Freud, James Strachey, Mark Solms.pdf#p2340]
+- Conversion is the process of translating psychical excitation into physical symptoms in hysteria. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2340]
+- Conversion depends on somatic compliance - a readiness of certain organ systems to express unconscious material. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2329]
+- The production of hysterical symptoms is difficult because conversion requires favorable conditions and somatic compliance. [raw/books/psychology/The Revised Standard Edition of The Complete Psychological - Sigmund Freud, James Strachey , Mark Solms.pdf#p2340]
 
 ## Inferences
 

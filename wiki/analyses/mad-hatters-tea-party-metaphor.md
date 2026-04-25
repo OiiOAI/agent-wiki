@@ -26,10 +26,10 @@ Munger uses Lewis Carroll's 'Mad Hatter's Tea Party' from Alice's Adventures in 
 
 ## Key facts
 
-- Munger calls it a 'Mad Hatter's Tea Party' when companies use derivatives to smooth lumpy reported profits from earlier hedges, describing it as morphing into lying. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p129]
-- Munger says you would think derivative books are 'Lewis Carroll' and 'the Mad Hatter's Tea Party' if you spent a month delving into a big derivative operation. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p132]
-- Munger describes the false precision of derivatives practitioners as making 'the worst economics professors look like gods'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p132]
-- Munger references F.I.A.S.C.O. by Frank Partnoy as an insider account of depravity in derivative trading that will 'turn your stomach'. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p132]
+- Munger calls it a 'Mad Hatter's Tea Party' when companies use derivatives to smooth lumpy reported profits from earlier hedges, describing it as morphing into lying. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p129]
+- Munger says you would think derivative books are 'Lewis Carroll' and 'the Mad Hatter's Tea Party' if you spent a month delving into a big derivative operation. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p132]
+- Munger describes the false precision of derivatives practitioners as making 'the worst economics professors look like gods'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p132]
+- Munger references F.I.A.S.C.O. by Frank Partnoy as an insider account of depravity in derivative trading that will 'turn your stomach'. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p132]
 
 ## Inferences
 

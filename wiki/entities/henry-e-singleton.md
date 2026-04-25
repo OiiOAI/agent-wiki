@@ -37,12 +37,12 @@ Henry E. Singleton (1916–1999) was co-founder and CEO of Teledyne, Inc. for th
 
 ## Key facts
 
-- Henry E. Singleton was co-founder and chief executive of Teledyne, Inc. from 1963 to 1990. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
-- Singleton held Bachelors, Masters, and PhD degrees in Electrical Engineering from MIT. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
-- Singleton was an enormously skilled chess player, only 100 points below Grandmaster level, able to play without looking at the board. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
-- Teledyne returned 20.4% compound annual return to shareholders from 1963 to 1990, compared to 8.0% for the S&P 500. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
-- Singleton repurchased 90 percent of Teledyne's outstanding shares, primarily between 1972 and 1984. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
-- Charlie Munger stated that Henry Singleton has the best operating and capital deployment record in American business, better than a composite of the 100 top business school graduates. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
+- Henry E. Singleton was co-founder and chief executive of Teledyne, Inc. from 1963 to 1990. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
+- Singleton held Bachelors, Masters, and PhD degrees in Electrical Engineering from MIT. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
+- Singleton was an enormously skilled chess player, only 100 points below Grandmaster level, able to play without looking at the board. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
+- Teledyne returned 20.4% compound annual return to shareholders from 1963 to 1990, compared to 8.0% for the S&P 500. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
+- Singleton repurchased 90 percent of Teledyne's outstanding shares, primarily between 1972 and 1984. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
+- Charlie Munger stated that Henry Singleton has the best operating and capital deployment record in American business, better than a composite of the 100 top business school graduates. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p138]
 
 ## Inferences
 

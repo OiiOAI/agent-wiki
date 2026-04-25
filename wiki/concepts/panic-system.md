@@ -43,8 +43,8 @@ The PANIC system generates the emotional distress that occurs when social bonds 
 ## Key facts
 
 - Young rats exhibit peak separation distress vocalizations when isolated, demonstrating innate social attachment systems. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p26]
-- Separation distress vocalizations decrease as animals mature, following species-typical developmental trajectories. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp,Jaak.pdf#p26]
-- PANIC system arousal can generate long-lasting emotional states that contribute to mood disorders. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp.pdf#p27]
+- Separation distress vocalizations decrease as animals mature, following species-typical developmental trajectories. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p26]
+- PANIC system arousal can generate long-lasting emotional states that contribute to mood disorders. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p27]
 - The PANIC system mediates separation distress, which promotes active solicitation of help and social support when social bonds are threatened. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p146]
 - People who suffer from repeated panic attacks typically have had childhood histories characterized by separation anxiety problems. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p146]
 - Both separation distress and panic attacks are commonly accompanied by autonomic symptoms including weakness, difficulty breathing, and a lump in the throat. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p146]

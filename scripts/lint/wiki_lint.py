@@ -29,7 +29,7 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parents[2]
 WIKI_ROOT = REPO_ROOT / "wiki"
 TMP_DIR = REPO_ROOT / "tmp"
-PAGE_TYPE_DIRS = ("entities", "concepts", "topics", "sources", "analyses", "conflicts")
+PAGE_TYPE_DIRS = ("entities", "concepts", "topics", "sources", "analyses", "conflicts", "dashboards")
 
 sys.path.insert(0, str(REPO_ROOT))
 from scripts.ingest.validate import (  # noqa: E402
@@ -39,7 +39,10 @@ from scripts.ingest.validate import (  # noqa: E402
 
 _FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 _WIKILINK_RE = re.compile(r"\[\[([^\[\]]*?)\]\]")
-_INDEX_LINE_RE = re.compile(r"^- \[\[([^\]]+)\]\]")
+# Match `- [[Title]]` lines. Allow `]` characters INSIDE the title as long
+# as the line eventually closes with `]]` and the title is balanced w.r.t.
+# `[`/`]` (e.g. `[[Lipoprotein(a) [Lp(a)]]]` — title is `Lipoprotein(a) [Lp(a)]`).
+_INDEX_LINE_RE = re.compile(r"^- \[\[(.+?)\]\](?:\s|$|\s*—)")
 
 
 def _walk_wiki_pages() -> list[Path]:
@@ -114,13 +117,24 @@ def _check_dangling_links(
 
 
 def _check_index_drift(pages: list[Path]) -> list[ValidationError]:
-    """Compare wiki/index.md listings against actual pages on disk."""
+    """Compare wiki/index.md listings against actual pages on disk.
+
+    Skips fenced code blocks (the index template includes a literal
+    ` ```text\n- [[Page Name]] — One-line summary.\n``` ` example) and
+    backtick-quoted entries.
+    """
     errs: list[ValidationError] = []
     idx_path = WIKI_ROOT / "index.md"
     if not idx_path.exists():
         return [ValidationError("index_drift", "wiki/index.md missing")]
     idx_titles: set[str] = set()
+    in_fence = False
     for line in idx_path.read_text(encoding="utf-8").splitlines():
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
         m = _INDEX_LINE_RE.match(line)
         if m:
             idx_titles.add(m.group(1).lower())

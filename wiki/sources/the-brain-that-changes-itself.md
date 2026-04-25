@@ -49,7 +49,7 @@ A groundbreaking neuroscience book by Norman Doidge, M.D., documenting the revol
 - Merzenich states 'You cannot have plasticity in isolation... it's an absolute impossibility,' and experiments show that if one brain system changes, those connected to it change as well. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p107]
 - The book is written by Norman Doidge and explores neuroplasticity—the brain's ability to change itself. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p140]
 - This chapter focuses on Edward Taub's constraint-induced movement therapy for stroke patients. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p140]
-- The chapter includes case studies of Dr. Michael Bernstein, Nicole von Ruden, Jeremiah Andrews, and Frederick Lincoln. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p140,p157,p164]
+- The chapter includes case studies of Dr. Michael Bernstein, Nicole von Ruden, Jeremiah Andrews, and Frederick Lincoln. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p140-p164]
 - Until CI therapy, studies of chronic stroke patients with paralyzed arms concluded that no existing treatment was effective. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p143]
 - The book is authored by Norman Doidge, who traveled extensively to interview leading neuroplasticians. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p184]
 - The book's subtitle is 'Stories of Personal Triumph from the Frontiers of Brain Science.'. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p184]

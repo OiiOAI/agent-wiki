@@ -35,7 +35,7 @@ Andrej Karpathy 是 [[LLM Wiki (Karpathy gist)]] 的作者。本页作为"[[LLM 
 
 ## Key facts
 
-- 是 [[LLM Wiki (Karpathy gist)]] 的作者（gist URL 和署名为一手证据）。 [raw/inbox/karpathy-llm-wiki.md]
+- 是 [[LLM Wiki (Karpathy gist)]] 的作者（gist URL 和署名为一手证据）。 [raw/inbox/karpathy-llm-wiki.md#L1]
 - 在 gist 中描述其工作流为 "LLM agent + Obsidian 并行"。 [raw/inbox/karpathy-llm-wiki.md#L15]
 
 ## Role in this wiki

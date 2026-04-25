@@ -40,7 +40,7 @@ Social interaction amplifies the neurological benefits of exercise. Elizabeth Go
 ## Key facts
 
 - Elizabeth Gould's study found that after 12 days, socially housed runners showed significantly more neurogenesis than isolated runners exercising equally. [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p212]
-- Isolated runners had the same low level of cell proliferation as non-exercising controls, suggesting cumulative stress from running plus isolation elevated cortisol enough to prevent neurogenesis. [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#212]
+- Isolated runners had the same low level of cell proliferation as non-exercising controls, suggesting cumulative stress from running plus isolation elevated cortisol enough to prevent neurogenesis. [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p212]
 - Social support blunts HPA axis reactivity and keeps cortisol from interfering with growth mechanisms. [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p212]
 - Between 24-48 days of running, neurogenesis rates leveled off between isolated and social groups, suggesting long-term adaptation. [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p213]
 - Social interaction increases serotonin, which enhances neurogenesis; both isolation and cortisol reduce serotonin receptors in the hippocampus. [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p213]

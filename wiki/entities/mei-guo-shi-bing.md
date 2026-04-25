@@ -36,7 +36,6 @@ related:
 ## Related pages
 
 - Broader: [[军事社会学研究]]
-- Narrower: [[]]
 - Adjacent: [[罗伯特·林德]]
 
 ## Provenance

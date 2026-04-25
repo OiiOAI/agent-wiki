@@ -148,6 +148,10 @@ REQUIRED_FIELDS: dict[str, set[str]] = {
     },
     "analysis": COMMON_REQUIRED | {"question", "confidence"},
     "conflict": COMMON_REQUIRED | {"conflict_scope", "confidence", "affected_pages"},
+    # Dashboards live under wiki/dashboards/ as operator overviews
+    # (e.g. wiki/dashboards/Wiki Health Dashboard.md). They have no
+    # content invariants beyond the COMMON set.
+    "dashboard": COMMON_REQUIRED,
 }
 
 OPTIONAL_FIELDS: dict[str, set[str]] = {
@@ -178,6 +182,7 @@ OPTIONAL_FIELDS: dict[str, set[str]] = {
     },
     "analysis": {"tags", "related_pages", "question"},
     "conflict": {"tags"},
+    "dashboard": {"tags", "related", "owner", "scope", "summary"},
 }
 
 ALLOWED_STATUS = {"draft", "active", "deprecated", "conflicted"}

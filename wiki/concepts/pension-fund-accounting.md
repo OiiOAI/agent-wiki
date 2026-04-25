@@ -29,12 +29,12 @@ Munger criticizes the common practice of using unrealistically high assumed retu
 
 ## Key facts
 
-- The current practice of using unrealistically high assumptions for pension plan returns is described as a dumb and improper way to handle things. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
-- Munger notes that IBM raised its return expectations for its pension fund to ten percent while most companies are at nine percent. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
-- Munger states that six percent is a more realistic assumption for pension fund returns. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
-- Managers may subconsciously believe unrealistic return assumptions because they want to believe it to make earnings look good. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
-- Munger cites the saying 'Whose bread I eat, his song I sing' to explain why accountants don't challenge pension accounting assumptions. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
-- Munger states that bad accounting that makes theft easy is like carrying bushel baskets of money through a ghetto, creating sin by causing bad behavior. [raw/books/strategy/Poor Charlie's Almanack_ Charles T. Munger, Peter D. Kaufman, Ed Wexler, Warren E_pdf.pdf#p126]
+- The current practice of using unrealistically high assumptions for pension plan returns is described as a dumb and improper way to handle things. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
+- Munger notes that IBM raised its return expectations for its pension fund to ten percent while most companies are at nine percent. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
+- Munger states that six percent is a more realistic assumption for pension fund returns. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
+- Managers may subconsciously believe unrealistic return assumptions because they want to believe it to make earnings look good. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
+- Munger cites the saying 'Whose bread I eat, his song I sing' to explain why accountants don't challenge pension accounting assumptions. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p125]
+- Munger states that bad accounting that makes theft easy is like carrying bushel baskets of money through a ghetto, creating sin by causing bad behavior. [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p126]
 
 ## Inferences
 

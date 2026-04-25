@@ -42,7 +42,7 @@ Convexity and concavity are mathematical properties that map directly to antifra
 - For the fragile, shocks bring higher harm as their intensity increases (up to a certain level). [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p337]
 - For the antifragile, shocks bring more benefits as their intensity increases (up to a point). [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p340]
 - The cumulative effect of small shocks is smaller than the single effect of an equivalent single large shock for fragile systems. [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p340]
-- More is different: doubling exposure to something that causes more than double the harm indicates fragility (negative convexity effect). [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Taleb, Nassim Nicholas.pdf#p349]
+- More is different: doubling exposure to something that causes more than double the harm indicates fragility (negative convexity effect). [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p349]
 
 ## Inferences
 

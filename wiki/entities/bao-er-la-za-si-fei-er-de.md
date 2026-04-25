@@ -37,7 +37,6 @@ related:
 ## Related pages
 
 - Broader: [[社会学家]]
-- Narrower: [[]]
 - Adjacent: [[抽象经验主义]]
 
 ## Provenance
