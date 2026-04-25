@@ -10314,3 +10314,40 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/thomas-bayes.md`
 - Files deprecated: None.
 - Notes: 58 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | thinking-in-systems-donella-h-meadows
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf
+- Files created:
+  - `wiki/entities/c-s-holling.md`
+  - `wiki/entities/donella-h-meadows.md`
+  - `wiki/entities/donella-meadows.md`
+  - `wiki/entities/jay-w-forrester.md`
+  - `wiki/concepts/balancing-feedback-loop.md`
+  - `wiki/concepts/delay.md`
+  - `wiki/concepts/delays-in-feedback-systems.md`
+  - `wiki/concepts/drift-to-low-performance.md`
+  - `wiki/concepts/escalation.md`
+  - `wiki/concepts/law-of-the-minimum.md`
+  - `wiki/concepts/nonlinearity.md`
+  - `wiki/concepts/policy-resistance.md`
+  - `wiki/concepts/reinforcing-feedback-loop.md`
+  - `wiki/concepts/rule-beating.md`
+  - `wiki/concepts/seeking-the-wrong-goal.md`
+  - `wiki/concepts/self-organization.md`
+  - `wiki/concepts/shifting-the-burden.md`
+  - `wiki/concepts/stock.md`
+  - `wiki/concepts/success-to-the-successful.md`
+  - `wiki/concepts/system-archetype.md`
+  - `wiki/concepts/system-traps.md`
+  - `wiki/concepts/system.md`
+  - `wiki/concepts/tragedy-of-the-commons.md`
+  - `wiki/topics/guidelines-for-living-in-a-world-of-systems.md`
+  - `wiki/topics/systems-thinking.md`
+  - `wiki/sources/thinking-in-systems-donella-h-meadows.md`
+- Files merged (extended):
+  - `wiki/concepts/bounded-rationality.md`
+  - `wiki/concepts/leverage-points.md`
+  - `wiki/concepts/resilience.md`
+- Files deprecated: None.
+- Notes: 26 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

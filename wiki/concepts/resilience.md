@@ -4,21 +4,24 @@ title: Resilience
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
+- '[raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p1-256]'
 confidence: high
 tags:
 - resilience
 - positive-emotions
 - lovingkindness
 - stress-reduction
+- systems theory
+- system properties
 related:
-  broader: []
-  narrower: []
-  adjacent: []
+  adjacent:
+  - self-organization
+  - hierarchy
+aliases: []
 ---
-
 
 # Resilience
 
@@ -33,16 +36,27 @@ Resilience is defined as the ability to 'bounce back in the face of adversity'â€
 - Focus on Positive (lovingkindness) practice was shown to increase telomere length in women, a key longevity indicator. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p186]
 - Studies showed FOP practice reduced PTSD symptoms in veterans even three months after training ended. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p186]
 - A meta-analysis of 30 happiness studies found a strong relationship between positive emotions and longevity, comparable to smoking vs. not smoking. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p187]
+- Resilience is the ability to survive and persist within a variable environment; the opposite of resilience is brittleness or rigidity. [raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p99]
+- Resilience arises from a rich structure of many feedback loops operating through different mechanisms, at different time scales, and with redundancy. [raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p99]
+- There are always limits to resilience. [raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p99]
+- Resilience is not the same as being static or constant; resilient systems can be very dynamic with oscillations being the normal condition which resilience acts to restore. [raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p100]
+- Systems need to be managed not only for productivity or stability, but also for resilienceâ€”the ability to recover from perturbation and restore or repair themselves. [raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p102]
 
 ## Inferences
 
 - Inference: Positive emotions may protect health by improving immune function and social connections, creating upward spirals of resilience building.
+- Inference: The human body exemplifies resilience through its ability to fend off invaders, tolerate temperature ranges, repair damage, and compensate for missing parts.
 
 ## Related pages
 
+- Adjacent: [[self-organization]]
+- Adjacent: [[hierarchy]]
 - Concepts: [[focus-on-positive]]
 - Concepts: [[acceptance]]
 - Concepts: [[hedonic-adaptation]]
+- Concepts: [[system]]
+- Concepts: [[feedback loop]]
+- Concepts: [[self-organization]]
 - Topics: [[positive-psychology]]
 - Topics: [[stress-management]]
 - Topics: [[longevity]]
@@ -50,7 +64,9 @@ Resilience is defined as the ability to 'bounce back in the face of adversity'â€
 ## Provenance
 
 - Primary source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
+- Additional source: [raw/books/strategy/Thinking in Systems - Donella H. Meadows.pdf#p1-256]
 
 ## Change notes
 
 - 2026-04-24 â€” page created by auto ingest.
+- 2026-04-25 â€” merged contributions from `thinking-in-systems-donella-h-meadows`.
