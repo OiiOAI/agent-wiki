@@ -4,10 +4,11 @@ title: Active Inference
 type: concept
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain,
   - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p1-309]'
+- '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
 confidence: high
 tags:
 - normative theory
@@ -18,6 +19,8 @@ tags:
 - planning
 - generative models
 - variational inference
+- inference
+- embodiment
 related:
   broader:
   - free energy principle
@@ -43,8 +46,8 @@ related:
   - cybernetic theory
   - enactivism
   - ideomotor theory
+aliases: []
 ---
-
 
 # Active Inference
 
@@ -66,10 +69,16 @@ Active Inference is a normative framework for understanding sentient behavior, d
 - Under Active Inference, learning is another way to minimize free energy, operating at a slower timescale than perception but sharing the same inferential nature. [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p8]
 - Markov blankets provide a formal separation between an adaptive system's internal states and external states of the environment, with sensory and active states mediating all interactions. [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p42]
 - Active Inference reconciles enactive theories (self-organization), cybernetic theories (goal-directed purposive behavior), and predictive theories (model-based control) under a unified variational framework. [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p57]
+- Active inference is minimizing prediction error through performing actions to change sensory data so that new sensory data matches existing predictions. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p112]
+- Active inference can be thought of as self-fulfilling perceptual prediction — the brain seeks out sensory data that makes its predictions come true. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p112]
+- In active inference, actions are self-fulfilling proprioceptive predictions. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p113]
+- Proprioception is a form of perception tracking where the body is and how it is moving by registering sensory signals from receptors throughout the skeleton and musculature. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p113]
+- The term 'active inference' was coined by neuroscientist Karl Friston. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p112]
 
 ## Inferences
 
 - Inference: Because variational free energy is defined as an upper bound on surprise, minimizing it guarantees a reduction in surprise but does not guarantee exact Bayesian inference. This means Active Inference agents achieve approximate Bayesian optimality.
+- Inference: Active inference suggests that action and perception are fundamentally unified — both are forms of brain-based prediction rather than perception being input and action being output.
 
 ## Related pages
 
@@ -120,11 +129,17 @@ Active Inference is a normative framework for understanding sentient behavior, d
 - Concepts: [[autopoiesis]]
 - Concepts: [[homeostasis]]
 - Concepts: [[allostasis]]
+- Concepts: [[prediction-error-minimization]]
+- Concepts: [[proprioception]]
+- Concepts: [[controlled-hallucination]]
+- Entities: [[karl-friston]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p1-309]
+- Additional source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `being-you-a-new-science-of-consciousness-seth-anil`.

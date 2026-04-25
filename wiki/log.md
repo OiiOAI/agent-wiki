@@ -888,3 +888,75 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/qualia.md`
 - Files deprecated: None.
 - Notes: 45 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | being-you-a-new-science-of-consciousness-seth-anil
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf
+- Files created:
+  - `wiki/entities/aaron-schurger.md`
+  - `wiki/entities/anil-seth.md`
+  - `wiki/entities/benjamin-libet.md`
+  - `wiki/entities/clive-wearing.md`
+  - `wiki/entities/david-chalmers.md`
+  - `wiki/entities/giulio-tononi.md`
+  - `wiki/entities/hiroshi-ishiguro.md`
+  - `wiki/entities/humberto-maturana.md`
+  - `wiki/entities/james-gibson.md`
+  - `wiki/entities/karl-friston.md`
+  - `wiki/entities/marcello-massimini.md`
+  - `wiki/entities/michael-carter.md`
+  - `wiki/entities/olaf-blanke.md`
+  - `wiki/entities/robin-carhart-harris.md`
+  - `wiki/entities/thomas-bayes.md`
+  - `wiki/entities/thomas-nagel.md`
+  - `wiki/entities/william-ross-ashby.md`
+  - `wiki/concepts/adelsons-checkerboard.md`
+  - `wiki/concepts/allostasis.md`
+  - `wiki/concepts/autopoiesis.md`
+  - `wiki/concepts/bayesian-inference.md`
+  - `wiki/concepts/beast-machine-theory.md`
+  - `wiki/concepts/beholders-share.md`
+  - `wiki/concepts/binocular-rivalry.md`
+  - `wiki/concepts/body-ownership.md`
+  - `wiki/concepts/change-blindness.md`
+  - `wiki/concepts/conscious-level.md`
+  - `wiki/concepts/controlled-hallucination.md`
+  - `wiki/concepts/cybernetics.md`
+  - `wiki/concepts/disorders-of-consciousness.md`
+  - `wiki/concepts/essential-variable.md`
+  - `wiki/concepts/garland-test.md`
+  - `wiki/concepts/good-regulator-theorem.md`
+  - `wiki/concepts/hard-problem.md`
+  - `wiki/concepts/hemispherotomy.md`
+  - `wiki/concepts/inattentional-blindness.md`
+  - `wiki/concepts/integrated-information-theory.md`
+  - `wiki/concepts/interoception.md`
+  - `wiki/concepts/interoceptive-inference.md`
+  - `wiki/concepts/machine-consciousness.md`
+  - `wiki/concepts/mirror-self-recognition.md`
+  - `wiki/concepts/neural-correlates-of-consciousness.md`
+  - `wiki/concepts/octopus-consciousness.md`
+  - `wiki/concepts/out-of-body-experience.md`
+  - `wiki/concepts/perturbational-complexity-index.md`
+  - `wiki/concepts/philosophical-zombies.md`
+  - `wiki/concepts/precision-weighting.md`
+  - `wiki/concepts/prediction-error-minimisation.md`
+  - `wiki/concepts/prediction-error-minimization.md`
+  - `wiki/concepts/readiness-potential.md`
+  - `wiki/concepts/real-problem-approach.md`
+  - `wiki/concepts/rubber-hand-illusion.md`
+  - `wiki/concepts/simulation-argument.md`
+  - `wiki/concepts/the-dress.md`
+  - `wiki/concepts/the-hard-problem.md`
+  - `wiki/concepts/the-real-problem.md`
+  - `wiki/concepts/time-perception.md`
+  - `wiki/concepts/uncanny-valley.md`
+  - `wiki/concepts/volition.md`
+  - `wiki/topics/animal-consciousness.md`
+  - `wiki/sources/being-you-a-new-science-of-consciousness.md`
+- Files merged (extended):
+  - `wiki/concepts/active-inference.md`
+  - `wiki/concepts/free-energy-principle.md`
+  - `wiki/concepts/global-workspace-theory.md`
+- Files deprecated: None.
+- Notes: 61 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
