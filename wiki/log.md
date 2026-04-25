@@ -3672,3 +3672,60 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/typical-dreams.md`
 - Files deprecated: None.
 - Notes: 38 new + 24 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | why-we-remember-unlocking-memory-s-power-charan-ranganath
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf
+- Files created:
+  - `wiki/entities/alexander-luria.md`
+  - `wiki/entities/andy-yonelinas.md`
+  - `wiki/entities/charan-ranganath.md`
+  - `wiki/entities/ivan-pavlov.md`
+  - `wiki/entities/kent-berridge.md`
+  - `wiki/entities/mara-mather.md`
+  - `wiki/entities/scott-hagwood.md`
+  - `wiki/entities/solomon-shereshevsky.md`
+  - `wiki/entities/targeted-memory-reactivation.md`
+  - `wiki/entities/urbach-wiethe-syndrome.md`
+  - `wiki/concepts/chunking.md`
+  - `wiki/concepts/collaborative-memory.md`
+  - `wiki/concepts/collective-memory.md`
+  - `wiki/concepts/curiosity.md`
+  - `wiki/concepts/dopamine-and-reward-learning.md`
+  - `wiki/concepts/error-driven-learning.md`
+  - `wiki/concepts/event-boundaries.md`
+  - `wiki/concepts/false-memories.md`
+  - `wiki/concepts/familiarity.md`
+  - `wiki/concepts/memory-updating.md`
+  - `wiki/concepts/mental-time-travel.md`
+  - `wiki/concepts/neuromodulators.md`
+  - `wiki/concepts/noradrenaline.md`
+  - `wiki/concepts/orienting-response.md`
+  - `wiki/concepts/perirhinal-cortex.md`
+  - `wiki/concepts/reality-monitoring.md`
+  - `wiki/concepts/reconstruction.md`
+  - `wiki/concepts/schemas.md`
+  - `wiki/concepts/slow-wave-sleep-and-memory-consolidation.md`
+  - `wiki/concepts/social-contagion.md`
+  - `wiki/concepts/spacing-effect.md`
+  - `wiki/concepts/stress-and-memory.md`
+  - `wiki/concepts/testing-effect.md`
+  - `wiki/sources/why-we-remember-unlocking-memorys-power.md`
+- Files merged (extended):
+  - `wiki/entities/amygdala.md`
+  - `wiki/entities/brenda-milner.md`
+  - `wiki/entities/elizabeth-loftus.md`
+  - `wiki/entities/endel-tulving.md`
+  - `wiki/entities/henry-molaison.md`
+  - `wiki/entities/hermann-ebbinghaus.md`
+  - `wiki/entities/wilder-penfield.md`
+  - `wiki/concepts/confabulation.md`
+  - `wiki/concepts/default-mode-network.md`
+  - `wiki/concepts/deja-vu.md`
+  - `wiki/concepts/episodic-memory.md`
+  - `wiki/concepts/hippocampus.md`
+  - `wiki/concepts/neural-plasticity.md`
+  - `wiki/concepts/prefrontal-cortex.md`
+  - `wiki/concepts/survival-circuits.md`
+- Files deprecated: None.
+- Notes: 34 new + 15 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

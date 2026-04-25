@@ -11,6 +11,7 @@ sources:
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
 - '[raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the
   - Suzanne Corkin.pdf#p1-402]'
+- '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 canonical: Brenda Milner
 confidence: high
 tags:
@@ -19,6 +20,7 @@ tags:
 - researcher
 - McGill
 - memory-researcher
+- pioneer
 aliases:
 - Milner
 - Dr. Milner
@@ -36,6 +38,8 @@ related:
   - cognitive-testing
   - nondeclarative-memory
   - mirror-tracing
+  - episodic-memory
+  - patient-hm
   topics:
   - memory
   - neuroscience
@@ -47,6 +51,8 @@ related:
   - donald-hebb
   - suzanne-corkin
   - william-scoville
+  - endel-tulving
+  - alexander-luria
 ---
 
 # Brenda Milner
@@ -77,6 +83,8 @@ Brenda Milner is a neuropsychologist who conducted pioneering studies on patient
 - Milner's 1957 paper with William Scoville detailing Henry's operation and psychological test results launched the modern era of memory research. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p130]
 - Brenda Milner conducted psychological examinations of Henry beginning in 1955 at the Montreal Neurological Institute. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p350]
 - Milner's research with Henry demonstrated that he could learn new motor skills through mirror tracing despite his profound amnesia, revealing preserved nondeclarative memory. [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p350]
+- Brenda Milner's 1957 paper definitively linked the formation of new memories to the hippocampus, inspiring a generation of scientists. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p41]
+- Milner's paper on H.M. was a 'shot heard around the world' in memory research. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p41]
 
 ## Inferences
 
@@ -101,6 +109,8 @@ Brenda Milner is a neuropsychologist who conducted pioneering studies on patient
 - Concepts: [[cognitive-testing]]
 - Concepts: [[nondeclarative-memory]]
 - Concepts: [[mirror-tracing]]
+- Concepts: [[episodic-memory]]
+- Concepts: [[patient-hm]]
 - Topics: [[memory]]
 - Topics: [[neuroscience]]
 - Entities: [[hm-patient]]
@@ -110,15 +120,19 @@ Brenda Milner is a neuropsychologist who conducted pioneering studies on patient
 - Entities: [[donald-hebb]]
 - Entities: [[suzanne-corkin]]
 - Entities: [[william-scoville]]
+- Entities: [[endel-tulving]]
+- Entities: [[alexander-luria]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p1-305]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
+- Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
+- 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.

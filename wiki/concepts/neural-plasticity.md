@@ -10,20 +10,31 @@ sources:
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The forgetting machine _ memory, perception, and the -
   Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]'
+- '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 confidence: high
 related:
   broader:
   - neuroscience
   - learning and memory
   - memory
+  - brain
+  - learning
   narrower:
   - synaptic plasticity
   - short-term plasticity
   - long-term plasticity
+  - cell-assemblies
+  adjacent:
+  - learning
+  - memory
+  - chunking
 tags:
 - synapses
 - learning
 - memory-formation
+- neuroscience
+- brain
+- plasticity
 aliases: []
 ---
 
@@ -48,6 +59,10 @@ The capacity of the nervous system to modify its structure and function in respo
 - Donald Hebb in 1949 formulated the principle that joint activation of neurons reinforces their connections, summarized as 'neurons that fire together wire together.'. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p23]
 - Tim Bliss and Terje Lømo experimentally verified Hebb's theory by observing that co-activation of neurons produced long-term potentiation (LTP) lasting weeks or months. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p23]
 - Experiments blocking LTP mechanisms inhibit the formation of memories. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p24]
+- Neural plasticity is the baby's ability to change connections in the neocortex in response to new experiences. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p19]
+- After age 12, neural alliances around familiar sounds become more entrenched and it becomes harder to learn new kinds of syllables. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p19]
+- Adult brains still have plenty of plasticity, especially in higher-order functions like judgment, evaluation, and problem-solving. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p20]
+- Donald Hebb proposed that neurons form alliances called cell assemblies to accomplish tasks in the brain. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p18]
 
 ## Inferences
 
@@ -58,9 +73,15 @@ The capacity of the nervous system to modify its structure and function in respo
 - Broader: [[neuroscience]]
 - Broader: [[learning and memory]]
 - Broader: [[memory]]
+- Broader: [[brain]]
+- Broader: [[learning]]
 - Narrower: [[synaptic plasticity]]
 - Narrower: [[short-term plasticity]]
 - Narrower: [[long-term plasticity]]
+- Narrower: [[cell-assemblies]]
+- Adjacent: [[learning]]
+- Adjacent: [[memory]]
+- Adjacent: [[chunking]]
 - Concepts: [[synaptic plasticity]]
 - Concepts: [[critical periods]]
 - Concepts: [[long-term potentiation]]
@@ -69,18 +90,26 @@ The capacity of the nervous system to modify its structure and function in respo
 - Concepts: [[hebbian-learning]]
 - Concepts: [[hopfield-networks]]
 - Concepts: [[memory-consolidation]]
+- Concepts: [[learning]]
+- Concepts: [[memory]]
+- Concepts: [[chunking]]
+- Concepts: [[expertise]]
+- Concepts: [[cell-assemblies]]
 - Topics: [[developmental neuroscience]]
 - Topics: [[cognitive neuroscience]]
 - Entities: [[Santiago Ramón y Cajal]]
 - Entities: [[Jerzy Konorski]]
 - Entities: [[Donald Hebb]]
+- Entities: [[donald-hebb]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]
+- Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-forgetting-machine-memory-perception-and-the-rodrigo-qui`.
+- 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.

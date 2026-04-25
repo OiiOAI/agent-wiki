@@ -12,6 +12,7 @@ sources:
   Oshin.pdf#p1-500]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 canonical: amygdala
 confidence: high
 aliases:
@@ -34,6 +35,11 @@ related:
   - classical conditioning
   - memory persistence
   - amygdala-dependent fear memory
+  - hippocampus
+  - emotional-memory
+  - survival-circuits
+  - fear-learning
+  - ptsd
   topics:
   - neuroscience-of-decision-making
   - emotions-and-feelings
@@ -58,6 +64,9 @@ tags:
 - decision-making
 - limbic-system
 - reward
+- brain
+- anatomy
+- memory
 ---
 
 # Amygdala
@@ -84,6 +93,12 @@ The amygdala is the neuronal substrate for feeling emotions as opposed to their 
 - The lateral nucleus of the amygdala is the site of convergence for conditioned (tone) and unconditioned (shock) stimulus signals, receiving direct and indirect pathways from thalamus and cortex, and is the primary site of LTP induction during fear conditioning. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1530]
 - LTP in the lateral amygdala requires Ca2+ influx through NMDA receptors and L-type voltage-gated Ca2+ channels, triggering a biochemical cascade that enhances synaptic transmission through insertion of AMPA receptors and increased presynaptic transmitter release. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1532]
 - The level of amygdala activity during encoding of emotional stories is highly correlated with long-term free recall of emotional information, implicating the amygdala in encoding and retrieval of emotionally charged memories. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1510]
+- The amygdala is located just inside the temporal lobes, in front of the hippocampus, and is a core part of the brain's circuitry responding to threats. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p97]
+- The amygdala has close communication with different neuromodulatory systems in the brain and peripheral glands that bring about the fight-or-flight response. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p97]
+- When recalling survival circuit activations, the amygdala and hippocampus work as a team—the hippocampus forms memories capturing context while the amygdala connects memories with survival circuits generating raw sensations. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p97]
+- People with amygdala damage from Urbach-Wiethe syndrome can remember past events but don't respond differently to gruesome photos than mundane ones. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p97]
+- People with hippocampus damage can have no memory of getting an electric shock but still experience an unconscious threat response when reminded of the event. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p97]
+- The amygdala brings back intense sensations when the hippocampus helps us mentally time travel back to emotional events. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p97]
 
 ## Inferences
 
@@ -114,6 +129,11 @@ The amygdala is the neuronal substrate for feeling emotions as opposed to their 
 - Concepts: [[classical conditioning]]
 - Concepts: [[memory persistence]]
 - Concepts: [[amygdala-dependent fear memory]]
+- Concepts: [[hippocampus]]
+- Concepts: [[emotional-memory]]
+- Concepts: [[survival-circuits]]
+- Concepts: [[fear-learning]]
+- Concepts: [[ptsd]]
 - Topics: [[neuroscience-of-decision-making]]
 - Topics: [[emotions-and-feelings]]
 - Topics: [[implicit memory]]
@@ -134,9 +154,11 @@ The amygdala is the neuronal substrate for feeling emotions as opposed to their 
 - Primary source: [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p1-305]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.

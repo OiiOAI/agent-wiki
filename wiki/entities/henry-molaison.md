@@ -10,6 +10,7 @@ sources:
   - Suzanne Corkin.pdf#p1-402]'
 - '[raw/books/neuroscience/The forgetting machine _ memory, perception, and the -
   Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]'
+- '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 canonical: Henry Molaison
 confidence: high
 aliases:
@@ -24,6 +25,8 @@ tags:
 - H.M.
 - hippocampus
 - case-study
+- seizures
+- surgery
 related:
   concepts:
   - amnesia
@@ -105,6 +108,9 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 - Patient H.M. had bilateral hippocampal lesions that caused loss of recent memory. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#L5349-L5357]
 - The case of H.M. was first described by William Scoville and Brenda Milner in a 1957 paper in the Journal of Neurology, Neurosurgery, and Psychiatry. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#L5352-L5357]
 - Larry Ryan Squire wrote a 2009 review article titled 'The legacy of patient H.M. for neuroscience' in Neuron, highlighting the continued importance of H.M.'s case for neuroscience research. [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#L5354-L5357]
+- Henry Molaison (H.M.) underwent surgery in 1953 where about 5 centimeters of hippocampus and surrounding tissue was removed from both sides. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p41]
+- After surgery, H.M. could start a conversation, leave for less than a minute, and have no memory it had occurred. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p41]
+- H.M.'s MRI later revealed his surgery had removed about a third of his temporal lobes and significant white matter. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p42]
 
 ## Inferences
 
@@ -167,8 +173,10 @@ Henry Molaison (1926–2008), known in scientific literature as H.M., was an Ame
 
 - Primary source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 - Additional source: [raw/books/neuroscience/The forgetting machine _ memory, perception, and the - Rodrigo Quian Quiroga; hoopla digital.pdf#p1-200]
+- Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-forgetting-machine-memory-perception-and-the-rodrigo-qui`.
+- 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.

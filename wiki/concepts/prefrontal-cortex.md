@@ -13,6 +13,7 @@ sources:
 - '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
   of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
 - '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
+- '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 confidence: high
 tags:
 - brain structure
@@ -25,6 +26,9 @@ tags:
 - prefrontal
 - learning
 - neuroscience
+- brain
+- executive-function
+- attention
 related:
   broader:
   - brain structures
@@ -34,15 +38,21 @@ related:
   - frontal-lobe
   - cerebral cortex
   - cognitive neuroscience
+  - brain
+  - cognition
   narrower:
   - area-10
   - decision-making
   - working-memory
   - frontal-pole
   - executive-functions
+  - central-executive
   adjacent:
   - neocortex
   - limbic-system
+  - hippocampus
+  - working-memory
+  - attention
 aliases: []
 ---
 
@@ -72,12 +82,21 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Prefrontal areas help inhibit the tendency to act on simple correlative stimulus relationships and guide sampling of alternative higher-order sequential or hierarchic associations. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p286]
 - Bilateral prefrontal damage between 19 and 31 months of age produces particular impairments in vocabulary and grammar development. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p289]
 - Human prefrontal cortex is enlarged compared to posterior sensory and subcortical regions, biasing both attentional and mnemonic strategies to favor attention shifted from token-object associations to higher-order token-token relationships. [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p292]
+- The prefrontal cortex takes up about one-third of the human brain's real estate. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p22]
+- The prefrontal cortex serves as the 'central executive' of the brain, coordinating specialized networks across the brain toward common goals. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p28]
+- Frontal lobotomies performed in the 1960s left patients zombielike, apathetic, docile, and devoid of motivation. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p23]
+- Patients with prefrontal damage could hold numbers in working memory but struggled to focus in the face of distraction and did not spontaneously use memorization strategies. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p26]
+- The prefrontal cortex is one of the last areas of the brain to mature, continuously fine-tuning connections throughout adolescence. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p29]
+- ADHD is associated with atypical activity in the prefrontal cortex. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p29]
+- Media multitasking impairs memory and certain parts of the prefrontal cortex are thinned out in people who do heavy media multitasking. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p30]
+- Sleep deprivation, alcohol, stress, hypertension, diabetes, and COVID-19 can all adversely affect prefrontal function. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p31]
 
 ## Inferences
 
 - Inference: The unique features of human prefrontal cortex, particularly the frontal pole, likely contribute to human capacities for abstract reasoning and multitasking that distinguish us from other primates.
 - Inference: Novel connectivity patterns between prefrontal and parietal/temporal areas in humans may underlie enhanced cognitive integration compared to apes.
 - Inference: The enlargement of prefrontal cortex in humans may reflect adaptation to the unusual cognitive demands imposed by symbol learning.
+- Inference: The prefrontal cortex coordinates specialized brain networks rather than being a storage center itself, functioning like a CEO who manages divisions rather than doing specialized work.
 
 ## Uncertainties
 
@@ -92,13 +111,19 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Broader: [[frontal-lobe]]
 - Broader: [[cerebral cortex]]
 - Broader: [[cognitive neuroscience]]
+- Broader: [[brain]]
+- Broader: [[cognition]]
 - Narrower: [[area-10]]
 - Narrower: [[decision-making]]
 - Narrower: [[working-memory]]
 - Narrower: [[frontal-pole]]
 - Narrower: [[executive-functions]]
+- Narrower: [[central-executive]]
 - Adjacent: [[neocortex]]
 - Adjacent: [[limbic-system]]
+- Adjacent: [[hippocampus]]
+- Adjacent: [[working-memory]]
+- Adjacent: [[attention]]
 - Concepts: [[working memory]]
 - Concepts: [[executive function]]
 - Concepts: [[cognition]]
@@ -108,10 +133,17 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Concepts: [[displacement-theory-neural]]
 - Concepts: [[symbol-learning]]
 - Concepts: [[brocas-area]]
+- Concepts: [[hippocampus]]
+- Concepts: [[working-memory]]
+- Concepts: [[neural-plasticity]]
+- Concepts: [[attention]]
+- Concepts: [[reality-monitoring]]
 - Entities: [[Todd Preuss]]
 - Entities: [[Etienne Koechlin]]
 - Entities: [[Phineas Gage]]
 - Entities: [[williams-syndrome]]
+- Entities: [[charan-ranganath]]
+- Entities: [[mark-desposito]]
 
 ## Provenance
 
@@ -119,6 +151,7 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
 - Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
+- Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 
 ## Change notes
 
@@ -126,3 +159,4 @@ The region of the cortex at the front of the brain that evolved most recently an
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
 - 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
 - 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.
+- 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.

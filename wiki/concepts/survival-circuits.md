@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
 - '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
   of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
+- '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
 confidence: high
 tags:
 - survival
@@ -18,6 +19,9 @@ tags:
 - survival circuits
 - innate behavior
 - threat detection
+- neuroscience
+- emotion
+- motivation
 related:
   broader:
   - threat processing
@@ -56,6 +60,9 @@ Survival circuits are brain mechanisms that detect threats and orchestrate defen
 - When activated, defensive survival circuits trigger behaviors and physiological changes, inducing a global defensive survival state. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p337]
 - Survival circuits control behavior nonconsciously; in conscious organisms, the global state can influence conscious emotions. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p338]
 - The amygdala is part of a defensive survival circuit, not a 'fear center' — it controls defensive responses but does not generate the conscious feeling of fear. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p333]
+- Neuroscientist Joe LeDoux introduced the concept of survival circuits to explain how emotions and actions are shaped by basic brain systems for avoiding threats and finding rewards. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p95]
+- When survival circuits go into overdrive, people experience intense emotions such as elation, lust, panic, anxiety, or disgust. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p95]
+- Events that intensely activate survival circuits are worth remembering because they provide valuable information for staying safe, thriving, and reproducing in the future. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p95]
 
 ## Inferences
 
@@ -79,16 +86,22 @@ Survival circuits are brain mechanisms that detect threats and orchestrate defen
 - Adjacent: [[implicit-explicit-distinction]]
 - Concepts: [[defensive motivational state]]
 - Concepts: [[threat detection]]
+- Concepts: [[neuromodulators]]
+- Concepts: [[emotional-memory]]
+- Concepts: [[noradrenaline]]
 - Entities: [[joseph-ledoux]]
 - Entities: [[david-anderson]]
 - Entities: [[michael-fanselow]]
+- Entities: [[joe-ledoux]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
+- Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
+- 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.
