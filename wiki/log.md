@@ -10432,3 +10432,56 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/temporal-discounting.md`
 - Files deprecated: None.
 - Notes: 60 new + 13 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 工商管理精要-兼并与收购-美-p-s-萨德沙纳姆-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/[工商管理精要]兼并与收购·[美]P.S.萨德沙纳姆 著.pdf
+- Files created:
+  - `wiki/entities/ai-er-bao-zhi-gong-si.md`
+  - `wiki/entities/cmb-bao-zhuang-gong-si.md`
+  - `wiki/entities/han-sen-xin-tuo-gong-si.md`
+  - `wiki/entities/he-zi-qi-ye.md`
+  - `wiki/entities/hui-feng-yin-hang-shou-gou-mi-de-lan-yin-hang.md`
+  - `wiki/entities/kang-bo-gong-si.md`
+  - `wiki/entities/kao-le-luo-er-gong-si.md`
+  - `wiki/entities/ku-bo-si-lai-bu-lan-hui-ji-zi-xun-gong-si.md`
+  - `wiki/entities/long-duan-he-jian-bing-wei-yuan-hui.md`
+  - `wiki/entities/que-chao-shou-gou-lun-te-rui.md`
+  - `wiki/entities/shou-gou-jian-bing-wei-yuan-hui.md`
+  - `wiki/entities/tong-yong-dian-qi-yu-si-nai-ke-ma-he-zi.md`
+  - `wiki/entities/xi-men-zi-shou-gou-pu-lai-sai.md`
+  - `wiki/concepts/an-suo-fu-ju-zhen.md`
+  - `wiki/concepts/bai-yi-qi-shi.md`
+  - `wiki/concepts/bo-shi-dun-ju-zhen.md`
+  - `wiki/concepts/bo-te-wu-li-mo-xing.md`
+  - `wiki/concepts/cai-wu-bao-gao-biao-zhun-di-6-hao.md`
+  - `wiki/concepts/cai-wu-bao-gao-biao-zhun-di-7-hao.md`
+  - `wiki/concepts/chan-pin-sheng-ming-zhou-qi.md`
+  - `wiki/concepts/dai-li-li-lun.md`
+  - `wiki/concepts/fan-chang-shou-yi-fa.md`
+  - `wiki/concepts/fan-shou-gou-fang-yu.md`
+  - `wiki/concepts/gang-gan-shou-gou.md`
+  - `wiki/concepts/gong-ping-jiao-yi-ju.md`
+  - `wiki/concepts/gong-si-fen-chai.md`
+  - `wiki/concepts/guan-li-ceng-shou-gou.md`
+  - `wiki/concepts/ji-lun-tui-dong-zuo-yong.md`
+  - `wiki/concepts/jia-zhi-lian-fen-xi.md`
+  - `wiki/concepts/kua-guo-shou-gou.md`
+  - `wiki/concepts/mai-fang-gong-si-ren-gu-quan-zheng.md`
+  - `wiki/concepts/ou-gong-ti-fan-tuo-la-si-jian-guan.md`
+  - `wiki/concepts/qiu-fan-er-nan-tui-li.md`
+  - `wiki/concepts/shou-gou-cheng-gong-yin-su.md`
+  - `wiki/concepts/shou-gou-gu-wen.md`
+  - `wiki/concepts/shou-gou-wen-hua-feng-xian.md`
+  - `wiki/concepts/shou-gou-yao-yue-jian-guan.md`
+  - `wiki/concepts/shou-gou-ye-ji-ping-gu.md`
+  - `wiki/concepts/shou-gou-zheng-he.md`
+  - `wiki/concepts/shou-yi-xing-zhi-fu.md`
+  - `wiki/concepts/xian-zhi-xian-jin-liu-liang.md`
+  - `wiki/concepts/ying-guo-fan-tuo-la-si-zhi-du.md`
+  - `wiki/concepts/zhan-lue-lian-meng.md`
+  - `wiki/concepts/zhan-lue-neng-li-zhuan-yi.md`
+  - `wiki/concepts/zu-zhi-wen-hua-lei-xing.md`
+  - `wiki/sources/jian-bing-yu-shou-gou.md`
+- Files deprecated: None.
+- Notes: 46 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
