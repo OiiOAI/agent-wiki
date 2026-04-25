@@ -7442,3 +7442,21 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/emotional-intelligence.md`
 - Files deprecated: None.
 - Notes: 27 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | rethinking-positive-thinking-gabriele-oettingen
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Rethinking Positive Thinking - Gabriele Oettingen.pdf
+- Files created:
+  - `wiki/entities/gabriele-oettingen.md`
+  - `wiki/concepts/expectations.md`
+  - `wiki/concepts/implementation-intentions.md`
+  - `wiki/concepts/mental-attainment.md`
+  - `wiki/concepts/mental-contrasting.md`
+  - `wiki/concepts/positive-fantasies.md`
+  - `wiki/concepts/reverse-contrasting.md`
+  - `wiki/concepts/self-regulation.md`
+  - `wiki/concepts/woop.md`
+  - `wiki/sources/rethinking-positive-thinking.md`
+  - `wiki/analyses/why-positive-thinking-fails.md`
+- Files deprecated: None.
+- Notes: 11 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
