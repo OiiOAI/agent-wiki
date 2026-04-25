@@ -539,3 +539,50 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/metabolic-flexibility.md`
 - Files deprecated: None.
 - Notes: 57 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | outlive
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/health/Outlive.pdf
+- Files created:
+  - `wiki/entities/apoe.md`
+  - `wiki/entities/barry.md`
+  - `wiki/entities/gerald-reaven.md`
+  - `wiki/entities/liquid-biopsy.md`
+  - `wiki/entities/robert-marchand.md`
+  - `wiki/entities/samuel-zelman.md`
+  - `wiki/entities/steve-rosenberg.md`
+  - `wiki/concepts/adoptive-cell-therapy.md`
+  - `wiki/concepts/apob.md`
+  - `wiki/concepts/atherosclerosis.md`
+  - `wiki/concepts/caloric-restriction.md`
+  - `wiki/concepts/cancer-immunotherapy.md`
+  - `wiki/concepts/centenarian-decathlon.md`
+  - `wiki/concepts/continuous-glucose-monitoring.md`
+  - `wiki/concepts/dialectical-behavior-therapy.md`
+  - `wiki/concepts/dietary-protein.md`
+  - `wiki/concepts/dietary-restriction.md`
+  - `wiki/concepts/distress-tolerance.md`
+  - `wiki/concepts/emotional-health.md`
+  - `wiki/concepts/fasting.md`
+  - `wiki/concepts/grip-strength.md`
+  - `wiki/concepts/hyperinsulinemia.md`
+  - `wiki/concepts/insulin-resistance.md`
+  - `wiki/concepts/lp-a.md`
+  - `wiki/concepts/metabolic-syndrome.md`
+  - `wiki/concepts/mindfulness.md`
+  - `wiki/concepts/nafld.md`
+  - `wiki/concepts/nash.md`
+  - `wiki/concepts/nutritional-epidemiology.md`
+  - `wiki/concepts/rucking.md`
+  - `wiki/concepts/sleep.md`
+  - `wiki/concepts/stability-training.md`
+  - `wiki/concepts/visceral-fat.md`
+  - `wiki/concepts/vo2-max.md`
+  - `wiki/concepts/warburg-effect.md`
+  - `wiki/concepts/zone-2-training.md`
+  - `wiki/topics/alzheimers-disease-prevention.md`
+  - `wiki/sources/outlive-peter-attia.md`
+- Files merged (extended):
+  - `wiki/concepts/sarcopenia.md`
+- Files deprecated: None.
+- Notes: 38 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
