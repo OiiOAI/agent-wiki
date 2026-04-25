@@ -8805,3 +8805,66 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/giddens-sutton-she-hui-xue-di-qi-ban-shang-ce.md`
 - Files deprecated: None.
 - Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 社会学的想象力-美-c-赖特-米尔斯
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf
+- Files created:
+  - `wiki/entities/bao-er-la-za-si-fei-er-de.md`
+  - `wiki/entities/c-lai-te-mi-er-si.md`
+  - `wiki/entities/la-za-si-fei-er-de.md`
+  - `wiki/entities/lai-te-mi-er-si.md`
+  - `wiki/entities/luo-bo-te-lin-de.md`
+  - `wiki/entities/ma-ke-si-huo-ke-hai-mo.md`
+  - `wiki/entities/ma-ke-si-wei-bo.md`
+  - `wiki/entities/mei-guo-shi-bing.md`
+  - `wiki/entities/ta-er-ke-te-pa-sen-si.md`
+  - `wiki/concepts/bi-jiao-yan-jiu.md`
+  - `wiki/concepts/chou-xiang-jing-yan-zhu-yi.md`
+  - `wiki/concepts/chuang-zao-li-shi-yu-ming-yun.md`
+  - `wiki/concepts/di-si-ji-yuan.md`
+  - `wiki/concepts/diao-shi.md`
+  - `wiki/concepts/fang-fa-lun-de-yi-zhi.md`
+  - `wiki/concepts/ge-ren-kun-rao.md`
+  - `wiki/concepts/gong-ye-ren-ji-guan-xi.md`
+  - `wiki/concepts/gong-zhong-lun-ti.md`
+  - `wiki/concepts/he-fa-xing.md`
+  - `wiki/concepts/hong-da-li-lun.md`
+  - `wiki/concepts/huo-bu-si-shi-zhi-xu-wen-ti.md`
+  - `wiki/concepts/ji-qiao-jia-zhi-yu-gan-xing.md`
+  - `wiki/concepts/jiao-lu-yu-dan-mo.md`
+  - `wiki/concepts/jing-dian-she-hui-ke-xue.md`
+  - `wiki/concepts/ju-wen-yi-fu-xing-jing-shen-de-ren.md`
+  - `wiki/concepts/ke-ceng-zhi-qi-zhi.md`
+  - `wiki/concepts/ke-xue-zhe-xue.md`
+  - `wiki/concepts/kuai-le-de-ji-qi-ren.md`
+  - `wiki/concepts/kun-rao-yu-lun-ti.md`
+  - `wiki/concepts/li-shi-te-shu-xing-yuan-ze.md`
+  - `wiki/concepts/li-xing-he-zi-you.md`
+  - `wiki/concepts/min-zu-guo-jia.md`
+  - `wiki/concepts/ren-lei-de-duo-yang-xing.md`
+  - `wiki/concepts/ren-lei-gong-cheng.md`
+  - `wiki/concepts/she-hui-ke-xue-jia-de-zheng-zhi-jue-se.md`
+  - `wiki/concepts/she-hui-xin-li-xue.md`
+  - `wiki/concepts/she-hui-xue-de-sheng-ji-li-gai-nian.md`
+  - `wiki/concepts/she-hui-xue-de-xiang-xiang-li.md`
+  - `wiki/concepts/she-hui-zheng-he.md`
+  - `wiki/concepts/shi-qi.md`
+  - `wiki/concepts/shi-shi-yuan-ze-yu-li-xing-jia-zhi.md`
+  - `wiki/concepts/wen-hua-zhi-hou.md`
+  - `wiki/concepts/xin-de-shi-yong-xing.md`
+  - `wiki/concepts/xin-li-zhu-yi.md`
+  - `wiki/concepts/xue-yuan-pai-xi.md`
+  - `wiki/concepts/yi-hua-de-ren.md`
+  - `wiki/concepts/yi-hua.md`
+  - `wiki/concepts/yu-ce-yu-kong-zhi.md`
+  - `wiki/concepts/zhen-shi-gong-zhong-yu-da-zhong-she-hui.md`
+  - `wiki/concepts/zheng-ming-wen-ti.md`
+  - `wiki/concepts/zhi-xue-zhi-dao.md`
+  - `wiki/concepts/zi-you-zhu-yi-shi-yong-xing.md`
+  - `wiki/sources/she-hui-xue-de-sheng-ji-li.md`
+- Files merged (extended):
+  - `wiki/concepts/quan-li.md`
+  - `wiki/concepts/she-hui-jie-gou.md`
+- Files deprecated: None.
+- Notes: 53 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

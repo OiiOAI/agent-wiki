@@ -4,27 +4,37 @@ title: 权力
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲
   - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]'
+- '[raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p1-270]'
 confidence: high
 tags:
 - 权力类型
 - 社会哲学
 - 政治哲学
 - 评价维度
+- 权力理论
+- 政治社会学
 related:
   broader:
   - 重要性
   - 影响力
-  narrower: []
+  - 社会结构
+  - 制度性秩序
+  narrower:
+  - 权威
+  - 强制
+  - 弄权
   adjacent:
   - 权威
   - 财富
   - 声名
+  - 合法性
+  - 社会控制
+aliases: []
 ---
-
 
 # 权力
 
@@ -42,10 +52,16 @@ related:
 - 存在影响情感、观念和理解方式的权力——这是艺术家和思想家的领域. [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L32579-L32650]
 - 存在影响人们内心自我的权力——这是精神导师的领域. [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L32579-L32650]
 - 领袖的功能是把人们的各种追求和行动整合为朝向特殊目标的整体，解决竞争目标的问题. [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L32579-L32650]
+- 权力涉及人们所制定的他们生存其间的各种安排，以及构成他们所处时期历史事件的决策. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p50]
+- 今天，我们不能假设统治必须最终出于人们的同意，广为盛行的权力手段是管理与操纵人们的同意的权力. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p50]
+- 必须始终分清楚三种权力类型：权威（由自愿服从者的信仰证明为正当的权力）、强制（强制是最终的权力形式）和弄权（虽被行使但无权者一无所知的权力）. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p50]
+- 在现代世界，权力往往并不像中世纪那样显得有权威，统治者的正当性似乎不再那么必不可少. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p51]
+- 宏大理论假设在每个社会都理所当然地存在价值等级，这个假设系统地阻碍了我们把关于权力的重要问题表述清楚. [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p52]
 
 ## Inferences
 
 - Inference: 权力虽然可以带来重要性，但作者指出权力也会腐败，可能在更大程度上减少持有者的实在
+- Inference: 宏大理论的规范性秩序思想导致我们假设几乎所有的权力都被合法化了，但实际上存在大量未经理性或服从者良知认可就被成功行使的权力
 
 ## Uncertainties
 
@@ -55,9 +71,16 @@ related:
 
 - Broader: [[重要性]]
 - Broader: [[影响力]]
+- Broader: [[社会结构]]
+- Broader: [[制度性秩序]]
+- Narrower: [[权威]]
+- Narrower: [[强制]]
+- Narrower: [[弄权]]
 - Adjacent: [[权威]]
 - Adjacent: [[财富]]
 - Adjacent: [[声名]]
+- Adjacent: [[合法性]]
+- Adjacent: [[社会控制]]
 - Concepts: [[重要性]]
 - Concepts: [[财富]]
 - Concepts: [[声名]]
@@ -66,7 +89,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/二十世纪西方哲学经典(套装共10册)【上海译文出品!从历史哲学到科学哲学,十本书搭建一世纪的哲学方程式,读懂二十世纪的哲 - 马丁·海德格尔 & 卡尔·波普尔(Karl R_ Po.epub#L1-L1]
+- Additional source: [raw/books/sociology/社会学的想象力 - 美 - c - 赖特 - 米尔斯.pdf#p1-270]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `社会学的想象力-美-c-赖特-米尔斯`.
