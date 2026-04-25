@@ -11576,3 +11576,39 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/jin-gang-jing-xin-jing-tan-jing.md`
 - Files deprecated: None.
 - Notes: 13 new + 24 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代西方主流学术名著译丛-全球化压力下的世界文化-德-赖纳-特茨拉夫-主编
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/[当代西方主流学术名著译丛]全球化压力下的世界文化·[德]赖纳·特茨拉夫 主编.pdf
+- Files created:
+  - `wiki/entities/a-ma-di-ya-sen.md`
+  - `wiki/entities/bei-mei-zi-you-mao-yi-qu.md`
+  - `wiki/entities/lai-na-te-ci-la-fu.md`
+  - `wiki/entities/ma-ha-ti-er.md`
+  - `wiki/entities/nan-fang-gong-tong-shi-chang.md`
+  - `wiki/entities/sa-pa-ta-yun-dong.md`
+  - `wiki/concepts/bian-yuan-hua.md`
+  - `wiki/concepts/ge-lun-bi-ya-hua.md`
+  - `wiki/concepts/he-lan-bing.md`
+  - `wiki/concepts/hua-sheng-dun-gong-shi.md`
+  - `wiki/concepts/nei-bu-fa-zhan-qian-li.md`
+  - `wiki/concepts/quan-qiu-hua.md`
+  - `wiki/concepts/she-hui-bu-ping-deng-dui-min-zhu-zhi-du-de-wei-hai.md`
+  - `wiki/concepts/shou-ru-fen-pei-yu-fan-zui-lu-de-pan-sheng.md`
+  - `wiki/concepts/wen-hua-quan.md`
+  - `wiki/concepts/xin-pin-qiong.md`
+  - `wiki/concepts/ya-zhou-jia-zhi-guan.md`
+  - `wiki/topics/cong-zheng-zhi-shang-pei-zhu-quan-qiu-hua.md`
+  - `wiki/topics/jie-gou-xiao-zheng-zheng-ce.md`
+  - `wiki/topics/la-ding-mei-zhou-min-zhu-hua.md`
+  - `wiki/topics/la-ding-mei-zhou-qu-yu-yi-ti-hua.md`
+  - `wiki/topics/la-ding-mei-zhou-shou-zhi-yue-de-xian-dai-hua.md`
+  - `wiki/topics/la-tin-mei-zhou-xian-dai-hua.md`
+  - `wiki/topics/quan-qiu-hua-ya-li-xia-de-fei-zhou.md`
+  - `wiki/topics/ren-kou-zeng-chang-yu-quan-qiu-hua.md`
+  - `wiki/topics/ya-zhou-jin-rong-wei-ji.md`
+  - `wiki/sources/quan-qiu-hua-ya-li-xia-de-shi-jie-wen-hua.md`
+- Files merged (extended):
+  - `wiki/concepts/di-san-shi-jie.md`
+- Files deprecated: None.
+- Notes: 27 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
