@@ -4164,3 +4164,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/henri-poincare.md`
 - Files deprecated: None.
 - Notes: 46 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 中国文库-哲学社会科学类-中国思想史-第2卷-葛兆光-1950
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/[中国文库·哲学社会科学类]中国思想史 第2卷 - 葛兆光, 1950.pdf
+- Files created:
+  - `wiki/sources/zhong-guo-si-xiang-shi-xia.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
