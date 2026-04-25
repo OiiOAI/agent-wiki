@@ -3834,3 +3834,86 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/sigmund-freud.md`
 - Files deprecated: None.
 - Notes: 78 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | da-song-zhi-bian-1063-1086-zhe-shi-yi-ge-zhao-dong-mei
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/Da Song Zhi Bian ,1063 - 1086(Zhe Shi Yi Ge - Zhao Dong Mei.pdf
+- Files created:
+  - `wiki/entities/a-yun-an.md`
+  - `wiki/entities/cai-jing.md`
+  - `wiki/entities/cai-que.md`
+  - `wiki/entities/cao-tai-hou.md`
+  - `wiki/entities/cheng-fang.md`
+  - `wiki/entities/deng-wan.md`
+  - `wiki/entities/fan-chun-ren.md`
+  - `wiki/entities/fan-zhen.md`
+  - `wiki/entities/gao-ju-jian.md`
+  - `wiki/entities/han-jiang.md`
+  - `wiki/entities/han-qi.md`
+  - `wiki/entities/han-zongshi.md`
+  - `wiki/entities/jian-yuan-ti-ming-bei.md`
+  - `wiki/entities/kong-wen-zhong.md`
+  - `wiki/entities/liu-shu.md`
+  - `wiki/entities/lu-hui-qing.md`
+  - `wiki/entities/lu-hui.md`
+  - `wiki/entities/ou-yang-xiu.md`
+  - `wiki/entities/qing-miao-fa.md`
+  - `wiki/entities/shen-zong.md`
+  - `wiki/entities/si-ma-guang.md`
+  - `wiki/entities/si-yue-tan-hua.md`
+  - `wiki/entities/song-shen-zong.md`
+  - `wiki/entities/song-ying-zong.md`
+  - `wiki/entities/su-shi.md`
+  - `wiki/entities/tai-huang-tai-hou.md`
+  - `wiki/entities/tang-jie.md`
+  - `wiki/entities/wang-an-shi.md`
+  - `wiki/entities/wang-guang-yuan.md`
+  - `wiki/entities/wu-ju-hou.md`
+  - `wiki/entities/xu-zun.md`
+  - `wiki/entities/yi-yong.md`
+  - `wiki/entities/ying-zong.md`
+  - `wiki/entities/zhang-dun.md`
+  - `wiki/entities/zhang-fang-ping.md`
+  - `wiki/entities/zheng-xie.md`
+  - `wiki/entities/zhi-zhi-san-si-tiao-li-si.md`
+  - `wiki/concepts/bei-song-zheng-zhi-de-fa-jia-zhuan-xiang.md`
+  - `wiki/concepts/chai-yi-fa-yu-mian-yi-fa.md`
+  - `wiki/concepts/ci-zun-ju-bei.md`
+  - `wiki/concepts/du-le-yuan.md`
+  - `wiki/concepts/he-jie-zhao-shu.md`
+  - `wiki/concepts/jia-you-si-you.md`
+  - `wiki/concepts/jun-zi-he-er-bu-tong.md`
+  - `wiki/concepts/ke-ji-fu-li.md`
+  - `wiki/concepts/kuan-rong-zheng-zhi-de-bei-lun.md`
+  - `wiki/concepts/li-cai-zhi-zheng.md`
+  - `wiki/concepts/li-yi-zheng-zhi.md`
+  - `wiki/concepts/pi-ping-jiu-cuo-ji-zhi.md`
+  - `wiki/concepts/pu-yi.md`
+  - `wiki/concepts/qi-ying-hui.md`
+  - `wiki/concepts/ruo-zuo-he-geng.md`
+  - `wiki/concepts/san-bu-zu.md`
+  - `wiki/concepts/san-sheng-zai-xiang-zhi.md`
+  - `wiki/concepts/tai-jian-zhi-du.md`
+  - `wiki/concepts/xiao-ren-zhi-de-cao.md`
+  - `wiki/concepts/yan-lu.md`
+  - `wiki/concepts/yi-fa-gai-ge.md`
+  - `wiki/concepts/yong-le-cheng-zhi-bai.md`
+  - `wiki/concepts/yu-tian.md`
+  - `wiki/concepts/zi-shou-jian-xing-yuan-ze.md`
+  - `wiki/concepts/zu-zong-zhi-fa-bu-ke-bian.md`
+  - `wiki/topics/bei-song-zheng-zhi-wen-hua-you-sheng-zhuan-shuai.md`
+  - `wiki/topics/gao-tai-huang-tai-hou-zhi-zheng.md`
+  - `wiki/topics/jing-yan-lun-zheng.md`
+  - `wiki/topics/shen-zong-chao-dang-zheng.md`
+  - `wiki/topics/tai-jian-guan-yu-zai-xiang-zhi-zheng.md`
+  - `wiki/topics/xi-ning-bian-fa.md`
+  - `wiki/topics/yuan-you-geng-hua.md`
+  - `wiki/topics/zi-zhi-tong-jian-cheng-shu.md`
+  - `wiki/sources/da-song-zhi-bian-1063-1086.md`
+  - `wiki/analyses/han-qi-bi-po-cao-tai-hou-che-lian.md`
+  - `wiki/analyses/pu-yi-de-shi-zhi-yu-ying-xiang.md`
+  - `wiki/analyses/shen-zong-wang-an-shi-lie-hen.md`
+  - `wiki/analyses/su-shi-yu-si-ma-guang-de-guan-xi.md`
+  - `wiki/analyses/ying-zong-feng-bing-shi-mo.md`
+- Files deprecated: None.
+- Notes: 76 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
