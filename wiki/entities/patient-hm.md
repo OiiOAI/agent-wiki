@@ -4,21 +4,27 @@ title: H.M. (Henry Molaison)
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]'
 canonical: Henry Molaison
 confidence: high
 aliases:
 - Henry Molaison
 - patient-hm
 - h-m
+- H.M.
 tags:
 - case-study
 - memory
 - hippocampus
 - neuroscience-history
+- brain-damage
+- amnesia
+- memory-patient
+- neuroscience-case
 related:
   concepts:
   - explicit-memory
@@ -26,10 +32,9 @@ related:
   - hippocampus
   - medial-temporal-lobe
   - anterograde-amnesia
-  topics: []
-  entities: []
+  - transience
+  - epilepsy-surgery
 ---
-
 
 # H.M. (Henry Molaison)
 
@@ -44,6 +49,10 @@ Henry Molaison (1926-2008), known by his pseudonym H.M., was a patient who under
 - H.M. retained long-term memory for events that had occurred before the operation, including his name, former job, and childhood events. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1495]
 - Despite anterograde amnesia, H.M. could learn skilled movements like mirror-tracing and showed improvement comparable to healthy subjects while having no conscious memory of the learning. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1453]
 - H.M.'s case provided the first clear link between memory and the medial temporal lobe, including the hippocampus. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1495]
+- H.M. was operated on in 1953 by neurosurgeon William Beecher Scoville, who removed inner parts of the temporal lobe on both sides. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p40]
+- After the operation, H.M. could not remember conversations from minutes earlier and failed to recognize doctors who worked with him every day. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p41]
+- H.M. was plagued by extraordinary transience for over fifty years until his death in 2008; his memory never showed even a hint of improvement. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p41]
+- Despite his profound anterograde amnesia, H.M. had no difficulty repeating strings of digits immediately, demonstrating intact phonological loop function. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p46]
 
 ## Inferences
 
@@ -56,11 +65,15 @@ Henry Molaison (1926-2008), known by his pseudonym H.M., was a patient who under
 - Concepts: [[hippocampus]]
 - Concepts: [[medial-temporal-lobe]]
 - Concepts: [[anterograde-amnesia]]
+- Concepts: [[transience]]
+- Concepts: [[epilepsy-surgery]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-seven-sins-of-memory-daniel-l-schacter`.

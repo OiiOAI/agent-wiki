@@ -3242,3 +3242,90 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/reciprocal-altruism.md`
 - Files deprecated: None.
 - Notes: 53 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-seven-sins-of-memory-daniel-l-schacter
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf
+- Files created:
+  - `wiki/entities/brendan-dassey.md`
+  - `wiki/entities/brent-staples.md`
+  - `wiki/entities/burke-and-mackay.md`
+  - `wiki/entities/central-park-five.md`
+  - `wiki/entities/cheryl-amirault-lefave.md`
+  - `wiki/entities/daniel-l-schacter.md`
+  - `wiki/entities/donnie-moore.md`
+  - `wiki/entities/edward-geiselman.md`
+  - `wiki/entities/elizabeth-loftus.md`
+  - `wiki/entities/false-memory-syndrome-foundation.md`
+  - `wiki/entities/fells-acres.md`
+  - `wiki/entities/francois-leon-arnaud.md`
+  - `wiki/entities/gisli-gudjonsson.md`
+  - `wiki/entities/hermann-ebbinghaus.md`
+  - `wiki/entities/hugo-munsterberg.md`
+  - `wiki/entities/ira-hyman.md`
+  - `wiki/entities/jean-van-de-velde.md`
+  - `wiki/entities/jill-price.md`
+  - `wiki/entities/john-doe-2.md`
+  - `wiki/entities/kari-engholm.md`
+  - `wiki/entities/maggie-bruck.md`
+  - `wiki/entities/mc-martin-preschool.md`
+  - `wiki/entities/pamela-freyd.md`
+  - `wiki/entities/patient-ls.md`
+  - `wiki/entities/patient-pn.md`
+  - `wiki/entities/paul-ingram.md`
+  - `wiki/entities/peter-reilly.md`
+  - `wiki/entities/propranolol.md`
+  - `wiki/entities/rick-perry.md`
+  - `wiki/entities/ronald-fisher.md`
+  - `wiki/entities/saul-kassin.md`
+  - `wiki/entities/susan-kelley.md`
+  - `wiki/entities/tatiana-cooley.md`
+  - `wiki/concepts/absent-mindedness.md`
+  - `wiki/concepts/adaptive-memory-errors.md`
+  - `wiki/concepts/amygdala-emotional-memory.md`
+  - `wiki/concepts/bias-memory-sin.md`
+  - `wiki/concepts/blocking-memory.md`
+  - `wiki/concepts/blocking-tip-of-the-tongue.md`
+  - `wiki/concepts/child-suggestibility.md`
+  - `wiki/concepts/cognitive-interview.md`
+  - `wiki/concepts/consistency-bias.md`
+  - `wiki/concepts/constructive-episodic-simulation-hypothesis.md`
+  - `wiki/concepts/cryptomnesia.md`
+  - `wiki/concepts/deja-vu.md`
+  - `wiki/concepts/egocentric-bias.md`
+  - `wiki/concepts/episodic-recombination.md`
+  - `wiki/concepts/fading-affect-bias.md`
+  - `wiki/concepts/fake-news-memory-bias.md`
+  - `wiki/concepts/false-confessions.md`
+  - `wiki/concepts/false-memory-syndrome.md`
+  - `wiki/concepts/hindsight-bias.md`
+  - `wiki/concepts/hsam.md`
+  - `wiki/concepts/imaginal-exposure-therapy.md`
+  - `wiki/concepts/implicit-bias.md`
+  - `wiki/concepts/interrogative-suggestibility.md`
+  - `wiki/concepts/memory-distrust-syndrome.md`
+  - `wiki/concepts/memory-suppression.md`
+  - `wiki/concepts/misattribution-memory.md`
+  - `wiki/concepts/misattribution.md`
+  - `wiki/concepts/persistence-memory-sin.md`
+  - `wiki/concepts/prospective-memory.md`
+  - `wiki/concepts/retrieval-inhibition.md`
+  - `wiki/concepts/rich-false-memories.md`
+  - `wiki/concepts/stereotype-bias.md`
+  - `wiki/concepts/suggestibility-eyewitness-testimony.md`
+  - `wiki/concepts/suggestibility-memory.md`
+  - `wiki/concepts/suggestibility.md`
+  - `wiki/concepts/tip-of-the-tongue.md`
+  - `wiki/concepts/transience-memory-sin.md`
+  - `wiki/concepts/transience.md`
+  - `wiki/sources/the-seven-sins-of-memory.md`
+- Files merged (extended):
+  - `wiki/entities/hippocampus.md`
+  - `wiki/entities/patient-hm.md`
+  - `wiki/concepts/change-blindness.md`
+  - `wiki/concepts/ebbinghaus-forgetting-curve.md`
+  - `wiki/concepts/post-traumatic-stress-disorder.md`
+  - `wiki/concepts/reconsolidation.md`
+  - `wiki/concepts/working-memory.md`
+- Files deprecated: None.
+- Notes: 72 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -16,6 +16,7 @@ sources:
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
   of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
+- '[raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]'
 confidence: high
 tags:
 - psychology
@@ -31,6 +32,7 @@ tags:
 - delayed response
 - cognitive neuroscience
 - executive function
+- language
 related:
   broader:
   - cognition
@@ -43,6 +45,7 @@ related:
   - executive function
   - cognitive science
   - prefrontal cortex function
+  - transience
   narrower:
   - executive-functions
   - workspace
@@ -104,6 +107,10 @@ Working memory is a special information-processing function consisting of two ma
 - Working memory has limited capacity—most people can hold four to seven separate items, and as items increase, capacity decreases. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p229]
 - The coalition hypothesis proposes that working memory emerges from capacities distributed throughout posterior and prefrontal cortical areas involved in sensory, memory, language, spatial, and motoric processing. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p249]
 - Prefrontal cortex maintains representations of goals in an active state and uses these to control processing in posterior areas—for example, biasing visual processing toward features of a target being sought. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p250]
+- Working memory holds small amounts of information for short periods—usually a few seconds—while engaging in reading, listening, problem solving, or thinking. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p45]
+- The phonological loop, a component of working memory, temporarily holds linguistic information and is crucial for acquiring new vocabulary. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p46]
+- Patient KF, with damage to the phonological loop, could not learn foreign vocabulary even though he could learn word pairs in his native Italian. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p47]
+- The phonological loop is located in the back part of the parietal lobe, with active repetition depending on lower portions of the left prefrontal cortex. [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p48]
 
 ## Inferences
 
@@ -130,6 +137,7 @@ Working memory is a special information-processing function consisting of two ma
 - Broader: [[executive function]]
 - Broader: [[cognitive science]]
 - Broader: [[prefrontal cortex function]]
+- Broader: [[transience]]
 - Narrower: [[executive-functions]]
 - Narrower: [[workspace]]
 - Narrower: [[temporal-synthesis]]
@@ -165,6 +173,8 @@ Working memory is a special information-processing function consisting of two ma
 - Concepts: [[persistent neural activity]]
 - Concepts: [[executive functions]]
 - Concepts: [[pattern completion]]
+- Concepts: [[phonological-loop]]
+- Concepts: [[encoding]]
 - Topics: [[cognitive-psychology]]
 - Topics: [[neuroscience]]
 - Topics: [[memory]]
@@ -188,6 +198,7 @@ Working memory is a special information-processing function consisting of two ma
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
+- Additional source: [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]
 
 ## Change notes
 
@@ -197,3 +208,4 @@ Working memory is a special information-processing function consisting of two ma
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
+- 2026-04-25 — merged contributions from `the-seven-sins-of-memory-daniel-l-schacter`.
