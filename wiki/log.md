@@ -473,3 +473,69 @@ This file is the append-only operational history of the wiki.
   - `wiki/analyses/800-gram-count-assessment.md`
 - Files deprecated: None.
 - Notes: 46 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | genius-foods-max-lugavere
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/health/Genius Foods - Max Lugavere.pdf
+- Files created:
+  - `wiki/entities/almonds.md`
+  - `wiki/entities/avocado.md`
+  - `wiki/entities/blueberry.md`
+  - `wiki/entities/broccoli.md`
+  - `wiki/entities/dark-chocolate-genius-food.md`
+  - `wiki/entities/dark-leafy-greens.md`
+  - `wiki/entities/eggs-genius-food.md`
+  - `wiki/entities/extra-virgin-olive-oil.md`
+  - `wiki/entities/finger-trial.md`
+  - `wiki/entities/grass-fed-beef-genius-food.md`
+  - `wiki/entities/max-lugavere.md`
+  - `wiki/entities/minnesota-coronary-experiment.md`
+  - `wiki/entities/paul-grewal.md`
+  - `wiki/entities/wild-salmon.md`
+  - `wiki/concepts/acellular-carbohydrates.md`
+  - `wiki/concepts/apoe4-brain-metabolism.md`
+  - `wiki/concepts/bdng.md`
+  - `wiki/concepts/cholesterol-brain-function.md`
+  - `wiki/concepts/cortisol.md`
+  - `wiki/concepts/creatine-brain-function.md`
+  - `wiki/concepts/custom-carb-pyramid.md`
+  - `wiki/concepts/eggs-metabolic-health.md`
+  - `wiki/concepts/epigenetics.md`
+  - `wiki/concepts/gaba.md`
+  - `wiki/concepts/glycation.md`
+  - `wiki/concepts/glycemic-load.md`
+  - `wiki/concepts/glymphatic-system.md`
+  - `wiki/concepts/gut-brain-axis.md`
+  - `wiki/concepts/homa-ir.md`
+  - `wiki/concepts/hormesis.md`
+  - `wiki/concepts/hygiene-hypothesis.md`
+  - `wiki/concepts/inflammatory-cytokine-model-depression.md`
+  - `wiki/concepts/insulin-resistance-brain.md`
+  - `wiki/concepts/intermittent-fasting.md`
+  - `wiki/concepts/irs-1.md`
+  - `wiki/concepts/ldl-oxidation-cognitive-decline.md`
+  - `wiki/concepts/ldl-particle-number.md`
+  - `wiki/concepts/leptin.md`
+  - `wiki/concepts/lipopolysaccharide.md`
+  - `wiki/concepts/mct-oil.md`
+  - `wiki/concepts/molecular-mimicry.md`
+  - `wiki/concepts/neuroplasticity.md`
+  - `wiki/concepts/neurotransmitter.md`
+  - `wiki/concepts/omega-fats-brain.md`
+  - `wiki/concepts/oxidative-stress-polyunsaturated-fats.md`
+  - `wiki/concepts/psychobiotics.md`
+  - `wiki/concepts/short-chain-fatty-acids.md`
+  - `wiki/concepts/sickness-behavior.md`
+  - `wiki/concepts/small-dense-ldl.md`
+  - `wiki/concepts/statins-cognitive-effects.md`
+  - `wiki/concepts/type-3-diabetes.md`
+  - `wiki/concepts/zonulin.md`
+  - `wiki/topics/brain-heart-connection.md`
+  - `wiki/topics/genius-plan.md`
+  - `wiki/topics/saturated-fat-cardiovascular-debate.md`
+  - `wiki/topics/supplement-protocol-genius-foods.md`
+  - `wiki/sources/genius-foods.md`
+- Files merged (extended):
+  - `wiki/concepts/metabolic-flexibility.md`
+- Files deprecated: None.
+- Notes: 57 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
