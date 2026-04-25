@@ -420,3 +420,56 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-speed-of-trust-covey.md`
 - Files deprecated: None.
 - Notes: 43 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | built-to-move
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/health/Built_to_Move.epub
+- Files created:
+  - `wiki/entities/21-day-built-to-move-challenge.md`
+  - `wiki/entities/24-hour-duty-cycle.md`
+  - `wiki/entities/800-gram-count.md`
+  - `wiki/entities/99-walks.md`
+  - `wiki/entities/couch-stretch.md`
+  - `wiki/entities/ec-synkowski.md`
+  - `wiki/entities/hip-extension-isometrics.md`
+  - `wiki/entities/old-man-balance-test.md`
+  - `wiki/entities/protein-count.md`
+  - `wiki/entities/quad-thigh-mobilization.md`
+  - `wiki/entities/reference-foot-position.md`
+  - `wiki/entities/rotator-cuff-mobilization.md`
+  - `wiki/entities/rotator-cuff.md`
+  - `wiki/entities/rucking.md`
+  - `wiki/entities/shoulder-rotation-test.md`
+  - `wiki/entities/sitting-inventory.md`
+  - `wiki/entities/solec-test.md`
+  - `wiki/entities/standing-workstation.md`
+  - `wiki/entities/the-ready-state.md`
+  - `wiki/entities/walking-school-bus.md`
+  - `wiki/concepts/24-hour-fast.md`
+  - `wiki/concepts/800-gram-challenge.md`
+  - `wiki/concepts/airport-scanner-arms-raise-test.md`
+  - `wiki/concepts/balance-physical.md`
+  - `wiki/concepts/breathing-and-co2-tolerance.md`
+  - `wiki/concepts/c-shaped-posture.md`
+  - `wiki/concepts/contrast-therapy.md`
+  - `wiki/concepts/external-shoulder-rotation.md`
+  - `wiki/concepts/frappuccino-test.md`
+  - `wiki/concepts/hip-extension.md`
+  - `wiki/concepts/metabolic-flexibility.md`
+  - `wiki/concepts/mets-metabolic-equivalents.md`
+  - `wiki/concepts/mobility.md`
+  - `wiki/concepts/mobilizations.md`
+  - `wiki/concepts/nose-breathing-walk.md`
+  - `wiki/concepts/peace-and-love-protocol.md`
+  - `wiki/concepts/proprioception.md`
+  - `wiki/concepts/sarcopenia.md`
+  - `wiki/concepts/sit-and-rise-test.md`
+  - `wiki/concepts/sleep-hygiene.md`
+  - `wiki/concepts/steps-per-day-inventory.md`
+  - `wiki/concepts/vestibular-system.md`
+  - `wiki/topics/vital-sign-6-nutrition.md`
+  - `wiki/topics/walking-steps.md`
+  - `wiki/sources/built-to-move.md`
+  - `wiki/analyses/800-gram-count-assessment.md`
+- Files deprecated: None.
+- Notes: 46 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
