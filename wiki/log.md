@@ -8559,3 +8559,82 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/habit-formation.md`
 - Files deprecated: None.
 - Notes: 39 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | trust-francis-fukuyama
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/Trust - Francis Fukuyama.pdf
+- Files created:
+  - `wiki/entities/alexis-de-tocqueville.md`
+  - `wiki/entities/alfred-chandler.md`
+  - `wiki/entities/credit-lyonnais.md`
+  - `wiki/entities/edward-c-banfield.md`
+  - `wiki/entities/francis-fukuyama.md`
+  - `wiki/entities/frederick-winslow-taylor.md`
+  - `wiki/entities/ivan-h-light.md`
+  - `wiki/entities/james-c-abegglen.md`
+  - `wiki/entities/jingdezhen-porcelain-factory.md`
+  - `wiki/entities/mancur-olson.md`
+  - `wiki/entities/martin-j-wiener.md`
+  - `wiki/entities/max-weber.md`
+  - `wiki/entities/michel-crozier.md`
+  - `wiki/entities/mormonism.md`
+  - `wiki/entities/nucor-corporation.md`
+  - `wiki/entities/robert-d-putnam.md`
+  - `wiki/entities/ronald-p-dore.md`
+  - `wiki/entities/third-italy.md`
+  - `wiki/entities/thomas-sowell.md`
+  - `wiki/entities/toyota-motor-company.md`
+  - `wiki/entities/victor-nee.md`
+  - `wiki/concepts/buddenbrooks-phenomenon.md`
+  - `wiki/concepts/bureaucratic-authority.md`
+  - `wiki/concepts/chaebol.md`
+  - `wiki/concepts/civil-society.md`
+  - `wiki/concepts/concentration-ratio.md`
+  - `wiki/concepts/confucianism-and-economic-development.md`
+  - `wiki/concepts/dual-structure-labor-market.md`
+  - `wiki/concepts/embeddedness.md`
+  - `wiki/concepts/ethnic-entrepreneurship.md`
+  - `wiki/concepts/flexible-specialization.md`
+  - `wiki/concepts/friedrich-list-vs-adam-smith.md`
+  - `wiki/concepts/german-apprenticeship-system.md`
+  - `wiki/concepts/german-japanese-war-apology-culture.md`
+  - `wiki/concepts/german-works-councils.md`
+  - `wiki/concepts/gerschenkron-thesis-late-developing-societies.md`
+  - `wiki/concepts/guild-merchant.md`
+  - `wiki/concepts/iemoto.md`
+  - `wiki/concepts/japanese-meiji-government-privatization.md`
+  - `wiki/concepts/k-type-management.md`
+  - `wiki/concepts/keiretsu.md`
+  - `wiki/concepts/kin-tract.md`
+  - `wiki/concepts/korean-familism.md`
+  - `wiki/concepts/korean-labor-movement.md`
+  - `wiki/concepts/korean-lineage-organization.md`
+  - `wiki/concepts/liberal-individualism-in-american-politics.md`
+  - `wiki/concepts/lifetime-employment.md`
+  - `wiki/concepts/neomercantilism.md`
+  - `wiki/concepts/opportunism.md`
+  - `wiki/concepts/prisoner-s-dilemma.md`
+  - `wiki/concepts/recognition.md`
+  - `wiki/concepts/revealed-preference.md`
+  - `wiki/concepts/rotating-credit-association.md`
+  - `wiki/concepts/rugged-conformists.md`
+  - `wiki/concepts/social-capital.md`
+  - `wiki/concepts/social-engineering.md`
+  - `wiki/concepts/state-chaebol-relations-in-korea.md`
+  - `wiki/concepts/transaction-cost-economics.md`
+  - `wiki/concepts/transaction-costs-government-purchasing.md`
+  - `wiki/concepts/trust.md`
+  - `wiki/topics/chinese-family-structure-economic-behavior.md`
+  - `wiki/topics/east-asian-stock-markets.md`
+  - `wiki/topics/economic-trust-case-studies.md`
+  - `wiki/topics/industrial-concentration.md`
+  - `wiki/topics/insiders-and-outsiders.md`
+  - `wiki/topics/italian-confucianism.md`
+  - `wiki/topics/late-development-hypothesis.md`
+  - `wiki/sources/trust-the-social-virtues-and-the-creation-of-prosperity.md`
+- Files merged (extended):
+  - `wiki/concepts/anomie.md`
+  - `wiki/concepts/bounded-rationality.md`
+  - `wiki/concepts/free-rider-problem.md`
+- Files deprecated: None.
+- Notes: 68 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

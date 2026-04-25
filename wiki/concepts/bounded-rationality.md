@@ -4,21 +4,26 @@ title: Bounded Rationality
 type: concept
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain,
   - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p1-309]'
+- '[raw/books/sociology/Trust - Francis Fukuyama.pdf#p1-538]'
 confidence: high
 tags:
 - bounded-rationality
 - cognitive-resources
 - optimization
+- cognitive-limits
+- transaction-cost-economics
+- economic-theory
 related:
-  broader: []
-  narrower: []
-  adjacent: []
+  broader:
+  - transaction-cost-economics
+  adjacent:
+  - opportunism
+aliases: []
 ---
-
 
 # Bounded Rationality
 
@@ -31,6 +36,7 @@ Bounded rationality refers to the idea that while an ideal rational agent should
 - Bounded rationality has been cast in terms of Helmholtz free energy minimization, with energy representing expected value of a choice and entropy representing costs of deliberation. [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p219]
 - What is costly during deliberation is decreasing the entropy of beliefs before a choice to render them more precise. [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p219]
 - Active Inference behavior automatically combines deliberative, perseverative, and habitual components depending on cognitive resources and contextual conditions. [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p218]
+- Bounded rationality is responsible for the computational limits of organization man, making it impossible to anticipate and specify all future contingencies in contracts. [raw/books/sociology/Trust - Francis Fukuyama.pdf#p423]
 
 ## Inferences
 
@@ -38,16 +44,25 @@ Bounded rationality refers to the idea that while an ideal rational agent should
 
 ## Related pages
 
+- Broader: [[transaction-cost-economics]]
+- Adjacent: [[opportunism]]
 - Concepts: [[free-energy]]
 - Concepts: [[variational-inference]]
 - Concepts: [[active-inference]]
 - Concepts: [[rationality]]
+- Concepts: [[opportunism]]
+- Concepts: [[transaction-cost-economics]]
+- Concepts: [[trust]]
 - Topics: [[decision-making]]
+- Entities: [[oliver-williamson]]
+- Entities: [[herbert-simon]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p1-309]
+- Additional source: [raw/books/sociology/Trust - Francis Fukuyama.pdf#p1-538]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `trust-francis-fukuyama`.
