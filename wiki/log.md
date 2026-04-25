@@ -4663,3 +4663,18 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/san-xing.md`
 - Files deprecated: None.
 - Notes: 153 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 中国思想史-葛兆光
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/中国思想史 - 葛兆光.pdf
+- Files created:
+  - `wiki/concepts/jun-shi-min-zhu-shi-dai.md`
+  - `wiki/concepts/lei-tui.md`
+  - `wiki/concepts/li-ritual.md`
+  - `wiki/concepts/ru-dao-zhi-bie.md`
+  - `wiki/concepts/tian-ren-he-yi.md`
+  - `wiki/concepts/wu-shu.md`
+  - `wiki/concepts/zhong-guo-si-wei.md`
+  - `wiki/sources/zhong-guo-si-xiang-shi-ge-zhao-guang.md`
+- Files deprecated: None.
+- Notes: 8 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
