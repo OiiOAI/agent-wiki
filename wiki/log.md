@@ -3981,3 +3981,73 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-almanack-of-naval-ravikant.md`
 - Files deprecated: None.
 - Notes: 28 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-hero-with-a-thousand-faces-paladin-bo-joseph-campbell
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/The Hero With a Thousand Faces (Paladin Bo - Joseph Campbell.pdf
+- Files created:
+  - `wiki/entities/abraham.md`
+  - `wiki/entities/actaeon.md`
+  - `wiki/entities/amaterasu.md`
+  - `wiki/entities/avalokiteshvara.md`
+  - `wiki/entities/cuchulainn.md`
+  - `wiki/entities/gilgamesh.md`
+  - `wiki/entities/huang-ti.md`
+  - `wiki/entities/inanna.md`
+  - `wiki/entities/jonathan-edwards.md`
+  - `wiki/entities/kamar-al-zaman.md`
+  - `wiki/entities/ko-hung.md`
+  - `wiki/entities/krishna.md`
+  - `wiki/entities/medea.md`
+  - `wiki/entities/muchukunda.md`
+  - `wiki/entities/mwuetsi.md`
+  - `wiki/entities/oisin.md`
+  - `wiki/entities/phaethon.md`
+  - `wiki/entities/ramakrishna.md`
+  - `wiki/entities/raven-eskimo-tale.md`
+  - `wiki/entities/rip-van-winkle.md`
+  - `wiki/entities/shiva.md`
+  - `wiki/entities/taliesin.md`
+  - `wiki/entities/the-buddha.md`
+  - `wiki/entities/vainamoinen.md`
+  - `wiki/entities/viracocha.md`
+  - `wiki/entities/water-jar-boy.md`
+  - `wiki/concepts/apotheosis.md`
+  - `wiki/concepts/atonement-with-the-father.md`
+  - `wiki/concepts/crossing-the-first-threshold.md`
+  - `wiki/concepts/departure-of-the-hero.md`
+  - `wiki/concepts/dissolutions.md`
+  - `wiki/concepts/emanations.md`
+  - `wiki/concepts/freedom-to-live.md`
+  - `wiki/concepts/hero-as-emperor-and-tyrant.md`
+  - `wiki/concepts/hero-as-lover.md`
+  - `wiki/concepts/hero-as-saint.md`
+  - `wiki/concepts/hero-as-warrior.md`
+  - `wiki/concepts/hero-as-world-redeemer.md`
+  - `wiki/concepts/inanna-descent.md`
+  - `wiki/concepts/infant-exile-and-return.md`
+  - `wiki/concepts/initiation-rites.md`
+  - `wiki/concepts/master-of-the-two-worlds.md`
+  - `wiki/concepts/meeting-with-the-goddess.md`
+  - `wiki/concepts/miraculous-childhood.md`
+  - `wiki/concepts/monomyth.md`
+  - `wiki/concepts/nirvana.md`
+  - `wiki/concepts/refusal-of-the-call.md`
+  - `wiki/concepts/rescue-from-without.md`
+  - `wiki/concepts/road-of-trials.md`
+  - `wiki/concepts/supernatural-aid.md`
+  - `wiki/concepts/the-belly-of-the-whale.md`
+  - `wiki/concepts/the-breaking-of-the-one-into-the-manifold.md`
+  - `wiki/concepts/the-call-to-adventure.md`
+  - `wiki/concepts/the-cosmogonic-cycle.md`
+  - `wiki/concepts/the-crossing-of-the-return-threshold.md`
+  - `wiki/concepts/the-magic-flight.md`
+  - `wiki/concepts/the-ultimate-boon.md`
+  - `wiki/concepts/transformations-of-the-hero.md`
+  - `wiki/concepts/virgin-birth.md`
+  - `wiki/concepts/woman-as-the-temptress.md`
+  - `wiki/concepts/world-navel.md`
+  - `wiki/topics/the-keys.md`
+  - `wiki/sources/the-hero-with-a-thousand-faces.md`
+- Files deprecated: None.
+- Notes: 63 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
