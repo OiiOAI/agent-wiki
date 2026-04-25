@@ -1135,3 +1135,33 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/somatic-marker-hypothesis.md`
 - Files deprecated: None.
 - Notes: 28 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | descartes-error-emotion-reason-and-the-human-brain
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain.pdf
+- Files created:
+  - `wiki/entities/almeida-lima.md`
+  - `wiki/entities/anosognosia.md`
+  - `wiki/entities/phineas-p-gage.md`
+  - `wiki/concepts/body-brain-interaction.md`
+  - `wiki/concepts/gage-matrix.md`
+  - `wiki/concepts/memories-of-the-future.md`
+  - `wiki/concepts/pain-and-pleasure-as-levers-for-survival.md`
+  - `wiki/concepts/prefrontal-leucotomy.md`
+  - `wiki/concepts/social-strategies-and-survival.md`
+  - `wiki/concepts/suffering.md`
+  - `wiki/concepts/ventromedial-prefrontal-cortex.md`
+- Files merged (extended):
+  - `wiki/entities/anterior-cingulate-cortex.md`
+  - `wiki/entities/elliot-patient.md`
+  - `wiki/concepts/background-feelings.md`
+  - `wiki/concepts/body-minded-brain.md`
+  - `wiki/concepts/dispositional-representations.md`
+  - `wiki/concepts/high-reason-view.md`
+  - `wiki/concepts/myopia-for-the-future.md`
+  - `wiki/concepts/primary-emotions.md`
+  - `wiki/concepts/secondary-emotions.md`
+  - `wiki/concepts/somatic-marker-hypothesis.md`
+  - `wiki/sources/descartes-error-emotion-reason-and-the-human-brain.md`
+- Files deprecated: None.
+- Notes: 11 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
