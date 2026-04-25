@@ -643,3 +643,56 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/neuroplasticity.md`
 - Files deprecated: None.
 - Notes: 32 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | a-thousand-brains-a-new-theory-of-intelligence-jeff-hawkins-
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/A Thousand Brains _ A New Theory of Intelligence - Jeff Hawkins; Richard Dawkins; Basic Books.pdf
+- Files created:
+  - `wiki/entities/breakthrough-starshot.md`
+  - `wiki/entities/brocas-area.md`
+  - `wiki/entities/doomsday-clock.md`
+  - `wiki/entities/jeff-hawkins.md`
+  - `wiki/entities/numenta.md`
+  - `wiki/entities/pioneer-plaques.md`
+  - `wiki/entities/richard-dawkins.md`
+  - `wiki/entities/vernon-mountcastle.md`
+  - `wiki/entities/voyager-golden-records.md`
+  - `wiki/entities/wernickes-area.md`
+  - `wiki/concepts/artificial-general-intelligence.md`
+  - `wiki/concepts/binding-problem.md`
+  - `wiki/concepts/birth-control.md`
+  - `wiki/concepts/brain-computer-interface.md`
+  - `wiki/concepts/brain-uploading.md`
+  - `wiki/concepts/climate-change-denial.md`
+  - `wiki/concepts/conceptual-knowledge.md`
+  - `wiki/concepts/consciousness-neuroscience.md`
+  - `wiki/concepts/cortical-columns.md`
+  - `wiki/concepts/dendrite-spikes.md`
+  - `wiki/concepts/existential-risk.md`
+  - `wiki/concepts/false-beliefs.md`
+  - `wiki/concepts/gene-editing.md`
+  - `wiki/concepts/grid-place-cells.md`
+  - `wiki/concepts/intelligent-machines.md`
+  - `wiki/concepts/knowledge-vs-genes.md`
+  - `wiki/concepts/memes.md`
+  - `wiki/concepts/method-of-loci.md`
+  - `wiki/concepts/multi-planet-species.md`
+  - `wiki/concepts/neocortex.md`
+  - `wiki/concepts/old-brain.md`
+  - `wiki/concepts/phantom-limb.md`
+  - `wiki/concepts/population-growth.md`
+  - `wiki/concepts/predictive-modeling.md`
+  - `wiki/concepts/qualia.md`
+  - `wiki/concepts/reference-frames-neuroscience.md`
+  - `wiki/concepts/reference-frames.md`
+  - `wiki/concepts/sensory-motor-learning.md`
+  - `wiki/concepts/seti-meti.md`
+  - `wiki/concepts/thousand-brains-theory.md`
+  - `wiki/concepts/vaccine-autism-myth.md`
+  - `wiki/concepts/viral-world-models.md`
+  - `wiki/concepts/voting-mechanism.md`
+  - `wiki/concepts/what-where-pathways.md`
+  - `wiki/concepts/wiki-earth.md`
+  - `wiki/sources/a-thousand-brains-hawkins.md`
+- Files deprecated: None.
+- Notes: 46 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
