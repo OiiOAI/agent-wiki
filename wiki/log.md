@@ -6710,3 +6710,67 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/austin-kleon.md`
 - Files deprecated: None.
 - Notes: 13 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | stolen-focus-why-you-can-t-pay-attention-and-how-to-think
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf
+- Files created:
+  - `wiki/entities/andrew-barnes.md`
+  - `wiki/entities/anne-mangen.md`
+  - `wiki/entities/aza-raskin.md`
+  - `wiki/entities/bj-fogg.md`
+  - `wiki/entities/bruce-lanphear.md`
+  - `wiki/entities/charles-czeisler.md`
+  - `wiki/entities/earl-miller.md`
+  - `wiki/entities/finland-education-model.md`
+  - `wiki/entities/james-williams.md`
+  - `wiki/entities/johann-hari.md`
+  - `wiki/entities/lenore-skenazy.md`
+  - `wiki/entities/let-grow-program.md`
+  - `wiki/entities/marcus-raichle.md`
+  - `wiki/entities/marshall-mcluhan.md`
+  - `wiki/entities/nadine-burke-harris.md`
+  - `wiki/entities/nicholas-dodman.md`
+  - `wiki/entities/nir-eyal.md`
+  - `wiki/entities/raymond-mar.md`
+  - `wiki/entities/sami-timimi.md`
+  - `wiki/entities/shoshana-zuboff.md`
+  - `wiki/entities/sudbury-valley-school.md`
+  - `wiki/entities/sune-lehmann.md`
+  - `wiki/entities/tristan-harris.md`
+  - `wiki/concepts/adverse-childhood-experiences-study.md`
+  - `wiki/concepts/attention-economy.md`
+  - `wiki/concepts/attention-rebellion.md`
+  - `wiki/concepts/cruel-optimism.md`
+  - `wiki/concepts/four-day-work-week.md`
+  - `wiki/concepts/free-play.md`
+  - `wiki/concepts/hypervigilance.md`
+  - `wiki/concepts/infinite-scroll.md`
+  - `wiki/concepts/information-overload.md`
+  - `wiki/concepts/intrinsic-motivation.md`
+  - `wiki/concepts/lead-poisoning-attention.md`
+  - `wiki/concepts/medium-is-the-message.md`
+  - `wiki/concepts/multitasking.md`
+  - `wiki/concepts/pre-commitment.md`
+  - `wiki/concepts/right-to-disconnect.md`
+  - `wiki/concepts/sleep-deprivation.md`
+  - `wiki/concepts/social-media-harm-collective-attention.md`
+  - `wiki/concepts/surveillance-capitalism.md`
+  - `wiki/concepts/sustained-reading-collapse.md`
+  - `wiki/concepts/three-forms-of-attention.md`
+  - `wiki/concepts/variable-reward-schedules.md`
+  - `wiki/topics/adhd-debate.md`
+  - `wiki/topics/attention-and-pollution.md`
+  - `wiki/topics/attention-crisis.md`
+  - `wiki/topics/confinement-modern-childhood.md`
+  - `wiki/topics/diet-and-attention.md`
+  - `wiki/topics/solutions-attention-crisis.md`
+  - `wiki/sources/stolen-focus.md`
+- Files merged (extended):
+  - `wiki/entities/mihaly-csikszentmihalyi.md`
+  - `wiki/concepts/default-mode-network.md`
+  - `wiki/concepts/flow-state.md`
+  - `wiki/concepts/mind-wandering.md`
+  - `wiki/concepts/negativity-bias.md`
+- Files deprecated: None.
+- Notes: 51 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
