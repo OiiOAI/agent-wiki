@@ -11256,3 +11256,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/gong-li-zhu-yi.md`
 - Files deprecated: None.
 - Notes: 49 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | art-as-therapy-alain-de-botton-john-armstrong
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/Art As Therapy - Alain de Botton, John Armstrong.pdf
+- Files created:
+  - `wiki/sources/art-as-therapy-alain-de-botton-john-armstrong.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
