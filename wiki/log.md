@@ -960,3 +960,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/global-workspace-theory.md`
 - Files deprecated: None.
 - Notes: 61 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | consciousness-and-the-brain-deciphering-h-stanislas-dehaene
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf
+- Files created:
+  - `wiki/entities/adrian-owen.md`
+  - `wiki/entities/anti-nmda-receptor-encephalitis.md`
+  - `wiki/entities/henri-poincare.md`
+  - `wiki/entities/jean-dominique-bauby.md`
+  - `wiki/entities/locked-in-syndrome.md`
+  - `wiki/entities/minimally-conscious-state.md`
+  - `wiki/entities/natua.md`
+  - `wiki/entities/prefrontal-cortex.md`
+  - `wiki/entities/rene-descartes.md`
+  - `wiki/entities/santiago-ramon-y-cajal.md`
+  - `wiki/entities/schizophrenia.md`
+  - `wiki/entities/stanislas-dehaene.md`
+  - `wiki/entities/vegetative-state.md`
+  - `wiki/entities/william-james.md`
+  - `wiki/concepts/attentional-blink.md`
+  - `wiki/concepts/brain-ignition.md`
+  - `wiki/concepts/cell-assemblies.md`
+  - `wiki/concepts/conscious-access.md`
+  - `wiki/concepts/conscious-ignition.md`
+  - `wiki/concepts/consciousness-in-infants.md`
+  - `wiki/concepts/consciousness-signatures.md`
+  - `wiki/concepts/free-will-and-consciousness.md`
+  - `wiki/concepts/global-neuronal-workspace-theory.md`
+  - `wiki/concepts/global-neuronal-workspace.md`
+  - `wiki/concepts/language-of-thought.md`
+  - `wiki/concepts/local-global-test.md`
+  - `wiki/concepts/masking.md`
+  - `wiki/concepts/metacognition.md`
+  - `wiki/concepts/p3-wave.md`
+  - `wiki/concepts/signatures-of-consciousness.md`
+  - `wiki/concepts/unconscious-incubation.md`
+  - `wiki/concepts/unconscious-operations.md`
+  - `wiki/concepts/unconscious-processing.md`
+  - `wiki/topics/conscious-machines.md`
+  - `wiki/topics/disorders-of-consciousness.md`
+  - `wiki/topics/schizophrenia-and-consciousness.md`
+  - `wiki/sources/consciousness-and-the-brain.md`
+- Files merged (extended):
+  - `wiki/entities/olaf-blanke.md`
+  - `wiki/concepts/binocular-rivalry.md`
+  - `wiki/concepts/inattentional-blindness.md`
+  - `wiki/concepts/working-memory.md`
+  - `wiki/topics/animal-consciousness.md`
+- Files deprecated: None.
+- Notes: 37 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -1,0 +1,73 @@
+---
+id: unconscious-processing
+title: Unconscious Processing
+type: concept
+status: draft
+created: '2026-04-24'
+updated: '2026-04-24'
+sources:
+- '[raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas
+  Dehaene.pdf#p1-411]'
+confidence: high
+tags:
+- unconscious
+- perception
+- cognition
+- brain
+related:
+  broader: []
+  narrower:
+  - masking
+  - subliminal-priming
+  - blindsight
+  - unconscious-mathematics
+  adjacent:
+  - conscious-access
+  - attention
+  - semantic-processing
+---
+
+
+# Unconscious Processing
+
+## Summary
+
+Unconscious processing encompasses all mental operations that occur outside conscious awareness. Dehaene reviews evidence that the brain can recognize and categorize masked images, understand unseen words, process emotional meaning, perform arithmetic, assign value, and deploy attention—all without consciousness. The unconscious mind stores all possible meanings of ambiguous words in parallel, while consciousness selects among them. The depth of unconscious processing challenges the intuition that sophisticated cognition requires awareness.
+
+## Key facts
+
+- Unconscious perception can process abstract properties: priming works equally whether the same physical word is repeated (radio-radio) or the case changes (radio-RADIO). [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p78]
+- The fusiform gyrus, part of the ventral visual cortex, can process word identity unconsciously and is sensitive to abstract letter string representations. [raw/books/nehasene.pdf#p78]
+- Unconscious processing can bind letters into words: subliminal priming distinguishes RANGE preceded by range from RANGE preceded by anger (which shares most letters but not arrangement). [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p80]
+- The unconscious mind processes all possible meanings of ambiguous words in parallel, while consciousness selects among them. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p88]
+- Subliminal number priming varies as a function of semantic distance, proving unconscious extraction of number meaning. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p94]
+- The N400 brain wave, reflecting semantic processing, occurs identically whether words are conscious or invisible, showing consciousness is 'irrelevant to semantics' in some respects. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p97]
+- Unconscious attention can be deployed: a hidden cue presented at an unexpected location attracts attention even though invisible. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p99]
+- Unconscious stimuli can affect motivations: subliminal presentation of a pound coin (vs. penny) caused subjects to exert more force, and brain reward circuits were activated unconsciously. [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p101]
+
+## Inferences
+
+- Inference: 'Unconscious words are not as influential as conscious ones': while unconscious processing reaches semantic networks in the left temporal lobe, conscious words additionally 'gain the upper hand over much larger brain networks' in the frontal lobes. [Supporting facts: p97]
+
+## Uncertainties
+
+- Uncertain: The boundary between what can and cannot be processed unconsciously remains unclear. The text notes that 'binding of new words into a sentence' may require consciousness, suggesting some operations specifically require awareness.
+- Uncertain: Whether the unconscious processing depth shown in experiments extends to all forms of complex cognition, or only to overlearned/automated skills.
+
+## Related pages
+
+- Narrower: [[masking]]
+- Narrower: [[subliminal-priming]]
+- Narrower: [[blindsight]]
+- Narrower: [[unconscious-mathematics]]
+- Adjacent: [[conscious-access]]
+- Adjacent: [[attention]]
+- Adjacent: [[semantic-processing]]
+
+## Provenance
+
+- Primary source: [raw/books/neuroscience/Consciousness and the Brain_ Deciphering H - Stanislas Dehaene.pdf#p1-411]
+
+## Change notes
+
+- 2026-04-24 — page created by auto ingest.
