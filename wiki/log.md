@@ -9484,3 +9484,32 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/how-to-measure-anything-the-science-of-measurement.md`
 - Files deprecated: None.
 - Notes: 15 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | make-it-clear-patrick-henry-winston
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Make it Clear - Patrick Henry Winston.pdf
+- Files created:
+  - `wiki/entities/patrick-henry-winston.md`
+  - `wiki/concepts/anytime-algorithm.md`
+  - `wiki/concepts/blog-writing.md`
+  - `wiki/concepts/blooms-taxonomy.md`
+  - `wiki/concepts/briefing-conferences.md`
+  - `wiki/concepts/broken-glass-outline.md`
+  - `wiki/concepts/empowerment-promise.md`
+  - `wiki/concepts/fail-fast-principle.md`
+  - `wiki/concepts/golden-rectangle.md`
+  - `wiki/concepts/grices-maxims.md`
+  - `wiki/concepts/grid-layout.md`
+  - `wiki/concepts/lecture-preparation.md`
+  - `wiki/concepts/near-miss-concept.md`
+  - `wiki/concepts/panel-discussions.md`
+  - `wiki/concepts/recommendation-letters.md`
+  - `wiki/concepts/reviews.md`
+  - `wiki/concepts/rule-of-thirds.md`
+  - `wiki/concepts/vsn-c-framework.md`
+  - `wiki/concepts/vsn-c.md`
+  - `wiki/concepts/winstons-star.md`
+  - `wiki/topics/part-iv-writing.md`
+  - `wiki/sources/make-it-clear-patrick-henry-winston.md`
+- Files deprecated: None.
+- Notes: 22 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
