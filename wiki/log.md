@@ -7365,3 +7365,40 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/social-proof.md`
 - Files deprecated: None.
 - Notes: 53 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | nonviolent-communication-a-language-of-li-marshall-b-rosenbe
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf
+- Files created:
+  - `wiki/entities/al-and-burt-dialogue.md`
+  - `wiki/entities/center-for-nonviolent-communication.md`
+  - `wiki/entities/marshall-b-rosenberg.md`
+  - `wiki/entities/ruth-bebermeyer.md`
+  - `wiki/concepts/conflict-resolution-nvc.md`
+  - `wiki/concepts/emotional-liberation.md`
+  - `wiki/concepts/expressing-anger-fully.md`
+  - `wiki/concepts/expressing-appreciation-in-nvc.md`
+  - `wiki/concepts/four-component-nvc-model.md`
+  - `wiki/concepts/identifying-and-expressing-feelings.md`
+  - `wiki/concepts/liberating-oneself-from-old-programming.md`
+  - `wiki/concepts/life-alienating-communication.md`
+  - `wiki/concepts/making-requests-that-enrich-life.md`
+  - `wiki/concepts/mediation-nvc.md`
+  - `wiki/concepts/mediator-as-translator.md`
+  - `wiki/concepts/nvc-mourning.md`
+  - `wiki/concepts/observing-without-evaluating.md`
+  - `wiki/concepts/paraphrasing-nvc.md`
+  - `wiki/concepts/protective-use-of-force.md`
+  - `wiki/concepts/punitive-use-of-force.md`
+  - `wiki/concepts/receiving-empathically.md`
+  - `wiki/concepts/replacing-diagnosis-with-empathy.md`
+  - `wiki/concepts/resolving-internal-conflicts.md`
+  - `wiki/concepts/self-forgiveness-nvc.md`
+  - `wiki/concepts/taking-responsibility-for-our-feelings.md`
+  - `wiki/concepts/the-do-nothing-room.md`
+  - `wiki/topics/self-compassion.md`
+  - `wiki/sources/nonviolent-communication-a-language-of-life.md`
+- Files merged (extended):
+  - `wiki/concepts/empathy.md`
+- Files deprecated: None.
+- Notes: 28 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

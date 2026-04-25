@@ -10,6 +10,8 @@ sources:
   of - Evan Thompson.pdf#p1-535]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B.
+  Rosenberg.pdf#p1-338]'
 confidence: high
 related:
   broader:
@@ -36,6 +38,7 @@ related:
   - mirror neurons
   - prosocial behavior
   - social emotions
+  - conflict-resolution-nvc
 tags:
 - emotion
 - social cognition
@@ -68,6 +71,13 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Representing other people's states and goals appears to happen mostly automatically and without awareness, activating the same brain networks that represent our own feelings. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p252]
 - Singer et al. (2006) demonstrated that empathic brain responses to another's pain were modulated by perceived fairness, with men (but not women) showing absence of empathic activity when seeing an unfair player in pain. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p251]
 - Alexithymia—difficulty identifying and describing feelings—was found to correlate negatively with individual differences in empathic personality disposition and predicted brain activation in AI during interoception. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p251]
+- Carl Rogers described empathy as allowing people to reperceive their world in a new way. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p156]
+- Simone Weil stated that the capacity to give one's attention to a sufferer is almost a miracle. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p135]
+- Empathizing with someone's 'no' protects us from taking it personally. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p166]
+- Empathize with silence by listening for the feelings and needs behind it. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p169]
+- To bring a conversation back to life: interrupt with empathy. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p167]
+- When we listen for feelings and needs, we no longer see people as monsters. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p165]
+- People do not hear our pain when they believe they are at fault. [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p206]
 
 ## Inferences
 
@@ -76,6 +86,7 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Inference: The empathic response is proposed as a first step in a chain beginning with affect sharing, leading to understanding others' feelings, which then motivates other-regarding concern and helping behavior
 - Inference: Empathy and theory of mind represent two distinct capacities relying on different circuitries that usually work together in normal individuals.
 - Inference: The automaticity of empathic resonance creates a link between our own and others' needs, desires, and emotions, implying motives are not only self-interested but also automatically other-regarding.
+- Inference: Empathy is presented as having healing power, with people transcending psychological pain when they have sufficient contact with someone who can hear them empathically.
 
 ## Uncertainties
 
@@ -104,6 +115,7 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Adjacent: [[mirror neurons]]
 - Adjacent: [[prosocial behavior]]
 - Adjacent: [[social emotions]]
+- Adjacent: [[conflict-resolution-nvc]]
 - Concepts: [[empathic-transposition]]
 - Concepts: [[sensual-empathy]]
 - Concepts: [[body-schema]]
@@ -115,6 +127,8 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 - Concepts: [[alexithymia]]
 - Concepts: [[interoceptive-cortex]]
 - Concepts: [[prosocial-behavior]]
+- Concepts: [[receiving-empathically]]
+- Concepts: [[paraphrasing]]
 - Entities: [[anterior-cingulate-cortex]]
 - Entities: [[singer-tania]]
 
@@ -122,8 +136,10 @@ Empathy (Einfühlung) is a unique form of intentionality through which we are di
 
 - Primary source: [raw/books/neuroscience/Mind in Life _ Biology, Phenomenology, and the Sciences of - Evan Thompson.pdf#p1-535]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/psychology/Nonviolent Communication_ A Language of Li - Marshall B. Rosenberg.pdf#p1-338]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `nonviolent-communication-a-language-of-li-marshall-b-rosenbe`.
