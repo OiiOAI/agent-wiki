@@ -12,6 +12,7 @@ sources:
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R.
   Damasio.pdf#p1-323]'
+- '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
 confidence: high
 related:
   broader:
@@ -32,10 +33,18 @@ related:
   adjacent:
   - internal-milieu
   - proto-self
+  - affect
+  - entropy
+  - free-energy-principle
+  - drives
 tags:
 - homeostasis
 - physiology
 - autonomic-regulation
+- biology
+- consciousness
+- regulation
+- psychology
 aliases: []
 ---
 
@@ -66,10 +75,18 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Spinoza said that the effort to preserve oneself is the first and unique foundation of virtue; consciousness enables that effort. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p25]
 - Walter Cannon named homeostasis as 'the coordinated physiological reactions which maintain most of the steady states of the body.'. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p138]
 - Steven Rose argued for 'homeodynamics' because set points in living organisms can undergo changes across a lifetime and be influenced by context. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p141]
+- Homeostasis must keep us within our physiologically viable bounds—if core body temperature gets much hotter or colder than 36.5–37.5°C, we die. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p140]
+- Comatose patients cannot perform the homeostatic work required to stay alive and die from conditions like hyperthermia. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p140]
+- Every homeostat consists of three components: a receptor (measuring the variable), a control centre (determining how to maintain viable bounds), and an effector (performing required work). [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p140]
+- Homeostasis resists entropy—it ensures that you occupy a limited range of states and prevents you from dissipating. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p143]
+- Living things must resist one of the fundamental principles of physics: the Second Law of Thermodynamics. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p143]
+- Affect is an extended form of homeostasis; the multiplicity of needs that characterise complex organisms has everything to do with consciousness. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p164]
+- Affect is the fundamental vehicle of free-energy minimisation; affect is the primary medium of volition and the fount of all mental life. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p174]
 
 ## Inferences
 
 - Inference: Damasio's framework suggests consciousness evolved as an extension of homeostatic regulation, making awareness fundamentally about survival rather than pure cognition.
+- Inference: Since affect is a form of homeostasis, and homeostasis is reducible to physical laws, the phenomena of consciousness must be lawfully explicable [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p142-143]
 
 ## Related pages
 
@@ -88,6 +105,10 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Narrower: [[motivation]]
 - Adjacent: [[internal-milieu]]
 - Adjacent: [[proto-self]]
+- Adjacent: [[affect]]
+- Adjacent: [[entropy]]
+- Adjacent: [[free-energy-principle]]
+- Adjacent: [[drives]]
 - Concepts: [[negative-feedback]]
 - Concepts: [[set-point]]
 - Concepts: [[feedback-loops]]
@@ -101,6 +122,9 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Concepts: [[consciousness]]
 - Concepts: [[pain]]
 - Concepts: [[pleasure]]
+- Concepts: [[biology]]
+- Concepts: [[survival]]
+- Concepts: [[regulation]]
 - Topics: [[hypothalamus]]
 - Topics: [[autonomic-nervous-system]]
 - Topics: [[neuroendocrine-system]]
@@ -114,9 +138,11 @@ Homeostasis is the process by which the body maintains physiological parameters 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
+- Additional source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.
+- 2026-04-25 — merged contributions from `the-hidden-spring-mark-solms`.

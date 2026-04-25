@@ -10,6 +10,7 @@ sources:
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]'
+- '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
 confidence: high
 related:
   broader:
@@ -24,6 +25,9 @@ related:
   adjacent:
   - extinction
   - reconsolidation
+  - free-energy-principle
+  - bayesian-brain
+  - generative-model
 tags:
 - prediction-error
 - dopamine
@@ -32,6 +36,9 @@ tags:
 - prediction error
 - sensory processing
 - learning
+- neuroscience
+- predictive-processing
+- perception
 aliases: []
 ---
 
@@ -52,11 +59,19 @@ Prediction error is a mismatch between expected and actual outcomes that drives 
 - Prediction error signals encode sensory information that the brain didn't manage to predict, and these flow forward and sideways, pushing deeper into the brain where they generate new, improved attempts at guessing. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p37]
 - In multilevel processing arrangements, all that flows forward from sensory edges into the brain is news—deviations from what is expected. Prediction errors at every level signal only the unexpected. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p25]
 - Error signals push, pull, and probe to see if there is stuff the brain already knows that would generate a more successful prediction, one better able to match the actual sensory signal. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p37]
+- Prediction error is the difference between the sensory data predicted by a model and the sensory data that actually flows from an action. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p160]
+- The brain constantly tries to suppress prediction errors by changing predictions to match sensory input or changing sensory input through action. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p173]
+- The more hypotheses are confirmed, the more confident you are, and the less aroused—less conscious—you need to be. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p135]
+- If you find yourself in an unexpected situation where your predictive model sheds no reliable light, the consequences of your actions become highly salient and you become hyper-aware. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p135]
+- Minimising prediction error minimises information flow, which reduces metabolic expenditure on the part of the brain and body as a whole. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p163]
+- Prediction errors are the sensory signals that were not predicted by a current hypothesis—they are the salient part of the data. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p175]
+- Deviations from expected states are a foundational form of 'equipment-evoked responses'—this is how question-asking arises and self-organisation brings participant observers into being. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p155-156]
 
 ## Inferences
 
 - Inference: The close correspondence between dopamine neuron firing patterns and TD prediction errors suggests that dopamine encodes a teaching signal for learning.
 - Inference: Prediction error signals allow efficient information processing by updating only the discrepancy rather than transmitting full information about states.
+- Inference: The strongest feelings relate to uncertainties of survival value; bad calls may be dealt with at peripheral levels where greater error is tolerated (shifts of attention), while significant errors more likely arouse an affective response [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p135]
 
 ## Uncertainties
 
@@ -73,6 +88,9 @@ Prediction error is a mismatch between expected and actual outcomes that drives 
 - Narrower: [[rescorla-wagner-model]]
 - Adjacent: [[extinction]]
 - Adjacent: [[reconsolidation]]
+- Adjacent: [[free-energy-principle]]
+- Adjacent: [[bayesian-brain]]
+- Adjacent: [[generative-model]]
 - Concepts: [[expectancy]]
 - Concepts: [[surprise]]
 - Concepts: [[dopamine]]
@@ -80,6 +98,10 @@ Prediction error is a mismatch between expected and actual outcomes that drives 
 - Concepts: [[learning-signal]]
 - Concepts: [[precision weighting]]
 - Concepts: [[controlled hallucination]]
+- Concepts: [[learning]]
+- Concepts: [[consciousness]]
+- Concepts: [[arousal]]
+- Concepts: [[inference]]
 - Topics: [[perception]]
 - Topics: [[learning]]
 
@@ -88,9 +110,11 @@ Prediction error is a mismatch between expected and actual outcomes that drives 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]
+- Additional source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `the-experience-machine-how-our-minds-pred-andy-clark`.
+- 2026-04-25 — merged contributions from `the-hidden-spring-mark-solms`.

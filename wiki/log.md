@@ -3107,3 +3107,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/unconscious-processing.md`
 - Files deprecated: None.
 - Notes: 26 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-hidden-spring-mark-solms
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf
+- Files created:
+  - `wiki/entities/bjorn-merker.md`
+  - `wiki/entities/edmund-rolls.md`
+  - `wiki/entities/mark-solms.md`
+  - `wiki/entities/oliver-sacks.md`
+  - `wiki/entities/patient-sm.md`
+  - `wiki/entities/patient-wb.md`
+  - `wiki/concepts/affect.md`
+  - `wiki/concepts/affective-zombies.md`
+  - `wiki/concepts/arousal.md`
+  - `wiki/concepts/bayesian-brain.md`
+  - `wiki/concepts/eliza-chatbot.md`
+  - `wiki/concepts/ethics-of-artificial-sentience.md`
+  - `wiki/concepts/hedonic-valence.md`
+  - `wiki/concepts/neuropsychoanalysis.md`
+  - `wiki/concepts/organisational-invariance.md`
+  - `wiki/concepts/perceptual-inference.md`
+  - `wiki/concepts/periaqueductal-grey.md`
+  - `wiki/concepts/pfaffs-arousal-theory.md`
+  - `wiki/concepts/precision-optimisation.md`
+  - `wiki/concepts/problem-of-other-minds.md`
+  - `wiki/concepts/proto-intentionality.md`
+  - `wiki/concepts/reticular-activating-system.md`
+  - `wiki/concepts/seven-basic-emotions.md`
+  - `wiki/concepts/the-cortical-fallacy.md`
+  - `wiki/concepts/the-hard-problem-of-consciousness.md`
+  - `wiki/concepts/three-stage-artificial-consciousness-experiment.md`
+  - `wiki/concepts/turing-test.md`
+  - `wiki/concepts/valence-affective.md`
+  - `wiki/topics/consciousness-studies.md`
+  - `wiki/topics/engineering-artificial-consciousness.md`
+  - `wiki/topics/the-hidden-spring-conciousness-feeling.md`
+  - `wiki/sources/the-hidden-spring-a-journey-to-the-source-of-consciousness.md`
+- Files merged (extended):
+  - `wiki/entities/jaak-panksepp.md`
+  - `wiki/entities/karl-friston.md`
+  - `wiki/concepts/feeling.md`
+  - `wiki/concepts/free-energy-principle.md`
+  - `wiki/concepts/homeostasis.md`
+  - `wiki/concepts/markov-blanket.md`
+  - `wiki/concepts/memory-reconsolidation.md`
+  - `wiki/concepts/prediction-error.md`
+  - `wiki/concepts/qualia.md`
+  - `wiki/concepts/the-hard-problem.md`
+- Files deprecated: None.
+- Notes: 32 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

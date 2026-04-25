@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain,
   - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p1-309]'
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
+- '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
 confidence: high
 tags:
 - free energy principle
@@ -19,6 +20,11 @@ tags:
 - Karl Friston
 - unified theory
 - biological systems
+- physics
+- biology
+- consciousness
+- Friston
+- self-organisation
 related:
   broader:
   - self-organization
@@ -37,6 +43,9 @@ related:
   - generative-model
   - sensory-entropy
   - variational-inference
+  - markov blanket
+  - surprise
+  - precision optimisation
   adjacent:
   - Hamiltonian mechanics
   - Jaynes maximum entropy principle
@@ -46,6 +55,12 @@ related:
   - statistical physics
   - variational inference
   - integrated-information-theory
+  - entropy
+  - markov-blanket
+  - bayesian-brain
+  - prediction-error
+  - Karl Friston
+  - Mark Solms
 aliases: []
 ---
 
@@ -72,17 +87,34 @@ The free energy principle (FEP) is a first-principles theory originating in stat
 - Minimizing free energy does not mean retreating into a dark room; complex organisms need to allow some things to change for other things to stay the same. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p193]
 - The FEP is best understood as mathematical philosophy addressing 'what are the conditions for the possibility of existence?' rather than a specific theory amenable to hypothesis testing. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p194]
 - The FEP is not a theory of consciousness but a theory for consciousness science—it provides tools for explaining phenomenology in terms of mechanism. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p195]
+- The Free Energy Principle states that all self-organising systems must minimize their free energy to persist. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p138]
+- Friston's core insight: biological systems such as cells must have emerged through complex versions of the same self-organising process that forms simpler systems like crystals from liquid. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#138]
+- All self-organising systems have one fundamental task in common: to keep existing. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p138]
+- Homeostasis keeps us alive by performing effective work; comatose patients cannot perform such work and die from conditions like hyperthermia. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p140]
+- The essential insight: living systems must resist entropy by maintaining limited states—entropy always increases on the large scale but homeostasis resists this. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p143]
+- The basic function of living things is to resist entropy. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p143]
+- Friston's Law: all the quantities in a self-organising system that can change will change to minimise free energy. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p163]
+- Self-organising systems must keep the flow of information they process to a minimum; they must minimise unexpected events (surprisal). [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p160]
+- Self-organising systems minimise free energy by improving their model of the world—prediction errors are fed back to the generative model so it generates better predictions next time. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p160]
+- Friston's Law states that all quantities that can change will change to minimise free energy. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p257]
+- Free energy is an upper bound on surprise and can be minimised either by changing predictions or by changing sensory input. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p257]
+- The unconscious self-organising system measures its own expected free energy and acts accordingly, turning it into a prediction machine. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p257]
+- Friston's free energy is equivalent to Gibbs free energy in thermodynamics. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p257]
+- The equations in Chapter 9 are described as broad-brushstroke cartoons of the underlying causal mechanisms of consciousness that must be reverse-engineered to determine if they can solve the hard problem. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p256]
 
 ## Inferences
 
 - Inference: The FEP provides the ultimate justification for why organisms must minimize surprise—because they must resist the dispersion of their states (entropy increase dictated by the second law of thermodynamics) in order to maintain their existence.
 - Inference: The beast machine theory can be understood through the lens of the FEP as flowing from a fundamental constraint on what it means to be alive, on what it means to exist.
 - Inference: Minimizing long-term prediction error means seeking out new sensations that reduce uncertainty about what would happen next, making organisms curious sensation-seeking agents.
+- Inference: onsciousness is homeostatic, and homeostasis is reducible to physical laws, then so are the phenomena of consciousness [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p142-143]
+- Inference: The Free Energy Principle reduces mental and neurological processes to a single computable mechanism, which Solms considers its great appeal.
 
 ## Uncertainties
 
 - Uncertain: The book references Friston (2019) for details on the underlying physics of self-evidencing, indicating the full physics treatment is beyond the scope of this book.
 - Uncertain: The FEP has been criticized for being difficult to falsify experimentally, though proponents argue it serves as a framework motivating more specific testable theories.
+- Uncertain: There are acknowledged gaps between the broad brushstrokes Solms has delineated and the practical implementation of the mechanisms they describe.
 
 ## Related pages
 
@@ -101,6 +133,9 @@ The free energy principle (FEP) is a first-principles theory originating in stat
 - Narrower: [[generative-model]]
 - Narrower: [[sensory-entropy]]
 - Narrower: [[variational-inference]]
+- Narrower: [[markov blanket]]
+- Narrower: [[surprise]]
+- Narrower: [[precision optimisation]]
 - Adjacent: [[Hamiltonian mechanics]]
 - Adjacent: [[Jaynes maximum entropy principle]]
 - Adjacent: [[homeostasis]]
@@ -109,6 +144,12 @@ The free energy principle (FEP) is a first-principles theory originating in stat
 - Adjacent: [[statistical physics]]
 - Adjacent: [[variational inference]]
 - Adjacent: [[integrated-information-theory]]
+- Adjacent: [[entropy]]
+- Adjacent: [[markov-blanket]]
+- Adjacent: [[bayesian-brain]]
+- Adjacent: [[prediction-error]]
+- Adjacent: [[Karl Friston]]
+- Adjacent: [[Mark Solms]]
 - Concepts: [[Active Inference]]
 - Concepts: [[variational free energy]]
 - Concepts: [[expected free energy]]
@@ -121,13 +162,23 @@ The free energy principle (FEP) is a first-principles theory originating in stat
 - Concepts: [[autopoiesis]]
 - Concepts: [[homeostasis]]
 - Concepts: [[free energy]]
+- Concepts: [[self-organisation]]
+- Concepts: [[thermodynamics]]
+- Concepts: [[Friston]]
+- Concepts: [[Karl]]
+- Concepts: [[prediction]]
+- Concepts: [[entropy]]
+- Topics: [[theoretical neuroscience]]
+- Topics: [[consciousness]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Active Inference _ The Free Energy Principle in Mind, Brain, - Thomas Parr; Giovanni Pezzulo; Karl J Friston; MIT Press.pdf#p1-309]
 - Additional source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
+- Additional source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `being-you-a-new-science-of-consciousness-seth-anil`.
+- 2026-04-25 — merged contributions from `the-hidden-spring-mark-solms`.

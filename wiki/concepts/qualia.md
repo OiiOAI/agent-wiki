@@ -11,6 +11,7 @@ sources:
 - '[raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]'
 - '[raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos
   Llinás.pdf#p1-305]'
+- '[raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]'
 confidence: medium
 tags:
 - qualia
@@ -23,6 +24,8 @@ tags:
 - sensation
 - neural-basis
 - philosophy-of-mind
+- subjectivity
+- experience
 related:
   broader:
   - consciousness
@@ -66,12 +69,16 @@ Qualia are the subjective, internal experiences of how sensory inputs are percei
 - The Weber-Fechner law (s = k·ln A/Ao) mathematically describes qualia as the logarithm of sensory activation. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p219]
 - Llinás proposes qualia represent 'internalized FAPs'—sensory components that produce subjective experience internally rather than overt motor output. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p212]
 - Qualia are soluble in local anesthetics and can be disrupted by a 'whack on the head,' indicating they are not transcendent properties but closely tied to biological processes. [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p222]
+- Affective qualia possess both continuous hedonic valence and categorical quality. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p180]
+- Affects are always subjective, valenced, and qualitative, given the control problem they evolved to handle. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p180]
+- Categorisation becomes necessary when the relative value of different quantities changes over time and contexts. [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p179]
 
 ## Inferences
 
 - Inference: The fact that different people can perceive the same input differently shows that qualia are constructed internally rather than directly representing external reality.
 - Inference: LeDoux takes a physicalist position, assuming brain mechanisms that contribute to consciousness are all that is needed to explain consciousness.
 - Inference: The parallel Llinás draws between muscle contraction and qualia—both triggered electrically, both involving summing properties of many cells, both affected by specific drugs—suggests qualia may be understood through the same reductionist approach applied to motor physiology.
+- Inference: The elemental form of all qualia is affective—perceptual qualia differ from affective qualia in that they are not inherently hedonically valenced but acquire valence through association with affect.
 
 ## Uncertainties
 
@@ -104,6 +111,9 @@ Qualia are the subjective, internal experiences of how sensory inputs are percei
 - Concepts: [[weber-fechner-law]]
 - Concepts: [[electrical-activity]]
 - Concepts: [[thalamocortical]]
+- Concepts: [[valence]]
+- Concepts: [[affect]]
+- Concepts: [[precision-optimisation]]
 - Entities: [[wilder-penfield]]
 
 ## Provenance
@@ -111,9 +121,11 @@ Qualia are the subjective, internal experiences of how sensory inputs are percei
 - Primary source: [raw/books/neuroscience/A Thousand Brains _ A New Theory of Intelligence - Jeff Hawkins; Richard Dawkins; Basic Books.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf#p1-305]
+- Additional source: [raw/books/neuroscience/The Hidden Spring - Mark Solms.pdf#p1-378]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `anxious-joseph-ledoux`.
 - 2026-04-25 — merged contributions from `i-of-the-vortex-from-neurons-to-self-rodolfo-riascos-llina-s`.
+- 2026-04-25 — merged contributions from `the-hidden-spring-mark-solms`.
