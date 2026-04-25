@@ -7171,3 +7171,65 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/nocebo-effect.md`
 - Files deprecated: None.
 - Notes: 63 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | influence-the-psychology-of-persuasion-robert-b-cialdini
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf
+- Files created:
+  - `wiki/entities/attractiveness-legal-sentencing-research.md`
+  - `wiki/entities/bibb-latanne-john-darley.md`
+  - `wiki/entities/catherine-genovese.md`
+  - `wiki/entities/cialdini-robert-b.md`
+  - `wiki/entities/david-phillips.md`
+  - `wiki/entities/elliot-aronson-judson-mills.md`
+  - `wiki/entities/elliot-aronson.md`
+  - `wiki/entities/james-c-davies.md`
+  - `wiki/entities/jim-jones.md`
+  - `wiki/entities/joe-girard.md`
+  - `wiki/entities/jonathan-freedman.md`
+  - `wiki/entities/langer-ellen.md`
+  - `wiki/entities/lee-alexis-wilson-case.md`
+  - `wiki/entities/leon-festinger-henry-riecken-stanley-schachter.md`
+  - `wiki/entities/milgram-bickman-berkow-itz-1967.md`
+  - `wiki/entities/morton-deutsch-harold-gerard.md`
+  - `wiki/entities/muzafer-sherif.md`
+  - `wiki/entities/my-lai-massacre.md`
+  - `wiki/entities/regan-dennis.md`
+  - `wiki/entities/stanley-milgram.md`
+  - `wiki/entities/the-great-poseidon-auction.md`
+  - `wiki/entities/vartan-bhanji.md`
+  - `wiki/concepts/association-principle.md`
+  - `wiki/concepts/automatic-responding-in-modern-life.md`
+  - `wiki/concepts/commitment-and-consistency.md`
+  - `wiki/concepts/competition-for-limited-resources.md`
+  - `wiki/concepts/contrast-principle.md`
+  - `wiki/concepts/cooperative-learning.md`
+  - `wiki/concepts/filmed-social-proof-television-violence.md`
+  - `wiki/concepts/fixed-action-patterns.md`
+  - `wiki/concepts/foot-in-the-door-technique.md`
+  - `wiki/concepts/halo-effects-physical-attractiveness.md`
+  - `wiki/concepts/inner-choice.md`
+  - `wiki/concepts/jigsaw-classroom.md`
+  - `wiki/concepts/liking.md`
+  - `wiki/concepts/milgram-obedience-experiments.md`
+  - `wiki/concepts/newly-experienced-scarcity.md`
+  - `wiki/concepts/obedience-to-authority.md`
+  - `wiki/concepts/pluralistic-ignorance.md`
+  - `wiki/concepts/psychological-reactance.md`
+  - `wiki/concepts/public-commitment.md`
+  - `wiki/concepts/reciprocity.md`
+  - `wiki/concepts/rejection-then-retreat-technique.md`
+  - `wiki/concepts/rejection-then-retreat.md`
+  - `wiki/concepts/scarcity-principle.md`
+  - `wiki/concepts/similarity-attraction-effect.md`
+  - `wiki/concepts/similarity-compliance.md`
+  - `wiki/concepts/social-proof.md`
+  - `wiki/concepts/symbols-of-authority.md`
+  - `wiki/concepts/weapons-of-influence.md`
+  - `wiki/concepts/werther-effect.md`
+  - `wiki/sources/influence-the-psychology-of-persuasion.md`
+  - `wiki/analyses/how-to-resist-scarcity-pressures.md`
+- Files merged (extended):
+  - `wiki/concepts/mere-exposure-effect.md`
+- Files deprecated: None.
+- Notes: 53 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

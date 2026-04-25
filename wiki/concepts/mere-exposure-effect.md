@@ -4,24 +4,29 @@ title: Mere-Exposure Effect
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost
   - Sönke Ahrens.pdf#p1-157]'
+- '[raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]'
 confidence: high
 tags:
 - cognitive-bias
 - learning
 - memory
+- psychology
+- social psychology
+- attraction
+- familiarity
+- preference formation
 related:
   broader:
   - cognitive-biases
-  narrower: []
   adjacent:
   - deliberate-practice
   - retrieval-practice
+aliases: []
 ---
-
 
 # Mere-Exposure Effect
 
@@ -35,10 +40,16 @@ The mere-exposure effect is a cognitive bias where becoming familiar with someth
 - On top of believing we understand, we also tend to like familiar things more. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p82]
 - Seeing something we have seen before causes the same emotional reaction as if we had been able to retrieve the information from our memory. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p83]
 - Rereading makes us feel we have learned what we read: I know that already!. [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p83]
+- Repeated exposure to a stimulus increases liking for that stimulus even when the exposure is subliminal or unaccompanied by conscious recognition. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
+- The mere exposure effect applies to political candidates, with Joseph Grush's research showing a strong connection between amount of media exposure and a candidate's chances of winning an election. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
+- People typically underestimate the degree to which similarity affects their liking for another person, according to Gonzales et al. (1983). [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
+- The familiarity-attraction relationship applies to ethnic groups staying with their own in school settings. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
+- Repeated exposure to things presented under unpleasant conditions can still increase liking if the exposure is sufficient. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
 
 ## Inferences
 
 - Inference: The mere-exposure effect explains why students choose ineffective learning methods like rereading—they feel like they are learning even when they are not.
+- Inference: The mere exposure effect has significant implications for political campaigns, where repeated media exposure can increase voter familiarity and subsequently increase candidate preference regardless of policy positions or qualifications.
 
 ## Related pages
 
@@ -47,12 +58,19 @@ The mere-exposure effect is a cognitive bias where becoming familiar with someth
 - Adjacent: [[retrieval-practice]]
 - Concepts: [[retrieval-practice]]
 - Concepts: [[deliberate-practice]]
+- Concepts: [[similarity-attraction effect]]
+- Concepts: [[positive affect]]
+- Concepts: [[unconscious influence]]
 - Entities: [[robert-bornstein]]
+- Entities: [[Robert Zajonc]]
+- Entities: [[Joseph Grush]]
 
 ## Provenance
 
 - Primary source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
+- Additional source: [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `influence-the-psychology-of-persuasion-robert-b-cialdini`.
