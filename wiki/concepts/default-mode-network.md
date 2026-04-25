@@ -13,6 +13,7 @@ sources:
   Think.pdf#p1-417]'
 - '[raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman
   Barrett.pdf#p1-554]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 confidence: high
 tags:
 - neuroscience
@@ -27,6 +28,8 @@ tags:
 - prediction
 - concepts
 - future thinking
+- meditation
+- mind-wandering
 related:
   broader:
   - brain activation during sleep
@@ -36,14 +39,20 @@ related:
   - schemas
   - interoceptive network
   - constructed emotion
+  - brain-networks
+  - mindfulness
   narrower:
   - DMN and dreaming
   - schemas
   - concepts
   - mental inference
+  - mind-wandering
+  - rumination
   adjacent:
   - hippocampus
   - episodic-memory
+  - flow-state
+  - meditation
 aliases: []
 ---
 
@@ -79,16 +88,28 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - Binder's findings have been replicated by a meta-analysis of 120 similar brain-imaging experiments. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p339]
 - Daniel T. Gilbert calls the default mode network an 'experience simulator' akin to flight simulators for training pilots. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p339]
 - Newborns do not have a fully formed default mode network, resulting in their inability to predict and their diffuse 'lantern' of attention. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p340]
+- Scientists discovered the DMN using fMRI to study what the brain does when not involved in any particular task. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p203]
+- People's minds are wandering about 47% of the time according to a Harvard study by Killingsworth and Gilbert with 2250 participants. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p204]
+- People are on average least happy during mind wandering, regardless of what activity they are doing. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p204]
+- The DMN is associated with a stream of memories, plans, and fantasies mostly centered around ourselves and our personal concerns. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p205]
+- Scientists could predict people making mistakes on concentration tasks almost thirty seconds in advance by measuring increased DMN activity. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p205]
+- Increased activity and connectivity in the DMN is directly correlated with depression, anxiety, addiction, and obsession. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p206]
+- The advanced capacity for prognostication was a tremendous survival advantage for human ancestors. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p206]
+- The cortical regions of the DMN are physically thicker in creative individuals. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p206]
+- Meditation down-regulates DMN activity, particularly through effortless attention practices. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p207]
 
 ## Inferences
 
 - Inference: The DMN's role in both mind wandering and dreaming suggests these states share functional similarities in memory processing.
 - Inference: The DMN deconstructs experiences into reusable LEGO-like pieces, while the hippocampus provides instructions for how to assemble them into specific memories. This allows us to build new memories using familiar components.
 - Inference: The default mode network appears to be essential for creativity, sense-making, and long-term planning — functions that are compromised by smartphone distraction.
+- Inference: The DMN may have evolved for planning purposes but now has too much work due to increased societal complexity.
+- Inference: Meditation may help correct for over-activity of the DMN in modern environments.
 
 ## Uncertainties
 
 - Uncertain: Some scientists disagree about whether the default mode network is the primary region involved in mind-wandering — this remains an ongoing debate.
+- Uncertain: The exact relationship between DMN activity and creativity requires further research.
 
 ## Related pages
 
@@ -99,12 +120,18 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - Broader: [[schemas]]
 - Broader: [[interoceptive network]]
 - Broader: [[constructed emotion]]
+- Broader: [[brain-networks]]
+- Broader: [[mindfulness]]
 - Narrower: [[DMN and dreaming]]
 - Narrower: [[schemas]]
 - Narrower: [[concepts]]
 - Narrower: [[mental inference]]
+- Narrower: [[mind-wandering]]
+- Narrower: [[rumination]]
 - Adjacent: [[hippocampus]]
 - Adjacent: [[episodic-memory]]
+- Adjacent: [[flow-state]]
+- Adjacent: [[meditation]]
 - Concepts: [[nextup model]]
 - Concepts: [[sleep-dependent memory processing]]
 - Concepts: [[hippocampus]]
@@ -129,6 +156,7 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
 - Additional source: [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p1-417]
 - Additional source: [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p1-554]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
@@ -136,3 +164,4 @@ The Default Mode Network (DMN) is a set of brain regions active during quiet res
 - 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.
 - 2026-04-25 — merged contributions from `stolen-focus-why-you-can-t-pay-attention-and-how-to-think`.
 - 2026-04-25 — merged contributions from `how-emotions-are-made-the-secret-life-of-lisa-feldman-barret`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.

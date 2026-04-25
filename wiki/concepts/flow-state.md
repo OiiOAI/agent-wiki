@@ -11,6 +11,7 @@ sources:
 - '[raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p1-437]'
 - '[raw/books/productivity/Stolen Focus _ Why You Can''t Pay Attention - and How to
   Think.pdf#p1-417]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 confidence: high
 tags:
 - happiness
@@ -22,6 +23,8 @@ tags:
 - flow
 - focus
 - engagement
+- csikszentmihalyi
+- optimal-experience
 related:
   broader:
   - cognitive-science
@@ -56,12 +59,17 @@ Flow state is a mental state identified by Mihaly Csikszentmihalyi in which a pe
 - Flow can only occur during monotasking; multitasking and distraction kill the possibility of reaching flow. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p62]
 - Csikszentmihalyi discovered that staring at a screen provides the lowest amount of flow on average among recreational activities. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p65]
 - Flow is extraordinarily fragile and easily disrupted by forces within ourselves and in our environment. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p65]
+- Mihaly Csikszentmihalyi studied flow states and found people describe them using terms like 'ecstatic,' 'floating,' and 'effortless'. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p154]
+- Flow requires the 'Goldilocks zone' where task difficulty matches skill level—between anxiety (too hard) and boredom (too easy). [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p155]
+- The book argues meditation expands the flow channel by training concentration, making previously boring or challenging activities accessible. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p159]
+- Key flow features include altered time perception, diminished ego, and total absorption in the activity. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p154]
 
 ## Inferences
 
 - Inference: The 'mind like water' metaphor from chapter 1 is essentially Allen's term for the flow state—where water responds appropriately to whatever disturbance enters its space without resistance.
 - Inference: Flow states appear to be a positive force that counteracts the fragmentation of modern attention.
 - Inference: Technologies based on B.F. Skinner's behaviorism (social media likes, notifications) compete with flow by offering superficial rewards instead of meaningful engagement.
+- Inference: Meditation is presented as a form of flow training because it requires skill (the algorithm) applied to challenges (sensations) at an appropriate level.
 
 ## Related pages
 
@@ -79,6 +87,12 @@ Flow state is a mental state identified by Mihaly Csikszentmihalyi in which a pe
 - Concepts: [[monotasking]]
 - Concepts: [[meaningful-goals]]
 - Concepts: [[self-discipline]]
+- Concepts: [[concentration]]
+- Concepts: [[sensory-clarity]]
+- Concepts: [[hedonic-adaptation]]
+- Topics: [[positive-psychology]]
+- Topics: [[attention]]
+- Topics: [[optimal-experience]]
 - Entities: [[mihaly-csikszentmihalyi]]
 - Entities: [[roy-baumeister]]
 
@@ -87,9 +101,11 @@ Flow state is a mental state identified by Mihaly Csikszentmihalyi in which a pe
 - Primary source: [raw/books/productivity/Deep Work_ Rules for Focused Success in a Distracted World - Cal Newport.pdf#p1-191]
 - Additional source: [raw/books/productivity/Getting Things Done_ The Art of Stress - Fre - Allen, David.pdf#p1-437]
 - Additional source: [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p1-417]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `getting-things-done-the-art-of-stress-fre-allen-david`.
 - 2026-04-25 — merged contributions from `stolen-focus-why-you-can-t-pay-attention-and-how-to-think`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.

@@ -9,6 +9,7 @@ sources:
 - '[raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p1-248]'
 - '[raw/books/productivity/Stolen Focus _ Why You Can''t Pay Attention - and How to
   Think.pdf#p1-417]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 canonical: Mihaly Csikszentmihalyi
 confidence: medium
 aliases:
@@ -21,6 +22,7 @@ tags:
 - flow
 - focus
 - researcher
+- csikszentmihalyi
 related:
   concepts:
   - flow
@@ -28,8 +30,11 @@ related:
   - play
   - flow-state
   - positive-psychology
+  - concentration
   topics:
   - attention-restoration
+  - positive-psychology
+  - flow-research
 ---
 
 # Mihaly Csikszentmihalyi
@@ -50,11 +55,15 @@ Mihaly Csikszentmihalyi is a psychologist cited in Essentialism for his research
 - Csikszentmihalyi discovered that 85 percent of people recognize having experienced a flow state and describe such moments as highlights of their lives. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p61]
 - He built a broad and robust body of scientific evidence establishing flow states as a real and deep form of human attention. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p63]
 - He was 87 years old when interviewed by Hari, having spent over 50 years studying flow states. [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p63]
+- Csikszentmihalyi studied people in high concentration states and found they were calm, relaxed, open, and felt very good. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p154]
+- He coined the term 'flow' from participants' descriptions of effortless, spontaneous engagement. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p154]
+- His formula for flow involves matching task difficulty to skill level in the Goldilocks zone. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p155]
 
 ## Inferences
 
 - Inference: His work on flow is used to support the Play chapter's argument that play enhances creativity and problem-solving.
 - Inference: Csikszentmihalyi's traumatic childhood may have driven his interest in how humans find meaning and positive psychological states.
+- Inference: The book positions meditation as a tool for widening the flow channel by training concentration, making Csikszentmihalyi's framework applicable to meditation practice.
 
 ## Related pages
 
@@ -63,14 +72,19 @@ Mihaly Csikszentmihalyi is a psychologist cited in Essentialism for his research
 - Concepts: [[play]]
 - Concepts: [[flow-state]]
 - Concepts: [[positive-psychology]]
+- Concepts: [[concentration]]
 - Topics: [[attention-restoration]]
+- Topics: [[positive-psychology]]
+- Topics: [[flow-research]]
 
 ## Provenance
 
 - Primary source: [raw/books/productivity/Essentialism_ The Disciplined Pursuit of L - Mckeown, Greg.pdf#p1-248]
 - Additional source: [raw/books/productivity/Stolen Focus _ Why You Can't Pay Attention - and How to Think.pdf#p1-417]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `stolen-focus-why-you-can-t-pay-attention-and-how-to-think`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.

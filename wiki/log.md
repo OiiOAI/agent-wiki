@@ -7783,3 +7783,47 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/scarcity-mindset.md`
 - Files deprecated: None.
 - Notes: 39 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-mindful-geek-secular-meditation-for-s-michael-taft
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf
+- Files created:
+  - `wiki/entities/judson-brewer.md`
+  - `wiki/entities/martin-seligman.md`
+  - `wiki/entities/michael-w-taft.md`
+  - `wiki/entities/shinzen-young.md`
+  - `wiki/concepts/acceptance.md`
+  - `wiki/concepts/basic-mindfulness.md`
+  - `wiki/concepts/chronic-stress.md`
+  - `wiki/concepts/deep-listening.md`
+  - `wiki/concepts/default-mode.md`
+  - `wiki/concepts/emotional-guidance-system.md`
+  - `wiki/concepts/focus-on-body-sensation.md`
+  - `wiki/concepts/focus-on-emotion.md`
+  - `wiki/concepts/focus-on-now.md`
+  - `wiki/concepts/focus-on-positive.md`
+  - `wiki/concepts/focus-on-relaxation.md`
+  - `wiki/concepts/hedonic-adaptation.md`
+  - `wiki/concepts/labeling.md`
+  - `wiki/concepts/meditation-algorithm.md`
+  - `wiki/concepts/pendulation.md`
+  - `wiki/concepts/relaxation-response.md`
+  - `wiki/concepts/resilience.md`
+  - `wiki/concepts/sensory-clarity.md`
+  - `wiki/concepts/stress-response.md`
+  - `wiki/concepts/three-elements-cca.md`
+  - `wiki/topics/meditation-practice.md`
+  - `wiki/sources/the-mindful-geek.md`
+- Files merged (extended):
+  - `wiki/entities/antonio-damasio.md`
+  - `wiki/entities/mihaly-csikszentmihalyi.md`
+  - `wiki/entities/paul-ekman.md`
+  - `wiki/concepts/default-mode-network.md`
+  - `wiki/concepts/flow-state.md`
+  - `wiki/concepts/mind-wandering.md`
+  - `wiki/concepts/mirror-neurons.md`
+  - `wiki/concepts/neuroplasticity.md`
+  - `wiki/concepts/oxytocin.md`
+  - `wiki/concepts/somatic-marker-hypothesis.md`
+- Files deprecated: None.
+- Notes: 26 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

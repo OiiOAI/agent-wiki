@@ -16,6 +16,7 @@ sources:
   Oshin.pdf#p1-500]'
 - '[raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R.
   Damasio.pdf#p1-323]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 confidence: medium
 tags:
 - neuroscience
@@ -30,6 +31,7 @@ tags:
 - prefrontal-cortex
 - somatic-markers
 - ventromedial-prefrontal-cortex
+- embodiment
 related:
   broader:
   - emotion
@@ -149,6 +151,10 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Selective reduction of emotion is at least as prejudicial for rationality as excessive emotion. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p41]
 - Emotion probably assists reasoning especially when it comes to personal and social matters involving risk and conflict. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p42]
 - Emotion viewed as embodiment of the logic of survival—neither a luxury nor a nuisance nor a mere evolutionary vestige. [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p42]
+- The Somatic Marker Hypothesis describes emotions as primarily somatic (body-based) events, not mental events. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p129]
+- The book describes a card-deck experiment where healthy participants unconsciously detected bad decks through stress responses after 10 draws. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p130]
+- Participants with prefrontal cortex damage continued choosing bad decks despite losing money, showing impaired emotional decision-making. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p130]
+- Botox studies showed that paralyzing facial muscles (involved in emotional expression) made it harder to feel emotions and empathize with others. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p129]
 
 ## Inferences
 
@@ -169,6 +175,8 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Inference: The hypothesis suggests that emotion is not merely disruptive to decision making but is actually necessary for advantageous choices.
 - Inference: The somatic marker hypothesis provides neurobiological support for the notion that people make judgments not only by evaluating consequences and their probability, but also at a gut or emotional level.
 - Inference: The hypothesis overturns the classical view that reason and emotion are opposing forces, replacing it with a view where emotion provides essential biasing signals for adaptive decision-making.
+- Inference: Since emotions are essential for decision-making, attempting to suppress or eliminate emotions would impair rather than improve rational choice.
+- Inference: The prefrontal cortex connects reasoning areas with body-sensation areas, explaining why 'gut feelings' influence decisions.
 
 ## Uncertainties
 
@@ -268,12 +276,17 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Concepts: [[somatic-markers]]
 - Concepts: [[body-loop]]
 - Concepts: [[as-if-body-loop]]
+- Concepts: [[emotional-guidance-system]]
+- Concepts: [[sensory-clarity]]
+- Concepts: [[focus-on-emotion]]
 - Topics: [[descartes-error]]
 - Topics: [[decision-making]]
 - Topics: [[emotion and reason]]
 - Topics: [[neural-basis-of-reason]]
 - Topics: [[emotion-and-cognition]]
 - Topics: [[neuroscience-of-decision-making]]
+- Topics: [[neuroscience]]
+- Topics: [[embodiment]]
 - Entities: [[ventromedial-prefrontal-cortex]]
 - Entities: [[elliot-patient]]
 - Entities: [[prefrontal cortices]]
@@ -302,6 +315,7 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
 - Additional source: [raw/books/neuroscience/The Feeling of What Happens_ Body and Emot - Antonio R. Damasio.pdf#p1-323]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
@@ -311,3 +325,4 @@ Antonio Damasio's somatic marker hypothesis proposes that feelings arise from th
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
 - 2026-04-25 — merged contributions from `the-feeling-of-what-happens-body-and-emot-antonio-r-damasio`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.

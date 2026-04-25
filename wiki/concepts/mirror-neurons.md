@@ -12,6 +12,7 @@ sources:
   S_ Gazzaniga.pdf#p1-461]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 confidence: high
 tags:
 - mirror neurons
@@ -25,6 +26,9 @@ tags:
 - motor cognition
 - action recognition
 - primate neurophysiology
+- mirror-neurons
+- empathy
+- social-brain
 related:
   broader:
   - action-recognition
@@ -78,12 +82,17 @@ Mirror neurons are a remarkable population of neurons that discharge both when a
 - Mirror neurons represent observed actions as potential motor acts in the observer's own premotor cortex, potentially providing a basis for understanding others' intentions. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p474]
 - Canonical neurons in F5, related to mirror neurons, discharge both when grasping an object and when simply viewing an object of a particular shape, without necessarily planning to grasp it. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p472]
 - Difficulty in understanding the perspectives, thoughts, and intentions of others (a central feature of autism) may be related to dysfunction in mirror neuron systems. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p475]
+- Mirror neurons fire both when performing an action and when observing another person perform that action. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p198]
+- The book notes mirror neurons have not been definitively confirmed in humans but the evidence is described as strong. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p198]
+- A University of Virginia study showed that the pain of friends becomes almost indistinguishable from one's own pain. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p198]
+- Mirror neurons are presented as a neural mechanism for empathy through internal simulation. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p198]
 
 ## Inferences
 
 - Inference: Mirror neurons may have been exapted (co-opted) during human evolution for language development, as the same neural circuitry for recognizing actions could be used for generating communicative signals
 - Inference: The mirror neuron system's involvement in understanding both actions and intentions suggests a shared neural substrate for perception and production that may have been co-opted for social cognition.
 - Inference: Mirror neurons may form the neural substrate for social cognition by allowing individuals to internally simulate observed actions, thereby understanding others' motor intentions without requiring explicit cognitive reasoning.
+- Inference: Mirror neuron function may be enhanced by Focus on Emotion practice, which makes subtle emotional expressions more perceptible.
 
 ## Uncertainties
 
@@ -116,6 +125,12 @@ Mirror neurons are a remarkable population of neurons that discharge both when a
 - Concepts: [[motor planning]]
 - Concepts: [[potential motor acts]]
 - Concepts: [[visuomotor transformation]]
+- Concepts: [[emotional-guidance-system]]
+- Concepts: [[somatic-marker-hypothesis]]
+- Concepts: [[focus-on-emotion]]
+- Topics: [[neuroscience]]
+- Topics: [[empathy]]
+- Topics: [[social-cognition]]
 - Entities: [[giacomo-rizzolatti]]
 - Entities: [[michael-arbib]]
 - Entities: [[area F5]]
@@ -125,9 +140,11 @@ Mirror neurons are a remarkable population of neurons that discharge both when a
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.

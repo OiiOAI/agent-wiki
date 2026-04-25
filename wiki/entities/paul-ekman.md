@@ -10,6 +10,7 @@ sources:
 - '[raw/books/neuroscience/Human _ the science behind what makes us unique - Michael
   S_ Gazzaniga.pdf#p1-461]'
 - '[raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p1-239]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 canonical: Paul Ekman
 confidence: medium
 aliases:
@@ -25,6 +26,9 @@ tags:
 - deception
 - universal-emotions
 - universalism
+- ekman
+- emotion-universality
+- cross-cultural
 related:
   concepts:
   - basic-emotions-theory
@@ -36,6 +40,10 @@ related:
   - facs
   - leakage
   - universalism
+  - emotional-guidance-system
+  topics:
+  - emotion-research
+  - cultural-psychology
   entities:
   - charles-darwin
 ---
@@ -59,6 +67,10 @@ Paul Ekman is a psychologist who identified six basic emotions (anger, fear, dis
 - Ekman's principal scientific contribution was to demonstrate 'leakage'—that emotions are involuntarily displayed on the face in distinctive configurations of facial muscles. [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p209]
 - In the 1960s, Ekman traveled to Papua New Guinea with colleagues to study the Fore tribe, arguing that if they could identify emotions in Western photographs as readily as people in New York or London, emotions must be universal. [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p210]
 - Ekman has written extensively on Darwin's contributions to understanding emotional expression, editing the book 'Darwin and Facial Expression' (2006). [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p212]
+- Ekman traveled to Borneo expecting to find cultural variation in emotional expressions. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p124]
+- He found that Americans and Borneans understood each other's emotional expressions without cultural translation. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p124]
+- His research supported Darwin's evolutionary view that emotions have universal biological foundations. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p124]
+- The television series 'Lie to Me' was based on Ekman's work. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p124]
 
 ## Uncertainties
 
@@ -68,6 +80,7 @@ Paul Ekman is a psychologist who identified six basic emotions (anger, fear, dis
 ## Inferences
 
 - Inference: Ekman's work on universal emotions underlies many tools used to understand strangers, including lie detectors and assumptions about reading people's inner states from facial expressions.
+- Inference: Ekman's findings provide empirical support for the book's claim that emotions are evolved biological responses rather than purely social constructs.
 
 ## Related pages
 
@@ -86,6 +99,9 @@ Paul Ekman is a psychologist who identified six basic emotions (anger, fear, dis
 - Concepts: [[facs]]
 - Concepts: [[leakage]]
 - Concepts: [[universalism]]
+- Concepts: [[emotional-guidance-system]]
+- Topics: [[emotion-research]]
+- Topics: [[cultural-psychology]]
 - Entities: [[charles-darwin]]
 
 ## Provenance
@@ -93,9 +109,11 @@ Paul Ekman is a psychologist who identified six basic emotions (anger, fear, dis
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/Human _ the science behind what makes us unique - Michael S_ Gazzaniga.pdf#p1-461]
 - Additional source: [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p1-239]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `human-the-science-behind-what-makes-us-unique-michael-s-gazz`.
 - 2026-04-25 — merged contributions from `talking-to-strangers-gladwell-malcolm`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.

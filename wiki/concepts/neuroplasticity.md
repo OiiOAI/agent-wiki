@@ -12,6 +12,7 @@ sources:
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
 - '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
   M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
+- '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
 confidence: high
 tags:
 - neuroplasticity
@@ -108,11 +109,17 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - New neurons sometimes make things worse after brain injury, migrating where they shouldn't and making circuits seizure-prone—described as neuronal pathological altruism. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p973]
 - The number of new neurons integrated into circuits reflects: number formed from stem cells, percentage differentiating into neurons versus glia, and rate at which new neurons survive and form functional synapses. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p974]
 - Voluntary exercise with glucocorticoid secretion enhances neurogenesis, while stress-induced glucocorticoid secretion inhibits it—the contrast between good and bad stress. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p974]
+- Neuroplasticity is behind the phrase 'neurons that fire together, wire together,' describing how neural networks form and strengthen. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p22]
+- The brain scans of London taxi drivers showed their hippocampus was markedly larger than controls, and the longer they had been cabbies, the bigger their hippocampus. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p23]
+- An eight-week mindfulness course caused gray matter increases in brain regions associated with 'learning and memory processes, emotion regulation, self-referential processing, and perspective-taking.'. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p24]
+- Whatever you focus your attention on regularly over time will change the brain itself - physically altering it. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p23]
+- The insula grows larger and more convoluted when you meditate, increasing processing power for feeling internal states. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p20]
 
 ## Inferences
 
 - Inference: Bach-y-Rita's discovery that the visual cortex could process tactile input suggests that brain areas are plastic processors rather than rigidly specialized modules.
 - Inference: brain reorganization can occur within days through unmasking of existing connections, this suggests potential for rapid therapeutic interventions using constraint-based therapies.
+- Inference: Neuroplasticity explains why regular meditation practice produces lasting changes in mental abilities and well-being, not just temporary states during meditation.
 
 ## Related pages
 
@@ -166,10 +173,14 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - Concepts: [[cross-modal-plasticity]]
 - Concepts: [[hippocampus]]
 - Concepts: [[stress]]
+- Concepts: [[mindfulness-meditation]]
+- Concepts: [[default-mode]]
+- Concepts: [[insula]]
 - Topics: [[neuroscience]]
 - Topics: [[brain-function]]
 - Topics: [[learning]]
 - Topics: [[brain-development]]
+- Topics: [[meditation-science]]
 - Entities: [[Norman Doidge]]
 - Entities: [[William Greenough]]
 - Entities: [[Donald Hebb]]
@@ -187,6 +198,7 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - Additional source: [raw/books/health/Spark _ The Revolutionary New Science of Exercise and the - John J_ Ratey; Eric Hagerman.pdf#p1-228]
 - Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
 - Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
+- Additional source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
 
 ## Change notes
 
@@ -194,3 +206,4 @@ Neuroplasticity is the brain's ability to change throughout life, including gene
 - 2026-04-25 — merged contributions from `spark-the-revolutionary-new-science-of-exercise-and-the-john`.
 - 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
 - 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.
+- 2026-04-25 — merged contributions from `the-mindful-geek-secular-meditation-for-s-michael-taft`.
