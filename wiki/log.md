@@ -4411,3 +4411,83 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/hong-lou-meng-zhi-yan-zhai-jing-ping-ben.md`
 - Files deprecated: None.
 - Notes: 131 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 三命通会-简体中文版-中华传世珍藏古典文库-万民英
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/三命通会(简体中文版)_ 中华传世珍藏古典文库 - 万民英.epub
+- Files created:
+  - `wiki/entities/wan-min-ying.md`
+  - `wiki/concepts/cai-guan-shuang-mei.md`
+  - `wiki/concepts/da-yun.md`
+  - `wiki/concepts/dao-shi.md`
+  - `wiki/concepts/di-zhi-pei-di-li.md`
+  - `wiki/concepts/di-zhi.md`
+  - `wiki/concepts/fei-tian-lu-ma-ge.md`
+  - `wiki/concepts/fu-de-xiu-qi.md`
+  - `wiki/concepts/gan-zhi-ji-shi-fa.md`
+  - `wiki/concepts/gong-lu-gong-gui.md`
+  - `wiki/concepts/gu-chen-gua-su.md`
+  - `wiki/concepts/guan-sha-qu-liu.md`
+  - `wiki/concepts/ji-bing.md`
+  - `wiki/concepts/ji-sheng-shi-er-gong.md`
+  - `wiki/concepts/jian-lu.md`
+  - `wiki/concepts/jie-sha-wang-shen.md`
+  - `wiki/concepts/kong-wang.md`
+  - `wiki/concepts/kui-gang.md`
+  - `wiki/concepts/liu-bing-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-ding-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-geng-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-hai.md`
+  - `wiki/concepts/liu-ji-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-jia-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-qin.md`
+  - `wiki/concepts/liu-shi-jia-zi.md`
+  - `wiki/concepts/liu-wu-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-yi-ri-shi-zhu-duan-fa.md`
+  - `wiki/concepts/liu-yi-shu-gui.md`
+  - `wiki/concepts/liu-yin-chao-yang.md`
+  - `wiki/concepts/lun-wu-hang-shi-di-fen-ye.md`
+  - `wiki/concepts/ming-gong.md`
+  - `wiki/concepts/na-yin.md`
+  - `wiki/concepts/nv-ming.md`
+  - `wiki/concepts/pian-cai.md`
+  - `wiki/concepts/pian-guan.md`
+  - `wiki/concepts/ren-qi-long-bei.md`
+  - `wiki/concepts/ri-de.md`
+  - `wiki/concepts/ri-lu-gui-shi.md`
+  - `wiki/concepts/san-qi.md`
+  - `wiki/concepts/san-xing.md`
+  - `wiki/concepts/shang-guan.md`
+  - `wiki/concepts/shi-gan-he.md`
+  - `wiki/concepts/shi-gan-hua-qi.md`
+  - `wiki/concepts/shi-gan-lu.md`
+  - `wiki/concepts/shi-gan-shi-er-nian-sheng-da-gui-ren-li.md`
+  - `wiki/concepts/shi-shen.md`
+  - `wiki/concepts/si-wei-chun-quan.md`
+  - `wiki/concepts/si-zhu.md`
+  - `wiki/concepts/tai-sui.md`
+  - `wiki/concepts/tian-fu-gui-ren.md`
+  - `wiki/concepts/tian-gan-pei-tian-wen.md`
+  - `wiki/concepts/tian-gan.md`
+  - `wiki/concepts/tian-luo-di-wang.md`
+  - `wiki/concepts/tian-yi-gui-ren.md`
+  - `wiki/concepts/tian-yuan-yi-qi.md`
+  - `wiki/concepts/tian-yue-de.md`
+  - `wiki/concepts/wang-xiang-xiu-qiu-si.md`
+  - `wiki/concepts/wu-xing.md`
+  - `wiki/concepts/xian-chi.md`
+  - `wiki/concepts/xiao-er.md`
+  - `wiki/concepts/xiao-yun.md`
+  - `wiki/concepts/xue-tang-ci-guan.md`
+  - `wiki/concepts/yang-ren.md`
+  - `wiki/concepts/yi-ma.md`
+  - `wiki/concepts/yin-shou.md`
+  - `wiki/concepts/za-qi.md`
+  - `wiki/concepts/zheng-cai.md`
+  - `wiki/concepts/zheng-guan.md`
+  - `wiki/concepts/zhi-yuan-liu-he.md`
+  - `wiki/concepts/zhi-yuan-san-he.md`
+  - `wiki/concepts/zi-yao-si-lu.md`
+  - `wiki/sources/san-ming-tong-hui.md`
+- Files deprecated: None.
+- Notes: 73 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
