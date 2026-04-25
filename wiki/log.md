@@ -10246,3 +10246,71 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/atul-gawande.md`
 - Files deprecated: None.
 - Notes: 19 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-book-of-why
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/The_Book_of_Why.epub
+- Files created:
+  - `wiki/entities/barbara-burks.md`
+  - `wiki/entities/bayesialab.md`
+  - `wiki/entities/dagitty.md`
+  - `wiki/entities/dana-mackenzie.md`
+  - `wiki/entities/david-lewis.md`
+  - `wiki/entities/francis-galton.md`
+  - `wiki/entities/frederic-lord.md`
+  - `wiki/entities/howard-wainer-lisa-brown.md`
+  - `wiki/entities/james-lind.md`
+  - `wiki/entities/john-snow.md`
+  - `wiki/entities/judea-pearl.md`
+  - `wiki/entities/karl-pearson.md`
+  - `wiki/entities/sewall-wright.md`
+  - `wiki/concepts/back-door-adjustment.md`
+  - `wiki/concepts/baron-kenny-method.md`
+  - `wiki/concepts/bayesian-networks.md`
+  - `wiki/concepts/berkeley-admissions-paradox.md`
+  - `wiki/concepts/causal-diagrams.md`
+  - `wiki/concepts/causal-inference-methods.md`
+  - `wiki/concepts/causal-inference.md`
+  - `wiki/concepts/causal-mediation-analysis.md`
+  - `wiki/concepts/collider-bias.md`
+  - `wiki/concepts/confounding-and-deconfounding.md`
+  - `wiki/concepts/controlled-direct-effect.md`
+  - `wiki/concepts/counterfactual-reasoning.md`
+  - `wiki/concepts/counterfactual.md`
+  - `wiki/concepts/counterfactuals.md`
+  - `wiki/concepts/do-calculus.md`
+  - `wiki/concepts/do-operator.md`
+  - `wiki/concepts/estimand.md`
+  - `wiki/concepts/ett-effects-of-treatment-on-the-treated.md`
+  - `wiki/concepts/front-door-adjustment.md`
+  - `wiki/concepts/instrumental-variables.md`
+  - `wiki/concepts/ladder-of-causation.md`
+  - `wiki/concepts/lords-paradox.md`
+  - `wiki/concepts/matching-techniques.md`
+  - `wiki/concepts/mediation-analysis.md`
+  - `wiki/concepts/mediation-fallacy.md`
+  - `wiki/concepts/mediation-formula.md`
+  - `wiki/concepts/mediation.md`
+  - `wiki/concepts/mendelian-randomization.md`
+  - `wiki/concepts/monty-hall-paradox.md`
+  - `wiki/concepts/monty-hall-problem.md`
+  - `wiki/concepts/natural-direct-and-indirect-effects.md`
+  - `wiki/concepts/natural-direct-effect.md`
+  - `wiki/concepts/natural-indirect-effect.md`
+  - `wiki/concepts/path-analysis.md`
+  - `wiki/concepts/pn-ps-pns.md`
+  - `wiki/concepts/potential-outcomes.md`
+  - `wiki/concepts/probabilistic-causality.md`
+  - `wiki/concepts/probabilities-of-causation.md`
+  - `wiki/concepts/regression-to-the-mean.md`
+  - `wiki/concepts/simpsons-paradox.md`
+  - `wiki/concepts/structural-equation-models.md`
+  - `wiki/concepts/structural-equations.md`
+  - `wiki/concepts/the-causal-revolution.md`
+  - `wiki/sources/the-book-of-why.md`
+  - `wiki/analyses/smoking-cancer-causation-debate.md`
+- Files merged (extended):
+  - `wiki/entities/david-hume.md`
+  - `wiki/entities/thomas-bayes.md`
+- Files deprecated: None.
+- Notes: 58 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
