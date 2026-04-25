@@ -9,6 +9,7 @@ sources:
 - '[raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]'
 - '[raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman
   Barrett.pdf#p1-554]'
+- '[raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p1-239]'
 canonical: Lisa Feldman Barrett
 confidence: high
 tags:
@@ -19,9 +20,14 @@ tags:
 - psychologist
 - neuroscientist
 - author
+- constructed-states
+- barrett
+- facial-expressions
 aliases:
 - Barrett
 - Feldman Barrett
+- dr-lisa-feldman-barrett
+- barrett
 related:
   concepts:
   - body budgeting
@@ -36,6 +42,8 @@ related:
   - theory of constructed emotion
   - emotional granularity
   - body budget
+  - constructed-emotions
+  - emotional-cultural-relativity
   topics:
   - psychology
   - neuroscience
@@ -66,10 +74,15 @@ Lisa Feldman Barrett is a psychologist and neuroscientist whose groundbreaking b
 - She holds appointments at Harvard Medical School and Massachusetts General Hospital in psychiatry and radiology. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p546]
 - She received an NH Director's Pioneer Award for groundbreaking research on emotion in the brain. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p546]
 - She authored the book 'How Emotions Are Made: The Secret Life of the Brain' published by HMH. [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p547]
+- Barrett argues 'emotions are made and not triggered,' meaning each person builds their own culturally-specific 'operating instructions' for their face over their lifetime. [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p211]
+- Barrett is described as 'one of the leaders in challenging the Ekman view' of universal emotions. [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p211]
+- Her book 'How Emotions Are Made' (2017) presents her theory that the face is 'a symbol of how different human beings are, not how similar we are.'. [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p211]
+- Barrett co-authored a paper in Psychological Science in the Public Interest reconsidering emotional expressions and challenging the view that emotion can be reliably inferred from facial movements. [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p212]
 
 ## Inferences
 
 - Inference: Barrett's work bridges neuroscience, psychology, and clinical practice, providing a unifying framework for understanding how prediction errors and body-budgeting underlie both normal emotional experience and psychiatric conditions [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p105]
+- Inference: Barrett's work challenges the evidentiary basis of lie detection and other systems that assume facial expressions reliably reveal inner emotional states.
 
 ## Uncertainties
 
@@ -77,6 +90,11 @@ Lisa Feldman Barrett is a psychologist and neuroscientist whose groundbreaking b
 
 ## Related pages
 
+- Broader: [[psychologists]]
+- Broader: [[emotion-researchers]]
+- Narrower: [[universal-facial-expressions]]
+- Adjacent: [[paul-ekman]]
+- Adjacent: [[elizabeth-loftus]]
 - Concepts: [[body budgeting]]
 - Concepts: [[emotion]]
 - Concepts: [[homeostasis]]
@@ -89,6 +107,8 @@ Lisa Feldman Barrett is a psychologist and neuroscientist whose groundbreaking b
 - Concepts: [[theory of constructed emotion]]
 - Concepts: [[emotional granularity]]
 - Concepts: [[body budget]]
+- Concepts: [[constructed-emotions]]
+- Concepts: [[emotional-cultural-relativity]]
 - Topics: [[psychology]]
 - Topics: [[neuroscience]]
 - Topics: [[emotion]]
@@ -100,8 +120,10 @@ Lisa Feldman Barrett is a psychologist and neuroscientist whose groundbreaking b
 
 - Primary source: [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]
 - Additional source: [raw/books/psychology/How Emotions Are Made_ The Secret Life of - Lisa Feldman Barrett.pdf#p1-554]
+- Additional source: [raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf#p1-239]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `how-emotions-are-made-the-secret-life-of-lisa-feldman-barret`.
+- 2026-04-25 — merged contributions from `talking-to-strangers-gladwell-malcolm`.

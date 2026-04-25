@@ -7460,3 +7460,50 @@ This file is the append-only operational history of the wiki.
   - `wiki/analyses/why-positive-thinking-fails.md`
 - Files deprecated: None.
 - Notes: 11 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | talking-to-strangers-gladwell-malcolm
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Talking to Strangers - Gladwell, Malcolm.pdf
+- Files created:
+  - `wiki/entities/ana-belen-montes.md`
+  - `wiki/entities/anne-sexton.md`
+  - `wiki/entities/bernie-madoff.md`
+  - `wiki/entities/brian-encinia.md`
+  - `wiki/entities/charles-morgan-psychiatrist.md`
+  - `wiki/entities/david-weisburd.md`
+  - `wiki/entities/florentino-aspillaga.md`
+  - `wiki/entities/harry-markopolos.md`
+  - `wiki/entities/james-mitchell-psychologist.md`
+  - `wiki/entities/jerry-sandusky.md`
+  - `wiki/entities/kansas-city-gun-experiment.md`
+  - `wiki/entities/khalid-sheikh-muhammad.md`
+  - `wiki/entities/lawrence-sherman.md`
+  - `wiki/entities/neville-chamberlain.md`
+  - `wiki/entities/richard-r-johnson.md`
+  - `wiki/entities/sandra-bland.md`
+  - `wiki/entities/scott-carmichael.md`
+  - `wiki/entities/sylvia-plath.md`
+  - `wiki/entities/the-mountain-climber.md`
+  - `wiki/entities/tim-levine.md`
+  - `wiki/concepts/alcohol-myopia.md`
+  - `wiki/concepts/coupling.md`
+  - `wiki/concepts/default-to-truth.md`
+  - `wiki/concepts/haystack-searches.md`
+  - `wiki/concepts/illusion-of-asymmetric-insight.md`
+  - `wiki/concepts/jerry-sandusky-case.md`
+  - `wiki/concepts/law-of-crime-concentration.md`
+  - `wiki/concepts/reid-technique.md`
+  - `wiki/concepts/the-holy-fool.md`
+  - `wiki/concepts/transparency-illusion.md`
+  - `wiki/concepts/transparency.md`
+  - `wiki/concepts/truth-default-theory.md`
+  - `wiki/concepts/universal-facial-expressions.md`
+  - `wiki/topics/amanda-knox-case.md`
+  - `wiki/topics/brock-turner-case.md`
+  - `wiki/sources/talking-to-strangers.md`
+  - `wiki/analyses/three-mistakes-strangers.md`
+- Files merged (extended):
+  - `wiki/entities/lisa-feldman-barrett.md`
+  - `wiki/entities/paul-ekman.md`
+- Files deprecated: None.
+- Notes: 37 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
