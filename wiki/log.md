@@ -10714,3 +10714,76 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/li-xi-li-lun.md`
 - Files deprecated: None.
 - Notes: 50 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代经济学系列丛书-公共经济学-英-安东尼-b-阿特金森-美-约瑟夫-e-斯蒂格利茨-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[当代经济学系列丛书]公共经济学·[英]安东尼·B.阿特金森 [美]约瑟夫·E.斯蒂格利茨 著.pdf
+- Files created:
+  - `wiki/entities/ha-bo-ge-mo-xing.md`
+  - `wiki/entities/la-mu-qi.md`
+  - `wiki/concepts/bian-ji-cheng-ben-ding-jia.md`
+  - `wiki/concepts/bu-que-ding-xing-xia-de-chu-xu.md`
+  - `wiki/concepts/cai-chan-shui.md`
+  - `wiki/concepts/cai-zheng-lian-bang-zhi.md`
+  - `wiki/concepts/cheng-ben-shou-yi-fen-xi.md`
+  - `wiki/concepts/chu-xu-de-zheng-shui.md`
+  - `wiki/concepts/chun-gong-gong-wu-pin.md`
+  - `wiki/concepts/di-bo-te-jia-she.md`
+  - `wiki/concepts/di-fang-gong-gong-wu-pin-de-zui-you-gong-ji.md`
+  - `wiki/concepts/di-fang-gong-gong-wu-pin-shi-chang-jun-heng.md`
+  - `wiki/concepts/duo-lei-cheng-yuan-jing-ji-mo-xing.md`
+  - `wiki/concepts/duo-shu-tou-piao-jun-heng.md`
+  - `wiki/concepts/gong-gong-bu-men-gui-mo.md`
+  - `wiki/concepts/gong-gong-gong-ying-wu-pin-de-te-zheng.md`
+  - `wiki/concepts/gong-si-shui-gui-su-de-yi-ban-jun-heng-fen-xi.md`
+  - `wiki/concepts/gong-zi-gang-xing-yu-shi-ye.md`
+  - `wiki/concepts/guan-liao-mo-xing.md`
+  - `wiki/concepts/gui-fan-de-guo-jia-li-lun.md`
+  - `wiki/concepts/guo-zhai-fu-dan.md`
+  - `wiki/concepts/he-xin-li-lun.md`
+  - `wiki/concepts/ju-le-bu-li-lun.md`
+  - `wiki/concepts/kua-shi-xuan-ze.md`
+  - `wiki/concepts/la-mu-qi-shui-shou-wen-ti.md`
+  - `wiki/concepts/lao-dong-gong-gei-de-jing-yan-zheng-ju.md`
+  - `wiki/concepts/li-yi-ji-tuan.md`
+  - `wiki/concepts/liang-bu-men-yi-ban-jun-heng-mo-xing.md`
+  - `wiki/concepts/lin-da-er-jun-heng.md`
+  - `wiki/concepts/long-duan-jing-zheng-mo-xing.md`
+  - `wiki/concepts/ma-ke-si-zhu-yi-guo-jia-li-lun.md`
+  - `wiki/concepts/mian-fei-da-che-wen-ti.md`
+  - `wiki/concepts/pian-hao-xian-shi-ji-zhi.md`
+  - `wiki/concepts/sheng-ming-zhou-qi-chu-xu-li-lun.md`
+  - `wiki/concepts/shi-chang-bu-wan-quan-xing-yu-shui-shou-gui-su.md`
+  - `wiki/concepts/shou-ru-fen-pei-mo-xing.md`
+  - `wiki/concepts/shou-ru-wei-chi-fang-an.md`
+  - `wiki/concepts/shui-shou-gai-ge-yu-ju-bu-fuli-gaishan.md`
+  - `wiki/concepts/shui-shou-gui-su-de-deng-jia-guan-xi.md`
+  - `wiki/concepts/shui-shou-yu-chu-xu.md`
+  - `wiki/concepts/shui-shou-yu-feng-xian-cheng-dan.md`
+  - `wiki/concepts/shui-shou-zheng-ce-fen-xi-kuang-jia.md`
+  - `wiki/concepts/ti-bo-jia-shuo.md`
+  - `wiki/concepts/tou-piao-bo-lun.md`
+  - `wiki/concepts/tou-ru-chan-chu-lian-xi.md`
+  - `wiki/concepts/tu-di-jia-zhi-zi-ben-hua.md`
+  - `wiki/concepts/wen-ding-zeng-zhang.md`
+  - `wiki/concepts/xian-xing-suo-de-shui.md`
+  - `wiki/concepts/xiao-fei-wai-bu-xing-yu-jiu-zheng-shui.md`
+  - `wiki/concepts/yi-chan-dong-ji.md`
+  - `wiki/concepts/yu-qi-yu-shui-shou-zheng-ce-xiao-ying.md`
+  - `wiki/concepts/zhe-jiu-yu-tou-zi-shui-shou.md`
+  - `wiki/concepts/zheng-fu-gan-yu-de-li-you.md`
+  - `wiki/concepts/zheng-fu-gong-ju-de-fan-wei.md`
+  - `wiki/concepts/zhi-jie-shui-yu-jian-jie-shui.md`
+  - `wiki/concepts/zhong-wei-tou-piao-ren-mo-xing.md`
+  - `wiki/concepts/zi-ben-cheng-ben-yu-shui-shou.md`
+  - `wiki/concepts/zi-ben-cheng-ben.md`
+  - `wiki/concepts/zi-chan-zu-he-xuan-ze.md`
+  - `wiki/concepts/zui-you-suo-de-shui.md`
+  - `wiki/topics/gong-gong-xuan-ze-li-lun.md`
+  - `wiki/sources/gong-gong-jing-ji-xue.md`
+- Files merged (extended):
+  - `wiki/concepts/pa-lei-tuo-xiao-lu.md`
+  - `wiki/concepts/she-hui-fu-li-han-shu.md`
+  - `wiki/concepts/sheng-ming-zhou-qi-mo-xing.md`
+- Files deprecated: None.
+- Notes: 62 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
