@@ -6688,3 +6688,25 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/show-your-work.md`
 - Files deprecated: None.
 - Notes: 17 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | steal-like-an-artist-10-things-nobody-tol-kleon-austin-kleon
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin [Kleon, Austin].pdf
+- Files created:
+  - `wiki/entities/conan-obrien.md`
+  - `wiki/entities/kobe-bryant.md`
+  - `wiki/concepts/analog-and-digital-workflow.md`
+  - `wiki/concepts/creative-subtraction.md`
+  - `wiki/concepts/fake-it-til-you-make-it.md`
+  - `wiki/concepts/impostor-syndrome.md`
+  - `wiki/concepts/productive-procrastination.md`
+  - `wiki/concepts/seinfeld-chain-method.md`
+  - `wiki/concepts/sharing-work-publicly.md`
+  - `wiki/concepts/side-projects.md`
+  - `wiki/concepts/stealing-like-an-artist.md`
+  - `wiki/concepts/swipe-file.md`
+  - `wiki/sources/steal-like-an-artist.md`
+- Files merged (extended):
+  - `wiki/entities/austin-kleon.md`
+- Files deprecated: None.
+- Notes: 13 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

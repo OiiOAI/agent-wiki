@@ -4,9 +4,11 @@ title: Austin Kleon
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/productivity/Show Your Work!_ 10 Ways to Share Your Cre - Austin Kleon.pdf#p1-211]'
+- '[raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin
+  [Kleon, Austin].pdf#p1-109]'
 canonical: Austin Kleon
 confidence: high
 aliases:
@@ -21,12 +23,10 @@ related:
   - scenius
   - daily-dispatch
   - stock-and-flow
-  topics: []
   entities:
   - steal-like-an-artist
   - newspaper-blackout
 ---
-
 
 # Austin Kleon
 
@@ -41,6 +41,10 @@ American writer and artist known for his books on creativity in the digital age,
 - His website austinkleon.com started as 'bare bones and ugly' when he was 'a complete amateur with no skills,' but installing a blog 'changed everything.'. [raw/books/productivity/Show Your Work!_ 10 Ways to Share Your Cre - Austin Kleon.pdf#p68]
 - Kleon credits his blog with leading to everything good in his career: 'My books, my art shows, my speaking gigs, some of my best friendships—they all exist because I have my own little piece of turf on the Internet.'. [raw/books/productivity/Show Your Work!_ 10 Ways to Share Your Cre - Austin Kleon.pdf#p68]
 - His advice on finding time: 'I look for it' in the nooks and crannies—commute, lunch break, hours after kids go to bed. 'I like to work while the world is sleeping, and share while the world is at work.'. [raw/books/productivity/Show Your Work!_ 10 Ways to Share Your Cre - Austin Kleon.pdf#p56]
+- Kleon grew up in the middle of a cornfield in southern Ohio and later moved to Austin, Texas. [raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin [Kleon, Austin].pdf#p65]
+- His first book, Newspaper Blackout, was made with a newspaper article and a permanent marker. [raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin [Kleon, Austin].pdf#p44]
+- He works with two desks—an analog desk with paper, pens, and markers, and a digital desk with his laptop and computer. [raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin [Kleon, Austin].pdf#p45]
+- He maintains a swipe file (morgue file) to collect inspiration for later creative work. [raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin [Kleon, Austin].pdf#p23]
 
 ## Inferences
 
@@ -48,6 +52,7 @@ American writer and artist known for his books on creativity in the digital age,
 
 ## Related pages
 
+- Broader: [[creativity-authors]]
 - Concepts: [[scenius]]
 - Concepts: [[daily-dispatch]]
 - Concepts: [[stock-and-flow]]
@@ -57,7 +62,9 @@ American writer and artist known for his books on creativity in the digital age,
 ## Provenance
 
 - Primary source: [raw/books/productivity/Show Your Work!_ 10 Ways to Share Your Cre - Austin Kleon.pdf#p1-211]
+- Additional source: [raw/books/productivity/Steal Like an Artist_ 10 Things Nobody Tol - Kleon, Austin [Kleon, Austin].pdf#p1-109]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `steal-like-an-artist-10-things-nobody-tol-kleon-austin-kleon`.
