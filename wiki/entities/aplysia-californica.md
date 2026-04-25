@@ -4,28 +4,38 @@ title: Aplysia californica
 type: entity
 status: draft
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal
   - Panksepp, Jaak.pdf#p1-242]'
+- '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
+  - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 canonical: Aplysia californica
 confidence: high
 aliases:
 - sea hare
 - marine snail
+- Aplysia
+- sea slug
+- California sea hare
 tags:
 - model-organism
 - learning
 - neuroscience
 - invertebrate
+- model organism
+- invertebrate neuroscience
+- memory
 related:
   concepts:
   - habituation
   - neural-basis-of-learning
-  topics: []
-  entities: []
+  - sensitization
+  - classical conditioning
+  - synaptic plasticity
+  topics:
+  - cellular mechanisms of implicit memory
 ---
-
 
 # Aplysia californica
 
@@ -40,6 +50,9 @@ Aplysia californica is a marine snail with a simple nervous system of approximat
 - Aplysia exhibits phototactic preference for darker rather than lighter environments and an intrinsic behavioral strategy of reaching out and swinging from side to side when suspended in water. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p27]
 - Successful instrumental conditioning in Aplysia was achieved by punishing swaying with bright light on one side while providing darkness on the other, demonstrating learning in individual muscles and motor neurons. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p27]
 - Aplysia is generally a sluggish and behaviorally inflexible creature that crawls along the seabed, using an intrinsic behavioral strategy of reaching out and swinging from side to side in search of a new anchor point. [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p27]
+- Aplysia has approximately 20,000 central neurons, making its nervous system simple enough for detailed cellular analysis while retaining complex behaviors. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1314]
+- The gill-withdrawal reflex circuit in Aplysia consists of ~24 mechanoreceptor sensory neurons in the abdominal ganglion synapsing onto 6 motor neurons. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1315]
+- Aplysia exhibits both short-term (minutes) and long-term (weeks) forms of habituation and sensitization through distinct molecular mechanisms. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1316]
 
 ## Inferences
 
@@ -52,11 +65,17 @@ Aplysia californica is a marine snail with a simple nervous system of approximat
 - Adjacent: [[instrumental-conditioning]]
 - Concepts: [[habituation]]
 - Concepts: [[neural-basis-of-learning]]
+- Concepts: [[sensitization]]
+- Concepts: [[classical conditioning]]
+- Concepts: [[synaptic plasticity]]
+- Topics: [[cellular mechanisms of implicit memory]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
+- Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `kandel-neural-science-6e`.

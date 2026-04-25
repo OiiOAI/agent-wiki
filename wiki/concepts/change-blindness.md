@@ -4,21 +4,21 @@ title: Change blindness
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
+- '[raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition
+  - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 confidence: high
 tags:
 - vision
 - perception
 - attention
 - psychology
-related:
-  broader: []
-  narrower: []
-  adjacent: []
+- consciousness
+related: {}
+aliases: []
 ---
-
 
 # Change blindness
 
@@ -32,6 +32,8 @@ Change blindness is the failure to notice changes in visual scenes, especially w
 - In change blindness, the entire lower half of an image can change color slowly without people noticing, even when looking directly at it. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p130]
 - Change blindness only occurs when people have not been primed to expect the color change; actively looking for change makes it easy to see. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p130]
 - Perception of change is another perceptual inference, another variety of controlled hallucination. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p130]
+- In change blindness paradigms, subjects can fail to notice large changes in pictures they are viewing, even though the difference is obvious when pointed out. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1523]
+- When the change involves a face, activity in the fusiform gyrus is elicited whether or not the subject is aware of the change, but conscious perception additionally involves activity in parietal and frontal cortices. [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1526]
 
 ## Inferences
 
@@ -42,11 +44,17 @@ Change blindness is the failure to notice changes in visual scenes, especially w
 - Concepts: [[inattentional-blindness]]
 - Concepts: [[perception]]
 - Concepts: [[controlled-hallucination]]
+- Concepts: [[consciousness]]
+- Concepts: [[visual perception]]
+- Concepts: [[unconscious cognitive processes]]
+- Topics: [[disorders of conscious and unconscious mental processes]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
+- Additional source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `kandel-neural-science-6e`.
