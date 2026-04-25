@@ -4,19 +4,22 @@ title: 惠能
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 confidence: high
 aliases:
 - 六祖惠能
 - 慧能
 - 惠能大师
 - 六祖
+- 南宗六祖
 tags:
 - 六祖
 - 禅宗
 - 佛教改革
+- 佛教人物
 canonical: true
 related:
   concepts:
@@ -32,8 +35,8 @@ related:
   - 神秀
   - 达摩
   - 法海
+  - 神会
 ---
-
 
 # 惠能
 
@@ -49,6 +52,11 @@ related:
 - 惠能作偈："菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？". [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p43]
 - 弘忍为惠能讲《金刚经》，至"应无所住而生其心"时，惠能言下大悟，连说五个"何期"。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p48]
 - 惠能所悟五何期：何期自性本自清净，何期自性本不生灭，何期自性本自具足，何期自性本无动摇，何期自性能生万法。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p48]
+- 慧能姓卢，南海新兴人，唐贞观十二年生，在蕲州受学于弘忍. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p711]
+- 慧能以先天二年卒. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p711]
+- 慧能弟子神会姓高，襄阳人，至岭南受学于慧能，后以其学北上攻击北宗，卒倾动当世，南宗乃为禅宗之正统. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p711]
+- 慧能、神会所提倡之修行方法，以无念为主. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p712]
+- 今所传之《六祖坛经》，依旧说系慧能所说，弟子法海集记. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p712]
 
 ## Inferences
 
@@ -56,6 +64,8 @@ related:
 
 ## Related pages
 
+- Broader: [[禅宗]]
+- Broader: [[南宗]]
 - Concepts: [[顿悟]]
 - Concepts: [[见性成佛]]
 - Concepts: [[禅宗]]
@@ -66,11 +76,14 @@ related:
 - Entities: [[神秀]]
 - Entities: [[达摩]]
 - Entities: [[法海]]
+- Entities: [[神会]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `中国哲学史-套装上下册-冯友兰`.
