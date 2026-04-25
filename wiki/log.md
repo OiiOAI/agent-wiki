@@ -5883,3 +5883,19 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/qiong-tong-bao-jian.md`
 - Files deprecated: None.
 - Notes: 42 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 第一讲精要-王德峰讲-道德经-庄子
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/第一讲精要 - 王德峰讲《道德经》《庄子》.pdf
+- Files created:
+  - `wiki/entities/lao-zi.md`
+  - `wiki/concepts/quan-sheng-bi-hai.md`
+  - `wiki/concepts/tian-dao.md`
+  - `wiki/concepts/tiandi-jing-jie.md`
+  - `wiki/concepts/wu-ming.md`
+  - `wiki/concepts/you-wu-xiang-sheng.md`
+  - `wiki/sources/wang-de-feng-jiang-dao-de-jing-zhuang-zi.md`
+- Files merged (extended):
+  - `wiki/entities/yang-zhu.md`
+- Files deprecated: None.
+- Notes: 7 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
