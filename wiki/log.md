@@ -6086,3 +6086,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zang-hua-yin.md`
 - Files deprecated: None.
 - Notes: 84 new + 44 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 胡适英文中国思想史授课纲要遗稿-整理本-胡适著-胡适-1891-1962-author-胡适
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/胡适英文中国思想史授课纲要遗稿 _ 整理本 - 胡适著, 胡适, 1891 - 1962, author, 胡适.pdf
+- Files created:
+  - `wiki/sources/hu-shi-ying-wen-zhong-guo-si-xiang-shi-shou-ke-gang-yao-yi-gao-zheng-li-ben-hu-shi-zhu-hu-shi-1891-1962-author-hu-shi.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
