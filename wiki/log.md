@@ -2846,3 +2846,66 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/vestibular-system.md`
 - Files deprecated: None.
 - Notes: 89 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-brain-from-inside-out-gyo-rgy-buzsa-ki-md-phd
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf
+- Files created:
+  - `wiki/entities/abby-and-brittany.md`
+  - `wiki/entities/grid-cells.md`
+  - `wiki/entities/gyorgy-buzsaki.md`
+  - `wiki/entities/head-direction-cells.md`
+  - `wiki/entities/mirror-neurons.md`
+  - `wiki/entities/patient-ai.md`
+  - `wiki/entities/somatosensory-cortex.md`
+  - `wiki/concepts/active-sensing.md`
+  - `wiki/concepts/amygdala-social-engagement.md`
+  - `wiki/concepts/brain-dictionary.md`
+  - `wiki/concepts/causation-in-neuroscience.md`
+  - `wiki/concepts/cell-assembly-trajectories.md`
+  - `wiki/concepts/coordinate-transformations.md`
+  - `wiki/concepts/experience-matching-process.md`
+  - `wiki/concepts/externalization-of-cognition.md`
+  - `wiki/concepts/gain-control.md`
+  - `wiki/concepts/gamma-oscillations.md`
+  - `wiki/concepts/good-enough-brain.md`
+  - `wiki/concepts/hippocampus-sequence-generator.md`
+  - `wiki/concepts/homeostatic-regulation-sleep.md`
+  - `wiki/concepts/input-magnitude-normalization.md`
+  - `wiki/concepts/inside-out-framework.md`
+  - `wiki/concepts/internalization.md`
+  - `wiki/concepts/language-internalized-action.md`
+  - `wiki/concepts/log-normal-distribution-brain.md`
+  - `wiki/concepts/mental-navigation.md`
+  - `wiki/concepts/neural-code.md`
+  - `wiki/concepts/neural-syntax-brain-rhythms.md`
+  - `wiki/concepts/number-sense.md`
+  - `wiki/concepts/outside-in-framework.md`
+  - `wiki/concepts/path-integration.md`
+  - `wiki/concepts/perception-from-action.md`
+  - `wiki/concepts/preconfigured-brain.md`
+  - `wiki/concepts/preformed-brain-dynamics.md`
+  - `wiki/concepts/protomap-hypothesis.md`
+  - `wiki/concepts/ratio-judgment.md`
+  - `wiki/concepts/rigid-versus-plastic-neurons.md`
+  - `wiki/concepts/sharp-wave-ripple.md`
+  - `wiki/concepts/sharp-wave-ripples.md`
+  - `wiki/concepts/slam.md`
+  - `wiki/concepts/space-time-relationship-brain.md`
+  - `wiki/concepts/tabula-rasa.md`
+  - `wiki/concepts/time-cells.md`
+  - `wiki/concepts/troxler-effect.md`
+  - `wiki/concepts/two-stage-memory-consolidation.md`
+  - `wiki/concepts/two-stage-memory-model.md`
+  - `wiki/topics/offline-brain-states.md`
+  - `wiki/sources/the-brain-from-inside-out.md`
+- Files merged (extended):
+  - `wiki/entities/place-cells.md`
+  - `wiki/entities/william-james.md`
+  - `wiki/concepts/cell-assembly.md`
+  - `wiki/concepts/corollary-discharge.md`
+  - `wiki/concepts/phrenology.md`
+  - `wiki/concepts/population-vector.md`
+  - `wiki/concepts/weber-fechner-law.md`
+- Files deprecated: None.
+- Notes: 48 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

@@ -13,6 +13,7 @@ sources:
 - '[raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_
   Mitchell.pdf#p1-354]'
 - '[raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]'
+- '[raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p1-461]'
 canonical: William James
 confidence: high
 aliases:
@@ -43,8 +44,12 @@ related:
   - decision-making
   - involuntary-attention
   - voluntary-attention
+  - cognitive psychology
+  - empiricism
+  - outside-in framework
   topics:
   - psychology
+  - history of neuroscience
 ---
 
 # William James
@@ -68,10 +73,15 @@ William James (1842–1910) was the founding father of American psychology. His 
 - William James noted in 1890: 'Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought. Focalization, concentration of consciousness, are of its essence. It implies withdrawal from some things in order to deal effectively with others.'. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p322]
 - James argued that voluntary attention is obviously a conscious process in people and therefore likely to be initiated in the cerebral cortex. [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p323]
 - James proposed two types of attention: involuntary (supported by automatic neural processes, particularly evident in implicit memory) and voluntary (a specific feature of explicit memory arising from internal needs). [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p323]
+- The Principles of Psychology was published in 1890 and if cognitive psychology has a birthdate, it would be this year. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p5]
+- The book's table of contents includes chapters on attention, perception of time, memory, sensation, imagination, perception of things, perception of space, perception of reality, reasoning, the emotions, will, and instinct. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p5-6]
+- When neuroscience entered the scene in the twentieth century, it unconditionally adopted James's terms and formulated a program to find neural correlates for each of them. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p6]
+- William James is quoted: 'There is nothing so absurd that it cannot be believed as truth if repeated often enough.'. [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p1]
 
 ## Inferences
 
 - Inference: James's model is supported by modern neuroscience showing that neural noise can generate diverse possibilities while evaluation and selection mechanisms determine final outcomes.
+- Inference: James's influence on neuroscience continues to this day, as most neuroscientists can pick an item from his table of contents and declare it as the problem they are interested in studying.
 
 ## Related pages
 
@@ -88,7 +98,11 @@ William James (1842–1910) was the founding father of American psychology. His 
 - Concepts: [[decision-making]]
 - Concepts: [[involuntary-attention]]
 - Concepts: [[voluntary-attention]]
+- Concepts: [[cognitive psychology]]
+- Concepts: [[empiricism]]
+- Concepts: [[outside-in framework]]
 - Topics: [[psychology]]
+- Topics: [[history of neuroscience]]
 
 ## Provenance
 
@@ -96,6 +110,7 @@ William James (1842–1910) was the founding father of American psychology. His 
 - Additional source: [raw/books/neuroscience/Descartes' error _ emotion, reason, and the human brain - Antonio R_ Damasio,pdf.pdf#p1-332]
 - Additional source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
+- Additional source: [raw/books/neuroscience/The Brain from Inside Out - György Buzsáki MD, PhD.pdf#p1-461]
 
 ## Change notes
 
@@ -103,3 +118,4 @@ William James (1842–1910) was the founding father of American psychology. His 
 - 2026-04-25 — merged contributions from `descartes-error-emotion-reason-and-the-human-brain-antonio-r`.
 - 2026-04-25 — merged contributions from `free-agents-how-evolution-gave-us-free-will-kevin-j-mitchell`.
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
+- 2026-04-25 — merged contributions from `the-brain-from-inside-out-gyo-rgy-buzsa-ki-md-phd`.
