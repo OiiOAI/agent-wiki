@@ -7264,3 +7264,40 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/self-transcendence.md`
 - Files deprecated: None.
 - Notes: 22 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | mating-in-captivity-unlocking-erotic-intelligence-esther-per
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Mating in Captivity_ Unlocking Erotic Intelligence - Esther Perel.pdf
+- Files created:
+  - `wiki/entities/adam-phillips.md`
+  - `wiki/entities/anthony-giddens.md`
+  - `wiki/entities/barry-johnson.md`
+  - `wiki/entities/dagmar-oconnor.md`
+  - `wiki/entities/esther-perel.md`
+  - `wiki/entities/helen-fisher.md`
+  - `wiki/entities/jack-morin.md`
+  - `wiki/entities/michael-bader.md`
+  - `wiki/entities/nancy-friday.md`
+  - `wiki/concepts/erotic-blueprints.md`
+  - `wiki/concepts/erotic-intelligence.md`
+  - `wiki/concepts/eroticism.md`
+  - `wiki/concepts/fantasy-in-relationships.md`
+  - `wiki/concepts/hookup-culture.md`
+  - `wiki/concepts/intentionality-in-sex.md`
+  - `wiki/concepts/intimacy.md`
+  - `wiki/concepts/modern-intimacy.md`
+  - `wiki/concepts/monogamy.md`
+  - `wiki/concepts/parenthood-and-eroticism.md`
+  - `wiki/concepts/play-in-erotic-life.md`
+  - `wiki/concepts/polarity-management.md`
+  - `wiki/concepts/power-dynamics-and-eroticism.md`
+  - `wiki/concepts/puritanism-and-hedonism.md`
+  - `wiki/concepts/security-and-adventure.md`
+  - `wiki/concepts/sexual-fantasy.md`
+  - `wiki/concepts/sexual-ruthlessness.md`
+  - `wiki/concepts/the-shadow-of-the-third.md`
+  - `wiki/concepts/work-ethic-and-sex.md`
+  - `wiki/topics/love-and-desire.md`
+  - `wiki/sources/mating-in-captivity-unlocking-erotic-intelligence.md`
+- Files deprecated: None.
+- Notes: 30 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
