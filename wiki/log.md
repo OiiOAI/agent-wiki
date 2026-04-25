@@ -208,3 +208,28 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/profit-first.md`
 - Files deprecated: None.
 - Notes: 38 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | rework-jason-fried
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/Rework - Jason Fried.pdf
+- Files created:
+  - `wiki/entities/37signals.md`
+  - `wiki/entities/david-hansson.md`
+  - `wiki/entities/jason-fried.md`
+  - `wiki/concepts/build-half-product.md`
+  - `wiki/concepts/building-an-audience.md`
+  - `wiki/concepts/dont-be-a-hero.md`
+  - `wiki/concepts/embrace-constraints.md`
+  - `wiki/concepts/ignore-real-world.md`
+  - `wiki/concepts/launch-now.md`
+  - `wiki/concepts/learning-mistakes-overrated.md`
+  - `wiki/concepts/meetings-are-toxic.md`
+  - `wiki/concepts/outside-money-plan-z.md`
+  - `wiki/concepts/planning-is-guessing.md`
+  - `wiki/concepts/say-no-by-default.md`
+  - `wiki/concepts/scratch-your-own-itch.md`
+  - `wiki/concepts/underdo-competition.md`
+  - `wiki/concepts/workaholism-stupid.md`
+  - `wiki/sources/rework-book.md`
+- Files deprecated: None.
+- Notes: 18 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
