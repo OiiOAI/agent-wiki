@@ -5430,3 +5430,74 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/zhi-xing-he-yi.md`
 - Files deprecated: None.
 - Notes: 70 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 传习录-全本全注全译-了解王阳明的行动哲学-参透知行合一之教-从这本-传习录-译注开始-点校细致-注释妥帖-翻译精确-王
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf
+- Files created:
+  - `wiki/entities/huang-xing-zeng.md`
+  - `wiki/entities/jiao-yue.md`
+  - `wiki/entities/li-ye-ming.md`
+  - `wiki/entities/liang-ri-fu.md`
+  - `wiki/entities/luo-qin-shun.md`
+  - `wiki/entities/nan-zhen-hua-shu-dui-hua.md`
+  - `wiki/entities/nie-bao.md`
+  - `wiki/entities/wang-ji.md`
+  - `wiki/entities/wen-zhong-zi.md`
+  - `wiki/entities/xun-meng-da-yi.md`
+  - `wiki/entities/yang-shi-de.md`
+  - `wiki/concepts/ao.md`
+  - `wiki/concepts/dong-jing-wu-duan-yin-yang-wu-shi.md`
+  - `wiki/concepts/he-si-he-lu.md`
+  - `wiki/concepts/jie-ju-yu-shen-du.md`
+  - `wiki/concepts/jin-xin-zhi-xing-zhi-tian.md`
+  - `wiki/concepts/jing-jin-yu-sheng.md`
+  - `wiki/concepts/jing-yi.md`
+  - `wiki/concepts/kuang-zhe-yu-xiang-yuan.md`
+  - `wiki/concepts/ling-ming.md`
+  - `wiki/concepts/long-chang-wu-dao.md`
+  - `wiki/concepts/shan-e-zhi-bian.md`
+  - `wiki/concepts/sheng-ren-qi-xiang.md`
+  - `wiki/concepts/sheng-zhi-an-xing.md`
+  - `wiki/concepts/wei-fa-yi-fa.md`
+  - `wiki/concepts/wei-fa-zhi-zhong.md`
+  - `wiki/concepts/xin-ti.md`
+  - `wiki/concepts/xin-wai-wu-li.md`
+  - `wiki/concepts/zhi-zhi-ge-wu.md`
+  - `wiki/concepts/zhi-zhong-he.md`
+  - `wiki/concepts/zhong-shu-zhong-de.md`
+  - `wiki/concepts/zhu-yi-li-zhi.md`
+  - `wiki/topics/wang-yang-ming-xin-xue.md`
+  - `wiki/sources/chuan-xi-lu.md`
+- Files merged (extended):
+  - `wiki/entities/cai-xi-yuan.md`
+  - `wiki/entities/chen-jiu-chuan.md`
+  - `wiki/entities/huang-zhi.md`
+  - `wiki/entities/lu-cheng.md`
+  - `wiki/entities/lu-yuan-jing.md`
+  - `wiki/entities/ou-yang-chong-yi.md`
+  - `wiki/entities/qian-de-hong.md`
+  - `wiki/entities/wang-yang-ming.md`
+  - `wiki/entities/xiao-hui.md`
+  - `wiki/entities/xu-ai.md`
+  - `wiki/entities/xue-kan.md`
+  - `wiki/entities/zhou-dao-tong.md`
+  - `wiki/concepts/ba-ben-sai-yuan.md`
+  - `wiki/concepts/bi-you-shi-yan.md`
+  - `wiki/concepts/cheng-yi.md`
+  - `wiki/concepts/ge-wu-zhi-zhi.md`
+  - `wiki/concepts/ge-wu.md`
+  - `wiki/concepts/ji-yi.md`
+  - `wiki/concepts/li-zhi.md`
+  - `wiki/concepts/liang-zhi.md`
+  - `wiki/concepts/shi-shang-mo-lian.md`
+  - `wiki/concepts/si-ju-jiao.md`
+  - `wiki/concepts/wan-wu-yi-ti.md`
+  - `wiki/concepts/wu-wang-wu-zhu.md`
+  - `wiki/concepts/xin-ji-li.md`
+  - `wiki/concepts/xing-cha-ke-zhi.md`
+  - `wiki/concepts/zhao-xin-yu-wang-xin.md`
+  - `wiki/concepts/zhi-liang-zhi.md`
+  - `wiki/concepts/zhi-xing-he-yi.md`
+- Files deprecated: None.
+- Notes: 34 new + 29 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

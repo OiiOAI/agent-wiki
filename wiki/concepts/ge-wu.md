@@ -4,25 +4,33 @@ title: 格物
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L1-L1]'
+- '[raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。
+  - 王阳明, 黎业明.pdf#p1-466]'
 confidence: high
 tags:
 - 心学
 - 王阳明
 - 功夫论
 - 大学
+- 工夫论
+- 朱陆之争
 related:
   broader:
   - 心学
   - 致知
-  narrower: []
+  - 《大学》
+  - 王阳明心学
   adjacent:
   - 诚意
   - 慎独
+  - 致知
+  - 正心
+  - 知行合一
+aliases: []
 ---
-
 
 # 格物
 
@@ -40,18 +48,26 @@ related:
 - 王阳明认为格物的功夫只在身心上做，不在外物上格. [raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L9142-L9143]
 - 王阳明与钱友格竹失败的故事，说明外求物理之不可能. [raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L9130-L9145]
 - 王阳明认为"格物即慎独"、"格物即戒惧". [raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L9223-L9224]
+- 格物者，《大学》之实下手处，彻首彻尾，自始学至圣人，只此工夫而已. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p277]
+- 天下无性外之理，无性外之物。学之不明，皆由世之儒者认理为外、认物为外. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p277]
 
 ## Inferences
 
 - Inference: 王阳明强调格物即是正心，其内向性不言而喻；功夫只是一个，并无内外之分
 - Inference: 王阳明的格物说与朱熹的"即凡天下之物，莫不因其已知之理而益穷之"形成根本分歧，体现了心学与理学的根本差异
+- Inference: 王阳明以「格其心之物」释格物，将外在的格物工夫收摄为内在的心性修养，这与朱熹「即物穷理」的外向路线形成根本对立。
 
 ## Related pages
 
 - Broader: [[心学]]
 - Broader: [[致知]]
+- Broader: [[《大学》]]
+- Broader: [[王阳明心学]]
 - Adjacent: [[诚意]]
 - Adjacent: [[慎独]]
+- Adjacent: [[致知]]
+- Adjacent: [[正心]]
+- Adjacent: [[知行合一]]
 - Concepts: [[致知]]
 - Concepts: [[诚意]]
 - Concepts: [[正心]]
@@ -68,7 +84,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L1-L1]
+- Additional source: [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p1-466]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `传习录-全本全注全译-了解王阳明的行动哲学-参透知行合一之教-从这本-传习录-译注开始-点校细致-注释妥帖-翻译精确-王`.

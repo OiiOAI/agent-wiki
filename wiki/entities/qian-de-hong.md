@@ -4,9 +4,11 @@ title: 钱德洪
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L1-L1]'
+- '[raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。
+  - 王阳明, 黎业明.pdf#p1-466]'
 confidence: medium
 aliases:
 - 钱宽
@@ -15,12 +17,17 @@ aliases:
 tags:
 - 王门弟子
 - 文献整理
+- 明代哲学
+- 心学
+- 王阳明弟子
+- 传习录
 canonical: true
 related:
   concepts:
   - 传习录
   - 致良知
   - 天泉证道
+  - 王学
   topics:
   - 王阳明心学
   entities:
@@ -28,8 +35,8 @@ related:
   - 南大吉
   - 薛侃
   - 王汝中
+  - 曾才汉
 ---
-
 
 # 钱德洪
 
@@ -49,33 +56,47 @@ related:
 - 钱德洪与王汝中共同参与"天泉证道". [raw/books/philosophy/传习录(中华经典名著全本注全译丛书) - 陆永胜译注.epub#L8860-L8875]
 - 嘉靖元年至六年，王阳明居越讲学，钱德洪随侍在侧. [raw/books/philosophy/传习录(中华经典名著全本注全译丛书) - 陆永胜译注.epub#L8960-L8975]
 - 钱德洪于丙戌年（1526年）参加会试，与黄正之、张叔谦、王汝中归途讲学. [raw/books/philosophy/传习录(中华经典名著全本注全译丛书) - 陆永胜译注.epub#L8910-L8935]
+- 钱德洪于嘉靖七年戊子冬与王汝中奔阳明师丧至广信，讣告同门，约三年收录遗言. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p447]
+- 钱德洪择录语录时曾欲与《文录》并刻，因丁忧未遂；后曾才汉得洪手抄本编为《阳明先生遗言录》于荆州. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p447]
+- 钱德洪删《遗言录》重复、削去芜蔓，存三分之一，编为《传习续录》重刻于宁国水西精舍. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p447]
+- 嘉靖三十五年丙辰夏，钱德洪于蕲之崇正书院作增刻跋文，痛惜师门格言微旨渐觉沦晦，归咎于吾党身践不力、多言有以病之. [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p449]
 
 ## Uncertainties
 
 - Uncertain: 钱德洪的生卒年及字号，各处记载略有出入，此处据原书整理。
+
+## Inferences
+
+- Inference: 钱德洪后来历经数年用功方理解王汝中所言本体功夫合一之旨，说明王阳明殁后弟子对师门核心义理的理解需要长期的修习印证
 
 ## Related pages
 
 - Broader: [[王阳明学派]]
 - Broader: [[浙中王学]]
 - Narrower: [[四有说]]
+- Narrower: [[传习录编纂]]
 - Adjacent: [[王阳明]]
 - Adjacent: [[王汝中]]
 - Adjacent: [[黄正之]]
 - Adjacent: [[张叔谦]]
+- Adjacent: [[曾才汉]]
 - Concepts: [[传习录]]
 - Concepts: [[致良知]]
 - Concepts: [[天泉证道]]
+- Concepts: [[王学]]
 - Topics: [[王阳明心学]]
 - Entities: [[王阳明]]
 - Entities: [[南大吉]]
 - Entities: [[薛侃]]
 - Entities: [[王汝中]]
+- Entities: [[曾才汉]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/传习录(中华经典名著全本全注全译丛书) - 陆永胜译注.epub#L1-L1]
+- Additional source: [raw/books/philosophy/传习录(全本全注全译)【了解王阳明的行动哲学,参透知行合一之教,从这本《传习录》译注开始,点校细致,注释妥帖,翻译精确。 - 王阳明, 黎业明.pdf#p1-466]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `传习录-全本全注全译-了解王阳明的行动哲学-参透知行合一之教-从这本-传习录-译注开始-点校细致-注释妥帖-翻译精确-王`.
