@@ -14,6 +14,8 @@ sources:
   - Suzanne Corkin.pdf#p1-402]'
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
+- '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
+  of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
 confidence: high
 tags:
 - psychology
@@ -28,6 +30,7 @@ tags:
 - prefrontal cortex
 - delayed response
 - cognitive neuroscience
+- executive function
 related:
   broader:
   - cognition
@@ -38,6 +41,8 @@ related:
   - prefrontal cortex
   - dorsolateral prefrontal cortex
   - executive function
+  - cognitive science
+  - prefrontal cortex function
   narrower:
   - executive-functions
   - workspace
@@ -45,6 +50,7 @@ related:
   - serial-processing
   - delay-period activity
   - spatial selectivity
+  - schema
   adjacent:
   - long-term-memory
   - attention
@@ -54,6 +60,8 @@ related:
   - intention
   - motor planning
   - cognitive control
+  - prefrontal-cortex
+  - schema-theory
 aliases: []
 ---
 
@@ -91,6 +99,11 @@ Working memory is a special information-processing function consisting of two ma
 - Neurons in the prefrontal cortex fire persistently during the delay period of a delayed match-to-sample working memory task, maintaining the neural representation of the sample image. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1539]
 - Persistent firing in entorhinal cortex neurons depends on Ca2+-activated nonselective (CAN) cation channels opened by both muscarinic receptor signaling and intracellular Ca2+ elevation, generating a positive feedback loop. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1540]
 - Working memory exhibits an inverted U-shaped relationship with D1 receptor activation: performance is optimal at intermediate dopamine levels and impaired at both very low and very high levels. [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1541]
+- Alan Baddeley termed the deliberative cognitive process 'working memory,' which involves transient storage of task-relevant representations for use in mental work. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p228]
+- Executive functions of working memory allocate and focus attention on selected stimuli, retrieve relevant memories, and orchestrate maintenance of selected information in active states. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p229]
+- Working memory has limited capacity—most people can hold four to seven separate items, and as items increase, capacity decreases. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p229]
+- The coalition hypothesis proposes that working memory emerges from capacities distributed throughout posterior and prefrontal cortical areas involved in sensory, memory, language, spatial, and motoric processing. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p249]
+- Prefrontal cortex maintains representations of goals in an active state and uses these to control processing in posterior areas—for example, biasing visual processing toward features of a target being sought. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p250]
 
 ## Inferences
 
@@ -98,6 +111,7 @@ Working memory is a special information-processing function consisting of two ma
 - Inference: Working memory and consciousness likely co-evolved because organisms that could maintain information about predators behind rocks, or about recurring environmental patterns, gained survival advantages.
 - Inference: Henry's working memory was sufficiently robust for simple tasks like playing bingo and speaking in sentences, but failed when demands exceeded capacity.
 - Inference: The sustained neural activity during delay periods may serve as a neural correlate of working memory, representing information internally rather than relying on external sensory stimulation.
+- Inference: The working memory coalition involves both bottom-up processing from sensory areas and top-down control from prefrontal regions, suggesting distributed rather than localized cognitive function.
 
 ## Uncertainties
 
@@ -114,12 +128,15 @@ Working memory is a special information-processing function consisting of two ma
 - Broader: [[prefrontal cortex]]
 - Broader: [[dorsolateral prefrontal cortex]]
 - Broader: [[executive function]]
+- Broader: [[cognitive science]]
+- Broader: [[prefrontal cortex function]]
 - Narrower: [[executive-functions]]
 - Narrower: [[workspace]]
 - Narrower: [[temporal-synthesis]]
 - Narrower: [[serial-processing]]
 - Narrower: [[delay-period activity]]
 - Narrower: [[spatial selectivity]]
+- Narrower: [[schema]]
 - Adjacent: [[long-term-memory]]
 - Adjacent: [[attention]]
 - Adjacent: [[consciousness]]
@@ -128,6 +145,8 @@ Working memory is a special information-processing function consisting of two ma
 - Adjacent: [[intention]]
 - Adjacent: [[motor planning]]
 - Adjacent: [[cognitive control]]
+- Adjacent: [[prefrontal-cortex]]
+- Adjacent: [[schema-theory]]
 - Concepts: [[cognition]]
 - Concepts: [[attention]]
 - Concepts: [[memory]]
@@ -144,6 +163,8 @@ Working memory is a special information-processing function consisting of two ma
 - Concepts: [[prefrontal cortex]]
 - Concepts: [[dopamine]]
 - Concepts: [[persistent neural activity]]
+- Concepts: [[executive functions]]
+- Concepts: [[pattern completion]]
 - Topics: [[cognitive-psychology]]
 - Topics: [[neuroscience]]
 - Topics: [[memory]]
@@ -157,6 +178,7 @@ Working memory is a special information-processing function consisting of two ma
 - Entities: [[prefrontal cortex]]
 - Entities: [[dopamine]]
 - Entities: [[entorhinal cortex]]
+- Entities: [[Alan Baddeley]]
 
 ## Provenance
 
@@ -165,6 +187,7 @@ Working memory is a special information-processing function consisting of two ma
 - Additional source: [raw/books/neuroscience/In Search of Memory_ The Emergence of a Ne - Eric R. Kandel.pdf#p1-506]
 - Additional source: [raw/books/neuroscience/Permanent Present Tense _ The Unforgettable Life of the - Suzanne Corkin.pdf#p1-402]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
+- Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
 
 ## Change notes
 
@@ -173,3 +196,4 @@ Working memory is a special information-processing function consisting of two ma
 - 2026-04-25 — merged contributions from `in-search-of-memory-the-emergence-of-a-ne-eric-r-kandel`.
 - 2026-04-25 — merged contributions from `permanent-present-tense-the-unforgettable-life-of-the-suzann`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
+- 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.

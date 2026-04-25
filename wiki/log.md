@@ -2909,3 +2909,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/weber-fechner-law.md`
 - Files deprecated: None.
 - Notes: 48 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-deep-history-of-ourselves-4-billion-year-story-of-how-jo
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf
+- Files created:
+  - `wiki/entities/david-rosenthal.md`
+  - `wiki/entities/emile-durkheim.md`
+  - `wiki/entities/endel-tulving.md`
+  - `wiki/entities/gaspar-jekely.md`
+  - `wiki/entities/hakwan-lau.md`
+  - `wiki/entities/michael-gazzaniga.md`
+  - `wiki/concepts/autonoetic-consciousness.md`
+  - `wiki/concepts/behavior-single-celled-organisms.md`
+  - `wiki/concepts/bilateral-body-plan-evolution.md`
+  - `wiki/concepts/cambrian-explosion.md`
+  - `wiki/concepts/choanoflagellates.md`
+  - `wiki/concepts/cognitive-dissonance.md`
+  - `wiki/concepts/edinger-ladder.md`
+  - `wiki/concepts/emotion-schema.md`
+  - `wiki/concepts/germ-soma-division.md`
+  - `wiki/concepts/goal-directed-deliberation.md`
+  - `wiki/concepts/higher-order-theory-of-consciousness.md`
+  - `wiki/concepts/language-and-cognition.md`
+  - `wiki/concepts/luca.md`
+  - `wiki/concepts/neuron-evolution-from-ciliated-cells.md`
+  - `wiki/concepts/neurons-nervous-systems.md`
+  - `wiki/concepts/noetic-consciousness.md`
+  - `wiki/concepts/perception-memory-integration.md`
+  - `wiki/concepts/phenomenal-consciousness.md`
+  - `wiki/concepts/protostome-deuterostome-split.md`
+  - `wiki/concepts/self-schema.md`
+  - `wiki/concepts/sexual-reproduction.md`
+  - `wiki/concepts/sponges-porifera.md`
+  - `wiki/concepts/triune-brain-theory.md`
+  - `wiki/concepts/vertebrate-neuro-bauplan.md`
+  - `wiki/sources/the-deep-history-of-ourselves.md`
+- Files merged (extended):
+  - `wiki/entities/joseph-ledoux.md`
+  - `wiki/concepts/animal-consciousness.md`
+  - `wiki/concepts/basic-emotions-theory.md`
+  - `wiki/concepts/blindsight.md`
+  - `wiki/concepts/endosymbiosis.md`
+  - `wiki/concepts/global-workspace-theory.md`
+  - `wiki/concepts/predictive-coding.md`
+  - `wiki/concepts/prefrontal-cortex.md`
+  - `wiki/concepts/schema-theory.md`
+  - `wiki/concepts/survival-circuits.md`
+  - `wiki/concepts/working-memory.md`
+- Files deprecated: None.
+- Notes: 31 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

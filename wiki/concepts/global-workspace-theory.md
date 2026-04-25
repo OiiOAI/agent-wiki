@@ -10,6 +10,8 @@ sources:
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
 - '[raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian,
   Oshin.pdf#p1-500]'
+- '[raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story
+  of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
 confidence: medium
 tags:
 - philosophy
@@ -21,6 +23,10 @@ tags:
 - global-workspace
 - decision-making
 - cognitive-architecture
+- global workspace
+- consciousness theory
+- working memory
+- broadcasting
 related:
   broader:
   - consciousness
@@ -28,6 +34,7 @@ related:
   - consciousness-theories
   - consciousness-neuroscience
   - cognitive-architecture
+  - consciousness theories
   narrower:
   - psychological-refractory-period
   - attentional-blink
@@ -38,6 +45,8 @@ related:
   - higher-order-thought-theory
   - dehaene
   - baars
+  - higher-order-theory
+  - predictive-coding
 aliases: []
 ---
 
@@ -60,12 +69,18 @@ Global workspace theory, proposed by Bernard Baars and championed by Stan Dehaen
 - A two-stage model proposes that an early stage permits rapid initial evaluation of the visual world, followed by a capacity-limited stage where information becomes conscious through coherent activity across distributed neurons. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p59]
 - Global neuronal workspace theory explains why response selection imposes a dual-task bottleneck, as arbitrary relations between stimuli and responses require temporary workspace mediation. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p60]
 - The P3 component of the EEG may be related to access to a global coherent workspace associated with flexible coordination of information and conscious reportability. [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p59]
+- GWT assumes specialized processing modules in posterior cortex operate nonconsciously and compete to post information to working memory. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p276]
+- In GWT, consciousness equals global availability of disseminated information broadcast throughout the brain. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p276]
+- Dehaene, Naccache, and Changeux reframed GWT as global neuronal workspace (GNW), where executive attention selects and amplifies information in prefrontal working memory. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p276]
+- LeDoux notes that GWT and HOT both require nonconscious low-level processing plus additional prefrontal processing for consciousness, but they diverge on mechanism. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p276]
+- Rosenthal critiqued GWT: global broadcasting doesn't distinguish conscious from nonconscious states, suggesting additional representation is needed. [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p276]
 
 ## Inferences
 
 - Inference: Global workspace theory shares with higher-order theory the requirement that single-level processing is insufficient for conscious experience.
 - Inference: The Global Workspace Theory provides a neural mechanism for understanding why decisions are slow (requiring workspace engagement), variable (due to stochastic integration), and serial (only one decision at a time can access the workspace).
 - Inference: The theory links conscious awareness with decision-making processes, suggesting that subjective introspection of time spent on a task correlates with the period of availability of global workspace activity.
+- Inference: LeDoux views GWT as appealing but insufficient because it doesn't explain how conscious content is experienced — only how information becomes accessible.
 
 ## Uncertainties
 
@@ -78,6 +93,7 @@ Global workspace theory, proposed by Bernard Baars and championed by Stan Dehaen
 - Broader: [[consciousness-theories]]
 - Broader: [[consciousness-neuroscience]]
 - Broader: [[cognitive-architecture]]
+- Broader: [[consciousness theories]]
 - Narrower: [[psychological-refractory-period]]
 - Narrower: [[attentional-blink]]
 - Adjacent: [[higher-order-theories]]
@@ -86,6 +102,8 @@ Global workspace theory, proposed by Bernard Baars and championed by Stan Dehaen
 - Adjacent: [[higher-order-thought-theory]]
 - Adjacent: [[dehaene]]
 - Adjacent: [[baars]]
+- Adjacent: [[higher-order-theory]]
+- Adjacent: [[predictive-coding]]
 - Concepts: [[consciousness]]
 - Concepts: [[workspace]]
 - Concepts: [[attention]]
@@ -96,15 +114,20 @@ Global workspace theory, proposed by Bernard Baars and championed by Stan Dehaen
 - Concepts: [[brain-architecture]]
 - Entities: [[dehaene]]
 - Entities: [[sigman]]
+- Entities: [[bernard-baars]]
+- Entities: [[stanislas-dehaene]]
+- Entities: [[david-rosenthal]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Anxious - Joseph LeDoux.pdf#p1-610]
 - Additional source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
 - Additional source: [raw/books/neuroscience/Neuroscience of Decision Making - Mandel, David R.,Vartanian, Oshin.pdf#p1-500]
+- Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `being-you-a-new-science-of-consciousness-seth-anil`.
 - 2026-04-25 — merged contributions from `neuroscience-of-decision-making-mandel-david-r-vartanian-osh`.
+- 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
