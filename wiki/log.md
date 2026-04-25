@@ -6603,3 +6603,33 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/mastery.md`
 - Files deprecated: None.
 - Notes: 12 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | mini-habits-smaller-habits-bigger-results-guise-stephen
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf
+- Files created:
+  - `wiki/entities/one-push-up-challenge.md`
+  - `wiki/entities/stephen-guise.md`
+  - `wiki/entities/the-easy-way-to-quit-smoking.md`
+  - `wiki/concepts/bonus-reps-strategy.md`
+  - `wiki/concepts/comfort-zone.md`
+  - `wiki/concepts/eight-mini-habit-rules.md`
+  - `wiki/concepts/habit-cues.md`
+  - `wiki/concepts/mini-habits.md`
+  - `wiki/concepts/motivation.md`
+  - `wiki/concepts/reward-association.md`
+  - `wiki/concepts/self-efficacy.md`
+  - `wiki/concepts/stupid-small-steps.md`
+  - `wiki/concepts/two-moments-of-resistance.md`
+  - `wiki/concepts/why-drill.md`
+  - `wiki/concepts/willpower.md`
+  - `wiki/topics/eight-step-mini-habits-framework.md`
+  - `wiki/sources/mini-habits-smaller-habits-bigger-results.md`
+  - `wiki/analyses/why-mini-habits-work.md`
+- Files merged (extended):
+  - `wiki/concepts/basal-ganglia.md`
+  - `wiki/concepts/ego-depletion.md`
+  - `wiki/concepts/habit-formation.md`
+  - `wiki/concepts/prefrontal-cortex.md`
+- Files deprecated: None.
+- Notes: 18 new + 4 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

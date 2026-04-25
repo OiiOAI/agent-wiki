@@ -12,6 +12,7 @@ sources:
   Mitchell.pdf#p1-354]'
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
+- '[raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]'
 confidence: high
 related:
   broader:
@@ -19,6 +20,7 @@ related:
   - brain
   - motor control
   - decision making
+  - neuroscience
   narrower:
   - dorsal-striatum
   - ventral-striatum
@@ -29,6 +31,11 @@ related:
   - substantia nigra
   - globus pallidus
   - ventral tegmental area
+  adjacent:
+  - prefrontal-cortex
+  - neural-pathways
+  - habit-formation
+  - willpower
 tags:
 - neuroscience
 - brain
@@ -38,6 +45,7 @@ tags:
 - subcortical
 - action selection
 - motor control
+- habits
 aliases: []
 ---
 
@@ -61,10 +69,16 @@ The basal ganglia are ancient subcortical structures that control motor function
 - The striatum receives rich dopaminergic input and cortico-striatal synapses show dopamine-dependent plasticity. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p408]
 - The centromedian/parafascicular (CM/PF) complex of the thalamus has outputs directed mostly to the putamen and caudate nucleus as well as to the medial frontal cortex. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p412]
 - Dopamine neurons encode reward prediction errors and motivational signals to guide learning of action values. [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p413]
+- The basal ganglia is described as a 'stupid repeater' that recognizes and repeats patterns until told otherwise, without considering long-term consequences. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p32]
+- Dr. David Nowell's differentiation states that everything except the prefrontal cortex determines 'what is' while the prefrontal cortex focuses on 'what could be.'. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p32]
+- The basal ganglia is technically a group of nuclei acting as a single unit and plays a central role in habit formation and procedural learning. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p36]
+- Research indicates the basal ganglia cannot necessarily be isolated as 'the habit part of the brain' since many brain systems interact with each other. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p36]
+- A study on Parkinson's disease patients (whose brains struggle to deliver dopamine to the basal ganglia) showed they could not improve at a pattern-detection card game, while healthy people and memory-loss patients improved from 50% to 65-70%. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p37]
 
 ## Inferences
 
 - Inference: The integration of dopamine signals with cortico-striatal processing suggests the basal ganglia implement reinforcement learning algorithms for action selection.
+- Inference: The basal ganglia doesn't care to 'defend' against small steps, only drastic changes. By changing slowly and taking one step at a time, you work with your brain's natural operating rules.
 
 ## Related pages
 
@@ -72,6 +86,7 @@ The basal ganglia are ancient subcortical structures that control motor function
 - Broader: [[brain]]
 - Broader: [[motor control]]
 - Broader: [[decision making]]
+- Broader: [[neuroscience]]
 - Narrower: [[dorsal-striatum]]
 - Narrower: [[ventral-striatum]]
 - Narrower: [[substantia-nigra]]
@@ -81,6 +96,10 @@ The basal ganglia are ancient subcortical structures that control motor function
 - Narrower: [[substantia nigra]]
 - Narrower: [[globus pallidus]]
 - Narrower: [[ventral tegmental area]]
+- Adjacent: [[prefrontal-cortex]]
+- Adjacent: [[neural-pathways]]
+- Adjacent: [[habit-formation]]
+- Adjacent: [[willpower]]
 - Concepts: [[dopamine]]
 - Concepts: [[motor-control]]
 - Concepts: [[behavioral-spontaneity]]
@@ -89,6 +108,11 @@ The basal ganglia are ancient subcortical structures that control motor function
 - Concepts: [[action selection]]
 - Concepts: [[reinforcement learning]]
 - Concepts: [[motor control]]
+- Concepts: [[basal-ganglia]]
+- Concepts: [[prefrontal-cortex]]
+- Concepts: [[neural-pathways]]
+- Concepts: [[habit-formation]]
+- Topics: [[brain-science-for-habits]]
 - Entities: [[neocortex]]
 - Entities: [[thalamus]]
 - Entities: [[dopamine]]
@@ -98,9 +122,11 @@ The basal ganglia are ancient subcortical structures that control motor function
 - Primary source: [raw/books/neuroscience/Affective Neuroscience_ The Foundations of Human and Animal - Panksepp, Jaak.pdf#p1-242]
 - Additional source: [raw/books/neuroscience/Free Agents _ How Evolution Gave Us Free Will - Kevin J_ Mitchell.pdf#p1-354]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
+- Additional source: [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `free-agents-how-evolution-gave-us-free-will-kevin-j-mitchell`.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
+- 2026-04-25 — merged contributions from `mini-habits-smaller-habits-bigger-results-guise-stephen`.

@@ -14,6 +14,7 @@ sources:
   of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]'
 - '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
 - '[raw/books/neuroscience/Why We Remember_ Unlocking Memory''s Power - Charan Ranganath.pdf#p1-337]'
+- '[raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]'
 confidence: high
 tags:
 - brain structure
@@ -40,6 +41,7 @@ related:
   - cognitive neuroscience
   - brain
   - cognition
+  - neuroscience
   narrower:
   - area-10
   - decision-making
@@ -53,6 +55,10 @@ related:
   - hippocampus
   - working-memory
   - attention
+  - basal-ganglia
+  - willpower
+  - ego-depletion
+  - habit-formation
 aliases: []
 ---
 
@@ -90,6 +96,11 @@ The region of the cortex at the front of the brain that evolved most recently an
 - ADHD is associated with atypical activity in the prefrontal cortex. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p29]
 - Media multitasking impairs memory and certain parts of the prefrontal cortex are thinned out in people who do heavy media multitasking. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p30]
 - Sleep deprivation, alcohol, stress, hypertension, diabetes, and COVID-19 can all adversely affect prefrontal function. [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p31]
+- The prefrontal cortex is the 'smart manager' that understands long-term benefits and consequences and has the ability to override the basal ganglia. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p32]
+- The prefrontal cortex tires out easily because its powerful functions make it an 'energy hog,' and when tired or stressed, the repeating basal ganglia takes over. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p32]
+- Lhermitte's study found that patients with damaged frontal lobes almost always imitated absurd examiner gestures with great precision, even when asked not to and when told it wasn't required. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p35]
+- Patients with damaged frontal lobes remembered every gesture while normal participants forgot some, suggesting healthy frontal lobes redirect focus from subconscious pattern recognition. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p35]
+- The prefrontal cortex handles short-term memory and current thinking, meaning anything using it could affect willpower reserves. [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p49]
 
 ## Inferences
 
@@ -97,6 +108,7 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Inference: Novel connectivity patterns between prefrontal and parietal/temporal areas in humans may underlie enhanced cognitive integration compared to apes.
 - Inference: The enlargement of prefrontal cortex in humans may reflect adaptation to the unusual cognitive demands imposed by symbol learning.
 - Inference: The prefrontal cortex coordinates specialized brain networks rather than being a storage center itself, functioning like a CEO who manages divisions rather than doing specialized work.
+- Inference: The strategy of mini habits works by requiring only enough prefrontal cortex activity to initiate a tiny action, after which the behavior can continue with minimal conscious oversight.
 
 ## Uncertainties
 
@@ -113,6 +125,7 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Broader: [[cognitive neuroscience]]
 - Broader: [[brain]]
 - Broader: [[cognition]]
+- Broader: [[neuroscience]]
 - Narrower: [[area-10]]
 - Narrower: [[decision-making]]
 - Narrower: [[working-memory]]
@@ -124,6 +137,10 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Adjacent: [[hippocampus]]
 - Adjacent: [[working-memory]]
 - Adjacent: [[attention]]
+- Adjacent: [[basal-ganglia]]
+- Adjacent: [[willpower]]
+- Adjacent: [[ego-depletion]]
+- Adjacent: [[habit-formation]]
 - Concepts: [[working memory]]
 - Concepts: [[executive function]]
 - Concepts: [[cognition]]
@@ -138,12 +155,20 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Concepts: [[neural-plasticity]]
 - Concepts: [[attention]]
 - Concepts: [[reality-monitoring]]
+- Concepts: [[prefrontal-cortex]]
+- Concepts: [[basal-ganglia]]
+- Concepts: [[willpower]]
+- Concepts: [[ego-depletion]]
+- Concepts: [[habit-formation]]
+- Topics: [[brain-science-for-habits]]
 - Entities: [[Todd Preuss]]
 - Entities: [[Etienne Koechlin]]
 - Entities: [[Phineas Gage]]
 - Entities: [[williams-syndrome]]
 - Entities: [[charan-ranganath]]
 - Entities: [[mark-desposito]]
+- Entities: [[lhermitte]]
+- Entities: [[david-nowell]]
 
 ## Provenance
 
@@ -152,6 +177,7 @@ The region of the cortex at the front of the brain that evolved most recently an
 - Additional source: [raw/books/neuroscience/The Deep History of Ourselves_ 4 - Billion - Year Story of How - Joseph E LeDoux; Caio Da Silva Sorrentino.pdf#p1-445]
 - Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
 - Additional source: [raw/books/neuroscience/Why We Remember_ Unlocking Memory's Power - Charan Ranganath.pdf#p1-337]
+- Additional source: [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]
 
 ## Change notes
 
@@ -160,3 +186,4 @@ The region of the cortex at the front of the brain that evolved most recently an
 - 2026-04-25 — merged contributions from `the-deep-history-of-ourselves-4-billion-year-story-of-how-jo`.
 - 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.
 - 2026-04-25 — merged contributions from `why-we-remember-unlocking-memory-s-power-charan-ranganath`.
+- 2026-04-25 — merged contributions from `mini-habits-smaller-habits-bigger-results-guise-stephen`.
