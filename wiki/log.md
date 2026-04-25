@@ -7548,3 +7548,44 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/the-chimp-paradox.md`
 - Files deprecated: None.
 - Notes: 34 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-gift-of-fear-gavin-de-becker
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Gift of Fear - Gavin de Becker.pdf
+- Files created:
+  - `wiki/entities/david-burke.md`
+  - `wiki/entities/edward-taylor.md`
+  - `wiki/entities/gavin-de-becker.md`
+  - `wiki/entities/kelly.md`
+  - `wiki/entities/meredith-coppola.md`
+  - `wiki/entities/michael-perry.md`
+  - `wiki/entities/mosaic-20.md`
+  - `wiki/entities/mosaic.md`
+  - `wiki/entities/richard-farley.md`
+  - `wiki/entities/robert-bardo.md`
+  - `wiki/entities/rodney-garmanian.md`
+  - `wiki/entities/ruth-steinhagen.md`
+  - `wiki/entities/wayne-lo.md`
+  - `wiki/concepts/ability-belief.md`
+  - `wiki/concepts/childhood-predictors-of-violence.md`
+  - `wiki/concepts/date-stalking.md`
+  - `wiki/concepts/denial.md`
+  - `wiki/concepts/domestic-violence-warning-signs.md`
+  - `wiki/concepts/fear.md`
+  - `wiki/concepts/gift-of-fear.md`
+  - `wiki/concepts/high-stakes-prediction.md`
+  - `wiki/concepts/jaca-framework.md`
+  - `wiki/concepts/media-age-assassin.md`
+  - `wiki/concepts/pre-incident-indicators.md`
+  - `wiki/concepts/prediction.md`
+  - `wiki/concepts/restraining-orders-effectiveness.md`
+  - `wiki/concepts/stalking-and-persistence.md`
+  - `wiki/concepts/survival-signals.md`
+  - `wiki/concepts/threats-vs-intimidations.md`
+  - `wiki/topics/stranger-danger.md`
+  - `wiki/topics/workplace-violence-prevention.md`
+  - `wiki/sources/the-gift-of-fear-gavin-de-becker.md`
+- Files merged (extended):
+  - `wiki/concepts/intuition.md`
+- Files deprecated: None.
+- Notes: 32 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
