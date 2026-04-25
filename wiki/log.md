@@ -8469,3 +8469,43 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/courage.md`
 - Files deprecated: None.
 - Notes: 26 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | why-we-do-what-we-do-understanding-self-motivation-edward-l-
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Why we do what we do _ understanding self - motivation - Edward L_ Deci, Richard Flaste.pdf
+- Files created:
+  - `wiki/entities/charlotte-selver.md`
+  - `wiki/entities/edward-l-deci.md`
+  - `wiki/entities/elena-bonner.md`
+  - `wiki/entities/garth-fagan.md`
+  - `wiki/entities/richard-ryan.md`
+  - `wiki/concepts/alienation.md`
+  - `wiki/concepts/autonomous-dependence.md`
+  - `wiki/concepts/autonomy-support-in-health-care.md`
+  - `wiki/concepts/autonomy-support.md`
+  - `wiki/concepts/autonomy-supportive-interpersonal-style.md`
+  - `wiki/concepts/competence.md`
+  - `wiki/concepts/controlled-behavior.md`
+  - `wiki/concepts/ego-involvement.md`
+  - `wiki/concepts/extrinsic-vs-intrinsic-aspirations.md`
+  - `wiki/concepts/individual-differences-in-temperament.md`
+  - `wiki/concepts/individualism-vs-autonomy.md`
+  - `wiki/concepts/instrumentalities.md`
+  - `wiki/concepts/organismic-integration.md`
+  - `wiki/concepts/reappraisal.md`
+  - `wiki/concepts/relatedness.md`
+  - `wiki/concepts/the-meaning-of-human-freedom.md`
+  - `wiki/concepts/true-self-and-false-self.md`
+  - `wiki/topics/emotion-regulation.md`
+  - `wiki/topics/self-determination-theory.md`
+  - `wiki/topics/socialization.md`
+  - `wiki/topics/techniques-for-behavior-change.md`
+  - `wiki/sources/why-we-do-what-we-do-understanding-self-motivation.md`
+- Files merged (extended):
+  - `wiki/concepts/authenticity.md`
+  - `wiki/concepts/autonomy.md`
+  - `wiki/concepts/contingent-self-esteem.md`
+  - `wiki/concepts/internalization.md`
+  - `wiki/concepts/intrinsic-motivation.md`
+- Files deprecated: None.
+- Notes: 27 new + 5 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
