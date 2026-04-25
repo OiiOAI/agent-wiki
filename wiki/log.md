@@ -9406,3 +9406,59 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/getting-to-yes-fisher-ury.md`
 - Files deprecated: None.
 - Notes: 17 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | good-strategy-bad-strategy-the-difference-and-why-it-richard
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Good strategy, bad strategy _ the difference and why it - Richard P_ Rumelt.pdf
+- Files created:
+  - `wiki/entities/cisco-systems.md`
+  - `wiki/entities/gary-hamel.md`
+  - `wiki/entities/gary-winnick.md`
+  - `wiki/entities/global-crossing.md`
+  - `wiki/entities/jean-bernard-levy.md`
+  - `wiki/entities/nvidia.md`
+  - `wiki/entities/paccar.md`
+  - `wiki/entities/pierre-wack.md`
+  - `wiki/entities/richard-p-rumelt.md`
+  - `wiki/entities/roll-international.md`
+  - `wiki/entities/stewart-resnick.md`
+  - `wiki/concepts/bad-strategy.md`
+  - `wiki/concepts/blue-sky-objectives.md`
+  - `wiki/concepts/chain-link-systems.md`
+  - `wiki/concepts/closed-circle.md`
+  - `wiki/concepts/cognitive-limitations.md`
+  - `wiki/concepts/coherence-in-strategy.md`
+  - `wiki/concepts/competitive-advantage.md`
+  - `wiki/concepts/create-destroy.md`
+  - `wiki/concepts/credit-bubble.md`
+  - `wiki/concepts/design-in-strategy.md`
+  - `wiki/concepts/dogs-dinner-objectives.md`
+  - `wiki/concepts/five-intertwined-errors.md`
+  - `wiki/concepts/fluff.md`
+  - `wiki/concepts/fluffy-strategy.md`
+  - `wiki/concepts/focus-strategy.md`
+  - `wiki/concepts/good-judgment.md`
+  - `wiki/concepts/growth-strategy.md`
+  - `wiki/concepts/industry-attractor-state.md`
+  - `wiki/concepts/inside-view.md`
+  - `wiki/concepts/new-thought-movement.md`
+  - `wiki/concepts/organizational-inertia.md`
+  - `wiki/concepts/proximate-objective.md`
+  - `wiki/concepts/proximate-objectives.md`
+  - `wiki/concepts/smooth-sailing-fallacy.md`
+  - `wiki/concepts/social-herding.md`
+  - `wiki/concepts/software-advantage.md`
+  - `wiki/concepts/strategic-dynamics.md`
+  - `wiki/concepts/strategic-leverage.md`
+  - `wiki/concepts/strategy-as-hypothesis.md`
+  - `wiki/concepts/strategy-kernel.md`
+  - `wiki/concepts/template-style-strategy.md`
+  - `wiki/concepts/the-kernel.md`
+  - `wiki/concepts/virtual-panel-of-experts.md`
+  - `wiki/topics/chapter-11-growth.md`
+  - `wiki/topics/good-strategy.md`
+  - `wiki/topics/thinking-like-a-strategist.md`
+  - `wiki/topics/using-design.md`
+  - `wiki/sources/good-strategy-bad-strategy.md`
+- Files deprecated: None.
+- Notes: 49 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
