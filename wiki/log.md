@@ -11994,3 +11994,87 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/exaptation.md`
 - Files deprecated: None.
 - Notes: 8 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | thinking-fast-and-slow-cover-baru-daniel-kahneman
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf
+- Files created:
+  - `wiki/entities/amos-tversky.md`
+  - `wiki/entities/built-to-last.md`
+  - `wiki/entities/david-grether.md`
+  - `wiki/entities/harry-markowitz.md`
+  - `wiki/entities/matthew-rabin.md`
+  - `wiki/entities/maurice-allais.md`
+  - `wiki/entities/paul-meehl.md`
+  - `wiki/entities/paul-samuelson.md`
+  - `wiki/entities/richard-thaler.md`
+  - `wiki/entities/the-black-swan.md`
+  - `wiki/concepts/affective-forecasting.md`
+  - `wiki/concepts/anchoring.md`
+  - `wiki/concepts/availability-cascade.md`
+  - `wiki/concepts/availability-heuristic.md`
+  - `wiki/concepts/certainty-effect.md`
+  - `wiki/concepts/choice-from-description-vs-experience.md`
+  - `wiki/concepts/cognitive-ease.md`
+  - `wiki/concepts/cognitive-reflection-test.md`
+  - `wiki/concepts/diminishing-sensitivity.md`
+  - `wiki/concepts/disposition-effect.md`
+  - `wiki/concepts/econs-versus-humans.md`
+  - `wiki/concepts/experienced-well-being.md`
+  - `wiki/concepts/expert-intuition.md`
+  - `wiki/concepts/fairness-in-economic-transactions.md`
+  - `wiki/concepts/focus-illusion.md`
+  - `wiki/concepts/fourfold-pattern.md`
+  - `wiki/concepts/golf-and-reference-points.md`
+  - `wiki/concepts/good-framing.md`
+  - `wiki/concepts/heuristics-and-biases.md`
+  - `wiki/concepts/illusion-of-validity.md`
+  - `wiki/concepts/intuition-vs-formula.md`
+  - `wiki/concepts/jack-knetsch.md`
+  - `wiki/concepts/libertarian-paternalism.md`
+  - `wiki/concepts/mental-accounting.md`
+  - `wiki/concepts/mpg-illusion.md`
+  - `wiki/concepts/narrative-fallacy.md`
+  - `wiki/concepts/narrow-framing.md`
+  - `wiki/concepts/negotiation-and-loss-aversion.md`
+  - `wiki/concepts/organ-donation-defaults.md`
+  - `wiki/concepts/overconfidence-bias.md`
+  - `wiki/concepts/possibility-effect.md`
+  - `wiki/concepts/preference-reversal.md`
+  - `wiki/concepts/priming.md`
+  - `wiki/concepts/reference-point.md`
+  - `wiki/concepts/regret-and-moral-responsibility.md`
+  - `wiki/concepts/regret.md`
+  - `wiki/concepts/representativeness-heuristic.md`
+  - `wiki/concepts/system-1.md`
+  - `wiki/concepts/system-2.md`
+  - `wiki/concepts/theory-induced-blindness.md`
+  - `wiki/concepts/threat-detection-system.md`
+  - `wiki/concepts/two-selves.md`
+  - `wiki/concepts/wysiati.md`
+  - `wiki/sources/thinking-fast-and-slow.md`
+- Files merged (extended):
+  - `wiki/entities/cass-sunstein.md`
+  - `wiki/entities/daniel-kahneman.md`
+  - `wiki/entities/gary-klein.md`
+  - `wiki/entities/philip-tetlock.md`
+  - `wiki/concepts/affect-heuristic.md`
+  - `wiki/concepts/allais-paradox.md`
+  - `wiki/concepts/conjunction-fallacy.md`
+  - `wiki/concepts/ego-depletion.md`
+  - `wiki/concepts/endowment-effect.md`
+  - `wiki/concepts/framing-effect.md`
+  - `wiki/concepts/halo-effect.md`
+  - `wiki/concepts/hindsight-bias.md`
+  - `wiki/concepts/inside-view.md`
+  - `wiki/concepts/loss-aversion.md`
+  - `wiki/concepts/mere-exposure-effect.md`
+  - `wiki/concepts/negativity-bias.md`
+  - `wiki/concepts/planning-fallacy.md`
+  - `wiki/concepts/premortem.md`
+  - `wiki/concepts/probability-weighting.md`
+  - `wiki/concepts/prospect-theory.md`
+  - `wiki/concepts/regression-to-the-mean.md`
+  - `wiki/concepts/sunk-cost-fallacy.md`
+- Files deprecated: None.
+- Notes: 54 new + 22 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

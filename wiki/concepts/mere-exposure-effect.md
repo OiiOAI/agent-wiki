@@ -9,6 +9,7 @@ sources:
 - '[raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost
   - Sönke Ahrens.pdf#p1-157]'
 - '[raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]'
+- '[raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]'
 confidence: high
 tags:
 - cognitive-bias
@@ -19,6 +20,9 @@ tags:
 - attraction
 - familiarity
 - preference formation
+- preference
+- affect
+- evolution
 related:
   broader:
   - cognitive-biases
@@ -45,11 +49,16 @@ The mere-exposure effect is a cognitive bias where becoming familiar with someth
 - People typically underestimate the degree to which similarity affects their liking for another person, according to Gonzales et al. (1983). [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
 - The familiarity-attraction relationship applies to ethnic groups staying with their own in school settings. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
 - Repeated exposure to things presented under unpleasant conditions can still increase liking if the exposure is sufficient. [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p259]
+- Zajonc demonstrated that repeated exposure to Turkish-like words increased ratings of positivity toward those words. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p89]
+- The mere exposure effect occurs even with subliminal exposure—brief presentations people do not consciously perceive. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p90]
+- Zajonc argued that mere exposure effect occurs because repeated exposure to safe stimuli signals reduced threat, which is evolutionarily adaptive. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p90]
+- Mere exposure is the basis of the stability of social and psychological systems, according to Zajonc. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p91]
 
 ## Inferences
 
 - Inference: The mere-exposure effect explains why students choose ineffective learning methods like rereading—they feel like they are learning even when they are not.
 - Inference: The mere exposure effect has significant implications for political campaigns, where repeated media exposure can increase voter familiarity and subsequently increase candidate preference regardless of policy positions or qualifications.
+- Inference: The mere exposure effect supports the connection between cognitive ease and positive affect that characterizes System 1 processing.
 
 ## Related pages
 
@@ -61,6 +70,11 @@ The mere-exposure effect is a cognitive bias where becoming familiar with someth
 - Concepts: [[similarity-attraction effect]]
 - Concepts: [[positive affect]]
 - Concepts: [[unconscious influence]]
+- Concepts: [[cognitive-ease]]
+- Concepts: [[affect]]
+- Concepts: [[system-1]]
+- Concepts: [[priming]]
+- Concepts: [[robert-zajonc]]
 - Entities: [[robert-bornstein]]
 - Entities: [[Robert Zajonc]]
 - Entities: [[Joseph Grush]]
@@ -69,8 +83,10 @@ The mere-exposure effect is a cognitive bias where becoming familiar with someth
 
 - Primary source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
 - Additional source: [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]
+- Additional source: [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `influence-the-psychology-of-persuasion-robert-b-cialdini`.
+- 2026-04-25 — merged contributions from `thinking-fast-and-slow-cover-baru-daniel-kahneman`.

@@ -10,6 +10,7 @@ sources:
 - '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
   Dobelli; Nicky Griffin.pdf#p1-226]'
 - '[raw/books/strategy/Thinking_in_Bets.epub#L1-L1]'
+- '[raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]'
 confidence: high
 tags:
 - hindsight-bias
@@ -22,15 +23,25 @@ tags:
 - certainty
 - cognitive-bias
 - decision-making
+- outcome-bias
+- accountability
+- decision-evaluation
 related:
   broader:
   - cognitive-bias
+  - cognitive-biases
+  - memory-distortions
+  narrower:
+  - outcome-bias
+  - creeping-determinism
   adjacent:
   - fallacy-of-single-cause
   - falsification-of-history
   - self-serving-bias
   - outcome-bias
   - creeping-determinism
+  - narrative-fallacy
+  - overconfidence-bias
 aliases: []
 ---
 
@@ -62,21 +73,32 @@ Hindsight bias is the tendency to see past events as inevitable once their outco
 - Baruch Fischhoff systematically demonstrated that outcome knowledge distorts judgment under uncertainty through hindsight bias. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
 - The bias contributes to overconfidence by making good outcomes seem inevitable when viewing past events with outcome knowledge. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
 - Judge Frank Easterbrook's Jentz v. ConAgra ruling addressed how hindsight bias affects legal judgments about business decisions. [raw/books/strategy/Thinking_in_Bets.epub#L2270-L2285]
+- Baruch Fischhoff first demonstrated the hindsight bias with Ruth Beyth, showing that people who were surveyed before Nixon's China and Russia trip exaggerated the probabilities they claimed to have assigned to outcomes that actually occurred. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p262]
+- The hindsight bias is robust and difficult to eliminate; it leads observers to evaluate the quality of a decision not by the quality of the process but by whether the outcome was good or bad (outcome bias). [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p263]
+- The hindsight bias is particularly damaging for accountability in fields like medicine, law, and management, where decisions are judged after outcomes are known rather than based on reasonable grounds at the time. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p264]
+- The bias increases with the consequences of the outcome; for major disasters like 9/11, people are especially ready to believe that officials who failed to anticipate were negligent or blind. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p264]
 
 ## Inferences
 
 - Inference: Hindsight bias may reduce learning from experience—if we feel we always knew what would happen, we may be less inclined to profit from the lessons an event can teach us.
 - Inference: Hindsight bias and resulting reinforce each other, creating a cycle where people both judge decisions solely by outcomes and believe they could have predicted those outcomes.
 - Inference: Combating hindsight bias requires deliberately considering alternative outcomes that could have occurred before learning what actually happened.
+- Inference: The hindsight bias creates a dangerous dynamic for decision-makers, who may be penalized for reasonable decisions that happened to produce bad outcomes while being credited for lucky decisions that produced good results.
 
 ## Related pages
 
 - Broader: [[cognitive-bias]]
+- Broader: [[cognitive-biases]]
+- Broader: [[memory-distortions]]
+- Narrower: [[outcome-bias]]
+- Narrower: [[creeping-determinism]]
 - Adjacent: [[fallacy-of-single-cause]]
 - Adjacent: [[falsification-of-history]]
 - Adjacent: [[self-serving-bias]]
 - Adjacent: [[outcome-bias]]
 - Adjacent: [[creeping-determinism]]
+- Adjacent: [[narrative-fallacy]]
+- Adjacent: [[overconfidence-bias]]
 - Concepts: [[consistency-bias]]
 - Concepts: [[misattribution]]
 - Concepts: [[cognitive-dissonance]]
@@ -90,19 +112,26 @@ Hindsight bias is the tendency to see past events as inevitable once their outco
 - Concepts: [[temporal-discounting]]
 - Concepts: [[overconfidence]]
 - Concepts: [[foresight]]
+- Concepts: [[narrative-fallacy]]
+- Concepts: [[counterfactual-thinking]]
 - Topics: [[memory-bias]]
 - Topics: [[decision-making-psychology]]
 - Topics: [[cognitive-bias]]
 - Topics: [[decision-quality]]
+- Topics: [[judgment-under-uncertainty]]
+- Topics: [[social-cognition]]
+- Entities: [[baruch-fischhoff]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/The Seven Sins of Memory - Daniel L. Schacter.pdf#p1-418]
 - Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 - Additional source: [raw/books/strategy/Thinking_in_Bets.epub#L1-L1]
+- Additional source: [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.
 - 2026-04-25 — merged contributions from `thinking-in-bets`.
+- 2026-04-25 — merged contributions from `thinking-fast-and-slow-cover-baru-daniel-kahneman`.

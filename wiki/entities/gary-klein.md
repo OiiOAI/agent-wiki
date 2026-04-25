@@ -12,6 +12,7 @@ sources:
   .epub.pdf#p1-388]'
 - '[raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]'
 - '[raw/books/strategy/Thinking_in_Bets.epub#L1-L1]'
+- '[raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]'
 canonical: Gary Klein
 confidence: high
 tags:
@@ -27,6 +28,10 @@ tags:
 - cognitive-science
 - naturalistic-decision
 - psychology
+- gary-klein
+- recognition-primed-decision
+- premortem
+- expert-intuition
 aliases:
 - Gary Klein
 - Gary A. Klein
@@ -44,13 +49,21 @@ related:
   - cognitive-task-analysis
   - premortems
   - recognition-primed-decision
+  - expert-intuition
+  - premortem
   topics:
   - naturalistic decision making
   - human factors
   - system design
+  - decision-making
+  - expertise
+  - cognitive-psychology
   entities:
   - sources-of-power
   - annie-duke
+  - daniel-kahneman
+  - herbert-simon
+  - paul-meehl
 ---
 
 # Gary Klein
@@ -83,20 +96,32 @@ A researcher who developed the critical incident technique for studying decision
 - Gary Klein introduced the premortem technique for prospective failure analysis. [raw/books/strategy/Thinking_in_Bets.epub#L2095-L2105]
 - His Recognition-Primed Decision model describes how experts make effective decisions under time pressure. [raw/books/strategy/Thinking_in_Bets.epub#L2095-L2105]
 - The premortem is published in Harvard Business Review (September 2007). [raw/books/strategy/Thinking_in_Bets.epub#L2095-L2105]
+- Gary Klein developed the recognition-primed decision (RPD) model, showing that experts often recognize a promising action pattern directly and mentally simulate it for viability rather than comparing multiple alternatives. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p305]
+- Klein's research on fireground commanders showed that they typically considered only one option, evaluating it through mental simulation to check for problems rather than comparing multiple choices. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p305]
+- Klein proposed the 'premortem' procedure to counteract overconfidence and groupthink by asking team members to imagine the plan has failed and write a brief history of the disaster. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p317]
+- Klein co-authored 'Conditions for Intuitive Expertise: A Failure to Disagree' with Kahneman, finding broad agreement that valid intuition requires a regular environment and adequate learning opportunity. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p303]
 
 ## Inferences
 
 - Inference: Gary Klein appears to be a leading figure in naturalistic decision making research, which connects closely to situation awareness studies.
 - Inference: His decision-centered approach to system design and training connects his work to situation awareness research
 - Inference: Klein's premortem technique complements his RPD model by adding a prospective failure analysis step to expert decision-making.
+- Inference: Klein's willingness to collaborate with Kahneman, despite their opposing views on intuition, demonstrates intellectual integrity and a commitment to empirical truth over tribal allegiance.
 
 ## Related pages
 
 - Broader: [[naturalistic decision making]]
 - Broader: [[situation awareness researchers]]
+- Broader: [[cognitive-psychology]]
+- Broader: [[decision-research]]
 - Narrower: [[critical incident technique]]
+- Narrower: [[recognition-primed-decision]]
+- Narrower: [[premortem]]
 - Adjacent: [[Mica R. Endsley]]
 - Adjacent: [[Christopher Wickens]]
+- Adjacent: [[paul-meehl]]
+- Adjacent: [[herbert-simon]]
+- Adjacent: [[malcolm-gladwell]]
 - Concepts: [[critical incident technique]]
 - Concepts: [[naturalistic decision making]]
 - Concepts: [[field research]]
@@ -108,11 +133,19 @@ A researcher who developed the critical incident technique for studying decision
 - Concepts: [[cognitive-task-analysis]]
 - Concepts: [[premortems]]
 - Concepts: [[recognition-primed-decision]]
+- Concepts: [[expert-intuition]]
+- Concepts: [[premortem]]
 - Topics: [[naturalistic decision making]]
 - Topics: [[human factors]]
 - Topics: [[system design]]
+- Topics: [[decision-making]]
+- Topics: [[expertise]]
+- Topics: [[cognitive-psychology]]
 - Entities: [[sources-of-power]]
 - Entities: [[annie-duke]]
+- Entities: [[daniel-kahneman]]
+- Entities: [[herbert-simon]]
+- Entities: [[paul-meehl]]
 
 ## Provenance
 
@@ -120,6 +153,7 @@ A researcher who developed the critical incident technique for studying decision
 - Additional source: [raw/books/strategy/Sources of Power How People Make Decisions by Gary A. Klein .epub.pdf#p1-388]
 - Additional source: [raw/books/strategy/The Power of Intuition - Gary Klein, Ph.D.pdf#p1-381]
 - Additional source: [raw/books/strategy/Thinking_in_Bets.epub#L1-L1]
+- Additional source: [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]
 
 ## Change notes
 
@@ -127,3 +161,4 @@ A researcher who developed the critical incident technique for studying decision
 - 2026-04-25 — merged contributions from `sources-of-power-how-people-make-decisions-by-gary-a-klein-e`.
 - 2026-04-25 — merged contributions from `the-power-of-intuition-gary-klein-ph-d`.
 - 2026-04-25 — merged contributions from `thinking-in-bets`.
+- 2026-04-25 — merged contributions from `thinking-fast-and-slow-cover-baru-daniel-kahneman`.

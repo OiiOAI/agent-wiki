@@ -11,6 +11,7 @@ sources:
 - '[raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]'
 - '[raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy
   F_ Baumeister, John Tierney.pdf#p1-476]'
+- '[raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]'
 confidence: medium
 tags:
 - psychology
@@ -22,12 +23,16 @@ tags:
 - research
 - ego-depletion
 - psychology-experiments
+- motivation
+- decision-making
 related:
   broader:
   - willpower
   - attention
   - motivation
   - self-regulation
+  - self-control
+  - system-2
   adjacent:
   - zeigarnik-effect
   - growth-mindset
@@ -64,15 +69,22 @@ Ego depletion is the temporary reduction in the self's capacity for volitional a
 - Depleted persons react more strongly to all kinds of stimuli—sad movies make them extra sad, joyous pictures make them happier. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p35]
 - People can unconsciously conserve willpower when they know additional demands are coming. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p39]
 - A single finite amount of willpower is used for all manner of tasks including controlling thoughts, emotions, impulses, and performance. [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p40]
+- Baumeister's research showed that exerting self-control in one task reduces ability to exert self-control in subsequent tasks. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p56]
+- Depleted individuals are more likely to choose immediate rewards, use sexist language, and make shallow social judgments. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p56]
+- Glucose consumption reverses ego depletion; lemonade with sugar restored self-control while artificial sweetener did not. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p58]
+- Israeli parole judges granted 65% of parole requests after food breaks but near 0% before breaks, showing decision fatigue. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p59]
+- Ego depletion is distinct from cognitive busyness: deplorable subjects can perform if sufficiently motivated, but cognitive overload cannot be overcome. [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p58]
 
 ## Inferences
 
 - Inference: The slip-box method is designed to minimize ego depletion by standardizing note formats, storage locations, and workflows, so that each work session requires no organizational decisions, only content thinking.
 - Inference: Mini habits minimize all five causes of ego depletion by being small (low effort), easy (low perceived difficulty), positive (minimal negative affect), energizing (low subjective fatigue), and efficient (preserving glucose).
+- Inference: Ego depletion suggests self-control and cognitive effort share a common limited resource.
 
 ## Uncertainties
 
 - Uncertain: The current state of replication debates around ego depletion research (post-2014) is not addressed in this book.
+- Uncertain: The precise neural mechanism of ego depletion remains under investigation.
 
 ## Related pages
 
@@ -80,6 +92,8 @@ Ego depletion is the temporary reduction in the self's capacity for volitional a
 - Broader: [[attention]]
 - Broader: [[motivation]]
 - Broader: [[self-regulation]]
+- Broader: [[self-control]]
+- Broader: [[system-2]]
 - Adjacent: [[zeigarnik-effect]]
 - Adjacent: [[growth-mindset]]
 - Adjacent: [[deliberate-practice]]
@@ -98,6 +112,9 @@ Ego depletion is the temporary reduction in the self's capacity for volitional a
 - Concepts: [[glucose-hypothesis]]
 - Concepts: [[decision-fatigue]]
 - Concepts: [[the-zeigarnik-effect]]
+- Concepts: [[system-2]]
+- Concepts: [[cognitive-effort]]
+- Concepts: [[glucose]]
 - Topics: [[brain-science-for-habits]]
 - Topics: [[the-science-of-willpower]]
 - Topics: [[willpower-in-daily-life]]
@@ -112,9 +129,11 @@ Ego depletion is the temporary reduction in the self's capacity for volitional a
 - Primary source: [raw/books/productivity/How to Take Smart Notes_ One Simple Technique to Boost - Sönke Ahrens.pdf#p1-157]
 - Additional source: [raw/books/productivity/Mini Habits_ Smaller Habits, Bigger Results - Guise, Stephen.pdf#p1-137]
 - Additional source: [raw/books/psychology/Willpower _ Rediscovering the Greatest Human Strength - Roy F_ Baumeister, John Tierney.pdf#p1-476]
+- Additional source: [raw/books/strategy/Thinking, Fast and Slow (Cover Baru) - Daniel Kahneman.pdf#p1-655]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `mini-habits-smaller-habits-bigger-results-guise-stephen`.
 - 2026-04-25 — merged contributions from `willpower-rediscovering-the-greatest-human-strength-roy-f-ba`.
+- 2026-04-25 — merged contributions from `thinking-fast-and-slow-cover-baru-daniel-kahneman`.
