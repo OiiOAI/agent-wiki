@@ -283,3 +283,41 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/team-topologies.md`
 - Files deprecated: None.
 - Notes: 43 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-e-myth-revisited-why-most-small-businesses-don-t-work-mi
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/business/The E - myth revisited _ why most small businesses don't work - Michael E_ Gerber.pdf
+- Files created:
+  - `wiki/entities/e-myth-worldwide.md`
+  - `wiki/entities/mcdonalds.md`
+  - `wiki/entities/michael-e-gerber.md`
+  - `wiki/entities/ray-kroc.md`
+  - `wiki/entities/widget-makers.md`
+  - `wiki/concepts/business-development-process.md`
+  - `wiki/concepts/business-life-cycle.md`
+  - `wiki/concepts/demographics.md`
+  - `wiki/concepts/e-myth.md`
+  - `wiki/concepts/entrepreneur-manager-technician.md`
+  - `wiki/concepts/entrepreneurial-seizure.md`
+  - `wiki/concepts/fatal-assumption.md`
+  - `wiki/concepts/franchise-prototype.md`
+  - `wiki/concepts/hard-systems.md`
+  - `wiki/concepts/information-systems.md`
+  - `wiki/concepts/innovation-business-development.md`
+  - `wiki/concepts/management-strategy.md`
+  - `wiki/concepts/marketing-strategy.md`
+  - `wiki/concepts/orchestration-business.md`
+  - `wiki/concepts/organizational-strategy.md`
+  - `wiki/concepts/people-strategy.md`
+  - `wiki/concepts/power-point-selling-system.md`
+  - `wiki/concepts/primary-aim.md`
+  - `wiki/concepts/psychographics.md`
+  - `wiki/concepts/quantification-business.md`
+  - `wiki/concepts/soft-systems.md`
+  - `wiki/concepts/strategic-objective.md`
+  - `wiki/concepts/systems-strategy.md`
+  - `wiki/concepts/turn-key-revolution.md`
+  - `wiki/concepts/working-on-vs-in-business.md`
+  - `wiki/sources/the-e-myth-revisited.md`
+- Files deprecated: None.
+- Notes: 31 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
