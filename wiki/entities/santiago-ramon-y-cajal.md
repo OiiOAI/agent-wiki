@@ -15,6 +15,8 @@ sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]'
+- '[raw/books/neuroscience/When brains dream _ understanding the science and mystery
+  of - Antonio Zadra.pdf#p1-341]'
 canonical: Santiago Ramón y Cajal
 confidence: high
 aliases:
@@ -35,6 +37,8 @@ tags:
 - neuroanatomist
 - Nobel Prize
 - history of neuroscience
+- nobel-laureate
+- dream-diary
 related:
   concepts:
   - global-neuronal-workspace-theory
@@ -92,6 +96,9 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - He laid the groundwork for understanding how neurons are structured. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p252]
 - He devoted the later part of his career to searching for signs that the brain or spinal cord could change, regenerate, or reorganize its structure, but failed. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p253]
 - In his 1913 masterpiece 'Degeneration and Regeneration of the Nervous System,' he wrote: 'In adult centers the nerve paths are something fixed, ended, immutable. Everything may die, nothing may be regenerated. It is for the science of the future to change, if possible, this harsh decree.'. [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p253]
+- Cajal wrote that 'except in extremely rare cases, it is impossible to verify the doctrine of the surly and somewhat egotistical Viennese author' (Freud). [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p55]
+- Cajal held that dreams resulted from wild neural firings in various regions of the brain, presaging the activation-synthesis model developed by Hobson and McCarley almost seventy years later. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p56]
+- Cajal's dream diary and notes were published in 2014. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p56]
 
 ## Inferences
 
@@ -107,6 +114,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Broader: [[cell neuroscience]]
 - Broader: [[neuroscience]]
 - Broader: [[neuroanatomy]]
+- Broader: [[dream-research]]
 - Narrower: [[dynamic polarization]]
 - Narrower: [[connection specificity]]
 - Narrower: [[synapse]]
@@ -118,6 +126,8 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Adjacent: [[John-Eccles]]
 - Adjacent: [[Synapse]]
 - Adjacent: [[neuroplasticity]]
+- Adjacent: [[sigmund-freud]]
+- Adjacent: [[allan-hobson]]
 - Concepts: [[global-neuronal-workspace-theory]]
 - Concepts: [[pyramidal-neurons]]
 - Concepts: [[white-matter]]
@@ -145,6 +155,7 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - Additional source: [raw/books/neuroscience/Primal Intelligence_ You Are Smarter Than - Angus Fletcher.pdf#p1-298]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/The Brain That Changes Itself - Norman Doidge.pdf#p1-327]
+- Additional source: [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p1-341]
 
 ## Change notes
 
@@ -154,3 +165,4 @@ Santiago Ramón y Cajal (1852-1934) was a Spanish neuroanatomist who won the 190
 - 2026-04-25 — merged contributions from `primal-intelligence-you-are-smarter-than-angus-fletcher`.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `the-brain-that-changes-itself-norman-doidge`.
+- 2026-04-25 — merged contributions from `when-brains-dream-understanding-the-science-and-mystery-of-a`.

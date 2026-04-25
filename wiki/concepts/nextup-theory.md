@@ -4,14 +4,18 @@ title: NEXTUP Theory of Dream Function
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]'
+- '[raw/books/neuroscience/When brains dream _ understanding the science and mystery
+  of - Antonio Zadra.pdf#p1-341]'
 confidence: medium
 tags:
 - dream theory
 - memory processing
 - associative networks
+- associative learning
+- consciousness
 related:
   broader:
   - dream function
@@ -22,8 +26,8 @@ related:
   adjacent:
   - activation-synthesis-hypothesis
   - threat-simulation-theory
+aliases: []
 ---
-
 
 # NEXTUP Theory of Dream Function
 
@@ -41,11 +45,22 @@ NEXTUP (Network Exploration To Understand Possibilities) is a theory of dream fu
 - Hypnagogic dreams at sleep onset appear to tag memories for further processing, leaving more extensive processing for later REM sleep. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p129]
 - The reduction in serotonin levels during REM sleep may serve the role of shifting the brain's bias toward favoring weak associations. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p122]
 - The disappearance of noradrenaline during REM sleep makes it easy for the brain to wander among its weak associations. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p124]
+- During REM sleep, the brain preferentially activates weak associations rather than strong ones, as demonstrated in semantic priming studies showing weak primes produced eight times more priming than strong primes. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p112]
+- NEXTUP operates through divergent thinking, exploring network connections to understand possibilities rather than seeking convergent single correct answers. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p115]
+- The feeling of meaningfulness in dreams may result from serotonin release being completely blocked during REM sleep, shifting the brain's bias toward assigning value to weak associations. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p117]
+- NEXTUP suggests the brain asks 'What if?' and observes its own emotional and cognitive responses to determine which associations are valuable and worth strengthening. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p114]
 
 ## Inferences
 
 - Inference: The bizarre nature of dreams is a predictable consequence of weak and unexpected associations being incorporated into the dream narrative.
 - Inference: NEXTUP represents divergent thinking rather than convergent thinking, working in a creative, free-flowing manner to generate insights and potential answers.
+- Inference: The theory explains why most dreams are not remembered—the important work of strengthening associations occurs during dreaming regardless of whether the dream is later recalled
+- Inference: NEXTUP may differ in function across sleep stages, with REM and nonREM dreams serving potentially different aspects of memory processing
+
+## Uncertainties
+
+- Uncertain: The exact neural mechanisms by which weak associations are discovered and strengthened remain unclear
+- Uncertain: Whether the function of dreaming differs across sleep stages is still being investigated
 
 ## Related pages
 
@@ -58,13 +73,24 @@ NEXTUP (Network Exploration To Understand Possibilities) is a theory of dream fu
 - Concepts: [[weak associations]]
 - Concepts: [[dream narratives]]
 - Concepts: [[emotional engagement in dreams]]
+- Concepts: [[activation-synthesis-hypothesis]]
+- Concepts: [[threat-simulation-theory]]
+- Concepts: [[semantic-priming]]
+- Concepts: [[dream-bizarreness]]
+- Concepts: [[divergent-thinking]]
+- Concepts: [[emotional-regulation-in-dreams]]
+- Topics: [[dream-function]]
+- Topics: [[sleep-dependent-memory-processing]]
 - Entities: [[robert-stickgold]]
 - Entities: [[antonio-zadra]]
+- Entities: [[antonio-damasio]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]
+- Additional source: [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p1-341]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `when-brains-dream-understanding-the-science-and-mystery-of-a`.

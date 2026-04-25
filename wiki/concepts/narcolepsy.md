@@ -11,6 +11,8 @@ sources:
 - '[raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles
   of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]'
 - '[raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]'
+- '[raw/books/neuroscience/When brains dream _ understanding the science and mystery
+  of - Antonio Zadra.pdf#p1-341]'
 confidence: high
 tags:
 - narcolepsy
@@ -20,13 +22,21 @@ tags:
 - sleep disorder
 - autoimmune
 - sleep-disorder
+- neurological
+- rem-sleep
 related:
   broader:
   - sleep disorders
   - hypothalamic disorders
+  - sleep-disorders
+  - rem-sleep
+  narrower:
+  - cataplexy
+  - sleep-paralysis
   adjacent:
   - hypocretin
   - sleep-apnea
+  - rem-behavior-disorder
 aliases: []
 ---
 
@@ -56,6 +66,11 @@ Narcolepsy is a sleep disorder caused by the selective loss of orexinergic (hypo
 - Almost all narcolepsy patients with cataplexy have a specific mutation in an immune regulatory gene causing antibody attack on orexin neurons. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p223]
 - Orexin controls the stability of the wake-sleep cycle, acting to keep us awake when awake and asleep when asleep. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p223]
 - Scientists understand how orexin deficiency affects sleep at molecular, cellular, and brain network levels, but do not understand its impact on dreaming. [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p223]
+- In narcolepsy, the paralysis normally seen only during REM sleep can creep into wakefulness, causing attacks of cataplexy. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p64]
+- Over three-fourths of narcoleptic patients reported being unsure whether something was real or from a dream, compared to only 15 percent of control participants. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p23]
+- Narcoleptic patients reported these dream-wakefulness confusions happening at least once a month, with two-thirds experiencing it weekly. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p23]
+- The orexin neurons die as a result of an attack by the body's own immune system; almost all narcolepsy patients with cataplexy have a specific mutation in an immune regulatory gene. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p238]
+- Almost all patients with narcolepsy report being confused about whether a dream had actually occurred in real life, a confusion that arose at least once a week for most patients. [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p237]
 
 ## Inferences
 
@@ -63,12 +78,21 @@ Narcolepsy is a sleep disorder caused by the selective loss of orexinergic (hypo
 - Inference: Narcoleptics' confusion between dreams and reality suggests that REM sleep mechanisms for creating convincing dream experiences are intact but inappropriately activated.
 - Inference: Narcolepsy represents a failure of the systems that normally ensure clean transitions between wakefulness and sleep, with REM sleep processes inappropriately intruding into wakefulness (cataplexy) and vice versa.
 
+## Uncertainties
+
+- Uncertain: While scientists understand how orexin deficiency affects sleep at the molecular, cellular, and brain network levels, they do not understand its impact on dreaming, particularly the delusional belief hours after waking that dream memories are from real events.
+
 ## Related pages
 
 - Broader: [[sleep disorders]]
 - Broader: [[hypothalamic disorders]]
+- Broader: [[sleep-disorders]]
+- Broader: [[rem-sleep]]
+- Narrower: [[cataplexy]]
+- Narrower: [[sleep-paralysis]]
 - Adjacent: [[hypocretin]]
 - Adjacent: [[sleep-apnea]]
+- Adjacent: [[rem-behavior-disorder]]
 - Concepts: [[orexin]]
 - Concepts: [[cataplexy]]
 - Concepts: [[hypnagogic hallucinations]]
@@ -78,19 +102,25 @@ Narcolepsy is a sleep disorder caused by the selective loss of orexinergic (hypo
 - Concepts: [[hypocretin-receptor]]
 - Concepts: [[dream-wake confusion]]
 - Concepts: [[rem-sleep]]
+- Concepts: [[hypocretin]]
+- Concepts: [[sleep-regulation]]
+- Concepts: [[autoimmune]]
 - Topics: [[sleep-and-dreaming]]
 - Topics: [[dream-disorders]]
 - Entities: [[lateral hypothalamus]]
 - Entities: [[orexin neurons]]
+- Entities: [[sleep-paralysis]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Principles of Neural Science, Fifth Edition (Principles of - Eric R_ Kandel; James H_ Schwartz; Thomas M_ Jessell; Steven.pdf#p1-1761]
 - Additional source: [raw/books/neuroscience/When Brains Dream - Antonio Zadra.pdf#p1-329]
+- Additional source: [raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf#p1-341]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `principles-of-neural-science-fifth-edition-principles-of-eri`.
 - 2026-04-25 — merged contributions from `when-brains-dream-antonio-zadra`.
+- 2026-04-25 — merged contributions from `when-brains-dream-understanding-the-science-and-mystery-of-a`.

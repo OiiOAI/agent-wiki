@@ -3602,3 +3602,73 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/rem-sleep.md`
 - Files deprecated: None.
 - Notes: 36 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | when-brains-dream-understanding-the-science-and-mystery-of-a
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/When brains dream _ understanding the science and mystery of - Antonio Zadra.pdf
+- Files created:
+  - `wiki/entities/alfred-maury.md`
+  - `wiki/entities/antonio-zadra.md`
+  - `wiki/entities/epic-dreaming.md`
+  - `wiki/entities/ernest-hartmann.md`
+  - `wiki/entities/eugene-aserinsky.md`
+  - `wiki/entities/hall-and-van-de-castle-dream-scoring-system.md`
+  - `wiki/entities/karl-scherner.md`
+  - `wiki/entities/maimonides-dream-laboratory.md`
+  - `wiki/entities/mary-calkins.md`
+  - `wiki/entities/montague-ullman.md`
+  - `wiki/entities/nathaniel-kleitman.md`
+  - `wiki/entities/rem-sleep.md`
+  - `wiki/entities/robert-stickgold.md`
+  - `wiki/entities/sante-de-sanctis.md`
+  - `wiki/entities/william-dement.md`
+  - `wiki/concepts/animals-dreaming.md`
+  - `wiki/concepts/childrens-understanding-of-dreams.md`
+  - `wiki/concepts/creativity-and-dreams.md`
+  - `wiki/concepts/default-mode-network.md`
+  - `wiki/concepts/dream-characters.md`
+  - `wiki/concepts/dream-recall.md`
+  - `wiki/concepts/emotional-regulation-in-dreams.md`
+  - `wiki/concepts/expectancy-effect-in-dreams.md`
+  - `wiki/concepts/false-awakenings.md`
+  - `wiki/concepts/freudian-dream-theory.md`
+  - `wiki/concepts/history-of-dream-research.md`
+  - `wiki/concepts/jungian-dream-theory.md`
+  - `wiki/concepts/nighttime-therapy-theory.md`
+  - `wiki/concepts/ptsd-and-dreams.md`
+  - `wiki/concepts/ptsd-sleep.md`
+  - `wiki/concepts/recurrent-dreams.md`
+  - `wiki/concepts/sexual-dreams.md`
+  - `wiki/concepts/sleep-dependent-memory-processing.md`
+  - `wiki/concepts/sleep-memory-processing.md`
+  - `wiki/concepts/sleep-stages.md`
+  - `wiki/concepts/tetris-effect.md`
+  - `wiki/concepts/weak-associations.md`
+  - `wiki/sources/when-brains-dream-exploring-the-science-and-mystery-of-sleep.md`
+- Files merged (extended):
+  - `wiki/entities/antti-revonsuo.md`
+  - `wiki/entities/erin-wamsley.md`
+  - `wiki/entities/imagery-rehearsal-therapy.md`
+  - `wiki/entities/prazosin.md`
+  - `wiki/entities/rem-sleep-behavior-disorder.md`
+  - `wiki/entities/saint-denys.md`
+  - `wiki/entities/santiago-ramon-y-cajal.md`
+  - `wiki/entities/sleepwalking.md`
+  - `wiki/concepts/activation-synthesis-hypothesis.md`
+  - `wiki/concepts/cognitive-experiential-dream-model.md`
+  - `wiki/concepts/continuity-hypothesis.md`
+  - `wiki/concepts/dream-bizarreness.md`
+  - `wiki/concepts/dream-incubation.md`
+  - `wiki/concepts/idiopathic-nightmares.md`
+  - `wiki/concepts/lucid-dreaming.md`
+  - `wiki/concepts/narcolepsy.md`
+  - `wiki/concepts/nextup-model.md`
+  - `wiki/concepts/nextup-theory.md`
+  - `wiki/concepts/nightmares.md`
+  - `wiki/concepts/semantic-priming.md`
+  - `wiki/concepts/sleep-paralysis.md`
+  - `wiki/concepts/telepathic-and-precognitive-dreams.md`
+  - `wiki/concepts/threat-simulation-theory.md`
+  - `wiki/concepts/typical-dreams.md`
+- Files deprecated: None.
+- Notes: 38 new + 24 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
