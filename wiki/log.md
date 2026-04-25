@@ -9574,3 +9574,101 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/scientific-method.md`
 - Files deprecated: None.
 - Notes: 10 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf
+- Files created:
+  - `wiki/entities/benjamin-graham.md`
+  - `wiki/entities/benjamin-m-friedman.md`
+  - `wiki/entities/berkshire-hathaway.md`
+  - `wiki/entities/bernie-cornfeld.md`
+  - `wiki/entities/bf-skinner.md`
+  - `wiki/entities/captain-james-cook.md`
+  - `wiki/entities/carl-braun.md`
+  - `wiki/entities/charles-t-munger.md`
+  - `wiki/entities/coca-cola-company-business-case.md`
+  - `wiki/entities/elbert-gary.md`
+  - `wiki/entities/epictetus.md`
+  - `wiki/entities/federal-express.md`
+  - `wiki/entities/geico.md`
+  - `wiki/entities/les-schwab.md`
+  - `wiki/entities/peter-d-kaufman.md`
+  - `wiki/entities/robert-cialdini.md`
+  - `wiki/entities/robert-woodruff.md`
+  - `wiki/entities/washington-post-investment.md`
+  - `wiki/concepts/authority-misinfluence-tendency.md`
+  - `wiki/concepts/autocatalysis-business.md`
+  - `wiki/concepts/bezzle.md`
+  - `wiki/concepts/cancer-surgery-formula.md`
+  - `wiki/concepts/circle-of-competence.md`
+  - `wiki/concepts/commitment-and-consistency-tendency.md`
+  - `wiki/concepts/commoditization-and-industry-structure.md`
+  - `wiki/concepts/competitive-moat.md`
+  - `wiki/concepts/consistency-avoidance-tendency.md`
+  - `wiki/concepts/contrast-misreaction-tendency.md`
+  - `wiki/concepts/deprival-super-reaction-syndrome.md`
+  - `wiki/concepts/deprival-super-reaction-tendency.md`
+  - `wiki/concepts/derivatives-criticism.md`
+  - `wiki/concepts/deserved-trust.md`
+  - `wiki/concepts/envy-and-contentment.md`
+  - `wiki/concepts/fat-pitch-investing.md`
+  - `wiki/concepts/fatal-unconnectedness.md`
+  - `wiki/concepts/febezzlement.md`
+  - `wiki/concepts/focus-investing.md`
+  - `wiki/concepts/grant-mcfadyen-model.md`
+  - `wiki/concepts/hard-science-ethos.md`
+  - `wiki/concepts/ideology-warning.md`
+  - `wiki/concepts/incentive-caused-bias.md`
+  - `wiki/concepts/incentives-and-motivation.md`
+  - `wiki/concepts/intense-ideology-warning.md`
+  - `wiki/concepts/inversion-principle.md`
+  - `wiki/concepts/inversion.md`
+  - `wiki/concepts/latticework-of-knowledge.md`
+  - `wiki/concepts/lifetime-learning.md`
+  - `wiki/concepts/lollapalooza-effect.md`
+  - `wiki/concepts/lollapalooza-tendency.md`
+  - `wiki/concepts/man-with-a-hammer-syndrome.md`
+  - `wiki/concepts/margin-of-safety.md`
+  - `wiki/concepts/mental-models-latticework.md`
+  - `wiki/concepts/moat-investing.md`
+  - `wiki/concepts/mr-market.md`
+  - `wiki/concepts/multidisciplinary-education.md`
+  - `wiki/concepts/multidisciplinary-problem-solving.md`
+  - `wiki/concepts/multidisciplinary-thinking.md`
+  - `wiki/concepts/multiple-mental-models.md`
+  - `wiki/concepts/navy-accountability-model.md`
+  - `wiki/concepts/operant-conditioning.md`
+  - `wiki/concepts/opportunity-cost.md`
+  - `wiki/concepts/pari-mutuel-system-analogy.md`
+  - `wiki/concepts/pavlovian-conditioning.md`
+  - `wiki/concepts/physics-envy.md`
+  - `wiki/concepts/planck-knowledge-vs-chauffeur-knowledge.md`
+  - `wiki/concepts/psychology-of-human-misjudgment.md`
+  - `wiki/concepts/psychology-of-misjudgment.md`
+  - `wiki/concepts/reason-respecting-tendency.md`
+  - `wiki/concepts/reciprocation-tendency.md`
+  - `wiki/concepts/reliability-and-character.md`
+  - `wiki/concepts/reward-punishment-super-response-tendency.md`
+  - `wiki/concepts/scale-economics-and-bureaucracy.md`
+  - `wiki/concepts/self-pity-and-self-serving-bias.md`
+  - `wiki/concepts/social-proof-tendency.md`
+  - `wiki/concepts/tax-efficient-investing.md`
+  - `wiki/topics/economics-education-critique.md`
+  - `wiki/topics/foundation-investment-practices.md`
+  - `wiki/topics/munger-investment-principles.md`
+  - `wiki/sources/poor-charlies-almanack.md`
+  - `wiki/analyses/how-to-guarantee-a-miserable-life.md`
+- Files merged (extended):
+  - `wiki/entities/charlie-munger.md`
+  - `wiki/entities/judith-rich-harris.md`
+  - `wiki/entities/milgram-experiment.md`
+  - `wiki/entities/peter-drucker.md`
+  - `wiki/entities/richard-feynman.md`
+  - `wiki/entities/roger-fisher.md`
+  - `wiki/entities/steven-pinker.md`
+  - `wiki/entities/warren-buffett.md`
+  - `wiki/concepts/mental-models.md`
+  - `wiki/concepts/social-proof.md`
+- Files deprecated: None.
+- Notes: 80 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

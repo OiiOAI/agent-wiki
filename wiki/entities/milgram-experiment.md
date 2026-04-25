@@ -4,20 +4,27 @@ title: Milgram Experiment
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
   M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
+- '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
+  Peter D. Kaufman, Ed We.pdf#p1-623]'
 canonical: Stanley Milgram's 1961-1962 obedience experiments at Yale
 confidence: high
 aliases:
 - Milgram obedience study
 - Milgram shock experiment
+- Stanley Milgram authority experiments
+- obedience to authority
 tags:
 - social-psychology
 - obedience
 - ethics
 - history
+- psychology
+- experiment
+- authority
 related:
   concepts:
   - authority-submission
@@ -26,6 +33,8 @@ related:
   - zimbardo-prison-experiment
   - authority
   - social-psychology
+  - authority-influence
+  - psychological-research
   topics:
   - social-psychology
   - ethics
@@ -33,7 +42,6 @@ related:
   - stanley-milgram
   - gina-perry
 ---
-
 
 # Milgram Experiment
 
@@ -51,6 +59,10 @@ Stanley Milgram's obedience experiment tested whether ordinary people would infl
 - Milgram's study showed approximately 65% of subjects were willing to deliver what they believed were lethal electric shocks when instructed by an authority figure. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1168]
 - The Hofling hospital experiment showed that 21 out of 22 nurses, unaware they were in an experiment, were willing to give a dangerously high medication dose when ordered by an unknown doctor. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1170]
 - Milgram and Zimbardo knew each other as classmates in their high school in the Bronx. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1169]
+- Milgram's experiment found 65% of subjects were willing to give apparently harmful electric shocks to a pitifully protesting victim simply because a scientific authority commanded them to. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p230]
+- Milgram was trying to understand how Hitler got believing Lutherans, Catholics, and others to perform unholy acts they should have known were wrong. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p230]
+- Psychology textbooks long presented Milgram as demonstrating only the power of authority—Munger calls this 'mere first-conclusion bias' since at least six psychological principles operated in the same direction. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p231]
+- The single most publicized psychology experiment ever done still leaves out some important causes of its results even at Stanford—a failure of checklist thinking. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p231]
 
 ## Inferences
 
@@ -64,14 +76,21 @@ Stanley Milgram's obedience experiment tested whether ordinary people would infl
 
 - Broader: [[conformity-research]]
 - Broader: [[obedience-research]]
+- Broader: [[psychology-of-misjudgment]]
+- Narrower: [[lollapalooza-effect]]
 - Adjacent: [[stanford-prison-experiment]]
 - Adjacent: [[asch-conformity-experiment]]
+- Adjacent: [[authority-bias]]
+- Adjacent: [[social-pressure]]
+- Adjacent: [[commitment-and-consistency-tendency]]
 - Concepts: [[authority-submission]]
 - Concepts: [[diffusion-of-responsibility]]
 - Concepts: [[obedience]]
 - Concepts: [[zimbardo-prison-experiment]]
 - Concepts: [[authority]]
 - Concepts: [[social-psychology]]
+- Concepts: [[authority-influence]]
+- Concepts: [[psychological-research]]
 - Topics: [[social-psychology]]
 - Topics: [[ethics]]
 - Entities: [[stanley-milgram]]
@@ -80,7 +99,9 @@ Stanley Milgram's obedience experiment tested whether ordinary people would infl
 ## Provenance
 
 - Primary source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
+- Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.

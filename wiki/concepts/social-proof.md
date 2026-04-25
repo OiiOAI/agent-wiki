@@ -8,6 +8,8 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]'
 - '[raw/books/psychology/Models - Mark Manson.pdf#p1-274]'
+- '[raw/books/strategy/Poor Charlie''s Almanack_ The Wit and Wisdo - Charles T. Munger,
+  Peter D. Kaufman, Ed We.pdf#p1-623]'
 confidence: high
 tags:
 - social-influence
@@ -16,15 +18,20 @@ tags:
 - psychology
 - social psychology
 - attraction
+- consumer-behavior
+- marketing
 related:
   broader:
   - influence principles
   - persuasion
+  - psychology-of-misjudgment
   narrower:
   - pluralistic ignorance
   adjacent:
   - Social Circle
   - Attractive Behavior
+  - pavlovian-conditioning
+  - operant-conditioning
 aliases: []
 ---
 
@@ -46,6 +53,9 @@ Social proof is a psychological principle stating that one means we use to deter
 - Social Proof is defined as the psychological mechanism where if many other people value something, then we will value it as well. [raw/books/psychology/Models - Mark Manson.pdf#p271]
 - In attraction, if a number of other people or women are attracted to you, then one specific woman will become more attracted to you. [raw/books/psychology/Models - Mark Manson.pdf#p271]
 - Social Proof is only applicable in social circle situations, not with strangers. [raw/books/psychology/Models - Mark Manson.pdf#p271]
+- Social proof is the 'monkey-see, monkey-do' aspect of human nature—people are heavily influenced by what others think and what others do, some of it on a subconscious level. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p273]
+- In Coca-Cola's strategy, social proof means increased selling power comes from each increase in sales—consumption begets more consumption. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p295]
+- Social proof from mere association is used to choose flavor, texture, and color—exotic names and premium-looking packaging trigger Pavlovian and social-proof effects. [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p295]
 
 ## Inferences
 
@@ -55,9 +65,12 @@ Social proof is a psychological principle stating that one means we use to deter
 
 - Broader: [[influence principles]]
 - Broader: [[persuasion]]
+- Broader: [[psychology-of-misjudgment]]
 - Narrower: [[pluralistic ignorance]]
 - Adjacent: [[Social Circle]]
 - Adjacent: [[Attractive Behavior]]
+- Adjacent: [[pavlovian-conditioning]]
+- Adjacent: [[operant-conditioning]]
 - Concepts: [[pluralistic-ignorance]]
 - Concepts: [[bystander-effect]]
 - Concepts: [[werther-effect]]
@@ -65,6 +78,8 @@ Social proof is a psychological principle stating that one means we use to deter
 - Concepts: [[pluralistic ignorance]]
 - Concepts: [[canned laughter]]
 - Concepts: [[filmed social proof]]
+- Concepts: [[herd-behavior]]
+- Concepts: [[bandwagon-effect]]
 - Topics: [[compliance-psychology]]
 - Entities: [[milgram bickman berkowitz 1967]]
 
@@ -72,8 +87,10 @@ Social proof is a psychological principle stating that one means we use to deter
 
 - Primary source: [raw/books/psychology/Influence_ The Psychology of Persuasion - Robert B. Cialdini.pdf#p1-301]
 - Additional source: [raw/books/psychology/Models - Mark Manson.pdf#p1-274]
+- Additional source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `models-mark-manson`.
+- 2026-04-25 — merged contributions from `poor-charlie-s-almanack-the-wit-and-wisdo-charles-t-munger-p`.
