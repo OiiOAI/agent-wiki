@@ -11,6 +11,7 @@ sources:
 - '[raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 - '[raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]'
 - '[raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]'
+- '[raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p1-160]'
 confidence: high
 aliases:
 - 六祖惠能
@@ -31,6 +32,7 @@ tags:
 - 佛教
 - 唐代
 - 顿悟
+- 中国佛教
 canonical: true
 related:
   concepts:
@@ -109,6 +111,9 @@ related:
 - 惠能主张"自心是佛，更莫狐疑，外无一物而得建立"，强调直指本心、顿悟成佛. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p19]
 - 惠能认为"佛性常清净，何处有尘埃"，彻底否定客观世界的真实性，主张心外无法. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p22]
 - 惠能创立的南宗禅在安史之乱后逐渐兴盛，最终压倒北宗禅，成为中国禅宗的主流. [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p27]
+- 惠能（638-713）是六祖，被认为是中国禅宗的实际创始人. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p61]
+- 惠能以「本来无一物，何处惹尘埃」一偈获得五祖弘忍认可，继承衣钵. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p61]
+- 这首偈语纯正地表达了禅宗的信仰. [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p61]
 
 ## Inferences
 
@@ -129,6 +134,7 @@ related:
 - Narrower: [[神会]]
 - Narrower: [[怀让]]
 - Narrower: [[马祖道一]]
+- Narrower: [[禅学正道]]
 - Adjacent: [[弘忍]]
 - Adjacent: [[神秀]]
 - Concepts: [[顿悟]]
@@ -171,6 +177,7 @@ related:
 - Additional source: [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 - Additional source: [raw/books/philosophy/金刚经 心经 坛经——中华经典藏书(升级版) - 陈秋平, 尚荣译注; 陈秋平; 尚荣.epub#L1-L1]
 - Additional source: [raw/books/philosophy/禅宗与中国文化 - 葛兆光著.pdf#p1-236]
+- Additional source: [raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf#p1-160]
 
 ## Change notes
 
@@ -179,3 +186,4 @@ related:
 - 2026-04-25 — merged contributions from `第二讲精要-王德峰讲-道德经-庄子`.
 - 2026-04-25 — merged contributions from `金刚经-心经-坛经-中华经典藏书-升级版-陈秋平-尚荣译注-陈秋平-尚荣`.
 - 2026-04-25 — merged contributions from `禅宗与中国文化-葛兆光著`.
+- 2026-04-25 — merged contributions from `通向禅学之路-铃木大拙著-葛兆光译`.

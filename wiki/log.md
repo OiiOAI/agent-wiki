@@ -11493,3 +11493,41 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/dun-wu.md`
 - Files deprecated: None.
 - Notes: 36 new + 6 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 通向禅学之路-铃木大拙著-葛兆光译
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/通向禅学之路 - 铃木大拙著;葛兆光译.pdf
+- Files created:
+  - `wiki/entities/bai-yin-chan-shi.md`
+  - `wiki/entities/bai-yin.md`
+  - `wiki/entities/bai-zhang-huai-hai.md`
+  - `wiki/entities/da-hui-zong-gao.md`
+  - `wiki/entities/dan-xia-tian-ran.md`
+  - `wiki/entities/de-shan-xuan-jian.md`
+  - `wiki/entities/fen-yang-shan-zhao.md`
+  - `wiki/entities/ling-mu-da-zhuo.md`
+  - `wiki/entities/zhao-zhou-cong-shen.md`
+  - `wiki/concepts/ben-lai-mian-mu.md`
+  - `wiki/concepts/chan-tang.md`
+  - `wiki/concepts/chan-zong-de-fei-luo-ji-xing.md`
+  - `wiki/concepts/chan-zong-de-ri-chang-xing.md`
+  - `wiki/concepts/chan-zong.md`
+  - `wiki/concepts/er-yuan-dui-li.md`
+  - `wiki/concepts/fei-li-xing-zhe-xue.md`
+  - `wiki/concepts/fou-ding-zhi-fou-ding.md`
+  - `wiki/concepts/gong-an.md`
+  - `wiki/concepts/jie-xin.md`
+  - `wiki/concepts/jue-dui-ken-ding.md`
+  - `wiki/concepts/kong.md`
+  - `wiki/concepts/ping-chang-xin-shi-dao.md`
+  - `wiki/concepts/sheng-tai-chang-yang.md`
+  - `wiki/concepts/wu-gong-yong-xing.md`
+  - `wiki/concepts/yin-de.md`
+  - `wiki/concepts/yun-shui-sheng-huo.md`
+  - `wiki/sources/tong-xiang-chan-xue-zhi-lu.md`
+- Files merged (extended):
+  - `wiki/entities/hui-neng.md`
+  - `wiki/concepts/wu.md`
+  - `wiki/concepts/zuo-chan.md`
+- Files deprecated: None.
+- Notes: 27 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
