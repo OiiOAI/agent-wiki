@@ -8,6 +8,7 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
+- '[raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 confidence: high
 aliases:
 - 六祖惠能
@@ -15,11 +16,15 @@ aliases:
 - 惠能大师
 - 六祖
 - 南宗六祖
+- 六祖坛经
 tags:
 - 六祖
 - 禅宗
 - 佛教改革
 - 佛教人物
+- 惠能
+- 六祖坛经
+- 道佛比较
 canonical: true
 related:
   concepts:
@@ -27,9 +32,12 @@ related:
   - 见性成佛
   - 禅宗
   - 南宗
+  - shang-shan-ruo-shui
+  - fan-zhe-dao-zhi-dong
   topics:
   - 佛教中国化
   - 禅宗发展
+  - di-er-jiang-dao-jia-de-bian-zheng-si-xiang
   entities:
   - 弘忍
   - 神秀
@@ -57,6 +65,9 @@ related:
 - 慧能弟子神会姓高，襄阳人，至岭南受学于慧能，后以其学北上攻击北宗，卒倾动当世，南宗乃为禅宗之正统. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p711]
 - 慧能、神会所提倡之修行方法，以无念为主. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p712]
 - 今所传之《六祖坛经》，依旧说系慧能所说，弟子法海集记. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p712]
+- 惠能在《六祖坛经》中说「亡功福无比」，以忘功为最高境界. [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p5]
+- 道家与佛家对「功」的态度不同：道家讲功成身退，佛家讲忘功才是福. [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p5]
+- 《六祖坛经》「心量广大，犹如虚空」与「心善渊」相通. [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p6]
 
 ## Inferences
 
@@ -70,8 +81,11 @@ related:
 - Concepts: [[见性成佛]]
 - Concepts: [[禅宗]]
 - Concepts: [[南宗]]
+- Concepts: [[shang-shan-ruo-shui]]
+- Concepts: [[fan-zhe-dao-zhi-dong]]
 - Topics: [[佛教中国化]]
 - Topics: [[禅宗发展]]
+- Topics: [[di-er-jiang-dao-jia-de-bian-zheng-si-xiang]]
 - Entities: [[弘忍]]
 - Entities: [[神秀]]
 - Entities: [[达摩]]
@@ -82,8 +96,10 @@ related:
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
 - Additional source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
+- Additional source: [raw/books/philosophy/第二讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `中国哲学史-套装上下册-冯友兰`.
+- 2026-04-25 — merged contributions from `第二讲精要-王德峰讲-道德经-庄子`.
