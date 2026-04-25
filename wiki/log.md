@@ -5899,3 +5899,21 @@ This file is the append-only operational history of the wiki.
   - `wiki/entities/yang-zhu.md`
 - Files deprecated: None.
 - Notes: 7 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 第三讲精要-王德峰讲-道德经-庄子
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf
+- Files created:
+  - `wiki/concepts/bu-zheng-zhi-de.md`
+  - `wiki/concepts/da-cheng-ruo-que.md`
+  - `wiki/concepts/gui-yi-jian-wei-ben-gao-yi-xia-wei-ji.md`
+  - `wiki/concepts/wei-ren-san-bao.md`
+  - `wiki/concepts/zhi-zu-bu-ru-zhi-zhi-bu-dai.md`
+  - `wiki/concepts/zi-zhi-zhi-ming.md`
+  - `wiki/topics/dao-jia-de-wei-ren-chu-shi-zhi-dao.md`
+  - `wiki/sources/di-san-jiang-jing-yao-wang-de-feng-jiang-dao-de-jing-zhuang-zi.md`
+- Files merged (extended):
+  - `wiki/entities/wang-de-feng.md`
+  - `wiki/concepts/wu-wei.md`
+- Files deprecated: None.
+- Notes: 8 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

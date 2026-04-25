@@ -4,16 +4,21 @@ title: 王德峰
 type: entity
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]'
+- '[raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 confidence: medium
 tags:
 - 作者
 - 复旦大学
 - 教授
 - 哲学
-aliases: []
+- 哲学家
+- 道家
+- 讲师
+aliases:
+- 王德峰教授
 canonical: true
 related:
   concepts:
@@ -21,12 +26,11 @@ related:
   - 《坛经》
   - 心学
   - 王阳明
-  topics: []
+  - 道家哲学
   entities:
   - 《坛经》解读
   - 复旦大学
 ---
-
 
 # 王德峰
 
@@ -43,6 +47,8 @@ related:
 - 王德峰在2007年作为复旦大学研究生毕业典礼教师代表发言，主题为「做我们民族的脊梁」。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p281]
 - 王德峰的父亲和母亲是佛教信仰者，母亲不识字但真诚信佛，父亲曾批评少年王德峰嘲笑母亲念经不懂——指出「她有信，你没有信」。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p275]
 - 王德峰在机缘品中讲述《人民的名义》人物分析、《天道》剧情、以及其个人生活经历（如父母去世、复旦发言等）来阐释禅宗义理。. [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p247]
+- 王德峰开设有《道德经》《庄子》中国哲学的道家智慧课程. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p12]
+- 王德峰主张儒道互补，认为道家智慧用于发现毛病、提醒做减法，儒家则补充文明进步所需的奋斗精神. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p4]
 
 ## Inferences
 
@@ -50,18 +56,22 @@ related:
 
 ## Related pages
 
+- Broader: [[王德峰的哲学课]]
 - Adjacent: [[坛经解读]]
 - Concepts: [[禅宗]]
 - Concepts: [[《坛经》]]
 - Concepts: [[心学]]
 - Concepts: [[王阳明]]
+- Concepts: [[道家哲学]]
 - Entities: [[《坛经》解读]]
 - Entities: [[复旦大学]]
 
 ## Provenance
 
 - Primary source: [raw/books/philosophy/《坛经》解读 - 王德峰.pdf#p1-447]
+- Additional source: [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `第三讲精要-王德峰讲-道德经-庄子`.

@@ -4,27 +4,32 @@ title: 无为
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
+- '[raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 confidence: high
 tags:
 - 玄学
 - 政治哲学
 - 魏晋
+- 道家
+- 核心概念
+- 处世智慧
 related:
   broader:
   - 魏晋玄学
   - 道家哲学
   - 道家思想
+  - 道家的为人处世之道
   narrower:
   - 自然
   - 本末说
   adjacent:
   - 逍遥
   - 独化
+aliases: []
 ---
-
 
 # 无为
 
@@ -47,6 +52,11 @@ related:
 - 无为第三义：「自然之势，曲故不得容」——顺「时」「势」而为，此为亦即是无为. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1066]
 - 《淮南》以「用己而背自然」为有为，如「以火熯井，以淮灌山」. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1064]
 - 《淮南》所谓无为三义，如非《淮南》所特有，亦为《淮南》所特别注重. [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1067]
+- 为无为的意思是对于遇到的所有事情，都要把它当作无为之事来做. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p6]
+- 无为不是不做事，而是不人为地做事. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p6]
+- 不为大，故能成其大——圣人不自以为是，从容易、细节处下手，看似不做大事却最终成就了大事. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p7]
+- 为者败之，执者失之——人为地做事情最终要失败，执着的东西最终会失去. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p8]
+- 圣人无为故无败，无执故无失. [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p8]
 
 ## Inferences
 
@@ -58,6 +68,7 @@ related:
 - Broader: [[魏晋玄学]]
 - Broader: [[道家哲学]]
 - Broader: [[道家思想]]
+- Broader: [[道家的为人处世之道]]
 - Narrower: [[自然]]
 - Narrower: [[本末说]]
 - Adjacent: [[逍遥]]
@@ -67,6 +78,8 @@ related:
 - Concepts: [[自为]]
 - Concepts: [[各任其能]]
 - Concepts: [[因循]]
+- Concepts: [[天道]]
+- Concepts: [[辅万物之自然]]
 - Entities: [[郭象]]
 - Entities: [[老子]]
 - Entities: [[庄子]]
@@ -75,7 +88,9 @@ related:
 ## Provenance
 
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
+- Additional source: [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `第三讲精要-王德峰讲-道德经-庄子`.
