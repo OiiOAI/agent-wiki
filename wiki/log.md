@@ -7051,3 +7051,45 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/dbt-skills-training-handouts-and-worksheets-second-edition.md`
 - Files deprecated: None.
 - Notes: 27 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | emotional-agility-susan-david
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/Emotional Agility - Susan David.pdf
+- Files created:
+  - `wiki/entities/irena-sendler.md`
+  - `wiki/entities/joseph-darby.md`
+  - `wiki/entities/malala-yousafzai.md`
+  - `wiki/entities/susan-david.md`
+  - `wiki/entities/tom-shadyac.md`
+  - `wiki/concepts/autonomy-in-children.md`
+  - `wiki/concepts/bottling.md`
+  - `wiki/concepts/brooding.md`
+  - `wiki/concepts/choice-architecture.md`
+  - `wiki/concepts/contingent-self-esteem.md`
+  - `wiki/concepts/display-rules.md`
+  - `wiki/concepts/emotional-agility.md`
+  - `wiki/concepts/emotional-coaching.md`
+  - `wiki/concepts/emotional-labor.md`
+  - `wiki/concepts/fixed-vs-growth-mindset.md`
+  - `wiki/concepts/hooks-emotional.md`
+  - `wiki/concepts/job-crafting.md`
+  - `wiki/concepts/letting-go.md`
+  - `wiki/concepts/moving-on.md`
+  - `wiki/concepts/overview-effect.md`
+  - `wiki/concepts/secure-attachment.md`
+  - `wiki/concepts/self-compassion.md`
+  - `wiki/concepts/showing-up.md`
+  - `wiki/concepts/stepping-out.md`
+  - `wiki/concepts/surface-acting.md`
+  - `wiki/concepts/teeter-totter-principle.md`
+  - `wiki/concepts/tiny-tweaks-principle.md`
+  - `wiki/concepts/viktor-frankl.md`
+  - `wiki/concepts/walking-your-why.md`
+  - `wiki/concepts/want-to-vs-have-to-motivation.md`
+  - `wiki/topics/raising-emotionally-agile-children.md`
+  - `wiki/sources/emotional-agility-susan-david.md`
+- Files merged (extended):
+  - `wiki/concepts/alexithymia.md`
+  - `wiki/concepts/mindfulness.md`
+- Files deprecated: None.
+- Notes: 32 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
