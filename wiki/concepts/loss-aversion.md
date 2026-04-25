@@ -10,6 +10,8 @@ sources:
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/strategy/Never Split the Difference_ Negotiating As - Voss, Chris.pdf#p1-250]'
+- '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
+  Dobelli; Nicky Griffin.pdf#p1-226]'
 confidence: high
 related:
   broader:
@@ -25,6 +27,8 @@ related:
   - value-function
   - fairness in negotiation
   - deadlines in negotiation
+  - house-money-effect
+  - default-effect
 tags:
 - behavioral-economics
 - losses
@@ -33,6 +37,7 @@ tags:
 - psychology
 - decision-making
 - risk
+- emotion
 aliases: []
 ---
 
@@ -55,6 +60,9 @@ Loss aversion is a behavioral economics concept describing humans' tendency to a
 - To get real leverage, a negotiator must persuade the counterpart that they have something concrete to lose if the deal falls through. [raw/books/strategy/Never Split the Difference_ Negotiating As - Voss, Chris.pdf#p114]
 - The Certainty Effect describes how people are drawn to sure things over probabilities even when the probability is a better choice. [raw/books/strategy/Never Split the Difference_ Negotiating As - Voss, Chris.pdf#p114]
 - Iran accepted over $100 billion in sanctions to defend its nuclear program partly due to perceived unfairness and unwillingness to accept a loss of dignity. [raw/books/strategy/Never Split the Difference_ Negotiating As - Voss, Chris.pdf#p110]
+- It has been proven that emotionally, a loss 'weighs' about twice that of a similar gain, demonstrating the asymmetry of loss aversion. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p80]
+- To convince someone about something, don't focus on advantages; instead highlight how it helps dodge disadvantages, as loss-framed messages generate significantly more behavior change. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p80]
+- Employees tend to be risk-averse because the downside of a bad decision (job loss) is larger than the upside (bonus), explaining why large companies struggle with entrepreneurial risk-taking. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p81]
 
 ## Inferences
 
@@ -72,6 +80,8 @@ Loss aversion is a behavioral economics concept describing humans' tendency to a
 - Adjacent: [[value-function]]
 - Adjacent: [[fairness in negotiation]]
 - Adjacent: [[deadlines in negotiation]]
+- Adjacent: [[house-money-effect]]
+- Adjacent: [[default-effect]]
 - Concepts: [[endowment-effect]]
 - Concepts: [[debt-freeze]]
 - Concepts: [[prospect-theory]]
@@ -81,6 +91,8 @@ Loss aversion is a behavioral economics concept describing humans' tendency to a
 - Concepts: [[certainty effect]]
 - Concepts: [[anchoring emotions]]
 - Concepts: [[negotiation leverage]]
+- Concepts: [[sunk-cost-fallacy]]
+- Concepts: [[framing]]
 - Topics: [[behavioral-economics]]
 
 ## Provenance
@@ -88,9 +100,11 @@ Loss aversion is a behavioral economics concept describing humans' tendency to a
 - Primary source: [raw/books/business/Profit First - Mike Michalowicz.pdf#p1-256]
 - Additional source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/strategy/Never Split the Difference_ Negotiating As - Voss, Chris.pdf#p1-250]
+- Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `neuroeconomics-decision-making-and-the-brain-paul-w-glimcher`.
 - 2026-04-25 — merged contributions from `never-split-the-difference-negotiating-as-voss-chris`.
+- 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.

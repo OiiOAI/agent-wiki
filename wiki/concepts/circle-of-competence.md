@@ -10,6 +10,8 @@ sources:
   Peter D. Kaufman, Ed We.pdf#p1-623]'
 - '[raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman,
   Ed Wexler, Warren E_pdf.pdf#p1-619]'
+- '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
+  Dobelli; Nicky Griffin.pdf#p1-226]'
 confidence: high
 tags:
 - investing
@@ -19,6 +21,8 @@ tags:
 - investment strategy
 - cognitive limits
 - self-awareness
+- expertise
+- decision-making
 related:
   broader:
   - Investment Principles
@@ -34,6 +38,8 @@ related:
   - Focus Investing
   - Multiple Mental Models
   - Intellectual humility
+  - intuition
+  - overthinking
 aliases: []
 ---
 
@@ -63,6 +69,8 @@ Circle of Competence is the investment principle that investors should stay with
 - If you play games where other people have the aptitudes and you don't, you're going to lose—and that's as close to certain as any prediction can be. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p191]
 - Being the best plumbing contractor in Bemidji is probably doable by two-thirds of people with enough discipline, but winning a world chess tournament is not achievable for most. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p192]
 - People who could never win a chess tournament can rise quite high in life by slowly developing a circle of competence through work and recognizing their aptitudes. [raw/books/strategy/Poor Charlie's Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p192]
+- Warren Buffett reads balance sheets like professional musicians read musical scores—this is his circle of competence. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p222]
+- Dobelli recommends finding your circle of competence and using hard rational thinking only for consequential decisions outside it. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p222]
 
 ## Inferences
 
@@ -82,6 +90,8 @@ Circle of Competence is the investment principle that investors should stay with
 - Adjacent: [[Focus Investing]]
 - Adjacent: [[Multiple Mental Models]]
 - Adjacent: [[Intellectual humility]]
+- Adjacent: [[intuition]]
+- Adjacent: [[overthinking]]
 - Concepts: [[Intellectual Humility]]
 - Concepts: [[Moat]]
 - Concepts: [[Fat Pitch Investing]]
@@ -94,6 +104,8 @@ Circle of Competence is the investment principle that investors should stay with
 - Concepts: [[worldly-wisdom]]
 - Concepts: [[latticework-of-mental-models]]
 - Concepts: [[pari-mutuel-market-model]]
+- Concepts: [[expertise]]
+- Concepts: [[self-awareness]]
 - Topics: [[Investment Philosophy]]
 - Entities: [[charles-t-munger]]
 - Entities: [[warren-buffett]]
@@ -104,8 +116,10 @@ Circle of Competence is the investment principle that investors should stay with
 
 - Primary source: [raw/books/strategy/Poor Charlie's Almanack_ The Wit and Wisdo - Charles T. Munger, Peter D. Kaufman, Ed We.pdf#p1-623]
 - Additional source: [raw/books/strategy/Poor Charlie’s Almanack_ Charles T_ Munger, Peter D_ Kaufman, Ed Wexler, Warren E_pdf.pdf#p1-619]
+- Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `poor-charlie-s-almanack-charles-t-munger-peter-d-kaufman-ed-`.
+- 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.

@@ -4,22 +4,28 @@ title: Via Negativa
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim
   Nicholas.pdf#p1-695]'
+- '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
+  Dobelli; Nicky Griffin.pdf#p1-226]'
 confidence: high
 tags:
 - via-negativa
 - subtraction
 - simplicity
 - decision-making
+- philosophy
+- strategy
+- error correction
 related:
   broader:
   - antifragility
   - barbell-strategy
   - subtractive-knowledge
   - empiricism
+  - decision-making
   narrower:
   - subtractive-epistemology
   - bergson-razor
@@ -36,8 +42,8 @@ related:
   - Pseudo-Dionysos
   - iatrogenics
   - convexity bias
+aliases: []
 ---
-
 
 # Via Negativa
 
@@ -66,6 +72,9 @@ A philosophical and practical approach emphasizing subtraction over addition—r
 - Via negativa in theology and philosophy focuses on what something is not—an indirect definition rather than direct characterization. [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p532]
 - In action, via negativa is a recipe for what to avoid, what not to do—subtraction, not addition, particularly in medicine. [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p532]
 - Subtractive knowledge means knowing what is wrong with more certainty than knowing what is right—applied via negativa. [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p532]
+- Negative knowledge (what NOT to do) is much more potent than positive knowledge (what to do). [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p217]
+- Theologians first used via negativa: we cannot say what God is, only what God is not. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p217]
+- Buffett wrote: "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them.". [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p217]
 
 ## Inferences
 
@@ -86,6 +95,7 @@ A philosophical and practical approach emphasizing subtraction over addition—r
 - Broader: [[barbell-strategy]]
 - Broader: [[subtractive-knowledge]]
 - Broader: [[empiricism]]
+- Broader: [[decision-making]]
 - Narrower: [[subtractive-epistemology]]
 - Narrower: [[bergson-razor]]
 - Narrower: [[less-is-more]]
@@ -111,13 +121,17 @@ A philosophical and practical approach emphasizing subtraction over addition—r
 - Concepts: [[empiricism]]
 - Concepts: [[fragility]]
 - Concepts: [[subtractive-prophecy]]
+- Concepts: [[cognitive biases]]
+- Concepts: [[error avoidance]]
 - Topics: [[philosophy]]
 - Topics: [[medicine]]
 
 ## Provenance
 
 - Primary source: [raw/books/strategy/Antifragile_ Things That Gain from Disorde - Taleb, Nassim Nicholas.pdf#p1-695]
+- Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.

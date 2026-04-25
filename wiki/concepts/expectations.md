@@ -4,15 +4,19 @@ title: Expectations (vs. Fantasies)
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/Rethinking Positive Thinking - Gabriele Oettingen.pdf#p1-190]'
+- '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
+  Dobelli; Nicky Griffin.pdf#p1-226]'
 confidence: high
 tags:
 - motivation
 - cognition
 - expectancy
 - psychology
+- self-fulfilling-prophecy
+- placebo
 related:
   broader:
   - motivation
@@ -22,8 +26,8 @@ related:
   adjacent:
   - positive-fantasies
   - optimism
+aliases: []
 ---
-
 
 # Expectations (vs. Fantasies)
 
@@ -37,6 +41,9 @@ Expectations are beliefs or judgments about the future based on past experiences
 - Albert Bandura and Martin Seligman established that expectations based on past experience increase effort and actual achievement. [raw/books/psychology/Rethinking Positive Thinking - Gabriele Oettingen.pdf#p17]
 - In studies, women who assessed they were likely to lose weight based on past experience shed an average of 26 pounds more than those who didn't believe they would lose much weight. [raw/books/psychology/Rethinking Positive Thinking - Gabriele Oettingen.pdf#p18]
 - The key difference is that expectations are rational, experience-based judgments, while fantasies are free-flowing thoughts rooted in wishes. [raw/books/psychology/Rethinking Positive Thinking - Gabriele Oettingen.pdf#p16]
+- In January 2006, Google announced revenue up 97% and profit up 82%, yet shares tumbled 16% because Wall Street analysts had anticipated even better results. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p141]
+- Robert Rosenthal's 1965 experiment found randomly-selected 'bloomer' students developed much higher IQs than controls after teachers were told they were high-potential. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p142]
+- The placebo effect has been registered in one-third of all patients; expectations alter the biochemistry of the brain and thus the whole body. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p142]
 
 ## Inferences
 
@@ -53,13 +60,18 @@ Expectations are beliefs or judgments about the future based on past experiences
 - Concepts: [[mental-contrasting]]
 - Concepts: [[motivation]]
 - Concepts: [[optimism]]
+- Concepts: [[black-swan]]
+- Concepts: [[forecast-illusion]]
+- Concepts: [[halo-effect]]
 - Entities: [[martin-seligman]]
 - Entities: [[albert-bandura]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/Rethinking Positive Thinking - Gabriele Oettingen.pdf#p1-190]
+- Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.

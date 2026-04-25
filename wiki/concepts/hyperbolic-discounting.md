@@ -9,6 +9,8 @@ sources:
 - '[raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_
   Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]'
 - '[raw/books/productivity/The ONE Thing - Gary Keller.pdf#p1-206]'
+- '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
+  Dobelli; Nicky Griffin.pdf#p1-226]'
 confidence: high
 tags:
 - behavioral-economics
@@ -16,6 +18,9 @@ tags:
 - discounting
 - decision-making
 - productivity
+- delay-of-gratification
+- time-preference
+- impulsivity
 related:
   broader:
   - intertemporal-choice
@@ -44,6 +49,9 @@ Hyperbolic discounting is a model of intertemporal choice where the discount rat
 - Hyperbolic discounting causes people to prefer present rewards over future ones even when future rewards are MUCH BIGGER. [raw/books/productivity/The ONE Thing - Gary Keller.pdf#p121]
 - The further away a reward is in the future, the smaller the immediate motivation to achieve it. [raw/books/productivity/The ONE Thing - Gary Keller.pdf#p121]
 - Present bias overrides logic, causing people to let extraordinary future results slip away. [raw/books/productivity/The ONE Thing - Gary Keller.pdf#p121]
+- In hyperbolic discounting, the closer a reward is, the higher our 'emotional interest rate' rises and the more we are willing to give up in exchange for it. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p119]
+- Walter Mischel's marshmallow experiment found very few four-year-olds could wait for a second marshmallow, and the capacity for delayed gratification is a reliable indicator of future career success. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p120]
+- Exorbitant interest rates banks charge on credit-card debt exploit our must-have-now instincts. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p120]
 
 ## Inferences
 
@@ -62,14 +70,19 @@ Hyperbolic discounting is a model of intertemporal choice where the discount rat
 - Concepts: [[present-bias]]
 - Concepts: [[dynamic-inconsistency]]
 - Concepts: [[commitment]]
+- Concepts: [[decision-fatigue]]
+- Concepts: [[simple-logic]]
+- Concepts: [[procrastination]]
 - Entities: [[laibson]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Neuroeconomics _ Decision Making and the Brain - Paul W_ Glimcher, Ernst Fehr, Colin Camerer, Antonio Rangel,.pdf#p1-507]
 - Additional source: [raw/books/productivity/The ONE Thing - Gary Keller.pdf#p1-206]
+- Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-one-thing-gary-keller`.
+- 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.

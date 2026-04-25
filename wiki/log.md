@@ -10005,3 +10005,104 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/sources-of-power.md`
 - Files deprecated: None.
 - Notes: 31 new + 8 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-art-of-thinking-clearly-better-thinking-better-rolf-dobe
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf
+- Files created:
+  - `wiki/entities/bertram-forer.md`
+  - `wiki/entities/daniel-ellsberg.md`
+  - `wiki/entities/nassim-taleb.md`
+  - `wiki/entities/philip-tetlock.md`
+  - `wiki/entities/rolf-dobelli.md`
+  - `wiki/concepts/action-bias.md`
+  - `wiki/concepts/affect-heuristic.md`
+  - `wiki/concepts/alternative-blindness.md`
+  - `wiki/concepts/alternative-paths.md`
+  - `wiki/concepts/association-bias.md`
+  - `wiki/concepts/authority-bias.md`
+  - `wiki/concepts/availability-bias.md`
+  - `wiki/concepts/base-rate-neglect.md`
+  - `wiki/concepts/because-justification.md`
+  - `wiki/concepts/beginners-luck.md`
+  - `wiki/concepts/chauffeur-knowledge.md`
+  - `wiki/concepts/cherry-picking.md`
+  - `wiki/concepts/conjunction-fallacy.md`
+  - `wiki/concepts/contagion-bias.md`
+  - `wiki/concepts/default-effect.md`
+  - `wiki/concepts/deformation-professionnelle.md`
+  - `wiki/concepts/effort-justification.md`
+  - `wiki/concepts/exponential-growth.md`
+  - `wiki/concepts/fallacy-of-single-cause.md`
+  - `wiki/concepts/false-causality.md`
+  - `wiki/concepts/false-consensus-effect.md`
+  - `wiki/concepts/falsification-of-history.md`
+  - `wiki/concepts/fear-of-regret.md`
+  - `wiki/concepts/feature-positive-effect.md`
+  - `wiki/concepts/forecast-illusion.md`
+  - `wiki/concepts/forer-effect.md`
+  - `wiki/concepts/framing.md`
+  - `wiki/concepts/fundamental-attribution-error.md`
+  - `wiki/concepts/gamblers-fallacy.md`
+  - `wiki/concepts/groupthink.md`
+  - `wiki/concepts/halo-effect.md`
+  - `wiki/concepts/house-money-effect.md`
+  - `wiki/concepts/illusion-of-attention.md`
+  - `wiki/concepts/illusion-of-skill.md`
+  - `wiki/concepts/in-group-out-group-bias.md`
+  - `wiki/concepts/inability-to-close-doors.md`
+  - `wiki/concepts/information-bias.md`
+  - `wiki/concepts/intention-to-treat-error.md`
+  - `wiki/concepts/introspection-illusion.md`
+  - `wiki/concepts/intuitive-versus-rational-thinking.md`
+  - `wiki/concepts/law-of-small-numbers.md`
+  - `wiki/concepts/motivation-crowding.md`
+  - `wiki/concepts/news-illusion.md`
+  - `wiki/concepts/not-invented-here-syndrome.md`
+  - `wiki/concepts/omission-bias.md`
+  - `wiki/concepts/outcome-bias.md`
+  - `wiki/concepts/overthinking.md`
+  - `wiki/concepts/personification.md`
+  - `wiki/concepts/primacy-and-recency-effects.md`
+  - `wiki/concepts/problem-with-averages.md`
+  - `wiki/concepts/regression-to-mean.md`
+  - `wiki/concepts/salience-effect.md`
+  - `wiki/concepts/self-selection-bias.md`
+  - `wiki/concepts/self-serving-bias.md`
+  - `wiki/concepts/simple-logic.md`
+  - `wiki/concepts/sleeper-effect.md`
+  - `wiki/concepts/social-comparison-bias.md`
+  - `wiki/concepts/story-bias.md`
+  - `wiki/concepts/strategic-misrepresentation.md`
+  - `wiki/concepts/sunk-cost-fallacy.md`
+  - `wiki/concepts/swimmers-body-illusion.md`
+  - `wiki/concepts/twaddle-tendency.md`
+  - `wiki/concepts/volunteers-folly.md`
+  - `wiki/concepts/will-rogers-phenomenon.md`
+  - `wiki/concepts/winners-curse.md`
+  - `wiki/sources/the-art-of-thinking-clearly.md`
+- Files merged (extended):
+  - `wiki/entities/daniel-kahneman.md`
+  - `wiki/concepts/ambiguity-aversion.md`
+  - `wiki/concepts/black-swan.md`
+  - `wiki/concepts/circle-of-competence.md`
+  - `wiki/concepts/cognitive-dissonance.md`
+  - `wiki/concepts/confirmation-bias.md`
+  - `wiki/concepts/decision-fatigue.md`
+  - `wiki/concepts/domain-dependence.md`
+  - `wiki/concepts/envy.md`
+  - `wiki/concepts/expectations.md`
+  - `wiki/concepts/hedonic-treadmill.md`
+  - `wiki/concepts/hindsight-bias.md`
+  - `wiki/concepts/hyperbolic-discounting.md`
+  - `wiki/concepts/loss-aversion.md`
+  - `wiki/concepts/neomania.md`
+  - `wiki/concepts/planning-fallacy.md`
+  - `wiki/concepts/procrastination.md`
+  - `wiki/concepts/social-proof.md`
+  - `wiki/concepts/survivorship-bias.md`
+  - `wiki/concepts/theory-of-mind.md`
+  - `wiki/concepts/via-negativa.md`
+  - `wiki/concepts/zeigarnik-effect.md`
+- Files deprecated: None.
+- Notes: 71 new + 22 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

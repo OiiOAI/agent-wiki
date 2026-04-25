@@ -18,6 +18,8 @@ sources:
 - '[raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]'
 - '[raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert
   M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]'
+- '[raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf
+  Dobelli; Nicky Griffin.pdf#p1-226]'
 confidence: high
 tags:
 - neuroscience
@@ -34,6 +36,7 @@ tags:
 - autism
 - self-awareness
 - social-psychology
+- evolution
 related:
   broader:
   - autism-spectrum-disorder
@@ -53,6 +56,7 @@ related:
   - mirror neurons
   - social reasoning
   - simulation theory
+  - personification
 aliases: []
 ---
 
@@ -95,6 +99,8 @@ Theory of mind refers to the ability to understand that other people have mental
 - Theory of Mind involves interactions between the dlPFC and a brain region called the temporoparietal juncture. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p901]
 - Mirror neurons and the Theory of Mind network are mentioned in relation to sociopaths' lack of capacity for empathy and their atypical blunted pain perception. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p990]
 - When people contemplate the morality of corporate actions, they activate Theory of Mind networks just as when contemplating morality of fellow humans. [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1140]
+- Over the past 100,000 years, humans developed an impressive sense of how others think and feel, called "theory of mind.". [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p191]
+- The ultimatum game demonstrates theory of mind: people offer 30-50% of money to strangers rather than minimal amounts because they can imagine the other person's feelings. [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p191]
 
 ## Inferences
 
@@ -130,6 +136,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Adjacent: [[mirror neurons]]
 - Adjacent: [[social reasoning]]
 - Adjacent: [[simulation theory]]
+- Adjacent: [[personification]]
 - Concepts: [[mentalizing]]
 - Concepts: [[sally-anne-test]]
 - Concepts: [[cognitive perspective-taking]]
@@ -148,6 +155,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Concepts: [[reciprocal-altruism]]
 - Concepts: [[mirror-neurons]]
 - Concepts: [[prefrontal-cortex]]
+- Concepts: [[evolutionary psychology]]
 - Topics: [[social-neuroscience]]
 - Topics: [[mentalizing-network]]
 - Topics: [[right-hemisphere]]
@@ -168,6 +176,7 @@ Theory of mind refers to the ability to understand that other people have mental
 - Additional source: [raw/books/neuroscience/THE MASTER AND HIS EMISSARY - Iain McGilchrist.pdf#p1-829]
 - Additional source: [raw/books/neuroscience/The Symbolic Species - Terrence W. Deacon.pdf#p1-603]
 - Additional source: [raw/books/psychology/Behave_ The Biology of Humans at Our Best and Worst - Robert M Sapolsky; Michael Goldstrom; Overdrive Inc.pdf#p1-1269]
+- Additional source: [raw/books/strategy/The Art of Thinking Clearly _ Better thinking, Better - Rolf Dobelli; Nicky Griffin.pdf#p1-226]
 
 ## Change notes
 
@@ -178,3 +187,4 @@ Theory of mind refers to the ability to understand that other people have mental
 - 2026-04-25 — merged contributions from `the-master-and-his-emissary-iain-mcgilchrist`.
 - 2026-04-25 — merged contributions from `the-symbolic-species-terrence-w-deacon`.
 - 2026-04-25 — merged contributions from `behave-the-biology-of-humans-at-our-best-and-worst-robert-m-`.
+- 2026-04-25 — merged contributions from `the-art-of-thinking-clearly-better-thinking-better-rolf-dobe`.
