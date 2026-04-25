@@ -10,6 +10,7 @@ sources:
   - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]'
 - '[raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey
   - Smith.pdf#p1-232]'
+- '[raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]'
 confidence: high
 tags:
 - neuroscience
@@ -19,6 +20,9 @@ tags:
 - motor-control
 - perception
 - inner-speech
+- efference copy
+- prediction
+- tickling
 related:
   broader:
   - motor control
@@ -51,6 +55,10 @@ An efference copy is an internal signal representing a copy of the motor command
 - Efference copies allow comparison between intended and actual action outcomes, enabling error detection in motor control. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p116]
 - In speech, efference copies enable comparison of spoken words to inner images, allowing detection of speech errors. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p116]
 - Efference copies in human speech gave rise to inner speech through a process where quasi-heard sentences were composed without external expression. [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p116]
+- Erich von Holst proposed in 1950 that every motor command given by the brain is accompanied by a second copy (efference copy) sent internally to predict in advance the sensory consequences of the action. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p81]
+- Self-tickling is ineffective for most people because the simulator circuit has already anticipated the sensory effects of the action, removing any element of surprise. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p81]
+- Clever tests involving robot tickling devices that inserted unexpected time delays showed that subjects could indeed tickle themselves when predictions were disrupted. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p81]
+- According to predictive processing, there is no need for additional circuitry (the doubling up implied by efference copy) to simulate future sensation because the predictive brain is quite generally in the business of anticipating upcoming sensations. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p82]
 
 ## Inferences
 
@@ -76,16 +84,24 @@ An efference copy is an internal signal representing a copy of the motor command
 - Concepts: [[inner-speech]]
 - Concepts: [[reafference]]
 - Concepts: [[workspace-theory]]
+- Concepts: [[ideomotor theory]]
+- Concepts: [[prediction error]]
+- Concepts: [[active inference]]
 - Topics: [[motor control theory]]
 - Topics: [[cephalopod-cognition]]
 - Topics: [[human-consciousness]]
+- Topics: [[motor control]]
+- Topics: [[action]]
+- Topics: [[neuroscience]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Eric Kandel PRINCIPLES OF NEURAL SCIENCE Sixth Edition - Eric R Kandel; John Koester; Sarah Mack; Steven Siegelbaum.pdf#p1-1695]
 - Additional source: [raw/books/neuroscience/Other Minds_ The Octopus, the Sea, and the - Peter Godfrey - Smith.pdf#p1-232]
+- Additional source: [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]
 
 ## Change notes
 
 - 2026-04-22 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `other-minds-the-octopus-the-sea-and-the-peter-godfrey-smith`.
+- 2026-04-25 — merged contributions from `the-experience-machine-how-our-minds-pred-andy-clark`.

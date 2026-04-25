@@ -3015,3 +3015,53 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/affordance.md`
 - Files deprecated: None.
 - Notes: 47 new + 1 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-experience-machine-how-our-minds-pred-andy-clark
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf
+- Files created:
+  - `wiki/entities/andy-clark.md`
+  - `wiki/entities/david-marr.md`
+  - `wiki/entities/hermann-von-helmholtz.md`
+  - `wiki/entities/jon-stone.md`
+  - `wiki/entities/lisa-feldman-barrett.md`
+  - `wiki/concepts/affective-realism-effects.md`
+  - `wiki/concepts/autism-spectrum-condition.md`
+  - `wiki/concepts/body-budgeting.md`
+  - `wiki/concepts/capgras-delusion.md`
+  - `wiki/concepts/chronic-pain.md`
+  - `wiki/concepts/depression-as-body-budgeting-disorder.md`
+  - `wiki/concepts/epistemic-actions.md`
+  - `wiki/concepts/extended-mind-thesis.md`
+  - `wiki/concepts/frisson-prosthesis.md`
+  - `wiki/concepts/functional-neurological-disorder.md`
+  - `wiki/concepts/homeostasis-and-allostasis.md`
+  - `wiki/concepts/ideomotor-theory.md`
+  - `wiki/concepts/interoceptive-predictive-processing.md`
+  - `wiki/concepts/mcgurk-effect.md`
+  - `wiki/concepts/nocebo-effect.md`
+  - `wiki/concepts/nociplastic-pain.md`
+  - `wiki/concepts/north-sense.md`
+  - `wiki/concepts/pain-reprocessing-theory.md`
+  - `wiki/concepts/phantom-vibration-syndrome.md`
+  - `wiki/concepts/placebo-effect.md`
+  - `wiki/concepts/placebo-effects.md`
+  - `wiki/concepts/post-traumatic-stress-disorder.md`
+  - `wiki/concepts/rebus-model.md`
+  - `wiki/concepts/salience-detection-hypothesis.md`
+  - `wiki/concepts/schizophrenia-and-predictive-processing.md`
+  - `wiki/concepts/self-affirmation.md`
+  - `wiki/concepts/sine-wave-speech.md`
+  - `wiki/concepts/strange-inversion.md`
+  - `wiki/concepts/the-dress-viral-illusion.md`
+  - `wiki/sources/the-experience-machine-how-our-minds-predict-and-shape-reality.md`
+- Files merged (extended):
+  - `wiki/entities/david-chalmers.md`
+  - `wiki/concepts/controlled-hallucination.md`
+  - `wiki/concepts/efference-copy.md`
+  - `wiki/concepts/gut-brain-axis.md`
+  - `wiki/concepts/precision-weighting.md`
+  - `wiki/concepts/prediction-error.md`
+  - `wiki/concepts/predictive-processing.md`
+- Files deprecated: None.
+- Notes: 35 new + 7 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

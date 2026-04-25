@@ -4,9 +4,10 @@ title: Consciousness as Controlled Hallucination
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]'
+- '[raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]'
 confidence: high
 tags:
 - perception
@@ -14,18 +15,19 @@ tags:
 - consciousness
 - brain
 - hallucination
+- controlled hallucination
 related:
   broader:
   - perception
   - consciousness
-  narrower: []
+  - predictive processing
   adjacent:
   - predictive-coding
   - prediction-error
   - colour-perception
   - visual-illusions
+aliases: []
 ---
-
 
 # Consciousness as Controlled Hallucination
 
@@ -46,6 +48,9 @@ Seth's central thesis is that conscious experiences are 'controlled hallucinatio
 - Perceptual predictions flow predominantly in a top-down direction while prediction errors flow bottom-up. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p107]
 - What we perceive is given by the content of all top-down predictions once sensory prediction errors have been minimized or 'explained away'. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p107]
 - Perceptual content is a top-down controlled hallucination, rather than a bottom-up 'readout' of sensory data. [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p107]
+- Perception is described as a 'controlled hallucination'—the brain guesses at how the world is by using sensory evidence mostly as a way to correct and finesse the guessing. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p22]
+- When inner guessing completely rules the roost, we are just hallucinating, full stop. But when it is appropriately sensitive to sensory stimulations via prediction error signals, the guessing is controlled, and the world becomes known to the mind. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p22]
+- The brain's predictions for familiar stimuli help carve out the signal from the noise, rendering sounds more clearly than poor signals would otherwise allow—perception of this kind is highly active. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p21]
 
 ## Inferences
 
@@ -61,6 +66,7 @@ Seth's central thesis is that conscious experiences are 'controlled hallucinatio
 
 - Broader: [[perception]]
 - Broader: [[consciousness]]
+- Broader: [[predictive processing]]
 - Adjacent: [[predictive-coding]]
 - Adjacent: [[prediction-error]]
 - Adjacent: [[colour-perception]]
@@ -73,12 +79,18 @@ Seth's central thesis is that conscious experiences are 'controlled hallucinatio
 - Concepts: [[prediction-error-minimization]]
 - Concepts: [[active-inference]]
 - Concepts: [[beholders-share]]
+- Concepts: [[prediction error]]
+- Concepts: [[phantom vibration syndrome]]
+- Concepts: [[hallucination]]
+- Topics: [[perception]]
 - Entities: [[anil-seth]]
 
 ## Provenance
 
 - Primary source: [raw/books/neuroscience/Being You _ A New Science of Consciousness - Seth, Anil.pdf#p1-298]
+- Additional source: [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-experience-machine-how-our-minds-pred-andy-clark`.

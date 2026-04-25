@@ -8,16 +8,23 @@ updated: '2026-04-25'
 sources:
 - '[raw/books/health/Genius Foods - Max Lugavere.pdf#p1-562]'
 - '[raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p1-395]'
+- '[raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]'
 confidence: high
 tags:
 - gut-brain-axis
 - microbiome
 - mental-health
+- gut-brain
+- embodiment
+- cognition
+- serotonin
 related:
   broader:
   - microbiome
   - neurogastroenterology
   - nutritional psychiatry
+  - predictive-brain
+  - extended-mind-thesis
   narrower:
   - prebiotics
   - probiotics
@@ -55,20 +62,28 @@ The gut microbiome communicates with the brain through the vagus nerve (providin
 - A study of children with ASD who received fecal microbiota transplant showed over 40% had minimal to no ASD symptoms at a two-year follow-up, with concurrent improvement in gastrointestinal symptoms. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p87]
 - Fifty percent of adults with depression and 60% with anxiety went into remission following fecal microbiota transplant for digestive conditions. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p87]
 - Julia's research group published the first study showing that broad-spectrum multinutrients may increase bacterial diversity in the microbiome of children with ADHD, with decreased Bifidobacterium abundance correlating with improved ADHD symptoms. [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p87]
+- The human gut contains over 500 million neurons that relay important information to the spinal cord and the brain. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p159]
+- Gut bacteria manufacture up to 95 percent of the body's serotonin, which has large impacts on mood and is implicated in the precision-weighting process. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p159]
+- Mice bred to be timid became bold and risk-taking after receiving antibiotic doses that radically altered their gut bacterial colonies. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p160]
+- Monkeys whose mothers were startled during pregnancy had reduced levels of gut bacteria associated with calm moods, passed from mother to baby by nongenetic means. [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p160]
 
 ## Inferences
 
 - Inference: The gut-brain axis suggests that interventions targeting gut health—including diet, probiotics, and prebiotics—may have direct effects on brain function and neurological conditions.
+- Inference: Life is a deeply collaborative affair—the complexity of organisms depends on collaborative ecologies requiring wide variety of contributions, not just genetic lineage [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p160]
 
 ## Uncertainties
 
 - Uncertain: The exact mechanisms by which gut bacteria influence the brain are still being elucidated, and the optimal probiotic interventions for specific conditions remain uncertain.
+- Uncertain: The precise mechanisms by which gut bacteria influence cognitive and emotional states in humans require further research
 
 ## Related pages
 
 - Broader: [[microbiome]]
 - Broader: [[neurogastroenterology]]
 - Broader: [[nutritional psychiatry]]
+- Broader: [[predictive-brain]]
+- Broader: [[extended-mind-thesis]]
 - Narrower: [[prebiotics]]
 - Narrower: [[probiotics]]
 - Narrower: [[fecal microbiota transplant]]
@@ -85,13 +100,20 @@ The gut microbiome communicates with the brain through the vagus nerve (providin
 - Concepts: [[micronutrients]]
 - Concepts: [[broad-spectrum multinutrients]]
 - Concepts: [[dysbiosis]]
+- Concepts: [[microbiome]]
+- Concepts: [[serotonin]]
+- Concepts: [[gut-brain]]
+- Concepts: [[bodily-prediction]]
+- Entities: [[John-Dupre]]
 
 ## Provenance
 
 - Primary source: [raw/books/health/Genius Foods - Max Lugavere.pdf#p1-562]
 - Additional source: [raw/books/neuroscience/The Better Brain - Bonnie J. Kaplan.pdf#p1-395]
+- Additional source: [raw/books/neuroscience/The Experience Machine_ How Our Minds Pred - Andy Clark.pdf#p1-325]
 
 ## Change notes
 
 - 2026-04-23 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `the-better-brain-bonnie-j-kaplan`.
+- 2026-04-25 — merged contributions from `the-experience-machine-how-our-minds-pred-andy-clark`.
