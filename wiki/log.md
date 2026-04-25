@@ -8797,3 +8797,11 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/fang-zheng-zheng-quan-ji-suan-ji-hang-ye-jie-xi-chatgpt-bei-hou-de-ji-zhu-yan-jin-230322.md`
 - Files deprecated: None.
 - Notes: 10 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 社会学-上
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/sociology/社会学·上.pdf
+- Files created:
+  - `wiki/sources/giddens-sutton-she-hui-xue-di-qi-ban-shang-ce.md`
+- Files deprecated: None.
+- Notes: 1 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
