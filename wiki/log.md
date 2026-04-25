@@ -7827,3 +7827,38 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/somatic-marker-hypothesis.md`
 - Files deprecated: None.
 - Notes: 26 new + 10 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | the-power-of-now-tolle-eckhart
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf
+- Files created:
+  - `wiki/entities/eckhart-tolle.md`
+  - `wiki/entities/jesus.md`
+  - `wiki/concepts/beauty.md`
+  - `wiki/concepts/being.md`
+  - `wiki/concepts/compassion.md`
+  - `wiki/concepts/disidentification.md`
+  - `wiki/concepts/ego.md`
+  - `wiki/concepts/enlightenment.md`
+  - `wiki/concepts/illness-and-enlightenment.md`
+  - `wiki/concepts/inner-body.md`
+  - `wiki/concepts/joy-of-being.md`
+  - `wiki/concepts/limit-situation.md`
+  - `wiki/concepts/nonresistance.md`
+  - `wiki/concepts/ordinary-unconsciousness.md`
+  - `wiki/concepts/pain-body.md`
+  - `wiki/concepts/presence.md`
+  - `wiki/concepts/psychological-time.md`
+  - `wiki/concepts/silence.md`
+  - `wiki/concepts/surrender.md`
+  - `wiki/concepts/the-now.md`
+  - `wiki/concepts/the-power-to-choose.md`
+  - `wiki/concepts/the-way-of-the-cross.md`
+  - `wiki/concepts/unmanifested.md`
+  - `wiki/concepts/watching-the-thinker.md`
+  - `wiki/sources/the-power-of-now.md`
+- Files merged (extended):
+  - `wiki/concepts/acceptance.md`
+  - `wiki/concepts/wu-wei.md`
+- Files deprecated: None.
+- Notes: 25 new + 2 merged. Auto-generated from staged extraction; verify outliers in next lint pass.

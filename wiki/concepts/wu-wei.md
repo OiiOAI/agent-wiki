@@ -9,6 +9,7 @@ sources:
 - '[raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]'
 - '[raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]'
 - '[raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1]'
+- '[raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p1-209]'
 confidence: high
 tags:
 - 玄学
@@ -18,6 +19,10 @@ tags:
 - 核心概念
 - 处世智慧
 - 老子核心概念
+- taoism
+- wu-wei
+- actionless-activity
+- ancient-wisdom
 related:
   broader:
   - 魏晋玄学
@@ -25,6 +30,8 @@ related:
   - 道家思想
   - 道家的为人处世之道
   - 老子政治思想
+  - Taoist philosophy
+  - spiritual practice
   narrower:
   - 自然
   - 本末说
@@ -35,6 +42,9 @@ related:
   - 德
   - 小国寡民
   - 功成身退
+  - nonresistance
+  - surrender
+  - presence
 aliases: []
 ---
 
@@ -69,12 +79,17 @@ aliases: []
 - 《文子·自然》引老子语解释“无为”：“私志不入公道，嗜欲不枉正术，循理而举事，因资而立功”. [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1117]
 - 老子认为只有“无为”，才会有“无不为”（三十七章）. [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1117]
 - 老子还提出“不贵难得之货”、“不见可欲”等反对贪欲的具体措施. [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1117]
+- Wu wei is usually translated as 'actionless activity' or 'sitting quietly doing nothing.'. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
+- In ancient China, wu wei was regarded as one of the highest achievements or virtues. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
+- Wu wei is radically different from inactivity in the ordinary state of consciousness, which stems from fear, inertia, or indecision. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
+- Real 'doing nothing' implies inner nonresistance and intense alertness. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p191]
 
 ## Inferences
 
 - Inference: 郭象的“无为”强调“各任其自为”，实际上是将无为从消极的“不作为”转化为积极的“任自然”，为魏晋名士的放达生活提供了哲学依据
 - Inference: 《淮南》如此解释无为，盖必须如此方可容纳各家学说而统一之也。
 - Inference: “无为”并非消极不作为，而是遵循自然规律行事，不妄为老子强调“无为”是有深刻辩证法基础的
+- Inference: Tolle connects wu wei to his broader teaching about presence and nonresistance.
 
 ## Related pages
 
@@ -83,6 +98,8 @@ aliases: []
 - Broader: [[道家思想]]
 - Broader: [[道家的为人处世之道]]
 - Broader: [[老子政治思想]]
+- Broader: [[Taoist philosophy]]
+- Broader: [[spiritual practice]]
 - Narrower: [[自然]]
 - Narrower: [[本末说]]
 - Adjacent: [[逍遥]]
@@ -91,6 +108,9 @@ aliases: []
 - Adjacent: [[德]]
 - Adjacent: [[小国寡民]]
 - Adjacent: [[功成身退]]
+- Adjacent: [[nonresistance]]
+- Adjacent: [[surrender]]
+- Adjacent: [[presence]]
 - Concepts: [[无为]]
 - Concepts: [[自然]]
 - Concepts: [[自为]]
@@ -98,6 +118,9 @@ aliases: []
 - Concepts: [[因循]]
 - Concepts: [[天道]]
 - Concepts: [[辅万物之自然]]
+- Concepts: [[nonresistance]]
+- Concepts: [[presence]]
+- Concepts: [[acceptance]]
 - Entities: [[郭象]]
 - Entities: [[老子]]
 - Entities: [[庄子]]
@@ -108,9 +131,11 @@ aliases: []
 - Primary source: [raw/books/philosophy/中国哲学史(套装上下册) - 冯友兰.pdf#p1-1118]
 - Additional source: [raw/books/philosophy/第三讲精要 - 王德峰讲《道德经》《庄子》.pdf#p1-13]
 - Additional source: [raw/books/philosophy/道德经(精) - 中华经典名著全本全注全译.epub#L1-L1]
+- Additional source: [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p1-209]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
 - 2026-04-25 — merged contributions from `第三讲精要-王德峰讲-道德经-庄子`.
 - 2026-04-25 — merged contributions from `daodejing`.
+- 2026-04-25 — merged contributions from `the-power-of-now-tolle-eckhart`.

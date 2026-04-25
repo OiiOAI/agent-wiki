@@ -4,21 +4,31 @@ title: Acceptance
 type: concept
 status: draft
 created: '2026-04-24'
-updated: '2026-04-24'
+updated: '2026-04-25'
 sources:
 - '[raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]'
+- '[raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p1-209]'
 confidence: high
 tags:
 - acceptance
 - resistance
 - pain
 - meditation-technique
+- surrender
+- presence
+- the-now
 related:
-  broader: []
-  narrower: []
-  adjacent: []
+  broader:
+  - presence
+  narrower:
+  - surrender
+  - the-now
+  adjacent:
+  - presence
+  - the-now
+  - suffering
+aliases: []
 ---
-
 
 # Acceptance
 
@@ -34,6 +44,11 @@ Acceptance in mindfulness meditation is the practice of letting go of resistance
 - Acceptance Two is experienced as psychological non-resistance—absence of mental struggle against the experience. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p114]
 - Shinzen Young's formula P × R = S (Pain times Resistance equals Suffering) describes how relief from pain depends on acceptance. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p115]
 - Haruki Murakami's quote 'Pain is inevitable. Suffering is optional' summarizes the relationship between pain and acceptance. [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p116]
+- The greater part of human pain is unnecessary and self-created as long as the unobserved mind runs your life. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p43]
+- Pain is created through nonacceptance, some form of unconscious resistance to what is. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p43]
+- The book instructs: 'Accept—then act. Whatever the present moment contains, accept it as if you had chosen it'. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p45]
+- Surrender is defined as 'not weakness' but 'great strength' that comes from accepting what is. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p85]
+- Through surrender, one becomes free internally of the situation even if external circumstances remain unchanged. [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p85]
 
 ## Inferences
 
@@ -46,19 +61,33 @@ Acceptance in mindfulness meditation is the practice of letting go of resistance
 
 ## Related pages
 
+- Broader: [[presence]]
+- Narrower: [[surrender]]
+- Narrower: [[the-now]]
+- Adjacent: [[presence]]
+- Adjacent: [[the-now]]
+- Adjacent: [[suffering]]
 - Concepts: [[emotional-guidance-system]]
 - Concepts: [[hedonic-adaptation]]
 - Concepts: [[resilience]]
 - Concepts: [[focus-on-positive]]
 - Concepts: [[pendulation]]
+- Concepts: [[presence]]
+- Concepts: [[the-now]]
+- Concepts: [[surrender]]
+- Concepts: [[suffering]]
+- Concepts: [[acceptance]]
 - Topics: [[pain-management]]
 - Topics: [[emotional-regulation]]
 - Topics: [[mindfulness-techniques]]
+- Topics: [[spiritual-enlightenment]]
 
 ## Provenance
 
 - Primary source: [raw/books/psychology/The Mindful Geek_ Secular Meditation for S - Michael Taft.pdf#p1-238]
+- Additional source: [raw/books/psychology/The Power of Now - Tolle, Eckhart.pdf#p1-209]
 
 ## Change notes
 
 - 2026-04-24 — page created by auto ingest.
+- 2026-04-25 — merged contributions from `the-power-of-now-tolle-eckhart`.
