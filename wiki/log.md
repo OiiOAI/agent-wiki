@@ -1663,3 +1663,52 @@ This file is the append-only operational history of the wiki.
   - `wiki/concepts/theory-of-mind.md`
 - Files deprecated: None.
 - Notes: 60 new + 11 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | i-of-the-vortex-from-neurons-to-self-rodolfo-riascos-llina-s
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/neuroscience/I of the Vortex _ From Neurons to Self - Rodolfo Riascos Llinás.pdf
+- Files created:
+  - `wiki/entities/amygdala.md`
+  - `wiki/entities/andras-pellionisz.md`
+  - `wiki/entities/brenda-milner.md`
+  - `wiki/entities/charles-sherrington.md`
+  - `wiki/entities/graham-brown.md`
+  - `wiki/entities/hm-patient.md`
+  - `wiki/entities/hypothalamus.md`
+  - `wiki/entities/rodolfo-llinas.md`
+  - `wiki/concepts/40-hz-oscillation.md`
+  - `wiki/concepts/brain-as-closed-system.md`
+  - `wiki/concepts/cephalization.md`
+  - `wiki/concepts/collective-mind.md`
+  - `wiki/concepts/electrotonic-coupling.md`
+  - `wiki/concepts/emotions-as-faps.md`
+  - `wiki/concepts/evolution-of-the-eye.md`
+  - `wiki/concepts/fixed-action-pattern.md`
+  - `wiki/concepts/implicit-and-explicit-memory.md`
+  - `wiki/concepts/imprinting.md`
+  - `wiki/concepts/inferior-olive.md`
+  - `wiki/concepts/internal-functional-space.md`
+  - `wiki/concepts/mimicry.md`
+  - `wiki/concepts/mindness-state.md`
+  - `wiki/concepts/motor-primacy.md`
+  - `wiki/concepts/muscle-synergy.md`
+  - `wiki/concepts/neuronal-oscillation.md`
+  - `wiki/concepts/phylogenetic-memory.md`
+  - `wiki/concepts/physiological-tremor.md`
+  - `wiki/concepts/prediction-brain-function.md`
+  - `wiki/concepts/prosody.md`
+  - `wiki/concepts/referential-memory.md`
+  - `wiki/concepts/self-in-brain.md`
+  - `wiki/concepts/sensorimotor-image.md`
+  - `wiki/concepts/temporal-binding.md`
+  - `wiki/concepts/weber-fechner-law.md`
+  - `wiki/topics/cellular-neuroscience.md`
+  - `wiki/topics/evolution-nervous-system.md`
+  - `wiki/topics/motor-control.md`
+  - `wiki/sources/i-of-the-vortex-from-neurons-to-self.md`
+- Files merged (extended):
+  - `wiki/entities/basal-ganglia.md`
+  - `wiki/concepts/action-potential.md`
+  - `wiki/concepts/qualia.md`
+- Files deprecated: None.
+- Notes: 38 new + 3 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
