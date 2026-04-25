@@ -10868,3 +10868,39 @@ This file is the append-only operational history of the wiki.
   - `wiki/sources/dang-dai-jing-ji-xue-hong-guan-jing-ji-xue-fei-wa-er-la-si-fen-xi-fang-fa-dao-lun.md`
 - Files deprecated: None.
 - Notes: 29 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
+
+## [2026-04-25] ingest | 当代经济学系列丛书-经济周期理论-方法和概念通论-德-g-加比希-h-w-洛伦兹-著
+- Trigger: S6 batch commit (Phase H of ingest pipeline).
+- Sources: raw/books/economics/[当代经济学系列丛书]经济周期理论 - 方法和概念通论·[德]G.加比希 H.W.洛伦兹 著.pdf
+- Files created:
+  - `wiki/entities/g-jia-bi-xi.md`
+  - `wiki/entities/h-w-luo-lun-zi.md`
+  - `wiki/entities/kaldor.md`
+  - `wiki/entities/lucas.md`
+  - `wiki/entities/nber.md`
+  - `wiki/entities/nordhaus.md`
+  - `wiki/concepts/ao-ken-ding-lu.md`
+  - `wiki/concepts/bu-yi-lai-chong-ji-de-jing-ji-zhou-qi-li-lun.md`
+  - `wiki/concepts/cheng-shu-jia-su-shu-mo-xing.md`
+  - `wiki/concepts/fei-xian-xing-jing-ji-zhou-qi-li-lun.md`
+  - `wiki/concepts/ge-de-wen-mo-xing.md`
+  - `wiki/concepts/hopf-fen-cha.md`
+  - `wiki/concepts/hun-dong-li-lun.md`
+  - `wiki/concepts/ji-xian-huan.md`
+  - `wiki/concepts/jie-gou-wen-ding-xing-yu-bu-wen-ding-xing.md`
+  - `wiki/concepts/jing-ji-zhi-shi-qi.md`
+  - `wiki/concepts/ka-lai-ci-ji-jing-ji-zhou-qi-mo-xing.md`
+  - `wiki/concepts/kuo-san-zhi-shu.md`
+  - `wiki/concepts/li-xing-yu-qi.md`
+  - `wiki/concepts/mei-zi-le-ku-cun-zhou-qi-mo-xing.md`
+  - `wiki/concepts/qian-zai-gnp.md`
+  - `wiki/concepts/sa-miao-er-sen-xi-ke-si-mo-xing.md`
+  - `wiki/concepts/sui-ji-jing-ji-zhou-qi.md`
+  - `wiki/concepts/tu-bian-lun.md`
+  - `wiki/concepts/xi-ke-si-fei-xian-xing-jia-su-shu-mo-xing.md`
+  - `wiki/concepts/yi-lai-chong-ji-de-jing-ji-zhou-qi-li-lun.md`
+  - `wiki/concepts/zheng-zhi-jing-ji-zhou-qi.md`
+  - `wiki/topics/jing-ji-zhou-qi-li-lun.md`
+  - `wiki/sources/jing-ji-zhou-qi-li-lun-fang-fa-he-gai-nian-tong-lun.md`
+- Files deprecated: None.
+- Notes: 29 new + 0 merged. Auto-generated from staged extraction; verify outliers in next lint pass.
