@@ -53,7 +53,22 @@ sudo apt install ocrmypdf tesseract-ocr-chi-sim ghostscript  # optional
 
 Python 3.10+ required (developed on 3.12 / 3.14).
 
-### Install + run
+### Easiest path — interactive wizard
+
+```bash
+git clone https://github.com/<you>/agent-wiki && cd agent-wiki
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python -m scripts.ingest.setup           # ← does the rest, asks 6 questions
+```
+
+The wizard checks system deps, copies + opens `.env`, probes the LLM,
+takes your books folder (offering to copy + beautify filenames + classify
+into disciplines), runs the first book as a trial, and lands it into `wiki/`.
+Press `Ctrl-C` anytime — progress persists to `tmp/setup_state.json` and
+re-running resumes where you left off.
+
+### Manual path
 
 ```bash
 # 1. clone + install
@@ -66,10 +81,13 @@ cp .env.example .env
 # edit .env — uncomment one of the four provider blocks (Claude /
 # Minimax / OpenAI proxy / local), fill in the key
 
-# 3. verify install (95 unit tests, no LLM needed)
+# 3. verify install (133 unit tests, no LLM needed)
 bash scripts/run_tests.sh
 
-# 4. point at your books
+# 4. preview your corpus (no LLM cost)
+python -m scripts.ingest.auto_ingest --books-dir ~/Library/Books --dry-discover
+
+# 5. process the first 3 books
 python -m scripts.ingest.auto_ingest \
     --books-dir ~/Library/Books \
     --limit 3                          # try 3 first to gauge cost

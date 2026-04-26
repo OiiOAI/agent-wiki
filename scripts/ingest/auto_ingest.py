@@ -419,6 +419,26 @@ def main(argv: list[str] | None = None) -> int:
         flush=True,
     )
     if not pending:
+        if not state.books:
+            # No discovery hits at all — most likely a fresh clone where
+            # raw/books/ is empty and no --books-dir was supplied.
+            scanned = (
+                Path(args.books_dir).expanduser().resolve()
+                if args.books_dir
+                else REPO_ROOT / "raw" / "books"
+            )
+            print(
+                f"[auto_ingest] No books found under {scanned}.",
+                flush=True,
+            )
+            print("Did you mean to point at a different folder?", flush=True)
+            print(
+                "  python -m scripts.ingest.auto_ingest --books-dir ~/MyBooks",
+                flush=True,
+            )
+            print("Or run the guided setup:", flush=True)
+            print("  python -m scripts.ingest.setup", flush=True)
+            return 0
         print("[auto_ingest] nothing to do — all books processed.", flush=True)
         _render_report(report_path, state)
         return 0

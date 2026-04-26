@@ -24,4 +24,6 @@ echo "==> Running L1-L3 unit tests (no LLM required)"
     scripts/tests/test_gate.py \
     scripts/tests/test_extract.py \
     scripts/tests/test_pdf_to_md.py \
+    scripts/tests/test_import_books.py \
+    scripts/tests/test_setup.py \
     -v "$@"
