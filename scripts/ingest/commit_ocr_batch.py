@@ -29,10 +29,12 @@ WIKI_ROOT = REPO_ROOT / "wiki"
 
 sys.path.insert(0, str(REPO_ROOT))
 from scripts.ingest.commit_batch import (  # noqa: E402
+    _AGENTS_INDEX_PATH,
     _append_log,
     _git_commit_book,
     _log_entry,
     _process_book,
+    _rebuild_agents_index,
     _rebuild_index,
 )
 
@@ -104,18 +106,29 @@ def main(argv: list[str] | None = None) -> int:
     if args.dry_run:
         return 0
 
-    # Rebuild index (uses current wiki state — all 165 + 29 new).
+    # Rebuild both indexes (uses current wiki state — all 165 + 29 new).
     new_index = _rebuild_index()
     idx_path = WIKI_ROOT / "index.md"
     idx_path.write_text(new_index, encoding="utf-8")
-    subprocess.run(["git", "add", str(idx_path)], cwd=REPO_ROOT, check=True)
+    agents_idx = _rebuild_agents_index()
+    _AGENTS_INDEX_PATH.write_text(
+        json.dumps(agents_idx, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    subprocess.run(["git", "add", str(idx_path), str(_AGENTS_INDEX_PATH)],
+                   cwd=REPO_ROOT, check=True)
     subprocess.run(
-        ["git", "commit", "-m", "ingest: rebuild index after OCR-rescue batch"],
+        ["git", "commit", "-m",
+         f"ingest: rebuild indexes after OCR-rescue batch ({agents_idx['page_count']} pages)"],
         cwd=REPO_ROOT,
         check=True,
         capture_output=True,
     )
-    print("[commit_ocr_batch] index.md rebuilt + committed", flush=True)
+    print(
+        f"[commit_ocr_batch] index.md + AGENTS_INDEX.json rebuilt "
+        f"({agents_idx['page_count']} pages) + committed",
+        flush=True,
+    )
 
     if not args.no_tag:
         tag = args.tag or f"ingest-batch-ocr-{datetime.now():%Y%m%d-%H%M}"
