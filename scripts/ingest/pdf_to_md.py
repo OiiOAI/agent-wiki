@@ -199,6 +199,44 @@ def _usable_char_count(text: str) -> int:
     return len(re.sub(r"<!-- PAGE:\d+ -->", "", text).strip())
 
 
+_DEPS_CHECKED: dict[str, bool] = {}
+
+
+def _check_runtime_deps(ext: str) -> None:
+    """Fail fast with a clear remediation hint when the OS lacks the
+    converter we'd need. Cheaper than letting Phase A run, fail at the
+    subprocess layer, and surface `no converter succeeded` ten seconds
+    later. Memoized so we don't re-stat PATH for every book."""
+    cache_key = ext
+    if _DEPS_CHECKED.get(cache_key):
+        return
+    needed: list[tuple[str, str, str]] = []  # (tool, env_path, install hint)
+    if ext == ".pdf":
+        if not shutil.which("pdftotext"):
+            needed.append((
+                "pdftotext",
+                "PDFTOTEXT_BIN",
+                "macOS: brew install poppler  |  Ubuntu/Debian: apt install poppler-utils",
+            ))
+    if ext in (".epub", ".md", ".txt") or ext == ".pdf":
+        # pandoc is the EPUB path; only fatal for EPUB inputs but we
+        # warn unconditionally so the user catches it before the next book.
+        if not shutil.which("pandoc") and ext == ".epub":
+            needed.append((
+                "pandoc",
+                "PANDOC_BIN",
+                "macOS: brew install pandoc  |  Ubuntu/Debian: apt install pandoc",
+            ))
+    if needed:
+        msgs = ["[pdf_to_md] Missing system dependency:"]
+        for tool, _, hint in needed:
+            msgs.append(f"  • {tool} not found in PATH")
+            msgs.append(f"    Install: {hint}")
+        msgs.append("  Or run `python -m scripts.ingest.setup` for a guided check.")
+        raise RuntimeError("\n".join(msgs))
+    _DEPS_CHECKED[cache_key] = True
+
+
 def convert_to_markdown(
     src: Path,
     cache_dir: Path,
@@ -209,6 +247,7 @@ def convert_to_markdown(
 
     Returns `ConversionMeta`. Raises `RuntimeError` if all converters fail.
     """
+    _check_runtime_deps(src.suffix.lower())
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_md = cache_dir / f"{src.stem}.md"
     cache_meta = cache_dir / f"{src.stem}.meta.json"

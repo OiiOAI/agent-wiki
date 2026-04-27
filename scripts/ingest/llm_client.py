@@ -217,7 +217,22 @@ def generate_structured_output(
                 return None, usage
 
         else:
-            print("[llm_client] no API key available (set ANTHROPIC_API_KEY in .env)")
+            missing = [
+                k for k in ("ANTHROPIC_API_KEY", "ANTHROPIC_BASE_URL", "LLM_MODEL")
+                if not os.environ.get(k)
+            ]
+            if missing:
+                print(
+                    f"[llm_client] Missing required env vars in .env: "
+                    f"{', '.join(missing)}. See .env.example for templates. "
+                    f"Or run `python -m scripts.ingest.setup` to be guided.",
+                )
+            else:
+                print(
+                    "[llm_client] No usable client. ANTHROPIC_API_KEY is set "
+                    "but the SDK rejected initialization — check the key and "
+                    "ANTHROPIC_BASE_URL match (provider mismatch is a common cause)."
+                )
             return None, usage
 
     return None, usage
