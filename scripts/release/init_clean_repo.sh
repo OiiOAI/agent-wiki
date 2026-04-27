@@ -112,7 +112,20 @@ This file is the append-only operational history of the wiki.
   to begin populating.
 EOF
 
-# 5. Wipe tmp/ — no intermediates ship publicly.
+# 5. Reset AGENTS_INDEX.json to a minimal skeleton.
+cat > wiki/AGENTS_INDEX.json <<'EOF'
+{
+  "version": 1,
+  "generated": "release-clean",
+  "page_count": 0,
+  "pages": [],
+  "by_slug": {},
+  "by_alias": {},
+  "by_tag": {}
+}
+EOF
+
+# 6. Wipe tmp/ — no intermediates ship publicly.
 rm -rf tmp/
 mkdir -p tmp/
 touch tmp/.gitkeep

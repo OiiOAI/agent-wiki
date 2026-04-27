@@ -471,6 +471,84 @@ def _summary_for(page: ParsedPage) -> str:
     return first_para
 
 
+_AGENTS_INDEX_PATH = WIKI_ROOT / "AGENTS_INDEX.json"
+_AGENTS_INDEX_TYPE_DIRS = (
+    "entities", "concepts", "topics", "sources", "analyses",
+    "conflicts", "dashboards",
+)
+
+
+def _rebuild_agents_index() -> dict:
+    """Build the machine-readable index that downstream agents consume.
+
+    Mirrors `_rebuild_index()` (which builds the human `index.md`) but
+    emits structured JSON: per-page metadata + reverse-lookup tables
+    (`by_slug`, `by_alias`, `by_tag`). Always written even when the
+    page count hasn't changed — keeps the file in sync with whatever
+    the wiki currently has.
+    """
+    pages: list[dict] = []
+    by_alias: dict[str, str] = {}
+    by_tag: dict[str, list[str]] = {}
+
+    for sub in _AGENTS_INDEX_TYPE_DIRS:
+        d = WIKI_ROOT / sub
+        if not d.is_dir():
+            continue
+        for md in sorted(d.glob("*.md")):
+            try:
+                page = _parse_page(md.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            fm = page.frontmatter or {}
+            slug = md.stem
+            title = str(fm.get("title") or slug)
+            page_type = str(fm.get("type") or sub.rstrip("s"))
+            summary = _summary_for(page)
+            tags = [str(t) for t in (fm.get("tags") or [])]
+            aliases = [str(a) for a in (fm.get("aliases") or [])]
+            related = fm.get("related") or {}
+            related_count = {
+                k: len(v) for k, v in related.items() if isinstance(v, list)
+            }
+
+            # Count facts + sources from the body and frontmatter.
+            facts_body = page.sections.get("## Key facts", "")
+            fact_count = sum(
+                1 for line in facts_body.splitlines() if line.strip().startswith("- ")
+            )
+            source_count = len(fm.get("sources") or [])
+
+            pages.append({
+                "slug": slug,
+                "title": title,
+                "type": page_type,
+                "path": str(md.relative_to(REPO_ROOT)),
+                "summary": summary,
+                "tags": tags,
+                "aliases": aliases,
+                "related_count": related_count,
+                "fact_count": fact_count,
+                "source_count": source_count,
+            })
+
+            for a in aliases:
+                by_alias[a.lower()] = slug
+            for t in tags:
+                by_tag.setdefault(t, []).append(slug)
+
+    by_slug = {p["slug"]: i for i, p in enumerate(pages)}
+    return {
+        "version": 1,
+        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "page_count": len(pages),
+        "pages": pages,
+        "by_slug": by_slug,
+        "by_alias": by_alias,
+        "by_tag": by_tag,
+    }
+
+
 def _rebuild_index() -> str:
     sections: dict[str, list[str]] = {k: [] for k in SECTION_TITLES}
     for type_dir, title in SECTION_TITLES.items():
@@ -611,18 +689,29 @@ def main(argv: list[str] | None = None) -> int:
     if args.dry_run:
         return 0
 
-    # Final: rebuild index + commit + tag.
+    # Final: rebuild both indexes + commit + tag.
     new_index = _rebuild_index()
     idx_path = WIKI_ROOT / "index.md"
     idx_path.write_text(new_index, encoding="utf-8")
-    subprocess.run(["git", "add", str(idx_path)], cwd=REPO_ROOT, check=True)
+    agents_idx = _rebuild_agents_index()
+    _AGENTS_INDEX_PATH.write_text(
+        json.dumps(agents_idx, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    subprocess.run(["git", "add", str(idx_path), str(_AGENTS_INDEX_PATH)],
+                   cwd=REPO_ROOT, check=True)
     subprocess.run(
-        ["git", "commit", "-m", "ingest: rebuild index after batch"],
+        ["git", "commit", "-m",
+         f"ingest: rebuild indexes after batch ({agents_idx['page_count']} pages)"],
         cwd=REPO_ROOT,
         check=True,
         capture_output=True,
     )
-    print("[commit_batch] index.md rebuilt + committed", flush=True)
+    print(
+        f"[commit_batch] index.md + AGENTS_INDEX.json rebuilt "
+        f"({agents_idx['page_count']} pages) + committed",
+        flush=True,
+    )
 
     if not args.no_tag:
         tag = args.tag or f"ingest-batch-{datetime.now():%Y%m%d-%H%M}"

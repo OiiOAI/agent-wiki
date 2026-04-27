@@ -229,6 +229,54 @@ Both are read-only. Reports land in `tmp/lint_report.md` and
 
 ---
 
+## Use the wiki from another agent
+
+Once your wiki is built, hand it off to any downstream agent (Claude /
+GPT / Cursor / Cline / your own) without it having to learn the
+project's pipeline.
+
+**Path 1 — handoff doc only (zero tooling)**
+Have the agent read [`wiki/AGENTS.md`](wiki/AGENTS.md). One self-contained
+file (~200 lines) covering directory layout, frontmatter cheat-sheet,
+5-step query workflow, citation conventions, and a worked example. The
+agent can `grep wiki/` + `cat wiki/<type>/<slug>.md` and answer queries
+without any other reading.
+
+**Path 2 — Python helper (zero LLM)**
+For agents that can run Python:
+
+```python
+from scripts.query.wiki_query import find_page, search, neighbors, provenance_for
+
+# Find a page by title, slug, or alias
+p = find_page("BDNF")
+print(p.summary)
+for f in p.key_facts:
+    print(f.claim, "→", f.provenance)
+
+# Substring search across title + summary + key_facts
+for hit in search("hippocampus exercise", limit=5):
+    print(hit.slug, hit.score, hit.snippet)
+
+# Walk the related-pages graph
+for n in neighbors("bdnf", depth=1):
+    print(n.slug, n.title)
+
+# Collect every [raw/...] anchor cited on a page
+for ref in provenance_for("bdnf"):
+    print(ref)
+```
+
+Backed by `wiki/AGENTS_INDEX.json` (regenerated on every batch commit
+— ~1MB for 9k pages). Falls back to a filesystem walk if the index is
+missing or corrupt.
+
+**Path 3 — MCP server** (future, not yet built)
+For Claude Desktop / Cursor / Cline with MCP support — same primitives
+as Path 2 exposed as tool calls.
+
+---
+
 ## Using with Claude Code
 
 This repo is built to be maintained by an LLM agent. With Claude Code:
