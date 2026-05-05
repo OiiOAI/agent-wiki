@@ -79,9 +79,13 @@ def _ocrmypdf_run(src: Path, dst: Path, timeout_s: int, log_path: Path) -> tuple
     cmd = [
         "ocrmypdf",
         "-l", "chi_sim+chi_tra+eng",
-        "--skip-text",                 # tolerant of mixed text/scan PDFs
+        "--skip-text",                       # tolerant of mixed text/scan PDFs
         "--jobs", "4",
         "--output-type", "pdf",
+        "--invalidate-digital-signatures",   # signed PDFs (e.g. publisher-signed
+                                             # textbooks) otherwise rc=2; we
+                                             # never redistribute the OCR'd PDF
+                                             # so signature loss is acceptable
         "--quiet",
         str(src), str(dst),
     ]
