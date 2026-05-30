@@ -36,6 +36,11 @@ ANTHROPIC_BASE_URL = os.environ.get(
     "ANTHROPIC_BASE_URL", "https://api.minimaxi.com/anthropic"
 )
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+# OPENAI_BASE_URL lets the OpenAI client talk to any OpenAI-protocol
+# endpoint: DeepSeek (https://api.deepseek.com), local vLLM/Ollama
+# servers, LiteLLM proxies, etc. When unset, the default OpenAI
+# endpoint is used.
+OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL")
 DEFAULT_MODEL = os.environ.get("LLM_MODEL", "MiniMax-M2.7-highspeed")
 
 
@@ -180,8 +185,15 @@ def generate_structured_output(
             try:
                 from openai import OpenAI
 
-                client = OpenAI(api_key=OPENAI_API_KEY)
-                if model.startswith("gpt-"):
+                client_kwargs = {"api_key": OPENAI_API_KEY}
+                if OPENAI_BASE_URL:
+                    client_kwargs["base_url"] = OPENAI_BASE_URL
+                client = OpenAI(**client_kwargs)
+
+                # Native structured-output for GPT-4o / gpt-4.1 family.
+                # DeepSeek, vLLM, etc. don't implement this — fall through
+                # to JSON-mode below.
+                if model.startswith("gpt-") and not OPENAI_BASE_URL:
                     response = client.beta.chat.completions.parse(
                         model=model,
                         messages=[
@@ -191,25 +203,78 @@ def generate_structured_output(
                         response_format=response_format,
                         temperature=temperature,
                     )
+                    try:
+                        usage["tokens_in"] = int(
+                            getattr(response.usage, "prompt_tokens", 0) or 0
+                        )
+                        usage["tokens_out"] = int(
+                            getattr(response.usage, "completion_tokens", 0) or 0
+                        )
+                    except Exception:
+                        pass
                     return response.choices[0].message.parsed, usage
+
+                # Generic OpenAI-compatible JSON-mode path. Works with
+                # DeepSeek (deepseek-chat / deepseek-reasoner), vLLM,
+                # Ollama, LiteLLM proxies.
                 schema_json = json.dumps(
                     response_format.model_json_schema(), indent=2
                 )
-                full = f"{user_content}\n\nReturn JSON matching:\n{schema_json}"
-                response = client.chat.completions.create(
-                    model=model,
-                    messages=[
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": full},
-                    ],
-                    temperature=temperature,
+                full = (
+                    f"{user_content}\n\n"
+                    f"IMPORTANT: return a valid JSON object matching:\n"
+                    f"{schema_json}\n"
+                    f"Return ONLY the JSON, no other text."
                 )
-                return (
-                    response_format.model_validate_json(
-                        response.choices[0].message.content
-                    ),
-                    usage,
-                )
+                # Try response_format=json_object first; if the model
+                # rejects it (unsupported), retry without the flag.
+                try:
+                    response = client.chat.completions.create(
+                        model=model,
+                        messages=[
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": full},
+                        ],
+                        temperature=temperature,
+                        max_tokens=max_tokens,
+                        response_format={"type": "json_object"},
+                    )
+                except Exception:
+                    response = client.chat.completions.create(
+                        model=model,
+                        messages=[
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": full},
+                        ],
+                        temperature=temperature,
+                        max_tokens=max_tokens,
+                    )
+                try:
+                    usage["tokens_in"] = int(
+                        getattr(response.usage, "prompt_tokens", 0) or 0
+                    )
+                    usage["tokens_out"] = int(
+                        getattr(response.usage, "completion_tokens", 0) or 0
+                    )
+                except Exception:
+                    pass
+
+                raw_text = response.choices[0].message.content or ""
+                if not raw_text:
+                    if attempt < max_retries - 1:
+                        continue
+                    return None, usage
+                raw_text = _loose_json_extract(raw_text)
+                raw_text = _repair_tags(raw_text)
+                try:
+                    return response_format.model_validate_json(raw_text), usage
+                except Exception as e:
+                    if attempt < max_retries - 1:
+                        continue
+                    print(
+                        f"[llm_client] final JSON parse error: {e}\nraw[:300]={raw_text[:300]}"
+                    )
+                    return None, usage
             except Exception as e:
                 if attempt < max_retries - 1:
                     continue
@@ -217,22 +282,16 @@ def generate_structured_output(
                 return None, usage
 
         else:
-            missing = [
-                k for k in ("ANTHROPIC_API_KEY", "ANTHROPIC_BASE_URL", "LLM_MODEL")
-                if not os.environ.get(k)
-            ]
-            if missing:
-                print(
-                    f"[llm_client] Missing required env vars in .env: "
-                    f"{', '.join(missing)}. See .env.example for templates. "
-                    f"Or run `python -m scripts.ingest.setup` to be guided.",
-                )
-            else:
-                print(
-                    "[llm_client] No usable client. ANTHROPIC_API_KEY is set "
-                    "but the SDK rejected initialization — check the key and "
-                    "ANTHROPIC_BASE_URL match (provider mismatch is a common cause)."
-                )
+            print(
+                "[llm_client] No usable client. Set ONE of:\n"
+                "  ANTHROPIC_API_KEY (+ optional ANTHROPIC_BASE_URL)\n"
+                "    → Claude direct, or Minimax via its /anthropic shim\n"
+                "  OPENAI_API_KEY (+ optional OPENAI_BASE_URL)\n"
+                "    → OpenAI direct, DeepSeek (https://api.deepseek.com),\n"
+                "      vLLM/Ollama proxies, LiteLLM\n"
+                "See .env.example for templates, or run "
+                "`python -m scripts.ingest.setup`."
+            )
             return None, usage
 
     return None, usage
